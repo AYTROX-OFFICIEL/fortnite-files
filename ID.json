@@ -1,6 +1,6 @@
 {
   "data": {
-    "Générateur Version": "V1.0.1",
+    "Générateur Version": "V1.0.5",
     "language": "fr",
     "items": {
       "BannerToken_001_Cattus": {
@@ -57288,6 +57288,16 @@
         "Path": "FortniteGame/Content/Athena/Items/Cosmetics/Gliders/Glider_ID_346_GalacticFemale_LXRL3",
         "Description": "Aussi mortel que sa propriétaire.",
         "Icon": "https://aytrox.com/fortnite/images/Glider_ID_346_GalacticFemale_LXRL3.png",
+        "Variants": []
+      },
+      "Glider_ID_347_PeachMale": {
+        "Type": "AthenaGlider",
+        "ID": "Glider_ID_347_PeachMale",
+        "Name": "Jument du diamant",
+        "Ajouté": "2022-03-10T16:02:57Z",
+        "Path": "FortniteGame/Content/Athena/Items/Cosmetics/Gliders/Glider_ID_347_PeachMale",
+        "Description": "La majestueuse souveraine des Wonderlands.",
+        "Icon": "https://aytrox.com/fortnite/images/Glider_ID_347_PeachMale.png",
         "Variants": []
       },
       "Glider_ID_348_GimmickFemale_D76Z0": {
