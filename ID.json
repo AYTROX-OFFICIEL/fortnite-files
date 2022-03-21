@@ -8382,7 +8382,7 @@
         "ID": "BID_593_HightowerSquash",
         "Name": "Cape de Tornade",
         "Ajouté": "2020-08-27T06:07:50Z",
-        "Path": "FortniteGame/Content/Athena/Items/Cosmetics/BackPacks/BID_593_HightowerSquash",
+        "Path": "FortniteGame/Content/Athena/Items/Cosmetics/Backpacks/BID_593_HightowerSquash",
         "Description": "Parfaite pour prendre le vent.",
         "Icon": "https://aytrox.com/fortnite/images/BID_593_HightowerSquash.png",
         "Variants": []
@@ -13502,6 +13502,160 @@
         "Icon": "https://aytrox.com/fortnite/images/BID_967_FNCSBlue.png",
         "Variants": []
       },
+      "BID_968_MysticBookMale": {
+        "Type": "AthenaBackpack",
+        "ID": "BID_968_MysticBookMale",
+        "Name": "Livre de Cagliostro",
+        "Ajouté": "2022-03-20T14:09:41Z",
+        "Path": "FortniteGame/Content/Athena/Items/Cosmetics/Backpacks/BID_968_MysticBookMale",
+        "Description": "Le volume interdit de la bibliothèque de Kamar-Taj.",
+        "Icon": "https://aytrox.com/fortnite/images/BID_968_MysticBookMale.png",
+        "Variants": []
+      },
+      "BID_969_CyberArmor": {
+        "Type": "AthenaBackpack",
+        "ID": "BID_969_CyberArmor",
+        "Name": "Karatransmetteur",
+        "Ajouté": "2022-03-20T14:09:41Z",
+        "Path": "FortniteGame/Content/Athena/Items/Cosmetics/Backpacks/BID_969_CyberArmor",
+        "Description": "Un transpondeur de données breveté, directement relié aux serveurs de Karatéchnologie.",
+        "Icon": "https://aytrox.com/fortnite/images/BID_969_CyberArmor.png",
+        "Variants": [
+          {
+            "Type": "Material",
+            "Tag": [
+              "Mat1",
+              "Mat2"
+            ],
+            "Name": [
+              "Karatransmetteur",
+              "Esprit éblouissant"
+            ]
+          }
+        ]
+      },
+      "BID_970_OrderGuard": {
+        "Type": "AthenaBackpack",
+        "ID": "BID_970_OrderGuard",
+        "Name": "Émietteur",
+        "Ajouté": "2022-03-20T14:09:41Z",
+        "Path": "FortniteGame/Content/Athena/Items/Cosmetics/Backpacks/BID_970_OrderGuard",
+        "Description": "Conçu pour tout réduire en miettes.",
+        "Icon": "https://aytrox.com/fortnite/images/BID_970_OrderGuard.png",
+        "Variants": [
+          {
+            "Type": "Progressive",
+            "Tag": [
+              "Stage1",
+              "Stage2",
+              "Stage4",
+              "Stage3"
+            ],
+            "Name": [
+              "Émietteur",
+              "Tactique arctique",
+              "Charge ultra",
+              "Tempête nova"
+            ]
+          }
+        ]
+      },
+      "BID_971_Cadet": {
+        "Type": "AthenaBackpack",
+        "ID": "BID_971_Cadet",
+        "Name": "Fizzix",
+        "Ajouté": "2022-03-20T14:09:41Z",
+        "Path": "FortniteGame/Content/Athena/Items/Cosmetics/Backpacks/BID_971_Cadet",
+        "Description": "Un sac félin, aussi mignon que malsain.",
+        "Icon": "https://aytrox.com/fortnite/images/BID_971_Cadet.png",
+        "Variants": [
+          {
+            "Type": "Material",
+            "Tag": [
+              "Mat1",
+              "Mat2",
+              "Mat3"
+            ],
+            "Name": [
+              "Fizzix",
+              "Or de guerre",
+              "Rebelle de combat"
+            ]
+          }
+        ]
+      },
+      "BID_972_KnightCat_Female": {
+        "Type": "AthenaBackpack",
+        "ID": "BID_972_KnightCat_Female",
+        "Name": "Serrure de cœur",
+        "Ajouté": "2022-03-20T14:09:41Z",
+        "Path": "FortniteGame/Content/Athena/Items/Cosmetics/Backpacks/BID_972_KnightCat_Female",
+        "Description": "La clé ? L'amour, tout simplement.",
+        "Icon": "https://aytrox.com/fortnite/images/BID_972_KnightCat_Female.png",
+        "Variants": [
+          {
+            "Type": "Particle",
+            "Tag": [
+              "Particle1",
+              "Particle2",
+              "Particle3"
+            ],
+            "Name": [
+              "Serrure de cœur",
+              "Bleu céruléen",
+              "Vert sylvestre"
+            ]
+          }
+        ]
+      },
+      "BID_973_OriginPrisonMale": {
+        "Type": "AthenaBackpack",
+        "ID": "BID_973_OriginPrisonMale",
+        "Name": "Étherocube",
+        "Ajouté": "2022-03-20T14:09:41Z",
+        "Path": "FortniteGame/Content/Athena/Items/Cosmetics/Backpacks/BID_973_OriginPrisonMale",
+        "Description": "Rien ne peut le contenir.",
+        "Icon": "https://aytrox.com/fortnite/images/BID_973_OriginPrisonMale.png",
+        "Variants": [
+          {
+            "Type": "Material",
+            "Tag": [
+              "Mat1",
+              "Mat2",
+              "Mat3"
+            ],
+            "Name": [
+              "Étherocube",
+              "Gris granit",
+              "Noir spatial"
+            ]
+          }
+        ]
+      },
+      "BID_974_Binary": {
+        "Type": "AthenaBackpack",
+        "ID": "BID_974_Binary",
+        "Name": "Ailes de l'Onirisme",
+        "Ajouté": "2022-03-20T14:09:41Z",
+        "Path": "FortniteGame/Content/Athena/Items/Cosmetics/Backpacks/BID_974_Binary",
+        "Description": "Le pouvoir des rêves surplombe tout.",
+        "Icon": "https://aytrox.com/fortnite/images/BID_974_Binary.png",
+        "Variants": [
+          {
+            "Type": "Material",
+            "Tag": [
+              "Mat1",
+              "Mat2",
+              "Mat3"
+            ],
+            "Name": [
+              "Ailes de l'Onirisme",
+              "Tornade",
+              "Viride"
+            ]
+          }
+        ]
+      },
       "BID_NPC_CloakedAssassin": {
         "Type": "AthenaBackpack",
         "ID": "BID_NPC_CloakedAssassin",
@@ -13517,7 +13671,7 @@
         "ID": "BID_NPC_HightowerDate",
         "Name": "TBD",
         "Ajouté": "2020-08-27T06:07:50Z",
-        "Path": "FortniteGame/Content/Athena/Items/Cosmetics/BackPacks/BID_NPC_HightowerDate",
+        "Path": "FortniteGame/Content/Athena/Items/Cosmetics/Backpacks/BID_NPC_HightowerDate",
         "Description": "TBD",
         "Icon": "https://aytrox.com/fortnite/images/BID_NPC_HightowerDate.png",
         "Variants": []
@@ -13527,7 +13681,7 @@
         "ID": "BID_Random",
         "Name": "Aléatoire",
         "Ajouté": "2020-04-30T12:50:01Z",
-        "Path": "FortniteGame/Content/Athena/Items/Cosmetics/Backpacks/BID_Random",
+        "Path": "FortniteGame/Content/Athena/Items/Cosmetics/BackPacks/BID_Random",
         "Description": "Sélectionne un accessoire de dos au hasard parmi vos favoris (sinon, parmi tous ceux que vous possédez).",
         "Icon": "https://aytrox.com/fortnite/images/BID_Random.png",
         "Variants": []
@@ -13537,7 +13691,7 @@
         "ID": "BID_STWHero",
         "Name": "Héros",
         "Ajouté": "2019-11-20T12:48:11Z",
-        "Path": "FortniteGame/Content/Athena/Items/Cosmetics/Backpacks/BID_STWHero",
+        "Path": "FortniteGame/Content/Athena/Items/Cosmetics/BackPacks/BID_STWHero",
         "Description": "null",
         "Icon": "https://aytrox.com/fortnite/images/BID_STWHero.png",
         "Variants": []
@@ -13547,7 +13701,7 @@
         "ID": "BID_STWHeroNoDefaultBackpack",
         "Name": "Héros",
         "Ajouté": "2019-11-20T12:48:11Z",
-        "Path": "FortniteGame/Content/Athena/Items/Cosmetics/Backpacks/BID_STWHeroNoDefaultBackpack",
+        "Path": "FortniteGame/Content/Athena/Items/Cosmetics/BackPacks/BID_STWHeroNoDefaultBackpack",
         "Description": "null",
         "Icon": "https://aytrox.com/fortnite/images/BID_STWHeroNoDefaultBackpack.png",
         "Variants": []
@@ -41284,7 +41438,7 @@
             ],
             "Name": [
               "sans couvre-chef",
-              "Coiffe",
+              "coiffe",
               "masque"
             ]
           },
@@ -42085,7 +42239,7 @@
               "Anderson .Paak",
               "Hiver",
               "Fleuri",
-              "Baron"
+              "Gestion"
             ]
           }
         ]
@@ -42592,8 +42746,8 @@
               "Stage2"
             ],
             "Name": [
-              "Levée",
-              "Baissée"
+              "Capuche levée",
+              "Capuche baissée"
             ]
           }
         ]
@@ -42639,6 +42793,296 @@
         "Description": "Vrrrrrr...",
         "Icon": "https://aytrox.com/fortnite/images/CID_A_366_Athena_Commando_M_AssembleP.png",
         "Variants": []
+      },
+      "CID_A_367_Athena_Commando_M_Mystic": {
+        "Type": "AthenaCharacter",
+        "ID": "CID_A_367_Athena_Commando_M_Mystic",
+        "Name": "Doctor Strange",
+        "Ajouté": "2022-03-20T14:09:41Z",
+        "Path": "FortniteGame/Content/Athena/Items/Cosmetics/Characters/CID_A_367_Athena_Commando_M_Mystic",
+        "Description": "Sorcier suprême et Maître des arts mystiques.",
+        "Icon": "https://aytrox.com/fortnite/images/CID_A_367_Athena_Commando_M_Mystic.png",
+        "Variants": []
+      },
+      "CID_A_368_Athena_Commando_M_Sienna": {
+        "Type": "AthenaCharacter",
+        "ID": "CID_A_368_Athena_Commando_M_Sienna",
+        "Name": "Rôdeur",
+        "Ajouté": "2022-03-20T14:09:41Z",
+        "Path": "FortniteGame/Content/Athena/Items/Cosmetics/Characters/CID_A_368_Athena_Commando_M_Sienna",
+        "Description": "Le voleur le plus dangereux des États-Unis grâce à ses améliorations cybernétiques.",
+        "Icon": "https://aytrox.com/fortnite/images/CID_A_368_Athena_Commando_M_Sienna.png",
+        "Variants": [
+          {
+            "Type": "Progressive",
+            "Tag": [
+              "Stage1",
+              "Stage2"
+            ],
+            "Name": [
+              "oui",
+              "non"
+            ]
+          }
+        ]
+      },
+      "CID_A_369_Athena_Commando_F_CyberArmor": {
+        "Type": "AthenaCharacter",
+        "ID": "CID_A_369_Athena_Commando_F_CyberArmor",
+        "Name": "Tsuki 2.0",
+        "Ajouté": "2022-03-20T14:09:41Z",
+        "Path": "FortniteGame/Content/Athena/Items/Cosmetics/Characters/CID_A_369_Athena_Commando_F_CyberArmor",
+        "Description": "La nouvelle arme de Karatéchnologie, conçue pour retrouver un prototype détruit.",
+        "Icon": "https://aytrox.com/fortnite/images/CID_A_369_Athena_Commando_F_CyberArmor.png",
+        "Variants": [
+          {
+            "Type": "Progressive",
+            "Tag": [
+              "Stage1",
+              "Stage3",
+              "Stage2",
+              "Stage4"
+            ],
+            "Name": [
+              "Tsuki 2.0",
+              "Perle scintillante",
+              "Iridium",
+              "Esprit éblouissant"
+            ]
+          }
+        ]
+      },
+      "CID_A_370_Athena_Commando_M_OrderGuard": {
+        "Type": "AthenaCharacter",
+        "ID": "CID_A_370_Athena_Commando_M_OrderGuard",
+        "Name": "Gunnar",
+        "Ajouté": "2022-03-20T14:09:41Z",
+        "Path": "FortniteGame/Content/Athena/Items/Cosmetics/Characters/CID_A_370_Athena_Commando_M_OrderGuard",
+        "Description": "L'homme de main décoré et redouté de l'Institut Onirique.",
+        "Icon": "https://aytrox.com/fortnite/images/CID_A_370_Athena_Commando_M_OrderGuard.png",
+        "Variants": [
+          {
+            "Type": "Parts",
+            "Tag": [
+              "Stage1",
+              "Stage2"
+            ],
+            "Name": [
+              "Gunnar",
+              "Garde de l'Institut"
+            ]
+          },
+          {
+            "Type": "Progressive",
+            "Tag": [
+              "Stage1",
+              "Stage2",
+              "Stage4",
+              "Stage3"
+            ],
+            "Name": [
+              "Gunnar",
+              "Tactique arctique",
+              "Charge ultra",
+              "Tempête nova"
+            ]
+          }
+        ]
+      },
+      "CID_A_371_Athena_Commando_F_Cadet": {
+        "Type": "AthenaCharacter",
+        "ID": "CID_A_371_Athena_Commando_F_Cadet",
+        "Name": "Kiara K.-O.",
+        "Ajouté": "2022-03-20T14:09:41Z",
+        "Path": "FortniteGame/Content/Athena/Items/Cosmetics/Characters/CID_A_371_Athena_Commando_F_Cadet",
+        "Description": "La charismatique meneuse de l'escadron Tango.",
+        "Icon": "https://aytrox.com/fortnite/images/CID_A_371_Athena_Commando_F_Cadet.png",
+        "Variants": [
+          {
+            "Type": "Parts",
+            "Tag": [
+              "Stage1",
+              "Stage2"
+            ],
+            "Name": [
+              "Kiara K.-O.",
+              "Blouson de capitaine"
+            ]
+          },
+          {
+            "Type": "Progressive",
+            "Tag": [
+              "Stage1",
+              "Stage2",
+              "Stage3"
+            ],
+            "Name": [
+              "par défaut",
+              "lunettes de soleil",
+              "casque"
+            ]
+          },
+          {
+            "Type": "Material",
+            "Tag": [
+              "Mat1",
+              "Mat2",
+              "Mat3"
+            ],
+            "Name": [
+              "Kiara K.-O.",
+              "Or de guerre",
+              "Rebelle de combat"
+            ]
+          }
+        ]
+      },
+      "CID_A_372_Athena_Commando_F_KnightCat": {
+        "Type": "AthenaCharacter",
+        "ID": "CID_A_372_Athena_Commando_F_KnightCat",
+        "Name": "Érisa",
+        "Ajouté": "2022-03-20T14:09:41Z",
+        "Path": "FortniteGame/Content/Athena/Items/Cosmetics/Characters/CID_A_372_Athena_Commando_F_KnightCat",
+        "Description": "La princesse d'un royaume oublié de guerriers.",
+        "Icon": "https://aytrox.com/fortnite/images/CID_A_372_Athena_Commando_F_KnightCat.png",
+        "Variants": [
+          {
+            "Type": "Parts",
+            "Tag": [
+              "Stage1",
+              "Stage2",
+              "Stage3",
+              "Stage4",
+              "Stage5"
+            ],
+            "Name": [
+              "Sans casque",
+              "Yeux de chat",
+              "Tigré",
+              "Moustaches",
+              "Pointu"
+            ]
+          },
+          {
+            "Type": "Material",
+            "Tag": [
+              "Stage1",
+              "Stage2"
+            ],
+            "Name": [
+              "Non",
+              "Oui"
+            ]
+          },
+          {
+            "Type": "Progressive",
+            "Tag": [
+              "Stage1",
+              "Stage2",
+              "Stage3"
+            ],
+            "Name": [
+              "Érisa",
+              "Bleu céruléen",
+              "Vert sylvestre"
+            ]
+          }
+        ]
+      },
+      "CID_A_373_Athena_Commando_M_OriginPrisoner": {
+        "Type": "AthenaCharacter",
+        "ID": "CID_A_373_Athena_Commando_M_OriginPrisoner",
+        "Name": "L'Origine",
+        "Ajouté": "2022-03-20T14:09:41Z",
+        "Path": "FortniteGame/Content/Athena/Items/Cosmetics/Characters/CID_A_373_Athena_Commando_M_OriginPrisoner",
+        "Description": "Sa réalité perdurera. Il est l'un des Sept.",
+        "Icon": "https://aytrox.com/fortnite/images/CID_A_373_Athena_Commando_M_OriginPrisoner.png",
+        "Variants": [
+          {
+            "Type": "Progressive",
+            "Tag": [
+              "Stage1",
+              "Stage2"
+            ],
+            "Name": [
+              "L'Origine",
+              "Armure"
+            ]
+          },
+          {
+            "Type": "Material",
+            "Tag": [
+              "Mat1",
+              "Mat2",
+              "Mat3"
+            ],
+            "Name": [
+              "L'Origine",
+              "Gris granit",
+              "Noir spatial"
+            ]
+          },
+          {
+            "Type": "Pattern",
+            "Tag": [
+              "Stage1",
+              "Stage2",
+              "Stage3",
+              "Stage4",
+              "Stage5"
+            ],
+            "Name": [
+              "Précision",
+              "Élite de combat",
+              "Stratégie",
+              "Surveillance",
+              "Reconnaissance"
+            ]
+          }
+        ]
+      },
+      "CID_A_374_Athena_Commando_F_Binary": {
+        "Type": "AthenaCharacter",
+        "ID": "CID_A_374_Athena_Commando_F_Binary",
+        "Name": "L'Onirisme",
+        "Ajouté": "2022-03-20T14:09:41Z",
+        "Path": "FortniteGame/Content/Athena/Items/Cosmetics/Characters/CID_A_374_Athena_Commando_F_Binary",
+        "Description": "Son passé sera la clé de notre avenir. Elle est l'une des Sept.",
+        "Icon": "https://aytrox.com/fortnite/images/CID_A_374_Athena_Commando_F_Binary.png",
+        "Variants": [
+          {
+            "Type": "Progressive",
+            "Tag": [
+              "Stage1",
+              "Stage2",
+              "Stage3",
+              "Stage4",
+              "Stage5",
+              "Stage6"
+            ],
+            "Name": [
+              "Sans casque",
+              "Élite de combat",
+              "Tir concentré",
+              "Cible verrouillée",
+              "Périphérie",
+              "Éclairage faible"
+            ]
+          },
+          {
+            "Type": "Material",
+            "Tag": [
+              "Mat1",
+              "Mat2",
+              "Mat3"
+            ],
+            "Name": [
+              "L'Onirisme",
+              "Tempête",
+              "Viride"
+            ]
+          }
+        ]
       },
       "CID_Creative_Mannequin_M_Default": {
         "Type": "AthenaCharacter",
@@ -42708,6 +43152,16 @@
         "Path": "FortniteGame/Content/Athena/Items/Cosmetics/Characters/CID_NPC_Athena_Commando_F_Prime",
         "Description": "TBD",
         "Icon": "https://aytrox.com/fortnite/images/CID_NPC_Athena_Commando_F_Prime.png",
+        "Variants": []
+      },
+      "CID_NPC_Athena_Commando_F_PrimeOrder": {
+        "Type": "AthenaCharacter",
+        "ID": "CID_NPC_Athena_Commando_F_PrimeOrder",
+        "Name": "TBD",
+        "Ajouté": "2022-03-20T14:09:41Z",
+        "Path": "FortniteGame/Content/Athena/Items/Cosmetics/Characters/CID_NPC_Athena_Commando_F_PrimeOrder",
+        "Description": "TBD",
+        "Icon": "https://aytrox.com/fortnite/images/CID_NPC_Athena_Commando_F_PrimeOrder.png",
         "Variants": []
       },
       "CID_NPC_Athena_Commando_F_RebirthDefault_Henchman": {
@@ -42900,6 +43354,16 @@
         "Icon": "https://aytrox.com/fortnite/images/CID_NPC_Athena_Commando_M_MarauderHeavy.png",
         "Variants": []
       },
+      "CID_NPC_Athena_Commando_M_Masterkey": {
+        "Type": "AthenaCharacter",
+        "ID": "CID_NPC_Athena_Commando_M_Masterkey",
+        "Name": "Maître-chasseur Sabre",
+        "Ajouté": "2022-03-20T14:09:41Z",
+        "Path": "FortniteGame/Content/Athena/Items/Cosmetics/Characters/CID_NPC_Athena_Commando_M_Masterkey",
+        "Description": "Il a toujours les crocs.",
+        "Icon": "https://aytrox.com/fortnite/images/CID_NPC_Athena_Commando_M_Masterkey.png",
+        "Variants": []
+      },
       "CID_NPC_Athena_Commando_M_OrderGuardTank": {
         "Type": "AthenaCharacter",
         "ID": "CID_NPC_Athena_Commando_M_OrderGuardTank",
@@ -42928,6 +43392,16 @@
         "Path": "FortniteGame/Content/Athena/Items/Cosmetics/Characters/CID_NPC_Athena_Commando_M_Prime",
         "Description": "TBD",
         "Icon": "https://aytrox.com/fortnite/images/CID_NPC_Athena_Commando_M_Prime.png",
+        "Variants": []
+      },
+      "CID_NPC_Athena_Commando_M_PrimeOrder": {
+        "Type": "AthenaCharacter",
+        "ID": "CID_NPC_Athena_Commando_M_PrimeOrder",
+        "Name": "TBD",
+        "Ajouté": "2022-03-20T14:09:41Z",
+        "Path": "FortniteGame/Content/Athena/Items/Cosmetics/Characters/CID_NPC_Athena_Commando_M_PrimeOrder",
+        "Description": "TBD",
+        "Icon": "https://aytrox.com/fortnite/images/CID_NPC_Athena_Commando_M_PrimeOrder.png",
         "Variants": []
       },
       "CID_NPC_Athena_Commando_M_Scrapyard": {
@@ -43038,16 +43512,6 @@
         "Path": "FortniteGame/Content/Athena/Items/Cosmetics/Characters/CID_TBD_Athena_Commando_M_Nutcracker_CINE",
         "Description": "TBD",
         "Icon": "https://aytrox.com/fortnite/images/CID_TBD_Athena_Commando_M_Nutcracker_CINE.png",
-        "Variants": []
-      },
-      "CID_TBD_Athena_Commando_M_OrderGuard": {
-        "Type": "AthenaCharacter",
-        "ID": "CID_TBD_Athena_Commando_M_OrderGuard",
-        "Name": "TBD",
-        "Ajouté": "2021-11-16T10:03:55Z",
-        "Path": "FortniteGame/Content/Athena/Items/Cosmetics/Characters/CID_TBD_Athena_Commando_M_OrderGuard",
-        "Description": "TBD",
-        "Icon": "https://aytrox.com/fortnite/images/CID_TBD_Athena_Commando_M_OrderGuard.png",
         "Variants": []
       },
       "CID_TBD_Athena_Commando_M_Turtleneck_EVENT_NOTFORSTORE": {
@@ -44020,6 +44484,16 @@
         "Icon": "https://aytrox.com/fortnite/images/EID_CactusTPose.png",
         "Variants": []
       },
+      "EID_Cadet": {
+        "Type": "AthenaDance",
+        "ID": "EID_Cadet",
+        "Name": "Nécessaire de beauté",
+        "Ajouté": "2022-03-20T14:09:41Z",
+        "Path": "FortniteGame/Content/Athena/Items/Cosmetics/Dances/EID_Cadet",
+        "Description": "La touche finale avant de partir au combat.",
+        "Icon": "https://aytrox.com/fortnite/images/EID_Cadet.png",
+        "Variants": []
+      },
       "EID_Calculated": {
         "Type": "AthenaDance",
         "ID": "EID_Calculated",
@@ -44508,6 +44982,16 @@
         "Path": "FortniteGame/Content/Athena/Items/Cosmetics/Dances/EID_Custodial",
         "Description": "Pensez à nettoyer derrière vous.",
         "Icon": "https://aytrox.com/fortnite/images/EID_Custodial.png",
+        "Variants": []
+      },
+      "EID_CyberArmor": {
+        "Type": "AthenaDance",
+        "ID": "EID_CyberArmor",
+        "Name": "Rupture de lame",
+        "Ajouté": "2022-03-20T14:09:41Z",
+        "Path": "FortniteGame/Content/Athena/Items/Cosmetics/Dances/EID_CyberArmor",
+        "Description": "Activation du protocole assassin.",
+        "Icon": "https://aytrox.com/fortnite/images/EID_CyberArmor.png",
         "Variants": []
       },
       "EID_Cyclone": {
@@ -45510,6 +45994,16 @@
         "Icon": "https://aytrox.com/fortnite/images/EID_HalloweenCandy.png",
         "Variants": []
       },
+      "EID_Handlebars": {
+        "Type": "AthenaDance",
+        "ID": "EID_Handlebars",
+        "Name": "Tour en Segway",
+        "Ajouté": "2022-03-20T14:09:41Z",
+        "Path": "FortniteGame/Content/Athena/Items/Cosmetics/Dances/EID_Handlebars",
+        "Description": "Le meilleur moyen de se déplacer sur l'île.",
+        "Icon": "https://aytrox.com/fortnite/images/EID_Handlebars.png",
+        "Variants": []
+      },
       "EID_HandSignals": {
         "Type": "AthenaDance",
         "ID": "EID_HandSignals",
@@ -46440,6 +46934,16 @@
         "Icon": "https://aytrox.com/fortnite/images/EID_Kittycat.png",
         "Variants": []
       },
+      "EID_KnightCat": {
+        "Type": "AthenaDance",
+        "ID": "EID_KnightCat",
+        "Name": "Danse des dagues",
+        "Ajouté": "2022-03-20T14:09:41Z",
+        "Path": "FortniteGame/Content/Athena/Items/Cosmetics/Dances/EID_KnightCat",
+        "Description": "Le rituel de la Gardienne des vœux avant tout combat.",
+        "Icon": "https://aytrox.com/fortnite/images/EID_KnightCat.png",
+        "Variants": []
+      },
       "EID_KPopDance01": {
         "Type": "AthenaDance",
         "ID": "EID_KPopDance01",
@@ -47010,6 +47514,16 @@
         "Icon": "https://aytrox.com/fortnite/images/EID_MyIdol.png",
         "Variants": []
       },
+      "EID_Mystic": {
+        "Type": "AthenaDance",
+        "ID": "EID_Mystic",
+        "Name": "Invocation d'arme",
+        "Ajouté": "2022-03-20T14:09:41Z",
+        "Path": "FortniteGame/Content/Athena/Items/Cosmetics/Dances/EID_Mystic",
+        "Description": "Tout est dans le mouvement de poignet... et la manipulation des énergies dimensionnelles.",
+        "Icon": "https://aytrox.com/fortnite/images/EID_Mystic.png",
+        "Variants": []
+      },
       "EID_NeedToGo": {
         "Type": "AthenaDance",
         "ID": "EID_NeedToGo",
@@ -47178,6 +47692,26 @@
         "Path": "FortniteGame/Content/Athena/Items/Cosmetics/Dances/EID_OrbitTeal_1XLAO",
         "Description": "Scannez l'horizon pour détecter votre cible.",
         "Icon": "https://aytrox.com/fortnite/images/EID_OrbitTeal_1XLAO.png",
+        "Variants": []
+      },
+      "EID_OrderGuard": {
+        "Type": "AthenaDance",
+        "ID": "EID_OrderGuard",
+        "Name": "Muscu musclée",
+        "Ajouté": "2022-03-20T14:09:41Z",
+        "Path": "FortniteGame/Content/Athena/Items/Cosmetics/Dances/EID_OrderGuard",
+        "Description": "Avec émiettage garanti.",
+        "Icon": "https://aytrox.com/fortnite/images/EID_OrderGuard.png",
+        "Variants": []
+      },
+      "EID_OriginPrisoner": {
+        "Type": "AthenaDance",
+        "ID": "EID_OriginPrisoner",
+        "Name": "Chaînes brisées",
+        "Ajouté": "2022-03-20T14:09:41Z",
+        "Path": "FortniteGame/Content/Athena/Items/Cosmetics/Dances/EID_OriginPrisoner",
+        "Description": "Libérez-vous.",
+        "Icon": "https://aytrox.com/fortnite/images/EID_OriginPrisoner.png",
         "Variants": []
       },
       "EID_OstrichSpin": {
@@ -47692,6 +48226,16 @@
         "Path": "FortniteGame/Content/Athena/Items/Cosmetics/Dances/EID_RespectThePeace_LeaveAdHocSquad",
         "Description": "À la prochaine !",
         "Icon": "https://aytrox.com/fortnite/images/EID_RespectThePeace_LeaveAdHocSquad.png",
+        "Variants": []
+      },
+      "EID_RespectThePeace_RemovePartyRift": {
+        "Type": "AthenaDance",
+        "ID": "EID_RespectThePeace_RemovePartyRift",
+        "Name": "Retirer le signal de groupe",
+        "Ajouté": "2022-03-20T14:09:41Z",
+        "Path": "FortniteGame/Content/Athena/Items/Cosmetics/Dances/EID_RespectThePeace_RemovePartyRift",
+        "Description": "Ferme un signal de groupe actif déployé par vous.",
+        "Icon": "https://aytrox.com/fortnite/images/EID_RespectThePeace_RemovePartyRift.png",
         "Variants": []
       },
       "EID_RhymeLock_5B2Y3": {
@@ -48334,6 +48878,16 @@
         "Icon": "https://aytrox.com/fortnite/images/EID_Showstopper.png",
         "Variants": []
       },
+      "EID_Sienna": {
+        "Type": "AthenaDance",
+        "ID": "EID_Sienna",
+        "Name": "Tranche et fracasse",
+        "Ajouté": "2022-03-20T14:09:41Z",
+        "Path": "FortniteGame/Content/Athena/Items/Cosmetics/Dances/EID_Sienna",
+        "Description": "Un enchaînement de coups digne d'un expert du corps-à-corps.",
+        "Icon": "https://aytrox.com/fortnite/images/EID_Sienna.png",
+        "Variants": []
+      },
       "EID_SignSpinner": {
         "Type": "AthenaDance",
         "ID": "EID_SignSpinner",
@@ -48482,6 +49036,16 @@
         "Path": "FortniteGame/Content/Athena/Items/Cosmetics/Dances/EID_Snap",
         "Description": "L'équilibre est rétabli.",
         "Icon": "https://aytrox.com/fortnite/images/EID_Snap.png",
+        "Variants": []
+      },
+      "EID_Snap_DeployPartyRift": {
+        "Type": "AthenaDance",
+        "ID": "EID_Snap_DeployPartyRift",
+        "Name": "Déployer un signal de groupe",
+        "Ajouté": "2022-03-20T14:09:41Z",
+        "Path": "FortniteGame/Content/Athena/Items/Cosmetics/Dances/EID_Snap_DeployPartyRift",
+        "Description": "Fait apparaître un signal de groupe devant vous.",
+        "Icon": "https://aytrox.com/fortnite/images/EID_Snap_DeployPartyRift.png",
         "Variants": []
       },
       "EID_SneakingTraversal": {
@@ -52614,6 +53178,136 @@
         "Icon": "https://aytrox.com/fortnite/images/Emoji_S19_WinterFestCreative.png",
         "Variants": []
       },
+      "Emoji_S20_BunnyBrawl": {
+        "Type": "AthenaEmoji",
+        "ID": "Emoji_S20_BunnyBrawl",
+        "Name": "Lapin castagneur",
+        "Ajouté": "2022-03-20T14:09:41Z",
+        "Path": "FortniteGame/Content/Athena/Items/Cosmetics/Dances/Emoji/Emoji_S20_BunnyBrawl",
+        "Description": "Exprimez-vous sur le champ de bataille.",
+        "Icon": "https://aytrox.com/fortnite/images/Emoji_S20_BunnyBrawl.png",
+        "Variants": []
+      },
+      "Emoji_S20_CactusDancer": {
+        "Type": "AthenaEmoji",
+        "ID": "Emoji_S20_CactusDancer",
+        "Name": "Sourire sonique",
+        "Ajouté": "2022-03-20T14:09:41Z",
+        "Path": "FortniteGame/Content/Athena/Items/Cosmetics/Dances/Emoji/Emoji_S20_CactusDancer",
+        "Description": "Exprimez-vous sur le champ de bataille.",
+        "Icon": "https://aytrox.com/fortnite/images/Emoji_S20_CactusDancer.png",
+        "Variants": []
+      },
+      "Emoji_S20_Cadet": {
+        "Type": "AthenaEmoji",
+        "ID": "Emoji_S20_Cadet",
+        "Name": "Arrivée triomphale",
+        "Ajouté": "2022-03-20T14:09:41Z",
+        "Path": "FortniteGame/Content/Athena/Items/Cosmetics/Dances/Emoji/Emoji_S20_Cadet",
+        "Description": "Exprimez-vous sur le champ de bataille.",
+        "Icon": "https://aytrox.com/fortnite/images/Emoji_S20_Cadet.png",
+        "Variants": []
+      },
+      "Emoji_S20_CubeKing": {
+        "Type": "AthenaEmoji",
+        "ID": "Emoji_S20_CubeKing",
+        "Name": "!?!",
+        "Ajouté": "2022-03-20T14:09:41Z",
+        "Path": "FortniteGame/Content/Athena/Items/Cosmetics/Dances/Emoji/Emoji_S20_CubeKing",
+        "Description": "Exprimez-vous sur le champ de bataille.",
+        "Icon": "https://aytrox.com/fortnite/images/Emoji_S20_CubeKing.png",
+        "Variants": []
+      },
+      "Emoji_S20_CyberArmor": {
+        "Type": "AthenaEmoji",
+        "ID": "Emoji_S20_CyberArmor",
+        "Name": "Cyberbisou",
+        "Ajouté": "2022-03-20T14:09:41Z",
+        "Path": "FortniteGame/Content/Athena/Items/Cosmetics/Dances/Emoji/Emoji_S20_CyberArmor",
+        "Description": "Exprimez-vous sur le champ de bataille.",
+        "Icon": "https://aytrox.com/fortnite/images/Emoji_S20_CyberArmor.png",
+        "Variants": []
+      },
+      "Emoji_S20_EyeRoll": {
+        "Type": "AthenaEmoji",
+        "ID": "Emoji_S20_EyeRoll",
+        "Name": "Yeux au ciel",
+        "Ajouté": "2022-03-20T14:09:41Z",
+        "Path": "FortniteGame/Content/Athena/Items/Cosmetics/Dances/Emoji/Emoji_S20_EyeRoll",
+        "Description": "Exprimez-vous sur le champ de bataille.",
+        "Icon": "https://aytrox.com/fortnite/images/Emoji_S20_EyeRoll.png",
+        "Variants": []
+      },
+      "Emoji_S20_KnightCat": {
+        "Type": "AthenaEmoji",
+        "ID": "Emoji_S20_KnightCat",
+        "Name": "Cœur joyeux",
+        "Ajouté": "2022-03-20T14:09:41Z",
+        "Path": "FortniteGame/Content/Athena/Items/Cosmetics/Dances/Emoji/Emoji_S20_KnightCat",
+        "Description": "Exprimez-vous sur le champ de bataille.",
+        "Icon": "https://aytrox.com/fortnite/images/Emoji_S20_KnightCat.png",
+        "Variants": []
+      },
+      "Emoji_S20_Mystic": {
+        "Type": "AthenaEmoji",
+        "ID": "Emoji_S20_Mystic",
+        "Name": "Livre du GG",
+        "Ajouté": "2022-03-20T14:09:41Z",
+        "Path": "FortniteGame/Content/Athena/Items/Cosmetics/Dances/Emoji/Emoji_S20_Mystic",
+        "Description": "Exprimez-vous sur le champ de bataille.",
+        "Icon": "https://aytrox.com/fortnite/images/Emoji_S20_Mystic.png",
+        "Variants": []
+      },
+      "Emoji_S20_NeedLoot": {
+        "Type": "AthenaEmoji",
+        "ID": "Emoji_S20_NeedLoot",
+        "Name": "Butin pour Camaïeu",
+        "Ajouté": "2022-03-20T14:09:41Z",
+        "Path": "FortniteGame/Content/Athena/Items/Cosmetics/Dances/Emoji/Emoji_S20_NeedLoot",
+        "Description": "Exprimez-vous sur le champ de bataille.",
+        "Icon": "https://aytrox.com/fortnite/images/Emoji_S20_NeedLoot.png",
+        "Variants": []
+      },
+      "Emoji_S20_OrderGuard": {
+        "Type": "AthenaEmoji",
+        "ID": "Emoji_S20_OrderGuard",
+        "Name": "Validé par Gunnar",
+        "Ajouté": "2022-03-20T14:09:41Z",
+        "Path": "FortniteGame/Content/Athena/Items/Cosmetics/Dances/Emoji/Emoji_S20_OrderGuard",
+        "Description": "Exprimez-vous sur le champ de bataille.",
+        "Icon": "https://aytrox.com/fortnite/images/Emoji_S20_OrderGuard.png",
+        "Variants": []
+      },
+      "Emoji_S20_Shrug": {
+        "Type": "AthenaEmoji",
+        "ID": "Emoji_S20_Shrug",
+        "Name": "Hausse les épaules",
+        "Ajouté": "2022-03-20T14:09:41Z",
+        "Path": "FortniteGame/Content/Athena/Items/Cosmetics/Dances/Emoji/Emoji_S20_Shrug",
+        "Description": "Exprimez-vous sur le champ de bataille.",
+        "Icon": "https://aytrox.com/fortnite/images/Emoji_S20_Shrug.png",
+        "Variants": []
+      },
+      "Emoji_S20_Sienna": {
+        "Type": "AthenaEmoji",
+        "ID": "Emoji_S20_Sienna",
+        "Name": "Poigne du Rôdeur",
+        "Ajouté": "2022-03-20T14:09:41Z",
+        "Path": "FortniteGame/Content/Athena/Items/Cosmetics/Dances/Emoji/Emoji_S20_Sienna",
+        "Description": "Exprimez-vous sur le champ de bataille.",
+        "Icon": "https://aytrox.com/fortnite/images/Emoji_S20_Sienna.png",
+        "Variants": []
+      },
+      "Emoji_S20_Sweaty": {
+        "Type": "AthenaEmoji",
+        "ID": "Emoji_S20_Sweaty",
+        "Name": "Jonesy en sueur",
+        "Ajouté": "2022-03-20T14:09:41Z",
+        "Path": "FortniteGame/Content/Athena/Items/Cosmetics/Dances/Emoji/Emoji_S20_Sweaty",
+        "Description": "Exprimez-vous sur le champ de bataille.",
+        "Icon": "https://aytrox.com/fortnite/images/Emoji_S20_Sweaty.png",
+        "Variants": []
+      },
       "Emoji_S6Lvl100": {
         "Type": "AthenaEmoji",
         "ID": "Emoji_S6Lvl100",
@@ -53043,6 +53737,30 @@
         "Description": "TBD",
         "Icon": "https://aytrox.com/fortnite/images/Gadget_SpiritVessel.png",
         "Variants": []
+      },
+      "Glider_354_BinaryFemale": {
+        "Type": "AthenaGlider",
+        "ID": "Glider_354_BinaryFemale",
+        "Name": "Ailes de l'Onirisme",
+        "Ajouté": "2022-03-20T14:09:41Z",
+        "Path": "FortniteGame/Content/Athena/Items/Cosmetics/Gliders/Glider_354_BinaryFemale",
+        "Description": "Vous ne me rattraperez jamais. Je suis trop rapide... et séduisante !",
+        "Icon": "https://aytrox.com/fortnite/images/Glider_354_BinaryFemale.png",
+        "Variants": [
+          {
+            "Type": "Particle",
+            "Tag": [
+              "Particle1",
+              "Particle2",
+              "Particle3"
+            ],
+            "Name": [
+              "Ailes de l'Onirisme",
+              "Tempête",
+              "Viride"
+            ]
+          }
+        ]
       },
       "Glider_Bold": {
         "Type": "AthenaGlider",
@@ -57350,6 +58068,122 @@
         "Icon": "https://aytrox.com/fortnite/images/Glider_ID_353_ThriveSpiritFemale.png",
         "Variants": []
       },
+      "Glider_ID_355_CadetFemale": {
+        "Type": "AthenaGlider",
+        "ID": "Glider_ID_355_CadetFemale",
+        "Name": "Aile K.-O.",
+        "Ajouté": "2022-03-20T14:09:41Z",
+        "Path": "FortniteGame/Content/Athena/Items/Cosmetics/Gliders/Glider_ID_355_CadetFemale",
+        "Description": "Préparez-vous à les envoyer au tapis.",
+        "Icon": "https://aytrox.com/fortnite/images/Glider_ID_355_CadetFemale.png",
+        "Variants": [
+          {
+            "Type": "Particle",
+            "Tag": [
+              "Particle1",
+              "Particle2",
+              "Particle3"
+            ],
+            "Name": [
+              "Aile K.-O.",
+              "Or de guerre",
+              "Rebelle de combat"
+            ]
+          }
+        ]
+      },
+      "Glider_ID_356_CyberArmorFemale": {
+        "Type": "AthenaGlider",
+        "ID": "Glider_ID_356_CyberArmorFemale",
+        "Name": "Karatéchnomodule aérien",
+        "Ajouté": "2022-03-20T14:09:41Z",
+        "Path": "FortniteGame/Content/Athena/Items/Cosmetics/Gliders/Glider_ID_356_CyberArmorFemale",
+        "Description": "Conçu pour les atterrissages discrets (dans la mesure du possible).",
+        "Icon": "https://aytrox.com/fortnite/images/Glider_ID_356_CyberArmorFemale.png",
+        "Variants": [
+          {
+            "Type": "Particle",
+            "Tag": [
+              "Particle1",
+              "Particle2"
+            ],
+            "Name": [
+              "Karatransmetteur",
+              "Esprit éblouissant"
+            ]
+          }
+        ]
+      },
+      "Glider_ID_358_KnightCatFemale": {
+        "Type": "AthenaGlider",
+        "ID": "Glider_ID_358_KnightCatFemale",
+        "Name": "Roue de dagues",
+        "Ajouté": "2022-03-20T14:09:41Z",
+        "Path": "FortniteGame/Content/Athena/Items/Cosmetics/Gliders/Glider_ID_358_KnightCatFemale",
+        "Description": "Soumettez un millier de lames et forcez le chemin.",
+        "Icon": "https://aytrox.com/fortnite/images/Glider_ID_358_KnightCatFemale.png",
+        "Variants": [
+          {
+            "Type": "Particle",
+            "Tag": [
+              "Particle1",
+              "Particle2",
+              "Particle3"
+            ],
+            "Name": [
+              "Roue de dagues",
+              "Bleu céruléen",
+              "Vert sylvestre"
+            ]
+          }
+        ]
+      },
+      "Glider_ID_360_MysticMale": {
+        "Type": "AthenaGlider",
+        "ID": "Glider_ID_360_MysticMale",
+        "Name": "Cercle mystique",
+        "Ajouté": "2022-03-20T14:09:41Z",
+        "Path": "FortniteGame/Content/Athena/Items/Cosmetics/Gliders/Glider_ID_360_MysticMale",
+        "Description": "Une barrière protectrice que le Maître des arts mystiques peut aussi utiliser pour surfer.",
+        "Icon": "https://aytrox.com/fortnite/images/Glider_ID_360_MysticMale.png",
+        "Variants": []
+      },
+      "Glider_ID_361_OrderGuardMale": {
+        "Type": "AthenaGlider",
+        "ID": "Glider_ID_361_OrderGuardMale",
+        "Name": "Émiettoplanche",
+        "Ajouté": "2022-03-20T14:09:41Z",
+        "Path": "FortniteGame/Content/Athena/Items/Cosmetics/Gliders/Glider_ID_361_OrderGuardMale",
+        "Description": "Le nom est suffisamment explicite.",
+        "Icon": "https://aytrox.com/fortnite/images/Glider_ID_361_OrderGuardMale.png",
+        "Variants": [
+          {
+            "Type": "Particle",
+            "Tag": [
+              "Particle1",
+              "Particle2",
+              "Particle4",
+              "Particle3"
+            ],
+            "Name": [
+              "Émiettoplanche",
+              "Tactique arctique",
+              "Charge ultra",
+              "Tempête solaire"
+            ]
+          }
+        ]
+      },
+      "Glider_ID_362_SiennaMale": {
+        "Type": "AthenaGlider",
+        "ID": "Glider_ID_362_SiennaMale",
+        "Name": "Ailes du Rôdeur",
+        "Ajouté": "2022-03-20T14:09:41Z",
+        "Path": "FortniteGame/Content/Athena/Items/Cosmetics/Gliders/Glider_ID_362_SiennaMale",
+        "Description": "Le Bricoleur s'est vraiment surpassé.",
+        "Icon": "https://aytrox.com/fortnite/images/Glider_ID_362_SiennaMale.png",
+        "Variants": []
+      },
       "Glider_MiG": {
         "Type": "AthenaGlider",
         "ID": "Glider_MiG",
@@ -61360,6 +62194,136 @@
         "Icon": "https://aytrox.com/fortnite/images/LSID_406_SCRN_WomensDay2022.png",
         "Variants": []
       },
+      "LSID_408_SCRN_S2RebelsKeyArt": {
+        "Type": "AthenaLoadingScreen",
+        "ID": "LSID_408_SCRN_S2RebelsKeyArt",
+        "Name": "Bienvenue dans la rébellion",
+        "Ajouté": "2022-03-20T14:09:41Z",
+        "Path": "FortniteGame/Content/Athena/Items/Cosmetics/LoadingScreens/LSID_408_SCRN_S2RebelsKeyArt",
+        "Description": "C'est notre île, et nous sommes prêts à nous battre pour elle.",
+        "Icon": "https://aytrox.com/fortnite/images/LSID_408_SCRN_S2RebelsKeyArt.png",
+        "Variants": []
+      },
+      "LSID_409_InnovatorKey": {
+        "Type": "AthenaLoadingScreen",
+        "ID": "LSID_409_InnovatorKey",
+        "Name": "Garde de l'Institut",
+        "Ajouté": "2022-03-20T14:09:41Z",
+        "Path": "FortniteGame/Content/Athena/Items/Cosmetics/LoadingScreens/LSID_409_InnovatorKey",
+        "Description": "C'est le début de la fin.",
+        "Icon": "https://aytrox.com/fortnite/images/LSID_409_InnovatorKey.png",
+        "Variants": []
+      },
+      "LSID_410_Cadet": {
+        "Type": "AthenaLoadingScreen",
+        "ID": "LSID_410_Cadet",
+        "Name": "Rebelles",
+        "Ajouté": "2022-03-20T14:09:41Z",
+        "Path": "FortniteGame/Content/Athena/Items/Cosmetics/LoadingScreens/LSID_410_Cadet",
+        "Description": "Sauver le monde, mais avec style. \r\nIllustration par Brett Parson.",
+        "Icon": "https://aytrox.com/fortnite/images/LSID_410_Cadet.png",
+        "Variants": []
+      },
+      "LSID_411_CubeKing": {
+        "Type": "AthenaLoadingScreen",
+        "ID": "LSID_411_CubeKing",
+        "Name": "Royaume déchu",
+        "Ajouté": "2022-03-20T14:09:41Z",
+        "Path": "FortniteGame/Content/Athena/Items/Cosmetics/LoadingScreens/LSID_411_CubeKing",
+        "Description": "C'est en ayant tout perdu qu'on trouve une raison de se battre. Illustration par Steve Epting.",
+        "Icon": "https://aytrox.com/fortnite/images/LSID_411_CubeKing.png",
+        "Variants": []
+      },
+      "LSID_412_CyberArmor": {
+        "Type": "AthenaLoadingScreen",
+        "ID": "LSID_412_CyberArmor",
+        "Name": "La renaissance de Tsuki",
+        "Ajouté": "2022-03-20T14:09:41Z",
+        "Path": "FortniteGame/Content/Athena/Items/Cosmetics/LoadingScreens/LSID_412_CyberArmor",
+        "Description": "Elle retrouvera Tsuki 1.0 à tout prix. Illustration par Chun Lo.",
+        "Icon": "https://aytrox.com/fortnite/images/LSID_412_CyberArmor.png",
+        "Variants": []
+      },
+      "LSID_413_KnightCat": {
+        "Type": "AthenaLoadingScreen",
+        "ID": "LSID_413_KnightCat",
+        "Name": "Le retour du chasseur",
+        "Ajouté": "2022-03-20T14:09:41Z",
+        "Path": "FortniteGame/Content/Athena/Items/Cosmetics/LoadingScreens/LSID_413_KnightCat",
+        "Description": "Un chat loyal pour une maîtresse royale. \r\nIllustration par Pixmilk.",
+        "Icon": "https://aytrox.com/fortnite/images/LSID_413_KnightCat.png",
+        "Variants": []
+      },
+      "LSID_414_OrderGuard": {
+        "Type": "AthenaLoadingScreen",
+        "ID": "LSID_414_OrderGuard",
+        "Name": "Ça va trancher",
+        "Ajouté": "2022-03-20T14:09:41Z",
+        "Path": "FortniteGame/Content/Athena/Items/Cosmetics/LoadingScreens/LSID_414_OrderGuard",
+        "Description": "Comptez sur Gunnar pour assurer le spectacle. \r\nIllustration par Jose Real.",
+        "Icon": "https://aytrox.com/fortnite/images/LSID_414_OrderGuard.png",
+        "Variants": []
+      },
+      "LSID_415_Sienna": {
+        "Type": "AthenaLoadingScreen",
+        "ID": "LSID_415_Sienna",
+        "Name": "Une ombre rôde",
+        "Ajouté": "2022-03-20T14:09:41Z",
+        "Path": "FortniteGame/Content/Athena/Items/Cosmetics/LoadingScreens/LSID_415_Sienna",
+        "Description": "Rien ne sert de courir... \r\nIllustration par Pat Gleason.",
+        "Icon": "https://aytrox.com/fortnite/images/LSID_415_Sienna.png",
+        "Variants": []
+      },
+      "LSID_416_Mystic": {
+        "Type": "AthenaLoadingScreen",
+        "ID": "LSID_416_Mystic",
+        "Name": "Sorcier suprême",
+        "Ajouté": "2022-03-20T14:09:41Z",
+        "Path": "FortniteGame/Content/Athena/Items/Cosmetics/LoadingScreens/LSID_416_Mystic",
+        "Description": "Qui êtes-vous au sein de ce vaste multivers, monsieur Strange ? Illustration par Tradd Moore.",
+        "Icon": "https://aytrox.com/fortnite/images/LSID_416_Mystic.png",
+        "Variants": []
+      },
+      "LSID_417_S20_BattleBus": {
+        "Type": "AthenaLoadingScreen",
+        "ID": "LSID_417_S20_BattleBus",
+        "Name": "Bus de combat blindé",
+        "Ajouté": "2022-03-20T14:09:41Z",
+        "Path": "FortniteGame/Content/Athena/Items/Cosmetics/LoadingScreens/LSID_417_S20_BattleBus",
+        "Description": "Voilà ce qui arrive quand on ne remercie pas le chauffeur. Illustration par Brendan McCarthy.",
+        "Icon": "https://aytrox.com/fortnite/images/LSID_417_S20_BattleBus.png",
+        "Variants": []
+      },
+      "LSID_418_S20_Drill": {
+        "Type": "AthenaLoadingScreen",
+        "ID": "LSID_418_S20_Drill",
+        "Name": "Avant l'assaut",
+        "Ajouté": "2022-03-20T14:09:41Z",
+        "Path": "FortniteGame/Content/Athena/Items/Cosmetics/LoadingScreens/LSID_418_S20_Drill",
+        "Description": "Il n'y a rien de plus efficace que l'effet de surprise. \r\nIllustration par Brandon Graham.",
+        "Icon": "https://aytrox.com/fortnite/images/LSID_418_S20_Drill.png",
+        "Variants": []
+      },
+      "LSID_419_S20_AllOutWar": {
+        "Type": "AthenaLoadingScreen",
+        "ID": "LSID_419_S20_AllOutWar",
+        "Name": "Le tournant",
+        "Ajouté": "2022-03-20T14:09:41Z",
+        "Path": "FortniteGame/Content/Athena/Items/Cosmetics/LoadingScreens/LSID_419_S20_AllOutWar",
+        "Description": "C'est le moment de vérité. \r\nIllustration par Rodrigo Lorenzo.",
+        "Icon": "https://aytrox.com/fortnite/images/LSID_419_S20_AllOutWar.png",
+        "Variants": []
+      },
+      "LSID_423_Binary": {
+        "Type": "AthenaLoadingScreen",
+        "ID": "LSID_423_Binary",
+        "Name": "Onirisme absolu",
+        "Ajouté": "2022-03-20T14:09:41Z",
+        "Path": "FortniteGame/Content/Athena/Items/Cosmetics/LoadingScreens/LSID_423_Binary",
+        "Description": "Dans les rêves, tout est possible. \r\nIllustration par Natalie Dombois.",
+        "Icon": "https://aytrox.com/fortnite/images/LSID_423_Binary.png",
+        "Variants": []
+      },
       "LSID_DefaultBG": {
         "Type": "AthenaLoadingScreen",
         "ID": "LSID_DefaultBG",
@@ -62658,6 +63622,36 @@
         "Path": "FortniteGame/Content/Athena/Items/Cosmetics/MusicPacks/MusicPack_126_Woman",
         "Description": "Tracez votre voie en musique.",
         "Icon": "https://aytrox.com/fortnite/images/MusicPack_126_Woman.png",
+        "Variants": []
+      },
+      "MusicPack_127_Cadet": {
+        "Type": "AthenaMusicPack",
+        "ID": "MusicPack_127_Cadet",
+        "Name": "Le combat dans la peau",
+        "Ajouté": "2022-03-20T14:09:41Z",
+        "Path": "FortniteGame/Content/Athena/Items/Cosmetics/MusicPacks/MusicPack_127_Cadet",
+        "Description": "Vivez pour le combat en musique.",
+        "Icon": "https://aytrox.com/fortnite/images/MusicPack_127_Cadet.png",
+        "Variants": []
+      },
+      "MusicPack_128_CubeKing": {
+        "Type": "AthenaMusicPack",
+        "ID": "MusicPack_128_CubeKing",
+        "Name": "Hymne de l'Origine",
+        "Ajouté": "2022-03-20T14:09:41Z",
+        "Path": "FortniteGame/Content/Athena/Items/Cosmetics/MusicPacks/MusicPack_128_CubeKing",
+        "Description": "Libérez-vous de vos chaînes en musique.",
+        "Icon": "https://aytrox.com/fortnite/images/MusicPack_128_CubeKing.png",
+        "Variants": []
+      },
+      "MusicPack_129_OrderGuard": {
+        "Type": "AthenaMusicPack",
+        "ID": "MusicPack_129_OrderGuard",
+        "Name": "Mission muscu",
+        "Ajouté": "2022-03-20T14:09:41Z",
+        "Path": "FortniteGame/Content/Athena/Items/Cosmetics/MusicPacks/MusicPack_129_OrderGuard",
+        "Description": "Admirez la force de Gunnar en musique.",
+        "Icon": "https://aytrox.com/fortnite/images/MusicPack_129_OrderGuard.png",
         "Variants": []
       },
       "MusicPack_Random": {
@@ -72599,6 +73593,342 @@
         "Icon": "https://aytrox.com/fortnite/images/Pickaxe_ID_764_ThriveSpiritFemale.png",
         "Variants": []
       },
+      "Pickaxe_ID_766_BinaryFemale": {
+        "Type": "AthenaPickaxe",
+        "ID": "Pickaxe_ID_766_BinaryFemale",
+        "Name": "Lame de l'Onirisme",
+        "Ajouté": "2022-03-20T14:09:41Z",
+        "Path": "FortniteGame/Content/Athena/Items/Cosmetics/PickAxes/Pickaxe_ID_766_BinaryFemale",
+        "Description": "Elle coupe tout : armures, câbles de communication, sandwichs...",
+        "Icon": "https://aytrox.com/fortnite/images/Pickaxe_ID_766_BinaryFemale.png",
+        "Variants": [
+          {
+            "Type": "Particle",
+            "Tag": [
+              "Particle1",
+              "Particle2",
+              "Particle3"
+            ],
+            "Name": [
+              "Lame de l'Onirisme",
+              "Tempête",
+              "Viride"
+            ]
+          }
+        ]
+      },
+      "Pickaxe_ID_767_CadetFemale": {
+        "Type": "AthenaPickaxe",
+        "ID": "Pickaxe_ID_767_CadetFemale",
+        "Name": "Masse de K.-O.",
+        "Ajouté": "2022-03-20T14:09:41Z",
+        "Path": "FortniteGame/Content/Athena/Items/Cosmetics/PickAxes/Pickaxe_ID_767_CadetFemale",
+        "Description": "Ça va être le clou du spectacle.",
+        "Icon": "https://aytrox.com/fortnite/images/Pickaxe_ID_767_CadetFemale.png",
+        "Variants": [
+          {
+            "Type": "Particle",
+            "Tag": [
+              "Particle1",
+              "Particle2",
+              "Particle3"
+            ],
+            "Name": [
+              "Masse de K.-O.",
+              "Or de guerre",
+              "Rebelle de combat"
+            ]
+          }
+        ]
+      },
+      "Pickaxe_ID_768_CyberArmorFemale": {
+        "Type": "AthenaPickaxe",
+        "ID": "Pickaxe_ID_768_CyberArmorFemale",
+        "Name": "Épée omni",
+        "Ajouté": "2022-03-20T14:09:41Z",
+        "Path": "FortniteGame/Content/Athena/Items/Cosmetics/PickAxes/Pickaxe_ID_768_CyberArmorFemale",
+        "Description": "La première épée reprogrammable (demande de brevet déposée).",
+        "Icon": "https://aytrox.com/fortnite/images/Pickaxe_ID_768_CyberArmorFemale.png",
+        "Variants": [
+          {
+            "Type": "Material",
+            "Tag": [
+              "Mat1",
+              "Mat2"
+            ],
+            "Name": [
+              "Épée omni",
+              "Esprit éblouissant"
+            ]
+          },
+          {
+            "Type": "Pattern",
+            "Tag": [
+              "Mat8",
+              "Mat1",
+              "Mat2",
+              "Mat3",
+              "Mat4",
+              "Mat5",
+              "Mat6",
+              "Mat7"
+            ],
+            "Name": [
+              "Élite hybride",
+              "Alliage léger",
+              "Pouvoir dentelé",
+              "Énergie photonique",
+              "Charge blindée",
+              "Plasma ultraléger",
+              "Murmure parasite",
+              "Acier trempé"
+            ]
+          },
+          {
+            "Type": "Parts",
+            "Tag": [
+              "Stage1",
+              "Stage2"
+            ],
+            "Name": [
+              "À une main",
+              "À deux mains"
+            ]
+          },
+          {
+            "Type": "Numeric",
+            "Tag": [
+              "Stage10",
+              "Stage11",
+              "Stage2",
+              "Stage3",
+              "Stage4",
+              "Stage12",
+              "Stage13",
+              "Stage5",
+              "Stage8",
+              "Stage6",
+              "Stage15",
+              "Stage7",
+              "Stage14",
+              "Stage16",
+              "Stage9",
+              "Stage1"
+            ],
+            "Name": [
+              "Vague lumineuse",
+              "Destructrice",
+              "Élancée",
+              "Scalpel",
+              "Épineuse",
+              "Faucheuse des ombres",
+              "Acérée",
+              "Écharde",
+              "Pinçante",
+              "Recourbée",
+              "Fendeuse",
+              "Dent de requin",
+              "Hyperfrappe",
+              "Faux",
+              "Acérée",
+              "Éclatée"
+            ]
+          },
+          {
+            "Type": "Mesh",
+            "Tag": [
+              "Stage2",
+              "Stage3",
+              "Stage10",
+              "Stage11",
+              "Stage12",
+              "Stage4",
+              "Stage5",
+              "Stage13",
+              "Stage16",
+              "Stage14",
+              "Stage7",
+              "Stage15",
+              "Stage6",
+              "Stage8",
+              "Stage1",
+              "Stage9"
+            ],
+            "Name": [
+              "Vague lumineuse",
+              "Destructrice",
+              "Élancée",
+              "Scalpel",
+              "Épineuse",
+              "Faucheuse des ombres",
+              "Acérée",
+              "Écharde",
+              "Pinçante",
+              "Recourbée",
+              "Fendeuse",
+              "Dent de requin",
+              "Hyperfrappe",
+              "Faux",
+              "Acérée",
+              "Éclatée"
+            ]
+          },
+          {
+            "Type": "JerseyColor",
+            "Tag": [
+              "Stage3",
+              "Stage4",
+              "Stage5",
+              "Stage6",
+              "Stage7",
+              "Stage15",
+              "Stage14",
+              "Stage8",
+              "Stage9",
+              "Stage11",
+              "Stage10",
+              "Stage2",
+              "Stage13",
+              "Stage12",
+              "Stage1"
+            ],
+            "Name": [
+              "Infernal",
+              "Hypersonique",
+              "Néon",
+              "Vert naturel",
+              "Océanique",
+              "Argenté",
+              "Illumination",
+              "Blizzard",
+              "Saphir",
+              "Ultraviolet",
+              "Améthyste",
+              "Boule de gomme",
+              "Quartz écarlate",
+              "Carbonique",
+              "Vermillon"
+            ]
+          },
+          {
+            "Type": "Particle",
+            "Tag": [
+              "Stage2",
+              "Stage3",
+              "Stage4",
+              "Stage5",
+              "Stage7",
+              "Stage8",
+              "Stage6",
+              "Stage1"
+            ],
+            "Name": [
+              "Flanquée",
+              "Rebelle",
+              "Minuscule",
+              "Poing",
+              "Tricornue",
+              "Courbée",
+              "Cérémonielle",
+              "Divergence"
+            ]
+          }
+        ]
+      },
+      "Pickaxe_ID_770_KnightCatFemale": {
+        "Type": "AthenaPickaxe",
+        "ID": "Pickaxe_ID_770_KnightCatFemale",
+        "Name": "Dagues de gardienne",
+        "Ajouté": "2022-03-20T14:09:41Z",
+        "Path": "FortniteGame/Content/Athena/Items/Cosmetics/PickAxes/Pickaxe_ID_770_KnightCatFemale",
+        "Description": "Forgées pour une reine depuis longtemps oubliée.",
+        "Icon": "https://aytrox.com/fortnite/images/Pickaxe_ID_770_KnightCatFemale.png",
+        "Variants": [
+          {
+            "Type": "Particle",
+            "Tag": [
+              "Particle1",
+              "Particle2",
+              "Particle3"
+            ],
+            "Name": [
+              "Dagues de gardienne",
+              "Bleu céruléen",
+              "Vert sylvestre"
+            ]
+          }
+        ]
+      },
+      "Pickaxe_ID_772_MysticMale": {
+        "Type": "AthenaPickaxe",
+        "ID": "Pickaxe_ID_772_MysticMale",
+        "Name": "Cimeterre occulte",
+        "Ajouté": "2022-03-20T14:09:41Z",
+        "Path": "FortniteGame/Content/Athena/Items/Cosmetics/PickAxes/Pickaxe_ID_772_MysticMale",
+        "Description": "Invoqué grâce à l'énergie d'autres dimensions du Multivers.",
+        "Icon": "https://aytrox.com/fortnite/images/Pickaxe_ID_772_MysticMale.png",
+        "Variants": []
+      },
+      "Pickaxe_ID_773_OrderGuardMale": {
+        "Type": "AthenaPickaxe",
+        "ID": "Pickaxe_ID_773_OrderGuardMale",
+        "Name": "Émiettopoings",
+        "Ajouté": "2022-03-20T14:09:41Z",
+        "Path": "FortniteGame/Content/Athena/Items/Cosmetics/PickAxes/Pickaxe_ID_773_OrderGuardMale",
+        "Description": "D'authentiques poignes de fer.",
+        "Icon": "https://aytrox.com/fortnite/images/Pickaxe_ID_773_OrderGuardMale.png",
+        "Variants": [
+          {
+            "Type": "Particle",
+            "Tag": [
+              "Particle1",
+              "Particle2",
+              "Particle4",
+              "Particle3"
+            ],
+            "Name": [
+              "Émiettopoings",
+              "Tactique arctique",
+              "Charge ultra",
+              "Tempête solaire"
+            ]
+          }
+        ]
+      },
+      "Pickaxe_ID_774_SiennaMale": {
+        "Type": "AthenaPickaxe",
+        "ID": "Pickaxe_ID_774_SiennaMale",
+        "Name": "Griffe énergétique",
+        "Ajouté": "2022-03-20T14:09:41Z",
+        "Path": "FortniteGame/Content/Athena/Items/Cosmetics/PickAxes/Pickaxe_ID_774_SiennaMale",
+        "Description": "Une griffe qui se scinde en deux pour mieux agripper ses proies.",
+        "Icon": "https://aytrox.com/fortnite/images/Pickaxe_ID_774_SiennaMale.png",
+        "Variants": []
+      },
+      "Pickaxe_ID_776_TheOriginMale": {
+        "Type": "AthenaPickaxe",
+        "ID": "Pickaxe_ID_776_TheOriginMale",
+        "Name": "Cubosceptre",
+        "Ajouté": "2022-03-20T14:09:41Z",
+        "Path": "FortniteGame/Content/Athena/Items/Cosmetics/PickAxes/Pickaxe_ID_776_TheOriginMale",
+        "Description": "Utilise une énergie maléfique concentrée pour maximiser le potentiel de combat.",
+        "Icon": "https://aytrox.com/fortnite/images/Pickaxe_ID_776_TheOriginMale.png",
+        "Variants": [
+          {
+            "Type": "Particle",
+            "Tag": [
+              "Particle1",
+              "Particle2",
+              "Particle3"
+            ],
+            "Name": [
+              "Cubosceptre",
+              "Gris granit",
+              "Noir spatial"
+            ]
+          }
+        ]
+      },
       "Pickaxe_ID_STW001_Tier_1": {
         "Type": "AthenaPickaxe",
         "ID": "Pickaxe_ID_STW001_Tier_1",
@@ -76179,6 +77509,16 @@
         "Icon": "https://aytrox.com/fortnite/images/SPID_358_Trey_13D84.png",
         "Variants": []
       },
+      "SPID_359_Dr_U39EK": {
+        "Type": "AthenaSpray",
+        "ID": "SPID_359_Dr_U39EK",
+        "Name": "TARDIS",
+        "Ajouté": "2022-03-17T09:49:36Z",
+        "Path": "FortniteGame/Content/Athena/Items/Cosmetics/Sprays/SPID_359_Dr_U39EK",
+        "Description": "Laissez votre empreinte.",
+        "Icon": "https://aytrox.com/fortnite/images/SPID_359_Dr_U39EK.png",
+        "Variants": []
+      },
       "SPID_360_IWD2021": {
         "Type": "AthenaSpray",
         "ID": "SPID_360_IWD2021",
@@ -76197,6 +77537,106 @@
         "Path": "FortniteGame/Content/Athena/Items/Cosmetics/Sprays/SPID_361_ThriveTourneyReward",
         "Description": "Laissez votre empreinte.",
         "Icon": "https://aytrox.com/fortnite/images/SPID_361_ThriveTourneyReward.png",
+        "Variants": []
+      },
+      "SPID_362_Binary": {
+        "Type": "AthenaSpray",
+        "ID": "SPID_362_Binary",
+        "Name": "Onirisme",
+        "Ajouté": "2022-03-20T14:09:41Z",
+        "Path": "FortniteGame/Content/Athena/Items/Cosmetics/Sprays/SPID_362_Binary",
+        "Description": "Laissez votre empreinte.",
+        "Icon": "https://aytrox.com/fortnite/images/SPID_362_Binary.png",
+        "Variants": []
+      },
+      "SPID_363_Cadet": {
+        "Type": "AthenaSpray",
+        "ID": "SPID_363_Cadet",
+        "Name": "En route",
+        "Ajouté": "2022-03-20T14:09:41Z",
+        "Path": "FortniteGame/Content/Athena/Items/Cosmetics/Sprays/SPID_363_Cadet",
+        "Description": "Laissez votre empreinte.",
+        "Icon": "https://aytrox.com/fortnite/images/SPID_363_Cadet.png",
+        "Variants": []
+      },
+      "SPID_364_CubeKing": {
+        "Type": "AthenaSpray",
+        "ID": "SPID_364_CubeKing",
+        "Name": "Origines",
+        "Ajouté": "2022-03-20T14:09:41Z",
+        "Path": "FortniteGame/Content/Athena/Items/Cosmetics/Sprays/SPID_364_CubeKing",
+        "Description": "Laissez votre empreinte.",
+        "Icon": "https://aytrox.com/fortnite/images/SPID_364_CubeKing.png",
+        "Variants": []
+      },
+      "SPID_365_CyberArmor": {
+        "Type": "AthenaSpray",
+        "ID": "SPID_365_CyberArmor",
+        "Name": "Style fatal",
+        "Ajouté": "2022-03-20T14:09:41Z",
+        "Path": "FortniteGame/Content/Athena/Items/Cosmetics/Sprays/SPID_365_CyberArmor",
+        "Description": "Laissez votre empreinte.",
+        "Icon": "https://aytrox.com/fortnite/images/SPID_365_CyberArmor.png",
+        "Variants": []
+      },
+      "SPID_367_KnightCat": {
+        "Type": "AthenaSpray",
+        "ID": "SPID_367_KnightCat",
+        "Name": "Rugissement d'Érisa",
+        "Ajouté": "2022-03-20T14:09:41Z",
+        "Path": "FortniteGame/Content/Athena/Items/Cosmetics/Sprays/SPID_367_KnightCat",
+        "Description": "Laissez votre empreinte.",
+        "Icon": "https://aytrox.com/fortnite/images/SPID_367_KnightCat.png",
+        "Variants": []
+      },
+      "SPID_370_MysticAmulet": {
+        "Type": "AthenaSpray",
+        "ID": "SPID_370_MysticAmulet",
+        "Name": "Œil d'Agamotto",
+        "Ajouté": "2022-03-20T14:09:41Z",
+        "Path": "FortniteGame/Content/Athena/Items/Cosmetics/Sprays/SPID_370_MysticAmulet",
+        "Description": "Laissez votre empreinte.",
+        "Icon": "https://aytrox.com/fortnite/images/SPID_370_MysticAmulet.png",
+        "Variants": []
+      },
+      "SPID_371_MysticRunes": {
+        "Type": "AthenaSpray",
+        "ID": "SPID_371_MysticRunes",
+        "Name": "Mandalas tao",
+        "Ajouté": "2022-03-20T14:09:41Z",
+        "Path": "FortniteGame/Content/Athena/Items/Cosmetics/Sprays/SPID_371_MysticRunes",
+        "Description": "Laissez votre empreinte.",
+        "Icon": "https://aytrox.com/fortnite/images/SPID_371_MysticRunes.png",
+        "Variants": []
+      },
+      "SPID_372_OrderGuard": {
+        "Type": "AthenaSpray",
+        "ID": "SPID_372_OrderGuard",
+        "Name": "Gros bras",
+        "Ajouté": "2022-03-20T14:09:41Z",
+        "Path": "FortniteGame/Content/Athena/Items/Cosmetics/Sprays/SPID_372_OrderGuard",
+        "Description": "Laissez votre empreinte.",
+        "Icon": "https://aytrox.com/fortnite/images/SPID_372_OrderGuard.png",
+        "Variants": []
+      },
+      "SPID_373_Sienna": {
+        "Type": "AthenaSpray",
+        "ID": "SPID_373_Sienna",
+        "Name": "Graffiti du Rôdeur",
+        "Ajouté": "2022-03-20T14:09:41Z",
+        "Path": "FortniteGame/Content/Athena/Items/Cosmetics/Sprays/SPID_373_Sienna",
+        "Description": "Laissez votre empreinte.",
+        "Icon": "https://aytrox.com/fortnite/images/SPID_373_Sienna.png",
+        "Variants": []
+      },
+      "SPID_374_TacticalBR_Reward1": {
+        "Type": "AthenaSpray",
+        "ID": "SPID_374_TacticalBR_Reward1",
+        "Name": "Jones passe à l'action",
+        "Ajouté": "2022-03-20T14:09:41Z",
+        "Path": "FortniteGame/Content/Athena/Items/Cosmetics/Sprays/SPID_374_TacticalBR_Reward1",
+        "Description": "Laissez votre empreinte.",
+        "Icon": "https://aytrox.com/fortnite/images/SPID_374_TacticalBR_Reward1.png",
         "Variants": []
       },
       "SpikyPickaxe": {
@@ -76447,6 +77887,16 @@
         "Path": "FortniteGame/Content/Athena/Items/Cosmetics/Toys/TOY_Basketball_Hookshot_LUWQ6",
         "Description": "Faites un bras roulé !",
         "Icon": "https://aytrox.com/fortnite/images/TOY_Basketball_Hookshot_LUWQ6.png",
+        "Variants": []
+      },
+      "TOY_PartyRift": {
+        "Type": "AthenaToy",
+        "ID": "TOY_PartyRift",
+        "Name": "Déployer une faille de groupe",
+        "Ajouté": "2022-03-20T14:09:41Z",
+        "Path": "FortniteGame/Content/Athena/Items/Cosmetics/Toys/TOY_PartyRift",
+        "Description": "Lance une faille permettant aux joueurs de rejoindre votre groupe social.",
+        "Icon": "https://aytrox.com/fortnite/images/TOY_PartyRift.png",
         "Variants": []
       },
       "Trails_ID_001_Disco": {
@@ -77547,6 +78997,56 @@
         "Icon": "https://aytrox.com/fortnite/images/Trails_ID_137_TurtleneckCrystal.png",
         "Variants": []
       },
+      "Trails_ID_138_Cadet": {
+        "Type": "AthenaSkyDiveContrail",
+        "ID": "Trails_ID_138_Cadet",
+        "Name": "Graffitis de capitaine",
+        "Ajouté": "2022-03-20T14:09:41Z",
+        "Path": "FortniteGame/Content/Athena/Items/Cosmetics/Contrails/Trails_ID_138_Cadet",
+        "Description": "Suivez leur trace et tout ira bien.",
+        "Icon": "https://aytrox.com/fortnite/images/Trails_ID_138_Cadet.png",
+        "Variants": []
+      },
+      "Trails_ID_139_KnightCat": {
+        "Type": "AthenaSkyDiveContrail",
+        "ID": "Trails_ID_139_KnightCat",
+        "Name": "Dagues défuntes",
+        "Ajouté": "2022-03-20T14:09:41Z",
+        "Path": "FortniteGame/Content/Athena/Items/Cosmetics/Contrails/Trails_ID_139_KnightCat",
+        "Description": "Plongez aux côtés d'épées interdimensionnelles.",
+        "Icon": "https://aytrox.com/fortnite/images/Trails_ID_139_KnightCat.png",
+        "Variants": []
+      },
+      "Trails_ID_140_Mystic": {
+        "Type": "AthenaSkyDiveContrail",
+        "ID": "Trails_ID_140_Mystic",
+        "Name": "Énergie du Multivers",
+        "Ajouté": "2022-03-20T14:09:41Z",
+        "Path": "FortniteGame/Content/Athena/Items/Cosmetics/Contrails/Trails_ID_140_Mystic",
+        "Description": "Essentielle pour lancer des sorts et faire de la magie.",
+        "Icon": "https://aytrox.com/fortnite/images/Trails_ID_140_Mystic.png",
+        "Variants": []
+      },
+      "Trails_ID_141_TheOrigin": {
+        "Type": "AthenaSkyDiveContrail",
+        "ID": "Trails_ID_141_TheOrigin",
+        "Name": "Cubes de chute",
+        "Ajouté": "2022-03-20T14:09:41Z",
+        "Path": "FortniteGame/Content/Athena/Items/Cosmetics/Contrails/Trails_ID_141_TheOrigin",
+        "Description": "Les ordres de combat tombent du ciel.",
+        "Icon": "https://aytrox.com/fortnite/images/Trails_ID_141_TheOrigin.png",
+        "Variants": []
+      },
+      "Trails_ID_142_OrderGuard": {
+        "Type": "AthenaSkyDiveContrail",
+        "ID": "Trails_ID_142_OrderGuard",
+        "Name": "Paumes émietteuses",
+        "Ajouté": "2022-03-20T14:09:41Z",
+        "Path": "FortniteGame/Content/Athena/Items/Cosmetics/Contrails/Trails_ID_142_OrderGuard",
+        "Description": "Fendez l'air... au sens propre.",
+        "Icon": "https://aytrox.com/fortnite/images/Trails_ID_142_OrderGuard.png",
+        "Variants": []
+      },
       "Trails_ID_31_GreenFlame": {
         "Type": "AthenaSkyDiveContrail",
         "ID": "Trails_ID_31_GreenFlame",
@@ -77825,6 +79325,16 @@
         "Path": "FortniteGame/Content/Athena/Items/Cosmetics/Gliders/Umbrella_Season_19",
         "Description": "Son maniement aérien est inégalé.",
         "Icon": "https://aytrox.com/fortnite/images/Umbrella_Season_19.png",
+        "Variants": []
+      },
+      "Umbrella_Season_20": {
+        "Type": "AthenaGlider",
+        "ID": "Umbrella_Season_20",
+        "Name": "Parapluie de Gunnar",
+        "Ajouté": "2022-03-20T14:09:41Z",
+        "Path": "FortniteGame/Content/Athena/Items/Cosmetics/Gliders/Umbrella_Season_20",
+        "Description": "L'outil de choix de Gunnar en cas de tempête de feu.",
+        "Icon": "https://aytrox.com/fortnite/images/Umbrella_Season_20.png",
         "Variants": []
       },
       "Umbrella_Silver": {
@@ -82195,6 +83705,86 @@
         "Path": "FortniteGame/Content/Athena/Items/Cosmetics/ItemWraps/Wrap_448_WomensDay1",
         "Description": "Affichez votre style.",
         "Icon": "https://aytrox.com/fortnite/images/Wrap_448_WomensDay1.png",
+        "Variants": []
+      },
+      "Wrap_450_Mystic": {
+        "Type": "AthenaItemWrap",
+        "ID": "Wrap_450_Mystic",
+        "Name": "Style suprême",
+        "Ajouté": "2022-03-20T14:09:41Z",
+        "Path": "FortniteGame/Content/Athena/Items/Cosmetics/ItemWraps/Wrap_450_Mystic",
+        "Description": "Affichez votre style.",
+        "Icon": "https://aytrox.com/fortnite/images/Wrap_450_Mystic.png",
+        "Variants": []
+      },
+      "Wrap_451_OrderGuard": {
+        "Type": "AthenaItemWrap",
+        "ID": "Wrap_451_OrderGuard",
+        "Name": "Motif de Gunnar",
+        "Ajouté": "2022-03-20T14:09:41Z",
+        "Path": "FortniteGame/Content/Athena/Items/Cosmetics/ItemWraps/Wrap_451_OrderGuard",
+        "Description": "Affichez votre style.",
+        "Icon": "https://aytrox.com/fortnite/images/Wrap_451_OrderGuard.png",
+        "Variants": []
+      },
+      "Wrap_452_Cadet": {
+        "Type": "AthenaItemWrap",
+        "ID": "Wrap_452_Cadet",
+        "Name": "Marques de K.-O.",
+        "Ajouté": "2022-03-20T14:09:41Z",
+        "Path": "FortniteGame/Content/Athena/Items/Cosmetics/ItemWraps/Wrap_452_Cadet",
+        "Description": "Affichez votre style.",
+        "Icon": "https://aytrox.com/fortnite/images/Wrap_452_Cadet.png",
+        "Variants": []
+      },
+      "Wrap_453_Sienna": {
+        "Type": "AthenaItemWrap",
+        "ID": "Wrap_453_Sienna",
+        "Name": "Marque du Rôdeur",
+        "Ajouté": "2022-03-20T14:09:41Z",
+        "Path": "FortniteGame/Content/Athena/Items/Cosmetics/ItemWraps/Wrap_453_Sienna",
+        "Description": "Affichez votre style.",
+        "Icon": "https://aytrox.com/fortnite/images/Wrap_453_Sienna.png",
+        "Variants": []
+      },
+      "Wrap_454_CyberArmor": {
+        "Type": "AthenaItemWrap",
+        "ID": "Wrap_454_CyberArmor",
+        "Name": "Vengeance 2.0",
+        "Ajouté": "2022-03-20T14:09:41Z",
+        "Path": "FortniteGame/Content/Athena/Items/Cosmetics/ItemWraps/Wrap_454_CyberArmor",
+        "Description": "Affichez votre style.",
+        "Icon": "https://aytrox.com/fortnite/images/Wrap_454_CyberArmor.png",
+        "Variants": []
+      },
+      "Wrap_455_KnightCat": {
+        "Type": "AthenaItemWrap",
+        "ID": "Wrap_455_KnightCat",
+        "Name": "Cimier d'Érisa",
+        "Ajouté": "2022-03-20T14:09:41Z",
+        "Path": "FortniteGame/Content/Athena/Items/Cosmetics/ItemWraps/Wrap_455_KnightCat",
+        "Description": "Affichez votre style.",
+        "Icon": "https://aytrox.com/fortnite/images/Wrap_455_KnightCat.png",
+        "Variants": []
+      },
+      "Wrap_456_OriginPrison": {
+        "Type": "AthenaItemWrap",
+        "ID": "Wrap_456_OriginPrison",
+        "Name": "Modèle originel",
+        "Ajouté": "2022-03-20T14:09:41Z",
+        "Path": "FortniteGame/Content/Athena/Items/Cosmetics/ItemWraps/Wrap_456_OriginPrison",
+        "Description": "Affichez votre style.",
+        "Icon": "https://aytrox.com/fortnite/images/Wrap_456_OriginPrison.png",
+        "Variants": []
+      },
+      "Wrap_457_Binary": {
+        "Type": "AthenaItemWrap",
+        "ID": "Wrap_457_Binary",
+        "Name": "Aura de l'Onirisme",
+        "Ajouté": "2022-03-20T14:09:41Z",
+        "Path": "FortniteGame/Content/Athena/Items/Cosmetics/ItemWraps/Wrap_457_Binary",
+        "Description": "Affichez votre style.",
+        "Icon": "https://aytrox.com/fortnite/images/Wrap_457_Binary.png",
         "Variants": []
       },
       "Wrap_CatBurglarGameplay": {
