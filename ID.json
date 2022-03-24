@@ -13422,6 +13422,16 @@
         "Icon": "https://aytrox.com/fortnite/images/BID_958_WeepingWoodsToon.png",
         "Variants": []
       },
+      "BID_959_LurkFemale": {
+        "Type": "AthenaBackpack",
+        "ID": "BID_959_LurkFemale",
+        "Name": "Gratte toilée",
+        "Ajouté": "2022-03-24T00:00:00Z",
+        "Path": "FortniteGame/Content/Athena/Items/Cosmetics/Backpacks/BID_959_LurkFemale",
+        "Description": "Ne manquez pas le prochain concert des Mary Janes.",
+        "Icon": "https://aytrox.com/fortnite/images/BID_959_LurkFemale.png",
+        "Variants": []
+      },
       "BID_960_BunnyPurple": {
         "Type": "AthenaBackpack",
         "ID": "BID_960_BunnyPurple",
@@ -13655,6 +13665,16 @@
             ]
           }
         ]
+      },
+      "BID_977_SnowfallFemale_VRIU0": {
+        "Type": "AthenaBackpack",
+        "ID": "BID_977_SnowfallFemale_VRIU0",
+        "Name": "Ailes congelées",
+        "Ajouté": "2022-03-24T13:11:27Z",
+        "Path": "FortniteGame/Content/Athena/Items/Cosmetics/Backpacks/BID_977_SnowfallFemale_VRIU0",
+        "Description": "Laissez-les vous porter dans vos descentes.",
+        "Icon": "https://aytrox.com/fortnite/images/BID_977_SnowfallFemale_VRIU0.png",
+        "Variants": []
       },
       "BID_NPC_CloakedAssassin": {
         "Type": "AthenaBackpack",
@@ -42666,6 +42686,16 @@
           }
         ]
       },
+      "CID_A_358_Athena_Commando_F_Lurk": {
+        "Type": "AthenaCharacter",
+        "ID": "CID_A_358_Athena_Commando_F_Lurk",
+        "Name": "Mary Jane Watson",
+        "Ajouté": "2022-03-24T00:00:00Z",
+        "Path": "FortniteGame/Content/Athena/Items/Cosmetics/Characters/CID_A_358_Athena_Commando_F_Lurk",
+        "Description": "Admets-le, champion, tu as tiré le gros lot !",
+        "Icon": "https://aytrox.com/fortnite/images/CID_A_358_Athena_Commando_F_Lurk.png",
+        "Variants": []
+      },
       "CID_A_359_Athena_Commando_F_BunnyPurple": {
         "Type": "AthenaCharacter",
         "ID": "CID_A_359_Athena_Commando_F_BunnyPurple",
@@ -43080,6 +43110,32 @@
               "L'Onirisme",
               "Tempête",
               "Viride"
+            ]
+          }
+        ]
+      },
+      "CID_A_375_Athena_Commando_F_Snowfall_WXW2T": {
+        "Type": "AthenaCharacter",
+        "ID": "CID_A_375_Athena_Commando_F_Snowfall_WXW2T",
+        "Name": "Chloe Kim",
+        "Ajouté": "2022-03-24T13:11:27Z",
+        "Path": "FortniteGame/Content/Athena/Items/Cosmetics/Characters/CID_A_375_Athena_Commando_F_Snowfall_WXW2T",
+        "Description": "Championne olympique et reine du half-pipe.",
+        "Icon": "https://aytrox.com/fortnite/images/CID_A_375_Athena_Commando_F_Snowfall_WXW2T.png",
+        "Variants": [
+          {
+            "Type": "Parts",
+            "Tag": [
+              "Stage1",
+              "Stage4",
+              "Stage2",
+              "Stage3"
+            ],
+            "Name": [
+              "Chloe Kim",
+              "Victoires consécutives",
+              "Froid éternel",
+              "Coquelicots roses"
             ]
           }
         ]
@@ -49056,6 +49112,16 @@
         "Path": "FortniteGame/Content/Athena/Items/Cosmetics/Dances/EID_SneakingTraversal",
         "Description": "Mode camouflage activé !",
         "Icon": "https://aytrox.com/fortnite/images/EID_SneakingTraversal.png",
+        "Variants": []
+      },
+      "EID_Snowfall_H6LU9": {
+        "Type": "AthenaDance",
+        "ID": "EID_Snowfall_H6LU9",
+        "Name": "Salto de la planche",
+        "Ajouté": "2022-03-24T13:11:27Z",
+        "Path": "FortniteGame/Content/Athena/Items/Cosmetics/Dances/EID_Snowfall_H6LU9",
+        "Description": "Les pentes n'attendent plus que vous !",
+        "Icon": "https://aytrox.com/fortnite/images/EID_Snowfall_H6LU9.png",
         "Variants": []
       },
       "EID_SnowGlobe": {
@@ -58184,6 +58250,16 @@
         "Icon": "https://aytrox.com/fortnite/images/Glider_ID_362_SiennaMale.png",
         "Variants": []
       },
+      "Glider_ID_363_SnowfallFemale": {
+        "Type": "AthenaGlider",
+        "ID": "Glider_ID_363_SnowfallFemale",
+        "Name": "Nunbola",
+        "Ajouté": "2022-03-24T13:11:27Z",
+        "Path": "FortniteGame/Content/Athena/Items/Cosmetics/Gliders/Glider_ID_363_SnowfallFemale",
+        "Description": "Le gardien des pics enneigés.",
+        "Icon": "https://aytrox.com/fortnite/images/Glider_ID_363_SnowfallFemale.png",
+        "Variants": []
+      },
       "Glider_MiG": {
         "Type": "AthenaGlider",
         "ID": "Glider_MiG",
@@ -62312,6 +62388,16 @@
         "Path": "FortniteGame/Content/Athena/Items/Cosmetics/LoadingScreens/LSID_419_S20_AllOutWar",
         "Description": "C'est le moment de vérité. \r\nIllustration par Rodrigo Lorenzo.",
         "Icon": "https://aytrox.com/fortnite/images/LSID_419_S20_AllOutWar.png",
+        "Variants": []
+      },
+      "LSID_420_SCRN_Snowfall": {
+        "Type": "AthenaLoadingScreen",
+        "ID": "LSID_420_SCRN_Snowfall",
+        "Name": "L'envol de Nunbola",
+        "Ajouté": "2022-03-24T13:11:27Z",
+        "Path": "FortniteGame/Content/Athena/Items/Cosmetics/LoadingScreens/LSID_420_SCRN_Snowfall",
+        "Description": "Il va survoler la prochaine manche.",
+        "Icon": "https://aytrox.com/fortnite/images/LSID_420_SCRN_Snowfall.png",
         "Variants": []
       },
       "LSID_423_Binary": {
@@ -73573,6 +73659,16 @@
         "Icon": "https://aytrox.com/fortnite/images/Pickaxe_ID_761_LeatherJacketPurpleFemale.png",
         "Variants": []
       },
+      "Pickaxe_ID_762_LurkFemale": {
+        "Type": "AthenaPickaxe",
+        "ID": "Pickaxe_ID_762_LurkFemale",
+        "Name": "Gratte toilée",
+        "Ajouté": "2022-03-24T00:00:00Z",
+        "Path": "FortniteGame/Content/Athena/Items/Cosmetics/PickAxes/Pickaxe_ID_762_LurkFemale",
+        "Description": "Ne manquez pas le prochain concert des Mary Janes.",
+        "Icon": "https://aytrox.com/fortnite/images/Pickaxe_ID_762_LurkFemale.png",
+        "Variants": []
+      },
       "Pickaxe_ID_763_ThriveFemale": {
         "Type": "AthenaPickaxe",
         "ID": "Pickaxe_ID_763_ThriveFemale",
@@ -73903,6 +73999,16 @@
         "Path": "FortniteGame/Content/Athena/Items/Cosmetics/PickAxes/Pickaxe_ID_774_SiennaMale",
         "Description": "Une griffe qui se scinde en deux pour mieux agripper ses proies.",
         "Icon": "https://aytrox.com/fortnite/images/Pickaxe_ID_774_SiennaMale.png",
+        "Variants": []
+      },
+      "Pickaxe_ID_775_SnowfallFemale": {
+        "Type": "AthenaPickaxe",
+        "ID": "Pickaxe_ID_775_SnowfallFemale",
+        "Name": "Volute glaciale",
+        "Ajouté": "2022-03-24T13:11:27Z",
+        "Path": "FortniteGame/Content/Athena/Items/Cosmetics/Pickaxes/Pickaxe_ID_775_SnowfallFemale",
+        "Description": "Empoignez directement le froid.",
+        "Icon": "https://aytrox.com/fortnite/images/Pickaxe_ID_775_SnowfallFemale.png",
         "Variants": []
       },
       "Pickaxe_ID_776_TheOriginMale": {
