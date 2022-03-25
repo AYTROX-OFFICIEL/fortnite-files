@@ -1,0 +1,2621 @@
+{
+    "result": true,
+    "lang": "en",
+    "vehicles": [
+        {
+            "id": "VID_Foray_Vehicle",
+            "name": "Ferrari 296 GTB",
+            "icon": "https://media.fortniteapi.io/images/T-T-Icon-BR-ForayVehicle.png",
+            "stats": {
+                "Default.Valet.MinSpawnPercent.SportsCar": 50,
+                "Default.Valet.MaxSpawnPercent.SportsCar": 50,
+                "Default.Valet.SportsCar.MaxCanSpawn": 0,
+                "Default.Valet.MinPercentWithGas.SportsCar": 100,
+                "Default.Valet.MaxPercentWithGas.SportsCar": 100,
+                "Default.Valet.MinPercentInoperable.SportsCar": 0,
+                "Default.Valet.MaxPercentInoperable.SportsCar": 0,
+                "Default.Valet.ScalePontoonTickRate.Rear.SportsCar": 1,
+                "Default.Valet.ScalePontoonTickRate.Front.SportsCar": 0.3,
+                "AthenaValetSmall.Defaults.FortAttributeSet_VehicleFuel.MinFuelAtSpawn": 25,
+                "AthenaValetSmall.Defaults.FortAttributeSet_VehicleFuel.MaxFuelAtSpawn": 80,
+                "Default.Valet.Hit.Player.ShouldImpulse": 1,
+                "Default.Vehicle.Cars.LootDropOnDamageEnabled": 1,
+                "Default.Valet.Explode.CurieEnabled": 1,
+                "Default.Doll.Enabled": 0,
+                "Default.Vehicle.Cars.LootDropOnDamageThresholds": 5
+            },
+            "gears": [
+                {
+                    "TopSpeed": 23,
+                    "MinSpeed": 0,
+                    "PushForce": 4000,
+                    "RampTime": 0.1,
+                    "SteeringAngleMultiplier": 1,
+                    "bAutoBrake": true,
+                    "bIgnoreGravity": true
+                },
+                {
+                    "TopSpeed": 35,
+                    "MinSpeed": 23,
+                    "PushForce": 1700,
+                    "RampTime": 0.4,
+                    "SteeringAngleMultiplier": 0.8,
+                    "bAutoBrake": false,
+                    "bIgnoreGravity": true
+                },
+                {
+                    "TopSpeed": 65,
+                    "MinSpeed": 35,
+                    "PushForce": 1200,
+                    "RampTime": 0.5,
+                    "SteeringAngleMultiplier": 0.6,
+                    "bAutoBrake": false,
+                    "bIgnoreGravity": false
+                },
+                {
+                    "TopSpeed": 90,
+                    "MinSpeed": 65,
+                    "PushForce": 600,
+                    "RampTime": 0.6,
+                    "SteeringAngleMultiplier": 0.4,
+                    "bAutoBrake": false,
+                    "bIgnoreGravity": false
+                }
+            ],
+            "spawnNames": [
+                "foray",
+                "ferrari"
+            ]
+        },
+        {
+            "id": "VID_Valet_TaxiCab_Vehicle",
+            "name": "Taxi",
+            "icon": "https://media.fortniteapi.io/images/T-T-Icon-BR-Taxi.png",
+            "stats": {
+                "Default.Valet.MinSpawnPercent.TaxiCab": 30,
+                "Default.Valet.MaxSpawnPercent.TaxiCab": 600,
+                "Default.Valet.TaxiCab.MaxCanSpawn": 10000,
+                "Default.Valet.MinPercentWithGas.TaxiCab": 6144,
+                "Default.Valet.MaxPercentWithGas.TaxiCab": 1000,
+                "Default.Valet.MinPercentInoperable.TaxiCab": 150,
+                "Default.Valet.MaxPercentInoperable.TaxiCab": 0
+            },
+            "gears": [
+                {
+                    "TopSpeed": 20,
+                    "MinSpeed": 0,
+                    "PushForce": 1500,
+                    "RampTime": 1,
+                    "SteeringAngleMultiplier": 1,
+                    "bAutoBrake": true,
+                    "bIgnoreGravity": true
+                },
+                {
+                    "TopSpeed": 35,
+                    "MinSpeed": 20,
+                    "PushForce": 1200,
+                    "RampTime": 2,
+                    "SteeringAngleMultiplier": 0.8,
+                    "bAutoBrake": false,
+                    "bIgnoreGravity": true
+                },
+                {
+                    "TopSpeed": 50,
+                    "MinSpeed": 35,
+                    "PushForce": 900,
+                    "RampTime": 2,
+                    "SteeringAngleMultiplier": 0.6,
+                    "bAutoBrake": false,
+                    "bIgnoreGravity": false
+                },
+                {
+                    "TopSpeed": 65,
+                    "MinSpeed": 50,
+                    "PushForce": 400,
+                    "RampTime": 3,
+                    "SteeringAngleMultiplier": 0.4,
+                    "bAutoBrake": false,
+                    "bIgnoreGravity": false
+                }
+            ],
+            "spawnNames": [
+                "taxi"
+            ]
+        },
+        {
+            "id": "VID_Valet_SportsCar_Vehicle_HighTower",
+            "name": "MARK 51",
+            "icon": "https://media.fortniteapi.io/images/T-T-Icon-BR-HightowerSportsCar.png",
+            "stats": {
+                "Default.Valet.MinSpawnPercent.SportsCar.HighTower": 30,
+                "Default.Valet.MaxSpawnPercent.SportsCar.HighTower": 600,
+                "Default.Valet.SportsCar.MaxCanSpawn": 10000,
+                "Default.Valet.MinPercentWithGas.SportsCar.HighTower": 6144,
+                "Default.Valet.MaxPercentWithGas.SportsCar.HighTower": 1000,
+                "Default.Valet.MinPercentInoperable.SportsCar.HighTower": 150,
+                "Default.Valet.MaxPercentInoperable.SportsCar.HighTower": 0
+            },
+            "gears": [
+                {
+                    "TopSpeed": 23,
+                    "MinSpeed": 0,
+                    "PushForce": 6000,
+                    "RampTime": 0.1,
+                    "SteeringAngleMultiplier": 1,
+                    "bAutoBrake": true,
+                    "bIgnoreGravity": true
+                },
+                {
+                    "TopSpeed": 40,
+                    "MinSpeed": 23,
+                    "PushForce": 3000,
+                    "RampTime": 0.4,
+                    "SteeringAngleMultiplier": 0.8,
+                    "bAutoBrake": false,
+                    "bIgnoreGravity": true
+                },
+                {
+                    "TopSpeed": 75,
+                    "MinSpeed": 40,
+                    "PushForce": 1000,
+                    "RampTime": 0.5,
+                    "SteeringAngleMultiplier": 0.6,
+                    "bAutoBrake": false,
+                    "bIgnoreGravity": false
+                },
+                {
+                    "TopSpeed": 120,
+                    "MinSpeed": 75,
+                    "PushForce": 600,
+                    "RampTime": 0.6,
+                    "SteeringAngleMultiplier": 0.4,
+                    "bAutoBrake": false,
+                    "bIgnoreGravity": false
+                }
+            ],
+            "spawnNames": [
+                "sportscarhightower",
+                "sportshightower"
+            ]
+        },
+        {
+            "id": "VID_Valet_SportsCar_Vehicle_Turbo",
+            "name": "Whiplash Super Circuit",
+            "icon": "https://media.fortniteapi.io/images/T-T-Icon-BR-TurboSportsCar.png",
+            "stats": {
+                "Default.Valet.MinSpawnPercent.SportsCar.Turbo": 30,
+                "Default.Valet.MaxSpawnPercent.SportsCar.Turbo": 600,
+                "Default.Valet.SportsCar.MaxCanSpawn": 10000,
+                "Default.Valet.MinPercentWithGas.SportsCar.Turbo": 6144,
+                "Default.Valet.MaxPercentWithGas.SportsCar.Turbo": 1000,
+                "Default.Valet.MinPercentInoperable.SportsCar.Turbo": 150,
+                "Default.Valet.MaxPercentInoperable.SportsCar.Turbo": 0
+            },
+            "gears": [
+                {
+                    "TopSpeed": 23,
+                    "MinSpeed": 0,
+                    "PushForce": 5000,
+                    "RampTime": 0.1,
+                    "SteeringAngleMultiplier": 1,
+                    "bAutoBrake": true,
+                    "bIgnoreGravity": true
+                },
+                {
+                    "TopSpeed": 40,
+                    "MinSpeed": 23,
+                    "PushForce": 3000,
+                    "RampTime": 0.4,
+                    "SteeringAngleMultiplier": 0.8,
+                    "bAutoBrake": false,
+                    "bIgnoreGravity": true
+                },
+                {
+                    "TopSpeed": 75,
+                    "MinSpeed": 40,
+                    "PushForce": 1000,
+                    "RampTime": 0.5,
+                    "SteeringAngleMultiplier": 0.6,
+                    "bAutoBrake": false,
+                    "bIgnoreGravity": false
+                },
+                {
+                    "TopSpeed": 100,
+                    "MinSpeed": 75,
+                    "PushForce": 600,
+                    "RampTime": 0.6,
+                    "SteeringAngleMultiplier": 0.4,
+                    "bAutoBrake": false,
+                    "bIgnoreGravity": false
+                }
+            ],
+            "spawnNames": [
+                "sportscarturbo",
+                "sportsturbo"
+            ]
+        },
+        {
+            "id": "VID_Valet_SportsCar_Vehicle",
+            "name": "Whiplash",
+            "icon": "https://media.fortniteapi.io/images/T-T-Icon-BR-SportsCar.png",
+            "stats": {
+                "Default.Valet.MinSpawnPercent.SportsCar": 30,
+                "Default.Valet.MaxSpawnPercent.SportsCar": 600,
+                "Default.Valet.SportsCar.MaxCanSpawn": 10000,
+                "Default.Valet.MinPercentWithGas.SportsCar": 6144,
+                "Default.Valet.MaxPercentWithGas.SportsCar": 1000,
+                "Default.Valet.MinPercentInoperable.SportsCar": 150,
+                "Default.Valet.MaxPercentInoperable.SportsCar": 0
+            },
+            "gears": [
+                {
+                    "TopSpeed": 23,
+                    "MinSpeed": 0,
+                    "PushForce": 4000,
+                    "RampTime": 0.1,
+                    "SteeringAngleMultiplier": 1,
+                    "bAutoBrake": true,
+                    "bIgnoreGravity": true
+                },
+                {
+                    "TopSpeed": 35,
+                    "MinSpeed": 23,
+                    "PushForce": 1700,
+                    "RampTime": 0.4,
+                    "SteeringAngleMultiplier": 0.8,
+                    "bAutoBrake": false,
+                    "bIgnoreGravity": true
+                },
+                {
+                    "TopSpeed": 65,
+                    "MinSpeed": 35,
+                    "PushForce": 1200,
+                    "RampTime": 0.5,
+                    "SteeringAngleMultiplier": 0.6,
+                    "bAutoBrake": false,
+                    "bIgnoreGravity": false
+                },
+                {
+                    "TopSpeed": 90,
+                    "MinSpeed": 65,
+                    "PushForce": 600,
+                    "RampTime": 0.6,
+                    "SteeringAngleMultiplier": 0.4,
+                    "bAutoBrake": false,
+                    "bIgnoreGravity": false
+                }
+            ],
+            "spawnNames": [
+                "sportscar",
+                "sport"
+            ]
+        },
+        {
+            "id": "VID_Valet_BigRig_Vehicle",
+            "name": "Mudflap",
+            "icon": "https://media.fortniteapi.io/images/T-T-Icon-BR-SemiTruck.png",
+            "stats": {
+                "Default.Valet.MinSpawnPercent.BigRig": 10000,
+                "Default.Valet.MaxSpawnPercent.BigRig": 150,
+                "Default.Valet.BigRig.MaxCanSpawn": 0,
+                "Default.Valet.MinPercentWithGas.BigRig": 30,
+                "Default.Valet.MaxPercentWithGas.BigRig": 600,
+                "Default.Valet.MinPercentInoperable.BigRig": 6144,
+                "Default.Valet.MaxPercentInoperable.BigRig": 1000
+            },
+            "gears": [
+                {
+                    "TopSpeed": 15,
+                    "MinSpeed": 0,
+                    "PushForce": 1500,
+                    "RampTime": 3,
+                    "SteeringAngleMultiplier": 1,
+                    "bAutoBrake": true,
+                    "bIgnoreGravity": true
+                },
+                {
+                    "TopSpeed": 28,
+                    "MinSpeed": 15,
+                    "PushForce": 1200,
+                    "RampTime": 4,
+                    "SteeringAngleMultiplier": 0.8,
+                    "bAutoBrake": false,
+                    "bIgnoreGravity": true
+                },
+                {
+                    "TopSpeed": 40,
+                    "MinSpeed": 28,
+                    "PushForce": 900,
+                    "RampTime": 5,
+                    "SteeringAngleMultiplier": 0.6,
+                    "bAutoBrake": false,
+                    "bIgnoreGravity": false
+                },
+                {
+                    "TopSpeed": 65,
+                    "MinSpeed": 40,
+                    "PushForce": 400,
+                    "RampTime": 6,
+                    "SteeringAngleMultiplier": 0.4,
+                    "bAutoBrake": false,
+                    "bIgnoreGravity": false
+                }
+            ],
+            "spawnNames": [
+                "bigrig"
+            ]
+        },
+        {
+            "id": "VID_Valet_BigRig_Vehicle_HighTower",
+            "name": "Trask Truck",
+            "icon": "https://media.fortniteapi.io/images/T-T-Icon-BR-SemiTruck-Hightower.png",
+            "stats": {
+                "Default.Valet.MinSpawnPercent.BigRig.HighTower": 10000,
+                "Default.Valet.MaxSpawnPercent.BigRig.HighTower": 150,
+                "Default.Valet.BigRig.MaxCanSpawn": 0,
+                "Default.Valet.MinPercentWithGas.BigRig.HighTower": 30,
+                "Default.Valet.MaxPercentWithGas.BigRig.HighTower": 600,
+                "Default.Valet.MinPercentInoperable.BigRig.HighTower": 6144,
+                "Default.Valet.MaxPercentInoperable.BigRig.HighTower": 1000
+            },
+            "gears": [
+                {
+                    "TopSpeed": 15,
+                    "MinSpeed": 0,
+                    "PushForce": 2000,
+                    "RampTime": 3,
+                    "SteeringAngleMultiplier": 1,
+                    "bAutoBrake": true,
+                    "bIgnoreGravity": true
+                },
+                {
+                    "TopSpeed": 28,
+                    "MinSpeed": 15,
+                    "PushForce": 1500,
+                    "RampTime": 3.5,
+                    "SteeringAngleMultiplier": 0.8,
+                    "bAutoBrake": false,
+                    "bIgnoreGravity": true
+                },
+                {
+                    "TopSpeed": 40,
+                    "MinSpeed": 28,
+                    "PushForce": 900,
+                    "RampTime": 4.5,
+                    "SteeringAngleMultiplier": 0.6,
+                    "bAutoBrake": false,
+                    "bIgnoreGravity": false
+                },
+                {
+                    "TopSpeed": 65,
+                    "MinSpeed": 40,
+                    "PushForce": 400,
+                    "RampTime": 6,
+                    "SteeringAngleMultiplier": 0.4,
+                    "bAutoBrake": false,
+                    "bIgnoreGravity": false
+                }
+            ],
+            "spawnNames": [
+                "bigrighightower"
+            ]
+        },
+        {
+            "id": "VID_Valet_BasicTruck_Vehicle",
+            "name": "Bear",
+            "icon": "https://media.fortniteapi.io/images/T-T-Icon-BR-PickupTruck.png",
+            "stats": {
+                "Default.Valet.MinSpawnPercent.BasicTruck": 10000,
+                "Default.Valet.MaxSpawnPercent.BasicTruck": 150,
+                "Default.Valet.BasicTruck.MaxCanSpawn": 0,
+                "Default.Valet.MinPercentWithGas.BasicTruck": 30,
+                "Default.Valet.MaxPercentWithGas.BasicTruck": 600,
+                "Default.Valet.MinPercentInoperable.BasicTruck": 6144,
+                "Default.Valet.MaxPercentInoperable.BasicTruck": 1000
+            },
+            "gears": [
+                {
+                    "TopSpeed": 20,
+                    "MinSpeed": 0,
+                    "PushForce": 1500,
+                    "RampTime": 4,
+                    "SteeringAngleMultiplier": 1,
+                    "bAutoBrake": true,
+                    "bIgnoreGravity": true
+                },
+                {
+                    "TopSpeed": 32,
+                    "MinSpeed": 20,
+                    "PushForce": 1000,
+                    "RampTime": 6,
+                    "SteeringAngleMultiplier": 0.5,
+                    "bAutoBrake": false,
+                    "bIgnoreGravity": true
+                },
+                {
+                    "TopSpeed": 50,
+                    "MinSpeed": 35,
+                    "PushForce": 700,
+                    "RampTime": 6,
+                    "SteeringAngleMultiplier": 0.35,
+                    "bAutoBrake": false,
+                    "bIgnoreGravity": false
+                },
+                {
+                    "TopSpeed": 100,
+                    "MinSpeed": 50,
+                    "PushForce": 300,
+                    "RampTime": 6,
+                    "SteeringAngleMultiplier": 0.2,
+                    "bAutoBrake": false,
+                    "bIgnoreGravity": false
+                }
+            ],
+            "spawnNames": [
+                "truck"
+            ]
+        },
+        {
+            "id": "VID_Valet_BasicCar_Vehicle_IO",
+            "name": "Prevalent GG2020",
+            "icon": "https://media.fortniteapi.io/images/T-T-Icon-BR-SedanFieldTeamsVehicle.png",
+            "stats": {
+                "Default.Valet.MinSpawnPercent.BasicCar.IO": 175,
+                "Default.Valet.MaxSpawnPercent.BasicCar.IO": 100,
+                "Default.Valet.MinPercentWithGas.BasicCar.IO": 4000,
+                "Default.Valet.MaxPercentWithGas.BasicCar.IO": 0,
+                "Default.Valet.MinPercentInoperable.BasicCar.IO": 100,
+                "Default.Valet.MaxPercentInoperable.BasicCar.IO": 50
+            },
+            "gears": [
+                {
+                    "TopSpeed": 23,
+                    "MinSpeed": 0,
+                    "PushForce": 3500,
+                    "RampTime": 0.1,
+                    "SteeringAngleMultiplier": 1,
+                    "bAutoBrake": true,
+                    "bIgnoreGravity": true
+                },
+                {
+                    "TopSpeed": 35,
+                    "MinSpeed": 23,
+                    "PushForce": 1500,
+                    "RampTime": 0.4,
+                    "SteeringAngleMultiplier": 0.8,
+                    "bAutoBrake": false,
+                    "bIgnoreGravity": true
+                },
+                {
+                    "TopSpeed": 65,
+                    "MinSpeed": 35,
+                    "PushForce": 1100,
+                    "RampTime": 0.5,
+                    "SteeringAngleMultiplier": 0.6,
+                    "bAutoBrake": false,
+                    "bIgnoreGravity": false
+                },
+                {
+                    "TopSpeed": 85,
+                    "MinSpeed": 65,
+                    "PushForce": 600,
+                    "RampTime": 0.6,
+                    "SteeringAngleMultiplier": 0.4,
+                    "bAutoBrake": false,
+                    "bIgnoreGravity": false
+                }
+            ],
+            "spawnNames": [
+                "basicio"
+            ]
+        },
+        {
+            "id": "VID_Valet_BasicCar_Vehicle_HighTower_CEO",
+            "name": "Prevalent GG2020",
+            "icon": "https://media.fortniteapi.io/images/T-T-Icon-BR-HightowerSedanCEO.png",
+            "stats": {
+                "Default.Valet.MinSpawnPercent.BasicCar.HighTower.CEO": 10000,
+                "Default.Valet.MaxSpawnPercent.BasicCar.HighTower.CEO": 150,
+                "Default.Valet.BasicCar.MaxCanSpawn": 0,
+                "Default.Valet.MinPercentWithGas.BasicCar.HighTower.CEO": 30,
+                "Default.Valet.MaxPercentWithGas.BasicCar.HighTower.CEO": 600,
+                "Default.Valet.MinPercentInoperable.BasicCar.HighTower.CEO": 6144,
+                "Default.Valet.MaxPercentInoperable.BasicCar.HighTower.CEO": 1000
+            },
+            "gears": [
+                {
+                    "TopSpeed": 20,
+                    "MinSpeed": 0,
+                    "PushForce": 2000,
+                    "RampTime": 0.8,
+                    "SteeringAngleMultiplier": 1,
+                    "bAutoBrake": true,
+                    "bIgnoreGravity": true
+                },
+                {
+                    "TopSpeed": 35,
+                    "MinSpeed": 20,
+                    "PushForce": 1800,
+                    "RampTime": 1.8,
+                    "SteeringAngleMultiplier": 0.8,
+                    "bAutoBrake": false,
+                    "bIgnoreGravity": true
+                },
+                {
+                    "TopSpeed": 65,
+                    "MinSpeed": 35,
+                    "PushForce": 900,
+                    "RampTime": 1.8,
+                    "SteeringAngleMultiplier": 0.7,
+                    "bAutoBrake": false,
+                    "bIgnoreGravity": false
+                },
+                {
+                    "TopSpeed": 75,
+                    "MinSpeed": 55,
+                    "PushForce": 400,
+                    "RampTime": 2.5,
+                    "SteeringAngleMultiplier": 0.5,
+                    "bAutoBrake": false,
+                    "bIgnoreGravity": false
+                }
+            ],
+            "spawnNames": [
+                "basichightowerceo"
+            ]
+        },
+        {
+            "id": "VID_Valet_BasicCar_Vehicle_HighTower",
+            "name": "Prevalent GG2020",
+            "icon": "https://media.fortniteapi.io/images/T-T-Icon-BR-HightowerSedanDefault.png",
+            "stats": {
+                "Default.Valet.MinSpawnPercent.BasicCar.HighTower": 10000,
+                "Default.Valet.MaxSpawnPercent.BasicCar.HighTower": 150,
+                "Default.Valet.BasicCar.MaxCanSpawn": 0,
+                "Default.Valet.MinPercentWithGas.BasicCar.HighTower": 30,
+                "Default.Valet.MaxPercentWithGas.BasicCar.HighTower": 600,
+                "Default.Valet.MinPercentInoperable.BasicCar.HighTower": 6144,
+                "Default.Valet.MaxPercentInoperable.BasicCar.HighTower": 1000
+            },
+            "gears": [
+                {
+                    "TopSpeed": 20,
+                    "MinSpeed": 0,
+                    "PushForce": 1800,
+                    "RampTime": 0.8,
+                    "SteeringAngleMultiplier": 1,
+                    "bAutoBrake": true,
+                    "bIgnoreGravity": true
+                },
+                {
+                    "TopSpeed": 35,
+                    "MinSpeed": 20,
+                    "PushForce": 1500,
+                    "RampTime": 1.8,
+                    "SteeringAngleMultiplier": 0.8,
+                    "bAutoBrake": false,
+                    "bIgnoreGravity": true
+                },
+                {
+                    "TopSpeed": 60,
+                    "MinSpeed": 35,
+                    "PushForce": 900,
+                    "RampTime": 1.8,
+                    "SteeringAngleMultiplier": 0.7,
+                    "bAutoBrake": false,
+                    "bIgnoreGravity": false
+                },
+                {
+                    "TopSpeed": 70,
+                    "MinSpeed": 55,
+                    "PushForce": 400,
+                    "RampTime": 2.5,
+                    "SteeringAngleMultiplier": 0.5,
+                    "bAutoBrake": false,
+                    "bIgnoreGravity": false
+                }
+            ],
+            "spawnNames": [
+                "basichightower"
+            ]
+        },
+        {
+            "id": "VID_MeatballVehicle_L",
+            "name": "Motorboat",
+            "icon": "https://media.fortniteapi.io/images/T-Icon-Device-MeatBallSpawner-L.png",
+            "stats": {
+                "Default.Boat.MinSpawnPercent": 150,
+                "Default.Boat.MaxSpawnPercent": 600
+            },
+            "gears": [
+                {
+                    "TopSpeed": 10,
+                    "MinSpeed": 0,
+                    "PushForce": 5000,
+                    "RampTime": 0.5,
+                    "SteeringAngleMultiplier": 1,
+                    "bAutoBrake": true,
+                    "bIgnoreGravity": true
+                },
+                {
+                    "TopSpeed": 25,
+                    "MinSpeed": 10,
+                    "PushForce": 3500,
+                    "RampTime": 1.5,
+                    "SteeringAngleMultiplier": 0.7,
+                    "bAutoBrake": false,
+                    "bIgnoreGravity": false
+                },
+                {
+                    "TopSpeed": 40,
+                    "MinSpeed": 25,
+                    "PushForce": 3000,
+                    "RampTime": 2.5,
+                    "SteeringAngleMultiplier": 0.4,
+                    "bAutoBrake": false,
+                    "bIgnoreGravity": false
+                }
+            ],
+            "spawnNames": [
+                "boat",
+                "meatball"
+            ]
+        },
+        {
+            "id": "VID_Valet_TaxiCab_Vehicle_Rusted",
+            "name": "Taxi",
+            "icon": "https://media.fortniteapi.io/images/T-T-Icon-BR-Taxi.png",
+            "stats": {
+                "Default.Valet.MinSpawnPercent.TaxiCab.Rusted": 30,
+                "Default.Valet.MaxSpawnPercent.TaxiCab.Rusted": 600,
+                "Default.Valet.TaxiCab.MaxCanSpawn": 10000,
+                "Default.Valet.MinPercentWithGas.TaxiCab.Rusted": 6144,
+                "Default.Valet.MaxPercentWithGas.TaxiCab.Rusted": 1000,
+                "Default.Valet.MinPercentInoperable.TaxiCab.Rusted": 150,
+                "Default.Valet.MaxPercentInoperable.TaxiCab.Rusted": 0
+            },
+            "gears": [
+                {
+                    "TopSpeed": 20,
+                    "MinSpeed": 0,
+                    "PushForce": 1500,
+                    "RampTime": 1,
+                    "SteeringAngleMultiplier": 1,
+                    "bAutoBrake": true,
+                    "bIgnoreGravity": true
+                },
+                {
+                    "TopSpeed": 35,
+                    "MinSpeed": 20,
+                    "PushForce": 1200,
+                    "RampTime": 2,
+                    "SteeringAngleMultiplier": 0.8,
+                    "bAutoBrake": false,
+                    "bIgnoreGravity": true
+                },
+                {
+                    "TopSpeed": 50,
+                    "MinSpeed": 35,
+                    "PushForce": 900,
+                    "RampTime": 2,
+                    "SteeringAngleMultiplier": 0.6,
+                    "bAutoBrake": false,
+                    "bIgnoreGravity": false
+                },
+                {
+                    "TopSpeed": 65,
+                    "MinSpeed": 50,
+                    "PushForce": 400,
+                    "RampTime": 3,
+                    "SteeringAngleMultiplier": 0.4,
+                    "bAutoBrake": false,
+                    "bIgnoreGravity": false
+                }
+            ],
+            "spawnNames": [
+                "taxirusted"
+            ]
+        },
+        {
+            "id": "VID_PapayaCannon",
+            "name": "Pirate Cannon",
+            "icon": "https://media.fortniteapi.io/images/T-Vehicles-Ship-Cannon-Veh.png",
+            "stats": {
+                "Default.Cannon.MinSpawnPercent": 1000,
+                "Default.Cannon.MaxSpawnPercent": 0
+            },
+            "gears": [
+                {
+                    "TopSpeed": 1,
+                    "MinSpeed": 0,
+                    "PushForce": 3000,
+                    "RampTime": 3,
+                    "SteeringAngleMultiplier": 1,
+                    "bAutoBrake": true,
+                    "bIgnoreGravity": true
+                },
+                {
+                    "TopSpeed": 7,
+                    "MinSpeed": 1,
+                    "PushForce": 3000,
+                    "RampTime": 3,
+                    "SteeringAngleMultiplier": 1,
+                    "bAutoBrake": true,
+                    "bIgnoreGravity": true
+                },
+                {
+                    "TopSpeed": 10,
+                    "MinSpeed": 7,
+                    "PushForce": 500,
+                    "RampTime": 1,
+                    "SteeringAngleMultiplier": 1,
+                    "bAutoBrake": true,
+                    "bIgnoreGravity": true
+                }
+            ],
+            "spawnNames": []
+        },
+        {
+            "id": "VID_Valet_SportsCar_Vehicle_Rusted",
+            "name": "Whiplash",
+            "icon": "https://media.fortniteapi.io/images/T-T-Icon-BR-SportsCar.png",
+            "stats": {
+                "Default.Valet.MinSpawnPercent.SportsCar.Rusted": 30,
+                "Default.Valet.MaxSpawnPercent.SportsCar.Rusted": 600,
+                "Default.Valet.SportsCar.MaxCanSpawn": 10000,
+                "Default.Valet.MinPercentWithGas.SportsCar.Rusted": 6144,
+                "Default.Valet.MaxPercentWithGas.SportsCar.Rusted": 1000,
+                "Default.Valet.MinPercentInoperable.SportsCar.Rusted": 150,
+                "Default.Valet.MaxPercentInoperable.SportsCar.Rusted": 0
+            },
+            "gears": [
+                {
+                    "TopSpeed": 23,
+                    "MinSpeed": 0,
+                    "PushForce": 4000,
+                    "RampTime": 0.1,
+                    "SteeringAngleMultiplier": 1,
+                    "bAutoBrake": true,
+                    "bIgnoreGravity": true
+                },
+                {
+                    "TopSpeed": 35,
+                    "MinSpeed": 23,
+                    "PushForce": 1700,
+                    "RampTime": 0.4,
+                    "SteeringAngleMultiplier": 0.8,
+                    "bAutoBrake": false,
+                    "bIgnoreGravity": true
+                },
+                {
+                    "TopSpeed": 65,
+                    "MinSpeed": 35,
+                    "PushForce": 1200,
+                    "RampTime": 0.5,
+                    "SteeringAngleMultiplier": 0.6,
+                    "bAutoBrake": false,
+                    "bIgnoreGravity": false
+                },
+                {
+                    "TopSpeed": 90,
+                    "MinSpeed": 65,
+                    "PushForce": 600,
+                    "RampTime": 0.6,
+                    "SteeringAngleMultiplier": 0.4,
+                    "bAutoBrake": false,
+                    "bIgnoreGravity": false
+                }
+            ],
+            "spawnNames": [
+                "sportscarrusted",
+                "sportsrusted"
+            ]
+        },
+        {
+            "id": "VID_Valet_SportsCar_Vehicle_Upgrade",
+            "name": "Whiplash VR-1",
+            "icon": "https://media.fortniteapi.io/images/T-T-Icon-BR-SportsCar.png",
+            "stats": {
+                "Default.Valet.MinSpawnPercent.SportsCar.Upgrade": 30,
+                "Default.Valet.MaxSpawnPercent.SportsCar.Upgrade": 600,
+                "Default.Valet.SportsCar.MaxCanSpawn": 10000,
+                "Default.Valet.MinPercentWithGas.SportsCar.Upgrade": 6144,
+                "Default.Valet.MaxPercentWithGas.SportsCar.Upgrade": 1000,
+                "Default.Valet.MinPercentInoperable.SportsCar.Upgrade": 150,
+                "Default.Valet.MaxPercentInoperable.SportsCar.Upgrade": 0
+            },
+            "gears": [
+                {
+                    "TopSpeed": 23,
+                    "MinSpeed": 0,
+                    "PushForce": 4500,
+                    "RampTime": 0.1,
+                    "SteeringAngleMultiplier": 1,
+                    "bAutoBrake": true,
+                    "bIgnoreGravity": true
+                },
+                {
+                    "TopSpeed": 40,
+                    "MinSpeed": 23,
+                    "PushForce": 1900,
+                    "RampTime": 0.4,
+                    "SteeringAngleMultiplier": 0.8,
+                    "bAutoBrake": false,
+                    "bIgnoreGravity": true
+                },
+                {
+                    "TopSpeed": 75,
+                    "MinSpeed": 40,
+                    "PushForce": 1200,
+                    "RampTime": 0.5,
+                    "SteeringAngleMultiplier": 0.6,
+                    "bAutoBrake": false,
+                    "bIgnoreGravity": false
+                },
+                {
+                    "TopSpeed": 100,
+                    "MinSpeed": 75,
+                    "PushForce": 600,
+                    "RampTime": 0.6,
+                    "SteeringAngleMultiplier": 0.4,
+                    "bAutoBrake": false,
+                    "bIgnoreGravity": false
+                }
+            ],
+            "spawnNames": [
+                "sportscarupgrade",
+                "sportsupgrade"
+            ]
+        },
+        {
+            "id": "VID_Valet_BigRig_Vehicle_Rusted",
+            "name": "Mudflap",
+            "icon": "https://media.fortniteapi.io/images/T-T-Icon-BR-SemiTruck.png",
+            "stats": {
+                "Default.Valet.MinSpawnPercent.BigRig.Rusted": 10000,
+                "Default.Valet.MaxSpawnPercent.BigRig.Rusted": 150,
+                "Default.Valet.BigRig.MaxCanSpawn": 0,
+                "Default.Valet.MinPercentWithGas.BigRig.Rusted": 30,
+                "Default.Valet.MaxPercentWithGas.BigRig.Rusted": 600,
+                "Default.Valet.MinPercentInoperable.BigRig.Rusted": 6144,
+                "Default.Valet.MaxPercentInoperable.BigRig.Rusted": 1000
+            },
+            "gears": [
+                {
+                    "TopSpeed": 15,
+                    "MinSpeed": 0,
+                    "PushForce": 1500,
+                    "RampTime": 3,
+                    "SteeringAngleMultiplier": 1,
+                    "bAutoBrake": true,
+                    "bIgnoreGravity": true
+                },
+                {
+                    "TopSpeed": 28,
+                    "MinSpeed": 15,
+                    "PushForce": 1200,
+                    "RampTime": 4,
+                    "SteeringAngleMultiplier": 0.8,
+                    "bAutoBrake": false,
+                    "bIgnoreGravity": true
+                },
+                {
+                    "TopSpeed": 40,
+                    "MinSpeed": 28,
+                    "PushForce": 900,
+                    "RampTime": 5,
+                    "SteeringAngleMultiplier": 0.6,
+                    "bAutoBrake": false,
+                    "bIgnoreGravity": false
+                },
+                {
+                    "TopSpeed": 65,
+                    "MinSpeed": 40,
+                    "PushForce": 400,
+                    "RampTime": 6,
+                    "SteeringAngleMultiplier": 0.4,
+                    "bAutoBrake": false,
+                    "bIgnoreGravity": false
+                }
+            ],
+            "spawnNames": [
+                "bigrigrusted"
+            ]
+        },
+        {
+            "id": "VID_Valet_BigRig_Vehicle_Upgrade",
+            "name": "Mudflap OP-Max",
+            "icon": "https://media.fortniteapi.io/images/T-T-Icon-BR-SemiTruck.png",
+            "stats": {
+                "Default.Valet.MinSpawnPercent.BigRig.Upgrade": 10000,
+                "Default.Valet.MaxSpawnPercent.BigRig.Upgrade": 150,
+                "Default.Valet.BigRig.MaxCanSpawn": 0,
+                "Default.Valet.MinPercentWithGas.BigRig.Upgrade": 30,
+                "Default.Valet.MaxPercentWithGas.BigRig.Upgrade": 600,
+                "Default.Valet.MinPercentInoperable.BigRig.Upgrade": 6144,
+                "Default.Valet.MaxPercentInoperable.BigRig.Upgrade": 1000
+            },
+            "gears": [
+                {
+                    "TopSpeed": 15,
+                    "MinSpeed": 0,
+                    "PushForce": 1500,
+                    "RampTime": 2.8,
+                    "SteeringAngleMultiplier": 1,
+                    "bAutoBrake": true,
+                    "bIgnoreGravity": true
+                },
+                {
+                    "TopSpeed": 30,
+                    "MinSpeed": 15,
+                    "PushForce": 1200,
+                    "RampTime": 3.5,
+                    "SteeringAngleMultiplier": 0.8,
+                    "bAutoBrake": false,
+                    "bIgnoreGravity": true
+                },
+                {
+                    "TopSpeed": 45,
+                    "MinSpeed": 30,
+                    "PushForce": 900,
+                    "RampTime": 4,
+                    "SteeringAngleMultiplier": 0.6,
+                    "bAutoBrake": false,
+                    "bIgnoreGravity": false
+                },
+                {
+                    "TopSpeed": 70,
+                    "MinSpeed": 45,
+                    "PushForce": 400,
+                    "RampTime": 6,
+                    "SteeringAngleMultiplier": 0.4,
+                    "bAutoBrake": false,
+                    "bIgnoreGravity": false
+                }
+            ],
+            "spawnNames": [
+                "bigrigupgrade"
+            ]
+        },
+        {
+            "id": "VID_Valet_BasicTruck_Vehicle_Rusted",
+            "name": "Bear",
+            "icon": "https://media.fortniteapi.io/images/T-T-Icon-BR-PickupTruck.png",
+            "stats": {
+                "Default.Valet.MinSpawnPercent.BasicTruck.Rusted": 10000,
+                "Default.Valet.MaxSpawnPercent.BasicTruck.Rusted": 150,
+                "Default.Valet.BasicTruck.MaxCanSpawn": 0,
+                "Default.Valet.MinPercentWithGas.BasicTruck.Rusted": 30,
+                "Default.Valet.MaxPercentWithGas.BasicTruck.Rusted": 600,
+                "Default.Valet.MinPercentInoperable.BasicTruck.Rusted": 6144,
+                "Default.Valet.MaxPercentInoperable.BasicTruck.Rusted": 1000
+            },
+            "gears": [
+                {
+                    "TopSpeed": 20,
+                    "MinSpeed": 0,
+                    "PushForce": 1500,
+                    "RampTime": 4,
+                    "SteeringAngleMultiplier": 1,
+                    "bAutoBrake": true,
+                    "bIgnoreGravity": true
+                },
+                {
+                    "TopSpeed": 32,
+                    "MinSpeed": 20,
+                    "PushForce": 1000,
+                    "RampTime": 6,
+                    "SteeringAngleMultiplier": 0.5,
+                    "bAutoBrake": false,
+                    "bIgnoreGravity": true
+                },
+                {
+                    "TopSpeed": 50,
+                    "MinSpeed": 35,
+                    "PushForce": 700,
+                    "RampTime": 6,
+                    "SteeringAngleMultiplier": 0.35,
+                    "bAutoBrake": false,
+                    "bIgnoreGravity": false
+                },
+                {
+                    "TopSpeed": 100,
+                    "MinSpeed": 50,
+                    "PushForce": 300,
+                    "RampTime": 6,
+                    "SteeringAngleMultiplier": 0.2,
+                    "bAutoBrake": false,
+                    "bIgnoreGravity": false
+                }
+            ],
+            "spawnNames": [
+                "truckrusted"
+            ]
+        },
+        {
+            "id": "VID_Valet_BasicTruck_Vehicle_Upgrade",
+            "name": "Bear 4x4",
+            "icon": "https://media.fortniteapi.io/images/T-T-Icon-BR-PickupTruck.png",
+            "stats": {
+                "Default.Valet.MinSpawnPercent.BasicTruck.Upgrade": 10000,
+                "Default.Valet.MaxSpawnPercent.BasicTruck.Upgrade": 150,
+                "Default.Valet.BasicTruck.MaxCanSpawn": 0,
+                "Default.Valet.MinPercentWithGas.BasicTruck.Upgrade": 30,
+                "Default.Valet.MaxPercentWithGas.BasicTruck.Upgrade": 600,
+                "Default.Valet.MinPercentInoperable.BasicTruck.Upgrade": 6144,
+                "Default.Valet.MaxPercentInoperable.BasicTruck.Upgrade": 1000
+            },
+            "gears": [
+                {
+                    "TopSpeed": 22,
+                    "MinSpeed": 0,
+                    "PushForce": 1500,
+                    "RampTime": 3,
+                    "SteeringAngleMultiplier": 1,
+                    "bAutoBrake": true,
+                    "bIgnoreGravity": true
+                },
+                {
+                    "TopSpeed": 35,
+                    "MinSpeed": 22,
+                    "PushForce": 1000,
+                    "RampTime": 4.5,
+                    "SteeringAngleMultiplier": 0.5,
+                    "bAutoBrake": false,
+                    "bIgnoreGravity": true
+                },
+                {
+                    "TopSpeed": 55,
+                    "MinSpeed": 35,
+                    "PushForce": 700,
+                    "RampTime": 4,
+                    "SteeringAngleMultiplier": 0.35,
+                    "bAutoBrake": false,
+                    "bIgnoreGravity": false
+                },
+                {
+                    "TopSpeed": 100,
+                    "MinSpeed": 55,
+                    "PushForce": 300,
+                    "RampTime": 5.5,
+                    "SteeringAngleMultiplier": 0.2,
+                    "bAutoBrake": false,
+                    "bIgnoreGravity": false
+                }
+            ],
+            "spawnNames": [
+                "truckupgrade"
+            ]
+        },
+        {
+            "id": "VID_Valet_BasicCar_Vehicle_Rusted",
+            "name": "Prevalent",
+            "icon": "https://media.fortniteapi.io/images/T-T-Icon-BR-Sedan.png",
+            "stats": {
+                "Default.Valet.MinSpawnPercent.BasicCar.Rusted": 10000,
+                "Default.Valet.MaxSpawnPercent.BasicCar.Rusted": 150,
+                "Default.Valet.BasicCar.MaxCanSpawn": 0,
+                "Default.Valet.MinPercentWithGas.BasicCar.Rusted": 30,
+                "Default.Valet.MaxPercentWithGas.BasicCar.Rusted": 600,
+                "Default.Valet.MinPercentInoperable.BasicCar.Rusted": 6144,
+                "Default.Valet.MaxPercentInoperable.BasicCar.Rusted": 1000
+            },
+            "gears": [
+                {
+                    "TopSpeed": 20,
+                    "MinSpeed": 0,
+                    "PushForce": 1500,
+                    "RampTime": 1,
+                    "SteeringAngleMultiplier": 1,
+                    "bAutoBrake": true,
+                    "bIgnoreGravity": true
+                },
+                {
+                    "TopSpeed": 35,
+                    "MinSpeed": 20,
+                    "PushForce": 1200,
+                    "RampTime": 2,
+                    "SteeringAngleMultiplier": 0.8,
+                    "bAutoBrake": false,
+                    "bIgnoreGravity": true
+                },
+                {
+                    "TopSpeed": 50,
+                    "MinSpeed": 35,
+                    "PushForce": 900,
+                    "RampTime": 2,
+                    "SteeringAngleMultiplier": 0.6,
+                    "bAutoBrake": false,
+                    "bIgnoreGravity": false
+                },
+                {
+                    "TopSpeed": 65,
+                    "MinSpeed": 50,
+                    "PushForce": 400,
+                    "RampTime": 3,
+                    "SteeringAngleMultiplier": 0.4,
+                    "bAutoBrake": false,
+                    "bIgnoreGravity": false
+                }
+            ],
+            "spawnNames": [
+                "basicrusted"
+            ]
+        },
+        {
+            "id": "VID_Valet_BasicCar_Vehicle_Upgrade",
+            "name": "Prevalent GG2020",
+            "icon": "https://media.fortniteapi.io/images/T-T-Icon-BR-Sedan.png",
+            "stats": {
+                "Default.Valet.MinSpawnPercent.BasicCar.Upgrade": 10000,
+                "Default.Valet.MaxSpawnPercent.BasicCar.Upgrade": 150,
+                "Default.Valet.BasicCar.MaxCanSpawn": 0,
+                "Default.Valet.MinPercentWithGas.BasicCar.Upgrade": 30,
+                "Default.Valet.MaxPercentWithGas.BasicCar.Upgrade": 600,
+                "Default.Valet.MinPercentInoperable.BasicCar.Upgrade": 6144,
+                "Default.Valet.MaxPercentInoperable.BasicCar.Upgrade": 1000
+            },
+            "gears": [
+                {
+                    "TopSpeed": 20,
+                    "MinSpeed": 0,
+                    "PushForce": 1500,
+                    "RampTime": 0.8,
+                    "SteeringAngleMultiplier": 1,
+                    "bAutoBrake": true,
+                    "bIgnoreGravity": true
+                },
+                {
+                    "TopSpeed": 35,
+                    "MinSpeed": 20,
+                    "PushForce": 1200,
+                    "RampTime": 1.8,
+                    "SteeringAngleMultiplier": 0.8,
+                    "bAutoBrake": false,
+                    "bIgnoreGravity": true
+                },
+                {
+                    "TopSpeed": 55,
+                    "MinSpeed": 35,
+                    "PushForce": 900,
+                    "RampTime": 1.8,
+                    "SteeringAngleMultiplier": 0.7,
+                    "bAutoBrake": false,
+                    "bIgnoreGravity": false
+                },
+                {
+                    "TopSpeed": 70,
+                    "MinSpeed": 55,
+                    "PushForce": 400,
+                    "RampTime": 2.5,
+                    "SteeringAngleMultiplier": 0.5,
+                    "bAutoBrake": false,
+                    "bIgnoreGravity": false
+                }
+            ],
+            "spawnNames": [
+                "basicupgrade"
+            ]
+        },
+        {
+            "id": "VID_AntelopeVehicle",
+            "name": "Quadcrasher",
+            "icon": "https://media.fortniteapi.io/images/T-Icon-Vehicle-QuadBike.png",
+            "stats": {
+                "Default.QuadBike.MinSpawnPercent": 150,
+                "Default.QuadBike.MaxSpawnPercent": 600
+            },
+            "gears": [
+                {
+                    "TopSpeed": 22,
+                    "MinSpeed": 0,
+                    "PushForce": 1500,
+                    "RampTime": 1,
+                    "SteeringAngleMultiplier": 1,
+                    "bAutoBrake": true,
+                    "bIgnoreGravity": true
+                },
+                {
+                    "TopSpeed": 30,
+                    "MinSpeed": 22,
+                    "PushForce": 1800,
+                    "RampTime": 2,
+                    "SteeringAngleMultiplier": 0.8,
+                    "bAutoBrake": false,
+                    "bIgnoreGravity": false
+                },
+                {
+                    "TopSpeed": 35,
+                    "MinSpeed": 30,
+                    "PushForce": 1500,
+                    "RampTime": 3,
+                    "SteeringAngleMultiplier": 0.55,
+                    "bAutoBrake": false,
+                    "bIgnoreGravity": false
+                }
+            ],
+            "spawnNames": [
+                "atv",
+                "antelope",
+                "quadcrasher",
+                "quad"
+            ]
+        },
+        {
+            "id": "VID_JackalVehicle_Athena",
+            "name": "Driftboard",
+            "icon": "https://media.fortniteapi.io/images/T-Icon-Device-Hoverboard-Spawn.png",
+            "stats": {
+                "Default.SafeZone.MeteorDropMinCount": 1000,
+                "Default.HoverBoard.MaxSpawnPercent": 0
+            },
+            "gears": [
+                {
+                    "TopSpeed": 10,
+                    "MinSpeed": 0,
+                    "PushForce": 800,
+                    "RampTime": 1,
+                    "SteeringAngleMultiplier": 2,
+                    "bAutoBrake": true,
+                    "bIgnoreGravity": true
+                },
+                {
+                    "TopSpeed": 16,
+                    "MinSpeed": 10,
+                    "PushForce": 800,
+                    "RampTime": 1,
+                    "SteeringAngleMultiplier": 1,
+                    "bAutoBrake": false,
+                    "bIgnoreGravity": false
+                },
+                {
+                    "TopSpeed": 28,
+                    "MinSpeed": 16,
+                    "PushForce": 1100,
+                    "RampTime": 1,
+                    "SteeringAngleMultiplier": 0.75,
+                    "bAutoBrake": false,
+                    "bIgnoreGravity": false
+                }
+            ],
+            "spawnNames": [
+                "hoverboard",
+                "jackal"
+            ]
+        },
+        {
+            "id": "VID_MountedTurret",
+            "name": "Mounted Turret",
+            "icon": "https://media.fortniteapi.io/images/T-Icon-Weapons-Turret-Gun.png",
+            "stats": {
+                "Default.MountedTurret.MinSpawnPercent": 1000,
+                "Default.MountedTurret.MaxSpawnPercent": 0
+            },
+            "gears": [],
+            "spawnNames": [
+                "mountedturret"
+            ]
+        },
+        {
+            "id": "VID_MountedTurretPlaceable",
+            "name": "Mounted Turret",
+            "icon": "https://media.fortniteapi.io/images/T-Icon-Weapons-Turret-Gun.png",
+            "stats": {
+                "Default.MountedTurret.MinSpawnPercent": 1000,
+                "Default.MountedTurret.MaxSpawnPercent": 0
+            },
+            "gears": [],
+            "spawnNames": [
+                "mountedturretPlaceable"
+            ]
+        },
+        {
+            "id": "VID_PushCannon",
+            "name": "Pirate Cannon",
+            "icon": "https://media.fortniteapi.io/images/T-Vehicles-Ship-Cannon-Veh.png",
+            "stats": {
+                "Default.Cannon.MinSpawnPercent": 1000,
+                "Default.Cannon.MaxSpawnPercent": 0
+            },
+            "gears": [
+                {
+                    "TopSpeed": 1,
+                    "MinSpeed": 0,
+                    "PushForce": 3000,
+                    "RampTime": 3,
+                    "SteeringAngleMultiplier": 1,
+                    "bAutoBrake": true,
+                    "bIgnoreGravity": true
+                },
+                {
+                    "TopSpeed": 7,
+                    "MinSpeed": 1,
+                    "PushForce": 3000,
+                    "RampTime": 3,
+                    "SteeringAngleMultiplier": 1,
+                    "bAutoBrake": true,
+                    "bIgnoreGravity": true
+                },
+                {
+                    "TopSpeed": 10,
+                    "MinSpeed": 7,
+                    "PushForce": 500,
+                    "RampTime": 1,
+                    "SteeringAngleMultiplier": 1,
+                    "bAutoBrake": true,
+                    "bIgnoreGravity": true
+                }
+            ],
+            "spawnNames": [
+                "cannon"
+            ]
+        },
+        {
+            "id": "VID_ShoppingCartVehicleSK",
+            "name": "Shopping Cart",
+            "icon": "https://media.fortniteapi.io/images/T-Icon-Vehicle-ShoppingCart.png",
+            "stats": {
+                "Default.ShoppingCart.MinSpawnPercent": 1000,
+                "Default.ShoppingCart.MaxSpawnPercent": 0
+            },
+            "gears": [
+                {
+                    "TopSpeed": 1,
+                    "MinSpeed": 0,
+                    "PushForce": 6000,
+                    "RampTime": 3,
+                    "SteeringAngleMultiplier": 1,
+                    "bAutoBrake": true,
+                    "bIgnoreGravity": true
+                },
+                {
+                    "TopSpeed": 10,
+                    "MinSpeed": 1,
+                    "PushForce": 6000,
+                    "RampTime": 3,
+                    "SteeringAngleMultiplier": 1,
+                    "bAutoBrake": true,
+                    "bIgnoreGravity": true
+                },
+                {
+                    "TopSpeed": 15,
+                    "MinSpeed": 10,
+                    "PushForce": 1000,
+                    "RampTime": 1,
+                    "SteeringAngleMultiplier": 1,
+                    "bAutoBrake": true,
+                    "bIgnoreGravity": true
+                }
+            ],
+            "spawnNames": [
+                "shoppingcart",
+                "shopping",
+                "shopping cart"
+            ]
+        },
+        {
+            "id": "VID_TestMechVehicle",
+            "name": "B.R.U.T.E",
+            "icon": "https://media.fortniteapi.io/images/T-Icon-Device-MechSpawner-L.png",
+            "stats": {},
+            "gears": [],
+            "spawnNames": [
+                "mech",
+                "ostrich"
+            ]
+        },
+        {
+            "id": "VID_GolfCartVehicleSK",
+            "name": "All Terrain Kart (ATK)",
+            "icon": "https://media.fortniteapi.io/images/T-Icon-Vehicle-GolfCart.png",
+            "stats": {
+                "Default.GolfCart.MinSpawnPercent": 1000,
+                "Default.GolfCart.MaxSpawnPercent": 0
+            },
+            "gears": [
+                {
+                    "TopSpeed": 15,
+                    "MinSpeed": 0,
+                    "PushForce": 1500,
+                    "RampTime": 1,
+                    "SteeringAngleMultiplier": 1,
+                    "bAutoBrake": false,
+                    "bIgnoreGravity": true
+                },
+                {
+                    "TopSpeed": 38,
+                    "MinSpeed": 15,
+                    "PushForce": 1400,
+                    "RampTime": 2,
+                    "SteeringAngleMultiplier": 0.8,
+                    "bAutoBrake": true,
+                    "bIgnoreGravity": true
+                },
+                {
+                    "TopSpeed": 42,
+                    "MinSpeed": 38,
+                    "PushForce": 600,
+                    "RampTime": 3,
+                    "SteeringAngleMultiplier": 0.6,
+                    "bAutoBrake": false,
+                    "bIgnoreGravity": false
+                }
+            ],
+            "spawnNames": [
+                "golfcart",
+                "golf",
+                "golf cart"
+            ]
+        },
+        {
+            "id": "VID_FerretVehicle",
+            "name": "X4 Stormwing",
+            "icon": "https://media.fortniteapi.io/images/T-Icon-Vehicle-Biplane-L.png",
+            "stats": {
+                "Default.BiPlane.MinSpawnPercent": 1000,
+                "Default.BiPlane.MaxSpawnPercent": 0
+            },
+            "gears": [
+                {
+                    "TopSpeed": 6,
+                    "MinSpeed": 0,
+                    "PushForce": 600,
+                    "RampTime": 1,
+                    "SteeringAngleMultiplier": 4,
+                    "bAutoBrake": false,
+                    "bIgnoreGravity": false
+                }
+            ],
+            "spawnNames": [
+                "biplane",
+                "ferret"
+            ]
+        },
+        {
+            "id": "VID_Valet_BasicCar_Vehicle",
+            "name": "Prevalent",
+            "icon": "https://media.fortniteapi.io/images/T-T-Icon-BR-Sedan.png",
+            "stats": {
+                "Default.Valet.MinSpawnPercent.BasicCar": 10000,
+                "Default.Valet.MaxSpawnPercent.BasicCar": 150,
+                "Default.Valet.BasicCar.MaxCanSpawn": 0,
+                "Default.Valet.MinPercentWithGas.BasicCar": 30,
+                "Default.Valet.MaxPercentWithGas.BasicCar": 600,
+                "Default.Valet.MinPercentInoperable.BasicCar": 6144,
+                "Default.Valet.MaxPercentInoperable.BasicCar": 1000
+            },
+            "gears": [
+                {
+                    "TopSpeed": 20,
+                    "MinSpeed": 0,
+                    "PushForce": 1500,
+                    "RampTime": 1,
+                    "SteeringAngleMultiplier": 1,
+                    "bAutoBrake": true,
+                    "bIgnoreGravity": true
+                },
+                {
+                    "TopSpeed": 35,
+                    "MinSpeed": 20,
+                    "PushForce": 1200,
+                    "RampTime": 2,
+                    "SteeringAngleMultiplier": 0.8,
+                    "bAutoBrake": false,
+                    "bIgnoreGravity": true
+                },
+                {
+                    "TopSpeed": 50,
+                    "MinSpeed": 35,
+                    "PushForce": 900,
+                    "RampTime": 2,
+                    "SteeringAngleMultiplier": 0.6,
+                    "bAutoBrake": false,
+                    "bIgnoreGravity": false
+                },
+                {
+                    "TopSpeed": 65,
+                    "MinSpeed": 50,
+                    "PushForce": 400,
+                    "RampTime": 3,
+                    "SteeringAngleMultiplier": 0.4,
+                    "bAutoBrake": false,
+                    "bIgnoreGravity": false
+                }
+            ],
+            "spawnNames": [
+                "basic"
+            ]
+        },
+        {
+            "id": "VID_HoagieVehicle",
+            "name": "CHOPPA",
+            "icon": "https://media.fortniteapi.io/images/T-T-Icon-BR-HoagieVehicle.png",
+            "stats": {
+                "Default.Choppa.MinSpawnPercent": 6144,
+                "Default.Choppa.MaxSpawnPercent": 150
+            },
+            "gears": [
+                {
+                    "TopSpeed": 22,
+                    "MinSpeed": 0,
+                    "PushForce": 1500,
+                    "RampTime": 1,
+                    "SteeringAngleMultiplier": 1,
+                    "bAutoBrake": true,
+                    "bIgnoreGravity": true
+                },
+                {
+                    "TopSpeed": 30,
+                    "MinSpeed": 22,
+                    "PushForce": 1800,
+                    "RampTime": 2,
+                    "SteeringAngleMultiplier": 0.8,
+                    "bAutoBrake": false,
+                    "bIgnoreGravity": false
+                },
+                {
+                    "TopSpeed": 35,
+                    "MinSpeed": 30,
+                    "PushForce": 1500,
+                    "RampTime": 3,
+                    "SteeringAngleMultiplier": 0.55,
+                    "bAutoBrake": false,
+                    "bIgnoreGravity": false
+                }
+            ],
+            "spawnNames": [
+                "helicopter",
+                "hoagie",
+                "choppa"
+            ]
+        },
+        {
+            "id": "VID_HoagieVehicle_SpyBase",
+            "name": "CHOPPA",
+            "icon": "https://media.fortniteapi.io/images/T-T-Icon-BR-HoagieVehicle.png",
+            "stats": {
+                "Default.SpyBaseChoppa.MinSpawnPercent": 600,
+                "Default.SpyBaseChoppa.MaxSpawnPercent": 1000
+            },
+            "gears": [
+                {
+                    "TopSpeed": 22,
+                    "MinSpeed": 0,
+                    "PushForce": 1500,
+                    "RampTime": 1,
+                    "SteeringAngleMultiplier": 1,
+                    "bAutoBrake": true,
+                    "bIgnoreGravity": true
+                },
+                {
+                    "TopSpeed": 30,
+                    "MinSpeed": 22,
+                    "PushForce": 1800,
+                    "RampTime": 2,
+                    "SteeringAngleMultiplier": 0.8,
+                    "bAutoBrake": false,
+                    "bIgnoreGravity": false
+                },
+                {
+                    "TopSpeed": 35,
+                    "MinSpeed": 30,
+                    "PushForce": 1500,
+                    "RampTime": 3,
+                    "SteeringAngleMultiplier": 0.55,
+                    "bAutoBrake": false,
+                    "bIgnoreGravity": false
+                }
+            ],
+            "spawnNames": []
+        },
+        {
+            "id": "VID_Nevada_Vehicle",
+            "name": "Saucer",
+            "icon": "https://media.fortniteapi.io/images/T-T-Icon-BR-NevadaVehicle-L.png",
+            "stats": {
+                "Default.Nevada.MinSpawnPercent": 100,
+                "Default.Nevada.MaxSpawnPercent": 100,
+                "Default.Valet.BasicTruck.MaxCanSpawn": 6144,
+                "Default.Valet.MinPercentWithGas.BasicTruck": 10000,
+                "Default.Valet.MaxPercentWithGas.BasicTruck": 30
+            },
+            "gears": [
+                {
+                    "TopSpeed": 1,
+                    "MinSpeed": 0,
+                    "PushForce": 1,
+                    "RampTime": 1,
+                    "SteeringAngleMultiplier": 1,
+                    "bAutoBrake": true,
+                    "bIgnoreGravity": false
+                }
+            ],
+            "spawnNames": [
+                "ufo",
+                "nevada"
+            ]
+        },
+        {
+            "id": "WID_OctopusVehicle",
+            "name": "Baller",
+            "icon": "https://media.fortniteapi.io/images/T-Vehicles-HamsterBall.png",
+            "stats": {
+                "Default.HamsterBall.MinSpawnPercent": 1000,
+                "Default.HamsterBall.MaxSpawnPercent": 0
+            },
+            "gears": [],
+            "spawnNames": [
+                "baller",
+                "hamster",
+                "octopus"
+            ]
+        },
+        {
+            "id": "VID_Valet_BigRig_Vehicle_IO",
+            "name": "Mudflap OP-Max",
+            "icon": "https://media.fortniteapi.io/images/T-T-Icon-BR-SemiTruck.png",
+            "stats": {
+                "Default.Valet.MinSpawnPercent.BigRig.IO": 10000,
+                "Default.Valet.MaxSpawnPercent.BigRig.IO": 150,
+                "Default.Valet.BigRig.MaxCanSpawn": 0,
+                "Default.Valet.MinPercentWithGas.BigRig.IO": 30,
+                "Default.Valet.MaxPercentWithGas.BigRig.IO": 600,
+                "Default.Valet.MinPercentInoperable.BigRig.IO": 6144,
+                "Default.Valet.MaxPercentInoperable.BigRig.IO": 1000
+            },
+            "gears": [
+                {
+                    "TopSpeed": 15,
+                    "MinSpeed": 0,
+                    "PushForce": 1500,
+                    "RampTime": 2.8,
+                    "SteeringAngleMultiplier": 1,
+                    "bAutoBrake": true,
+                    "bIgnoreGravity": true
+                },
+                {
+                    "TopSpeed": 30,
+                    "MinSpeed": 15,
+                    "PushForce": 1200,
+                    "RampTime": 3.5,
+                    "SteeringAngleMultiplier": 0.8,
+                    "bAutoBrake": false,
+                    "bIgnoreGravity": true
+                },
+                {
+                    "TopSpeed": 45,
+                    "MinSpeed": 30,
+                    "PushForce": 900,
+                    "RampTime": 4,
+                    "SteeringAngleMultiplier": 0.6,
+                    "bAutoBrake": false,
+                    "bIgnoreGravity": false
+                },
+                {
+                    "TopSpeed": 70,
+                    "MinSpeed": 45,
+                    "PushForce": 400,
+                    "RampTime": 6,
+                    "SteeringAngleMultiplier": 0.4,
+                    "bAutoBrake": false,
+                    "bIgnoreGravity": false
+                }
+            ],
+            "spawnNames": [
+                "bigrigio"
+            ]
+        },
+        {
+            "id": "VID_WarEffortMech",
+            "name": "Salvaged B.R.U.T.E",
+            "icon": "https://media.fortniteapi.io/images/T-Icon-Device-MechSpawner-L.png",
+            "stats": {},
+            "gears": [],
+            "spawnNames": [
+                "wareffortmech",
+                "s18mech"
+            ]
+        },
+        {
+            "id": "VID_AntiVehicleMountedTurret",
+            "name": "Heavy Turret",
+            "icon": "https://media.fortniteapi.io/images/T-T-Icon-BR-AntiVehicleMountedTurret.png",
+            "stats": {
+                "Default.AVT.MinSpawnPercent": 30000,
+                "Default.AVT.MaxSpawnPercent": 25000
+            },
+            "gears": [],
+            "spawnNames": [
+                "antivehiclemountedturret"
+            ]
+        },
+        {
+            "id": "VID_SevenMountedTurret",
+            "name": "Light Turret",
+            "icon": "https://media.fortniteapi.io/images/T-T-Icon-BR-AntiPersonnelMountedTurret.png",
+            "stats": {
+                "Default.SevenTurret.MinSpawnPercent": 30000,
+                "Default.SevenTurret.MaxSpawnPercent": 25000
+            },
+            "gears": [],
+            "spawnNames": [
+                "sevenmountedturret"
+            ]
+        },
+        {
+            "id": "VID_MountedCannon",
+            "name": "Siege Cannon",
+            "icon": "https://media.fortniteapi.io/images/T-T-Icon-BR-MountedCannon.png",
+            "stats": {
+                "Default.MountedCannon.MinSpawnPercent": 1,
+                "Default.MountedCannon.MaxSpawnPercent": 100
+            },
+            "gears": [],
+            "spawnNames": [
+                "mountedcannon"
+            ]
+        },
+        {
+            "id": "VID_HoagieVehicle_Seven",
+            "name": "CHOPPA",
+            "icon": "https://media.fortniteapi.io/images/T-T-Icon-BR-SevenChoppaVehicle.png",
+            "stats": {
+                "Default.Choppa.MinSpawnPercent": 6144,
+                "Default.Choppa.MaxSpawnPercent": 150
+            },
+            "gears": [
+                {
+                    "TopSpeed": 22,
+                    "MinSpeed": 0,
+                    "PushForce": 1500,
+                    "RampTime": 1,
+                    "SteeringAngleMultiplier": 1,
+                    "bAutoBrake": true,
+                    "bIgnoreGravity": true
+                },
+                {
+                    "TopSpeed": 30,
+                    "MinSpeed": 22,
+                    "PushForce": 1800,
+                    "RampTime": 2,
+                    "SteeringAngleMultiplier": 0.8,
+                    "bAutoBrake": false,
+                    "bIgnoreGravity": false
+                },
+                {
+                    "TopSpeed": 35,
+                    "MinSpeed": 30,
+                    "PushForce": 1500,
+                    "RampTime": 3,
+                    "SteeringAngleMultiplier": 0.55,
+                    "bAutoBrake": false,
+                    "bIgnoreGravity": false
+                }
+            ],
+            "spawnNames": [
+                "sevenhelicopter",
+                "sevenhoagie",
+                "sevenchoppa"
+            ]
+        },
+        {
+            "id": "VID_Tank_Vehicle_Seven",
+            "name": "IO Titan Tank",
+            "icon": "https://media.fortniteapi.io/images/T-T-Icon-BR-SevenTankVehicle.png",
+            "stats": {
+                "Vehicle.Tank.Spawn.MinSpawnPercent": -0.7,
+                "Vehicle.Tank.Spawn.MaxSpawnPercent": 2500,
+                "Default.Tank.Spawn.MaxNumberCanSpawn": 1,
+                "Default.Tank.Spawn.MaxPercentWithGas": 1,
+                "Default.Tank.Spawn.MinPercentInoperable": 2500,
+                "Default.Tank.Spawn.MaxPercentInoperable": 0
+            },
+            "gears": [
+                {
+                    "TopSpeed": 3,
+                    "MinSpeed": 0,
+                    "PushForce": 3000,
+                    "RampTime": 15,
+                    "SteeringAngleMultiplier": 1,
+                    "bAutoBrake": true,
+                    "bIgnoreGravity": true
+                },
+                {
+                    "TopSpeed": 5,
+                    "MinSpeed": 3,
+                    "PushForce": 3000,
+                    "RampTime": 15,
+                    "SteeringAngleMultiplier": 1,
+                    "bAutoBrake": true,
+                    "bIgnoreGravity": true
+                },
+                {
+                    "TopSpeed": 10,
+                    "MinSpeed": 5,
+                    "PushForce": 3000,
+                    "RampTime": 15,
+                    "SteeringAngleMultiplier": 1,
+                    "bAutoBrake": false,
+                    "bIgnoreGravity": true
+                },
+                {
+                    "TopSpeed": 18,
+                    "MinSpeed": 10,
+                    "PushForce": 2500,
+                    "RampTime": 15,
+                    "SteeringAngleMultiplier": 0.9,
+                    "bAutoBrake": false,
+                    "bIgnoreGravity": false
+                },
+                {
+                    "TopSpeed": 25,
+                    "MinSpeed": 18,
+                    "PushForce": 1000,
+                    "RampTime": 8,
+                    "SteeringAngleMultiplier": 0.9,
+                    "bAutoBrake": false,
+                    "bIgnoreGravity": false
+                },
+                {
+                    "TopSpeed": 35,
+                    "MinSpeed": 25,
+                    "PushForce": 200,
+                    "RampTime": 6,
+                    "SteeringAngleMultiplier": 0.6,
+                    "bAutoBrake": false,
+                    "bIgnoreGravity": false
+                }
+            ],
+            "spawnNames": [
+                "tankseven",
+                "seventank"
+            ]
+        },
+        {
+            "id": "VID_Tank_Vehicle",
+            "name": "IO Titan Tank",
+            "icon": "https://media.fortniteapi.io/images/T-T-Icon-BR-TankVehicle.png",
+            "stats": {
+                "Vehicle.Tank.Spawn.MinSpawnPercent": -0.7,
+                "Vehicle.Tank.Spawn.MaxSpawnPercent": 2500,
+                "Default.Tank.Spawn.MaxNumberCanSpawn": 1,
+                "Default.Tank.Spawn.MaxPercentWithGas": 1,
+                "Default.Tank.Spawn.MinPercentInoperable": 2500,
+                "Default.Tank.Spawn.MaxPercentInoperable": 0
+            },
+            "gears": [
+                {
+                    "TopSpeed": 3,
+                    "MinSpeed": 0,
+                    "PushForce": 3000,
+                    "RampTime": 15,
+                    "SteeringAngleMultiplier": 1,
+                    "bAutoBrake": true,
+                    "bIgnoreGravity": true
+                },
+                {
+                    "TopSpeed": 5,
+                    "MinSpeed": 3,
+                    "PushForce": 3000,
+                    "RampTime": 15,
+                    "SteeringAngleMultiplier": 1,
+                    "bAutoBrake": true,
+                    "bIgnoreGravity": true
+                },
+                {
+                    "TopSpeed": 10,
+                    "MinSpeed": 5,
+                    "PushForce": 3000,
+                    "RampTime": 15,
+                    "SteeringAngleMultiplier": 1,
+                    "bAutoBrake": false,
+                    "bIgnoreGravity": true
+                },
+                {
+                    "TopSpeed": 18,
+                    "MinSpeed": 10,
+                    "PushForce": 2500,
+                    "RampTime": 15,
+                    "SteeringAngleMultiplier": 0.9,
+                    "bAutoBrake": false,
+                    "bIgnoreGravity": false
+                },
+                {
+                    "TopSpeed": 25,
+                    "MinSpeed": 18,
+                    "PushForce": 1000,
+                    "RampTime": 8,
+                    "SteeringAngleMultiplier": 0.9,
+                    "bAutoBrake": false,
+                    "bIgnoreGravity": false
+                },
+                {
+                    "TopSpeed": 35,
+                    "MinSpeed": 25,
+                    "PushForce": 200,
+                    "RampTime": 6,
+                    "SteeringAngleMultiplier": 0.6,
+                    "bAutoBrake": false,
+                    "bIgnoreGravity": false
+                }
+            ],
+            "spawnNames": [
+                "tank"
+            ]
+        },
+        {
+            "id": "VID_Tank_Vehicle_DailyBugle",
+            "name": "IO Titan Tank",
+            "icon": "https://media.fortniteapi.io/images/T-T-Icon-BR-TankVehicle.png",
+            "stats": {
+                "Vehicle.Tank.Spawn.MinSpawnPercent.DailyBugle": -0.7,
+                "Vehicle.Tank.Spawn.MaxSpawnPercent.DailyBugle": 2500,
+                "Default.Tank.Spawn.MaxNumberCanSpawn.DailyBugle": 1,
+                "Default.Tank.Spawn.MaxPercentWithGas": 1,
+                "Default.Tank.Spawn.MinPercentInoperable": 2500,
+                "Default.Tank.Spawn.MaxPercentInoperable": 0
+            },
+            "gears": [
+                {
+                    "TopSpeed": 3,
+                    "MinSpeed": 0,
+                    "PushForce": 3000,
+                    "RampTime": 15,
+                    "SteeringAngleMultiplier": 1,
+                    "bAutoBrake": true,
+                    "bIgnoreGravity": true
+                },
+                {
+                    "TopSpeed": 5,
+                    "MinSpeed": 3,
+                    "PushForce": 3000,
+                    "RampTime": 15,
+                    "SteeringAngleMultiplier": 1,
+                    "bAutoBrake": true,
+                    "bIgnoreGravity": true
+                },
+                {
+                    "TopSpeed": 10,
+                    "MinSpeed": 5,
+                    "PushForce": 3000,
+                    "RampTime": 15,
+                    "SteeringAngleMultiplier": 1,
+                    "bAutoBrake": false,
+                    "bIgnoreGravity": true
+                },
+                {
+                    "TopSpeed": 18,
+                    "MinSpeed": 10,
+                    "PushForce": 2500,
+                    "RampTime": 15,
+                    "SteeringAngleMultiplier": 0.9,
+                    "bAutoBrake": false,
+                    "bIgnoreGravity": false
+                },
+                {
+                    "TopSpeed": 25,
+                    "MinSpeed": 18,
+                    "PushForce": 1000,
+                    "RampTime": 8,
+                    "SteeringAngleMultiplier": 0.9,
+                    "bAutoBrake": false,
+                    "bIgnoreGravity": false
+                },
+                {
+                    "TopSpeed": 35,
+                    "MinSpeed": 25,
+                    "PushForce": 200,
+                    "RampTime": 6,
+                    "SteeringAngleMultiplier": 0.6,
+                    "bAutoBrake": false,
+                    "bIgnoreGravity": false
+                }
+            ],
+            "spawnNames": [
+                "tankdailybugle",
+                "dailybugletank"
+            ]
+        },
+        {
+            "id": "VID_Valet_BasicTruck_Vehicle_Camo_White",
+            "name": "Bear",
+            "icon": "https://media.fortniteapi.io/images/T-T-Icon-BR-PickupTruck.png",
+            "stats": {
+                "Default.Valet.MinSpawnPercent.BasicTruck": 10000,
+                "Default.Valet.MaxSpawnPercent.BasicTruck": 150,
+                "Default.Valet.BasicTruck.MaxCanSpawn": 0,
+                "Default.Valet.MinPercentWithGas.BasicTruck": 30,
+                "Default.Valet.MaxPercentWithGas.BasicTruck": 600,
+                "Default.Valet.MinPercentInoperable.BasicTruck": 6144,
+                "Default.Valet.MaxPercentInoperable.BasicTruck": 1000
+            },
+            "gears": [
+                {
+                    "TopSpeed": 20,
+                    "MinSpeed": 0,
+                    "PushForce": 1500,
+                    "RampTime": 4,
+                    "SteeringAngleMultiplier": 1,
+                    "bAutoBrake": true,
+                    "bIgnoreGravity": true
+                },
+                {
+                    "TopSpeed": 32,
+                    "MinSpeed": 20,
+                    "PushForce": 1000,
+                    "RampTime": 6,
+                    "SteeringAngleMultiplier": 0.5,
+                    "bAutoBrake": false,
+                    "bIgnoreGravity": true
+                },
+                {
+                    "TopSpeed": 50,
+                    "MinSpeed": 35,
+                    "PushForce": 700,
+                    "RampTime": 6,
+                    "SteeringAngleMultiplier": 0.35,
+                    "bAutoBrake": false,
+                    "bIgnoreGravity": false
+                },
+                {
+                    "TopSpeed": 100,
+                    "MinSpeed": 50,
+                    "PushForce": 300,
+                    "RampTime": 6,
+                    "SteeringAngleMultiplier": 0.2,
+                    "bAutoBrake": false,
+                    "bIgnoreGravity": false
+                }
+            ],
+            "spawnNames": [
+                "truckcamowhite"
+            ]
+        },
+        {
+            "id": "VID_Valet_BasicTruck_Vehicle_Camo_Green",
+            "name": "Bear",
+            "icon": "https://media.fortniteapi.io/images/T-T-Icon-BR-PickupTruck.png",
+            "stats": {
+                "Default.Valet.MinSpawnPercent.BasicTruck": 10000,
+                "Default.Valet.MaxSpawnPercent.BasicTruck": 150,
+                "Default.Valet.BasicTruck.MaxCanSpawn": 0,
+                "Default.Valet.MinPercentWithGas.BasicTruck": 30,
+                "Default.Valet.MaxPercentWithGas.BasicTruck": 600,
+                "Default.Valet.MinPercentInoperable.BasicTruck": 6144,
+                "Default.Valet.MaxPercentInoperable.BasicTruck": 1000
+            },
+            "gears": [
+                {
+                    "TopSpeed": 20,
+                    "MinSpeed": 0,
+                    "PushForce": 1500,
+                    "RampTime": 4,
+                    "SteeringAngleMultiplier": 1,
+                    "bAutoBrake": true,
+                    "bIgnoreGravity": true
+                },
+                {
+                    "TopSpeed": 32,
+                    "MinSpeed": 20,
+                    "PushForce": 1000,
+                    "RampTime": 6,
+                    "SteeringAngleMultiplier": 0.5,
+                    "bAutoBrake": false,
+                    "bIgnoreGravity": true
+                },
+                {
+                    "TopSpeed": 50,
+                    "MinSpeed": 35,
+                    "PushForce": 700,
+                    "RampTime": 6,
+                    "SteeringAngleMultiplier": 0.35,
+                    "bAutoBrake": false,
+                    "bIgnoreGravity": false
+                },
+                {
+                    "TopSpeed": 100,
+                    "MinSpeed": 50,
+                    "PushForce": 300,
+                    "RampTime": 6,
+                    "SteeringAngleMultiplier": 0.2,
+                    "bAutoBrake": false,
+                    "bIgnoreGravity": false
+                }
+            ],
+            "spawnNames": [
+                "truckcamogreen"
+            ]
+        },
+        {
+            "id": "VID_Valet_BasicCar_Vehicle_Camo_White",
+            "name": "Prevalent",
+            "icon": "https://media.fortniteapi.io/images/T-T-Icon-BR-Sedan.png",
+            "stats": {
+                "Default.Valet.MinSpawnPercent.BasicCar": 10000,
+                "Default.Valet.MaxSpawnPercent.BasicCar": 150,
+                "Default.Valet.BasicCar.MaxCanSpawn": 0,
+                "Default.Valet.MinPercentWithGas.BasicCar": 30,
+                "Default.Valet.MaxPercentWithGas.BasicCar": 600,
+                "Default.Valet.MinPercentInoperable.BasicCar": 6144,
+                "Default.Valet.MaxPercentInoperable.BasicCar": 1000
+            },
+            "gears": [
+                {
+                    "TopSpeed": 20,
+                    "MinSpeed": 0,
+                    "PushForce": 1500,
+                    "RampTime": 1,
+                    "SteeringAngleMultiplier": 1,
+                    "bAutoBrake": true,
+                    "bIgnoreGravity": true
+                },
+                {
+                    "TopSpeed": 35,
+                    "MinSpeed": 20,
+                    "PushForce": 1200,
+                    "RampTime": 2,
+                    "SteeringAngleMultiplier": 0.8,
+                    "bAutoBrake": false,
+                    "bIgnoreGravity": true
+                },
+                {
+                    "TopSpeed": 50,
+                    "MinSpeed": 35,
+                    "PushForce": 900,
+                    "RampTime": 2,
+                    "SteeringAngleMultiplier": 0.6,
+                    "bAutoBrake": false,
+                    "bIgnoreGravity": false
+                },
+                {
+                    "TopSpeed": 65,
+                    "MinSpeed": 50,
+                    "PushForce": 400,
+                    "RampTime": 3,
+                    "SteeringAngleMultiplier": 0.4,
+                    "bAutoBrake": false,
+                    "bIgnoreGravity": false
+                }
+            ],
+            "spawnNames": [
+                "basiccamowhite",
+                "sedancamowhite"
+            ]
+        },
+        {
+            "id": "VID_Valet_BasicCar_Vehicle_Camo_Green",
+            "name": "Prevalent",
+            "icon": "https://media.fortniteapi.io/images/T-T-Icon-BR-Sedan.png",
+            "stats": {
+                "Default.Valet.MinSpawnPercent.BasicCar": 10000,
+                "Default.Valet.MaxSpawnPercent.BasicCar": 150,
+                "Default.Valet.BasicCar.MaxCanSpawn": 0,
+                "Default.Valet.MinPercentWithGas.BasicCar": 30,
+                "Default.Valet.MaxPercentWithGas.BasicCar": 600,
+                "Default.Valet.MinPercentInoperable.BasicCar": 6144,
+                "Default.Valet.MaxPercentInoperable.BasicCar": 1000
+            },
+            "gears": [
+                {
+                    "TopSpeed": 20,
+                    "MinSpeed": 0,
+                    "PushForce": 1500,
+                    "RampTime": 1,
+                    "SteeringAngleMultiplier": 1,
+                    "bAutoBrake": true,
+                    "bIgnoreGravity": true
+                },
+                {
+                    "TopSpeed": 35,
+                    "MinSpeed": 20,
+                    "PushForce": 1200,
+                    "RampTime": 2,
+                    "SteeringAngleMultiplier": 0.8,
+                    "bAutoBrake": false,
+                    "bIgnoreGravity": true
+                },
+                {
+                    "TopSpeed": 50,
+                    "MinSpeed": 35,
+                    "PushForce": 900,
+                    "RampTime": 2,
+                    "SteeringAngleMultiplier": 0.6,
+                    "bAutoBrake": false,
+                    "bIgnoreGravity": false
+                },
+                {
+                    "TopSpeed": 65,
+                    "MinSpeed": 50,
+                    "PushForce": 400,
+                    "RampTime": 3,
+                    "SteeringAngleMultiplier": 0.4,
+                    "bAutoBrake": false,
+                    "bIgnoreGravity": false
+                }
+            ],
+            "spawnNames": [
+                "basiccamogreen",
+                "sedancamogreen"
+            ]
+        },
+        {
+            "id": "VID_Valet_BigRig_Vehicle_Camo_Green",
+            "name": "Mudflap",
+            "icon": "https://media.fortniteapi.io/images/T-T-Icon-BR-SemiTruck.png",
+            "stats": {
+                "Default.Valet.MinSpawnPercent.BigRig": 10000,
+                "Default.Valet.MaxSpawnPercent.BigRig": 150,
+                "Default.Valet.BigRig.MaxCanSpawn": 0,
+                "Default.Valet.MinPercentWithGas.BigRig": 30,
+                "Default.Valet.MaxPercentWithGas.BigRig": 600,
+                "Default.Valet.MinPercentInoperable.BigRig": 6144,
+                "Default.Valet.MaxPercentInoperable.BigRig": 1000
+            },
+            "gears": [
+                {
+                    "TopSpeed": 15,
+                    "MinSpeed": 0,
+                    "PushForce": 1500,
+                    "RampTime": 3,
+                    "SteeringAngleMultiplier": 1,
+                    "bAutoBrake": true,
+                    "bIgnoreGravity": true
+                },
+                {
+                    "TopSpeed": 28,
+                    "MinSpeed": 15,
+                    "PushForce": 1200,
+                    "RampTime": 4,
+                    "SteeringAngleMultiplier": 0.8,
+                    "bAutoBrake": false,
+                    "bIgnoreGravity": true
+                },
+                {
+                    "TopSpeed": 40,
+                    "MinSpeed": 28,
+                    "PushForce": 900,
+                    "RampTime": 5,
+                    "SteeringAngleMultiplier": 0.6,
+                    "bAutoBrake": false,
+                    "bIgnoreGravity": false
+                },
+                {
+                    "TopSpeed": 65,
+                    "MinSpeed": 40,
+                    "PushForce": 400,
+                    "RampTime": 6,
+                    "SteeringAngleMultiplier": 0.4,
+                    "bAutoBrake": false,
+                    "bIgnoreGravity": false
+                }
+            ],
+            "spawnNames": [
+                "bigrigcamogreen",
+                "semicamogreen"
+            ]
+        },
+        {
+            "id": "VID_Valet_BigRig_Vehicle_Camo_White",
+            "name": "Mudflap",
+            "icon": "https://media.fortniteapi.io/images/T-T-Icon-BR-SemiTruck.png",
+            "stats": {
+                "Default.Valet.MinSpawnPercent.BigRig": 10000,
+                "Default.Valet.MaxSpawnPercent.BigRig": 150,
+                "Default.Valet.BigRig.MaxCanSpawn": 0,
+                "Default.Valet.MinPercentWithGas.BigRig": 30,
+                "Default.Valet.MaxPercentWithGas.BigRig": 600,
+                "Default.Valet.MinPercentInoperable.BigRig": 6144,
+                "Default.Valet.MaxPercentInoperable.BigRig": 1000
+            },
+            "gears": [
+                {
+                    "TopSpeed": 15,
+                    "MinSpeed": 0,
+                    "PushForce": 1500,
+                    "RampTime": 3,
+                    "SteeringAngleMultiplier": 1,
+                    "bAutoBrake": true,
+                    "bIgnoreGravity": true
+                },
+                {
+                    "TopSpeed": 28,
+                    "MinSpeed": 15,
+                    "PushForce": 1200,
+                    "RampTime": 4,
+                    "SteeringAngleMultiplier": 0.8,
+                    "bAutoBrake": false,
+                    "bIgnoreGravity": true
+                },
+                {
+                    "TopSpeed": 40,
+                    "MinSpeed": 28,
+                    "PushForce": 900,
+                    "RampTime": 5,
+                    "SteeringAngleMultiplier": 0.6,
+                    "bAutoBrake": false,
+                    "bIgnoreGravity": false
+                },
+                {
+                    "TopSpeed": 65,
+                    "MinSpeed": 40,
+                    "PushForce": 400,
+                    "RampTime": 6,
+                    "SteeringAngleMultiplier": 0.4,
+                    "bAutoBrake": false,
+                    "bIgnoreGravity": false
+                }
+            ],
+            "spawnNames": [
+                "bigrigcamowhite",
+                "semicamowhite"
+            ]
+        },
+        {
+            "id": "VID_Valet_BigRig_SilkWalkerVehicle",
+            "name": "Mudflap",
+            "icon": "https://media.fortniteapi.io/images/T-T-Icon-BR-SemiTruckWinterVehicle.png",
+            "stats": {
+                "Default.Valet.MinSpawnPercent.BigRig": 10000,
+                "Default.Valet.MaxSpawnPercent.BigRig": 150,
+                "Default.Valet.BigRig.MaxCanSpawn": 0,
+                "Default.Valet.MinPercentWithGas.BigRig": 30,
+                "Default.Valet.MaxPercentWithGas.BigRig": 600,
+                "Default.Valet.MinPercentInoperable.BigRig": 6144,
+                "Default.Valet.MaxPercentInoperable.BigRig": 1000
+            },
+            "gears": [
+                {
+                    "TopSpeed": 15,
+                    "MinSpeed": 0,
+                    "PushForce": 1600,
+                    "RampTime": 3,
+                    "SteeringAngleMultiplier": 1,
+                    "bAutoBrake": true,
+                    "bIgnoreGravity": true
+                },
+                {
+                    "TopSpeed": 28,
+                    "MinSpeed": 15,
+                    "PushForce": 1200,
+                    "RampTime": 4,
+                    "SteeringAngleMultiplier": 0.8,
+                    "bAutoBrake": false,
+                    "bIgnoreGravity": true
+                },
+                {
+                    "TopSpeed": 40,
+                    "MinSpeed": 28,
+                    "PushForce": 900,
+                    "RampTime": 5,
+                    "SteeringAngleMultiplier": 0.6,
+                    "bAutoBrake": false,
+                    "bIgnoreGravity": false
+                },
+                {
+                    "TopSpeed": 65,
+                    "MinSpeed": 40,
+                    "PushForce": 600,
+                    "RampTime": 6,
+                    "SteeringAngleMultiplier": 0.4,
+                    "bAutoBrake": false,
+                    "bIgnoreGravity": false
+                }
+            ],
+            "spawnNames": [
+                "sgtwinterbigrig",
+                "winterbigrig",
+                "silkwalker"
+            ]
+        },
+        {
+            "id": "VID_Valet_SportsCar_Vehicle_Camo_White",
+            "name": "Whiplash",
+            "icon": "https://media.fortniteapi.io/images/T-T-Icon-BR-SportsCar.png",
+            "stats": {
+                "Default.Valet.MinSpawnPercent.SportsCar": 30,
+                "Default.Valet.MaxSpawnPercent.SportsCar": 600,
+                "Default.Valet.SportsCar.MaxCanSpawn": 10000,
+                "Default.Valet.MinPercentWithGas.SportsCar": 6144,
+                "Default.Valet.MaxPercentWithGas.SportsCar": 1000,
+                "Default.Valet.MinPercentInoperable.SportsCar": 150,
+                "Default.Valet.MaxPercentInoperable.SportsCar": 0
+            },
+            "gears": [
+                {
+                    "TopSpeed": 23,
+                    "MinSpeed": 0,
+                    "PushForce": 4000,
+                    "RampTime": 0.1,
+                    "SteeringAngleMultiplier": 1,
+                    "bAutoBrake": true,
+                    "bIgnoreGravity": true
+                },
+                {
+                    "TopSpeed": 35,
+                    "MinSpeed": 23,
+                    "PushForce": 1700,
+                    "RampTime": 0.4,
+                    "SteeringAngleMultiplier": 0.8,
+                    "bAutoBrake": false,
+                    "bIgnoreGravity": true
+                },
+                {
+                    "TopSpeed": 65,
+                    "MinSpeed": 35,
+                    "PushForce": 1200,
+                    "RampTime": 0.5,
+                    "SteeringAngleMultiplier": 0.6,
+                    "bAutoBrake": false,
+                    "bIgnoreGravity": false
+                },
+                {
+                    "TopSpeed": 90,
+                    "MinSpeed": 65,
+                    "PushForce": 600,
+                    "RampTime": 0.6,
+                    "SteeringAngleMultiplier": 0.4,
+                    "bAutoBrake": false,
+                    "bIgnoreGravity": false
+                }
+            ],
+            "spawnNames": [
+                "sportscarcamowhite",
+                "sportcamowhite"
+            ]
+        },
+        {
+            "id": "VID_Valet_SportsCar_Vehicle_Camo_Green",
+            "name": "Whiplash",
+            "icon": "https://media.fortniteapi.io/images/T-T-Icon-BR-SportsCar.png",
+            "stats": {
+                "Default.Valet.MinSpawnPercent.SportsCar": 30,
+                "Default.Valet.MaxSpawnPercent.SportsCar": 600,
+                "Default.Valet.SportsCar.MaxCanSpawn": 10000,
+                "Default.Valet.MinPercentWithGas.SportsCar": 6144,
+                "Default.Valet.MaxPercentWithGas.SportsCar": 1000,
+                "Default.Valet.MinPercentInoperable.SportsCar": 150,
+                "Default.Valet.MaxPercentInoperable.SportsCar": 0
+            },
+            "gears": [
+                {
+                    "TopSpeed": 23,
+                    "MinSpeed": 0,
+                    "PushForce": 4000,
+                    "RampTime": 0.1,
+                    "SteeringAngleMultiplier": 1,
+                    "bAutoBrake": true,
+                    "bIgnoreGravity": true
+                },
+                {
+                    "TopSpeed": 35,
+                    "MinSpeed": 23,
+                    "PushForce": 1700,
+                    "RampTime": 0.4,
+                    "SteeringAngleMultiplier": 0.8,
+                    "bAutoBrake": false,
+                    "bIgnoreGravity": true
+                },
+                {
+                    "TopSpeed": 65,
+                    "MinSpeed": 35,
+                    "PushForce": 1200,
+                    "RampTime": 0.5,
+                    "SteeringAngleMultiplier": 0.6,
+                    "bAutoBrake": false,
+                    "bIgnoreGravity": false
+                },
+                {
+                    "TopSpeed": 90,
+                    "MinSpeed": 65,
+                    "PushForce": 600,
+                    "RampTime": 0.6,
+                    "SteeringAngleMultiplier": 0.4,
+                    "bAutoBrake": false,
+                    "bIgnoreGravity": false
+                }
+            ],
+            "spawnNames": [
+                "sportscarcamogreen",
+                "sportcammogreen"
+            ]
+        },
+        {
+            "id": "VID_ArmoredBattleBus_Vehicle",
+            "name": "Armored Battle Bus",
+            "icon": "https://media.fortniteapi.io/images/T-T-Icon-BR-ArmoredBattleBus.png",
+            "stats": {
+                "Default.Valet.ArmoredBattleBus.MinSpawnPercent": 0,
+                "Default.Valet.ArmoredBattleBus.MaxSpawnPercent": 1,
+                "Default.Valet.ArmoredBattleBus.MaxNumberCanSpawn": 1,
+                "Default.Valet.ArmoredBattleBus.MinPercentWithGas": 1,
+                "Default.Valet.ArmoredBattleBus.MaxPercentWithGas": 1
+            },
+            "gears": [
+                {
+                    "TopSpeed": 20,
+                    "MinSpeed": 0,
+                    "PushForce": 1250,
+                    "RampTime": 3,
+                    "SteeringAngleMultiplier": 1,
+                    "bAutoBrake": true,
+                    "bIgnoreGravity": true
+                },
+                {
+                    "TopSpeed": 30,
+                    "MinSpeed": 20,
+                    "PushForce": 800,
+                    "RampTime": 4,
+                    "SteeringAngleMultiplier": 0.8,
+                    "bAutoBrake": false,
+                    "bIgnoreGravity": true
+                },
+                {
+                    "TopSpeed": 40,
+                    "MinSpeed": 30,
+                    "PushForce": 650,
+                    "RampTime": 5,
+                    "SteeringAngleMultiplier": 0.6,
+                    "bAutoBrake": false,
+                    "bIgnoreGravity": false
+                },
+                {
+                    "TopSpeed": 65,
+                    "MinSpeed": 40,
+                    "PushForce": 275,
+                    "RampTime": 3,
+                    "SteeringAngleMultiplier": 0.4,
+                    "bAutoBrake": false,
+                    "bIgnoreGravity": false
+                }
+            ],
+            "spawnNames": [
+                "battlebus",
+                "armoredbus"
+            ]
+        },
+        {
+            "id": "VID_Antelope_Winter_Vehicle",
+            "name": "Quadcrasher",
+            "icon": "https://media.fortniteapi.io/images/T-T-Icon-BR-QuadWinterVehicle.png",
+            "stats": {
+                "Default.QuadBike.MinSpawnPercent": 150,
+                "Default.QuadBike.MaxSpawnPercent": 600
+            },
+            "gears": [
+                {
+                    "TopSpeed": 22,
+                    "MinSpeed": 0,
+                    "PushForce": 1500,
+                    "RampTime": 1,
+                    "SteeringAngleMultiplier": 1,
+                    "bAutoBrake": true,
+                    "bIgnoreGravity": true
+                },
+                {
+                    "TopSpeed": 30,
+                    "MinSpeed": 22,
+                    "PushForce": 1800,
+                    "RampTime": 2,
+                    "SteeringAngleMultiplier": 0.8,
+                    "bAutoBrake": false,
+                    "bIgnoreGravity": false
+                },
+                {
+                    "TopSpeed": 35,
+                    "MinSpeed": 30,
+                    "PushForce": 1500,
+                    "RampTime": 3,
+                    "SteeringAngleMultiplier": 0.55,
+                    "bAutoBrake": false,
+                    "bIgnoreGravity": false
+                }
+            ],
+            "spawnNames": [
+                "winteratv",
+                "winterantelope",
+                "winterquadcrasher",
+                "winterquad"
+            ]
+        }
+    ]
+}
