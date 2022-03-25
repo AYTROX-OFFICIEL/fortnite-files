@@ -1,1 +1,246 @@
-l
+{
+    "result": true,
+    "currentCrew": {
+        "type": "current",
+        "date": "2022-03-01",
+        "colors": {
+            "A": "7204fd",
+            "B": "f1cbfe",
+            "C": "f1cbfe"
+        },
+        "video": null,
+        "skinImageTakeOver": false,
+        "descriptions": {
+            "title": "Crew Pack",
+            "battlepass": "Battle Pass",
+            "vbucksTitle": "1,000 V-Bucks"
+        },
+        "images": {
+            "battlepass": null,
+            "battlepassTile": null,
+            "itemShopTile": "https://cdn2.unrealengine.com/19br-subs-tracy-ingame-shoptile-2048x1124-b9b819a26a0d.jpg",
+            "skin": "https://cdn2.unrealengine.com/19br-subs-tracy-ingame-crewtile-1024x1024-b234643c2cc4.png",
+            "apiRender": "https://media.fortniteapi.io/images/crew/2022-03/presentation.en.png"
+        },
+        "rewards": [
+            {
+                "quantity": 1,
+                "item": {
+                    "id": "CID_A_357_Athena_Commando_F_ValentineFashion_B3S3R",
+                    "type": {
+                        "id": "outfit",
+                        "name": "Outfit"
+                    },
+                    "name": "Tracy Trouble",
+                    "description": "She's got you in her sights.",
+                    "rarity": {
+                        "id": "Epic",
+                        "name": "Epic"
+                    },
+                    "series": null,
+                    "images": {
+                        "icon": "https://media.fortniteapi.io/images/01f9b143d6d05cfbc4bebd0f267aec87/transparent.png",
+                        "featured": null,
+                        "background": "https://media.fortniteapi.io/images/cosmetics/01f9b143d6d05cfbc4bebd0f267aec87/v2/background.png",
+                        "icon_background": "https://media.fortniteapi.io/images/cosmetics/01f9b143d6d05cfbc4bebd0f267aec87/v2/icon_background.png",
+                        "full_background": "https://media.fortniteapi.io/images/cosmetics/01f9b143d6d05cfbc4bebd0f267aec87/v2/info.en.png"
+                    },
+                    "video": null,
+                    "gameplayTags": [
+                        "Cosmetics.UserFacingFlags.HasVariants",
+                        "Cosmetics.Filter.Season.19",
+                        "SoundLibrary.ID.StepType.ShoesSneakers",
+                        "SoundLibrary.ID.ClothingType.Generic",
+                        "SoundLibrary.ID.HandType.Glove",
+                        "Cosmetics.Set.NothingRoyalty"
+                    ],
+                    "introduction": {
+                        "chapter": "Chapter 3",
+                        "season": "Season 1",
+                        "text": "Introduced in Chapter 3 - Season 1."
+                    }
+                }
+            },
+            {
+                "quantity": 1,
+                "item": {
+                    "id": "BID_956_ValentineFashion_V4RF2",
+                    "type": {
+                        "id": "backpack",
+                        "name": "BackBling"
+                    },
+                    "name": "Lovely Skully",
+                    "description": "He might not have a heartbeat, but he's cute as heck.",
+                    "rarity": {
+                        "id": "Epic",
+                        "name": "Epic"
+                    },
+                    "series": null,
+                    "images": {
+                        "icon": "https://media.fortniteapi.io/images/f0725d21ae4203807bf61f80dfd673f9/transparent.png",
+                        "featured": null,
+                        "background": "https://media.fortniteapi.io/images/cosmetics/f0725d21ae4203807bf61f80dfd673f9/v2/background.png",
+                        "icon_background": "https://media.fortniteapi.io/images/cosmetics/f0725d21ae4203807bf61f80dfd673f9/v2/icon_background.png",
+                        "full_background": "https://media.fortniteapi.io/images/cosmetics/f0725d21ae4203807bf61f80dfd673f9/v2/info.en.png"
+                    },
+                    "video": null,
+                    "gameplayTags": [
+                        "Cosmetics.Filter.Season.19",
+                        "Cosmetics.UserFacingFlags.HasVariants",
+                        "Cosmetics.Set.NothingRoyalty"
+                    ],
+                    "introduction": {
+                        "chapter": "Chapter 3",
+                        "season": "Season 1",
+                        "text": "Introduced in Chapter 3 - Season 1."
+                    }
+                }
+            },
+            {
+                "quantity": 1,
+                "item": {
+                    "id": "Pickaxe_ID_753_ValentinesFashionFemale_CPGK7",
+                    "type": {
+                        "id": "pickaxe",
+                        "name": "Harvesting Tool"
+                    },
+                    "name": "Heartslash",
+                    "description": "The beat goes on.",
+                    "rarity": {
+                        "id": "Epic",
+                        "name": "Epic"
+                    },
+                    "series": null,
+                    "images": {
+                        "icon": "https://media.fortniteapi.io/images/27fbbd8878c6ca48d952f2fb264c35d2/transparent.png",
+                        "featured": null,
+                        "background": "https://media.fortniteapi.io/images/cosmetics/27fbbd8878c6ca48d952f2fb264c35d2/v2/background.png",
+                        "icon_background": "https://media.fortniteapi.io/images/cosmetics/27fbbd8878c6ca48d952f2fb264c35d2/v2/icon_background.png",
+                        "full_background": "https://media.fortniteapi.io/images/cosmetics/27fbbd8878c6ca48d952f2fb264c35d2/v2/info.en.png"
+                    },
+                    "video": null,
+                    "gameplayTags": [
+                        "Cosmetics.Filter.Season.19",
+                        "Cosmetics.Source.CrewPack.March2022",
+                        "Cosmetics.Set.NothingRoyalty",
+                        "Cosmetics.UserFacingFlags.HasVariants"
+                    ],
+                    "introduction": {
+                        "chapter": "Chapter 3",
+                        "season": "Season 1",
+                        "text": "Introduced in Chapter 3 - Season 1."
+                    }
+                }
+            },
+            {
+                "quantity": 1,
+                "item": {
+                    "id": "Wrap_441_ValentineFashion_H50ID",
+                    "type": {
+                        "id": "wrap",
+                        "name": "Wrap"
+                    },
+                    "name": "Tracy's Arsenal",
+                    "description": "Show your style.",
+                    "rarity": {
+                        "id": "Uncommon",
+                        "name": "UNCOMMON"
+                    },
+                    "series": null,
+                    "images": {
+                        "icon": "https://media.fortniteapi.io/images/e026e75a5f077e9a77bff8bc20f66d2f/transparent.png",
+                        "featured": null,
+                        "background": "https://media.fortniteapi.io/images/cosmetics/e026e75a5f077e9a77bff8bc20f66d2f/v2/background.png",
+                        "icon_background": "https://media.fortniteapi.io/images/cosmetics/e026e75a5f077e9a77bff8bc20f66d2f/v2/icon_background.png",
+                        "full_background": "https://media.fortniteapi.io/images/cosmetics/e026e75a5f077e9a77bff8bc20f66d2f/v2/info.en.png"
+                    },
+                    "video": null,
+                    "gameplayTags": [
+                        "Cosmetics.Filter.Season.19",
+                        "Cosmetics.Set.NothingRoyalty",
+                        "Cosmetics.Source.CrewPack.March2022"
+                    ],
+                    "introduction": {
+                        "chapter": "Chapter 3",
+                        "season": "Season 1",
+                        "text": "Introduced in Chapter 3 - Season 1."
+                    }
+                }
+            }
+        ]
+    },
+    "prices": [
+        {
+            "paymentCurrencyCode": "EUR",
+            "paymentCurrencySymbol": "€",
+            "paymentCurrencyAmount": 1199,
+            "paymentCurrencyAmountNatural": 11.99
+        },
+        {
+            "paymentCurrencyCode": "USD",
+            "paymentCurrencySymbol": "$",
+            "paymentCurrencyAmount": 1199,
+            "paymentCurrencyAmountNatural": 11.99
+        },
+        {
+            "paymentCurrencyCode": "GBP",
+            "paymentCurrencySymbol": "£",
+            "paymentCurrencyAmount": 999,
+            "paymentCurrencyAmountNatural": 9.99
+        },
+        {
+            "paymentCurrencyCode": "CAD",
+            "paymentCurrencySymbol": "$",
+            "paymentCurrencyAmount": 1599,
+            "paymentCurrencyAmountNatural": 15.99
+        },
+        {
+            "paymentCurrencyCode": "RUB",
+            "paymentCurrencySymbol": "₽",
+            "paymentCurrencyAmount": 71900,
+            "paymentCurrencyAmountNatural": 719
+        },
+        {
+            "paymentCurrencyCode": "DKK",
+            "paymentCurrencySymbol": "kr.",
+            "paymentCurrencyAmount": 7300,
+            "paymentCurrencyAmountNatural": 73
+        },
+        {
+            "paymentCurrencyCode": "JPY",
+            "paymentCurrencySymbol": "¥",
+            "paymentCurrencyAmount": 1320,
+            "paymentCurrencyAmountNatural": 1320
+        },
+        {
+            "paymentCurrencyCode": "SEK",
+            "paymentCurrencySymbol": "kr",
+            "paymentCurrencyAmount": 11900,
+            "paymentCurrencyAmountNatural": 119
+        },
+        {
+            "paymentCurrencyCode": "BRL",
+            "paymentCurrencySymbol": "R$",
+            "paymentCurrencyAmount": 3800,
+            "paymentCurrencyAmountNatural": 38
+        },
+        {
+            "paymentCurrencyCode": "NOK",
+            "paymentCurrencySymbol": "kr",
+            "paymentCurrencyAmount": 11900,
+            "paymentCurrencyAmountNatural": 119
+        },
+        {
+            "paymentCurrencyCode": "SAR",
+            "paymentCurrencySymbol": "ر.س",
+            "paymentCurrencyAmount": 4500,
+            "paymentCurrencyAmountNatural": 45
+        },
+        {
+            "paymentCurrencyCode": "AUD",
+            "paymentCurrencySymbol": "$",
+            "paymentCurrencyAmount": 1755,
+            "paymentCurrencyAmountNatural": 17.55
+        }
+    ]
+}
