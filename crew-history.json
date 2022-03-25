@@ -1,0 +1,2955 @@
+{
+    "result": true,
+    "history": [
+        {
+            "type": "current",
+            "date": "2022-03-01",
+            "colors": {
+                "A": "7204fd",
+                "B": "f1cbfe",
+                "C": "f1cbfe"
+            },
+            "video": null,
+            "skinImageTakeOver": false,
+            "descriptions": {
+                "title": "Crew Pack",
+                "battlepass": "Battle Pass",
+                "vbucksTitle": "1,000 V-Bucks"
+            },
+            "images": {
+                "battlepass": null,
+                "battlepassTile": null,
+                "itemShopTile": "https://cdn2.unrealengine.com/19br-subs-tracy-ingame-shoptile-2048x1124-b9b819a26a0d.jpg",
+                "skin": "https://cdn2.unrealengine.com/19br-subs-tracy-ingame-crewtile-1024x1024-b234643c2cc4.png",
+                "apiRender": "https://media.fortniteapi.io/images/crew/2022-03/presentation.en.png"
+            },
+            "rewards": [
+                {
+                    "quantity": 1,
+                    "item": {
+                        "id": "CID_A_357_Athena_Commando_F_ValentineFashion_B3S3R",
+                        "type": {
+                            "id": "outfit",
+                            "name": "Outfit"
+                        },
+                        "name": "Tracy Trouble",
+                        "description": "She's got you in her sights.",
+                        "rarity": {
+                            "id": "Epic",
+                            "name": "Epic"
+                        },
+                        "series": null,
+                        "images": {
+                            "icon": "https://media.fortniteapi.io/images/01f9b143d6d05cfbc4bebd0f267aec87/transparent.png",
+                            "featured": null,
+                            "background": "https://media.fortniteapi.io/images/cosmetics/01f9b143d6d05cfbc4bebd0f267aec87/v2/background.png",
+                            "icon_background": "https://media.fortniteapi.io/images/cosmetics/01f9b143d6d05cfbc4bebd0f267aec87/v2/icon_background.png",
+                            "full_background": "https://media.fortniteapi.io/images/cosmetics/01f9b143d6d05cfbc4bebd0f267aec87/v2/info.en.png"
+                        },
+                        "video": null,
+                        "gameplayTags": [
+                            "Cosmetics.UserFacingFlags.HasVariants",
+                            "Cosmetics.Filter.Season.19",
+                            "SoundLibrary.ID.StepType.ShoesSneakers",
+                            "SoundLibrary.ID.ClothingType.Generic",
+                            "SoundLibrary.ID.HandType.Glove",
+                            "Cosmetics.Set.NothingRoyalty"
+                        ],
+                        "introduction": {
+                            "chapter": "Chapter 3",
+                            "season": "Season 1",
+                            "text": "Introduced in Chapter 3 - Season 1."
+                        }
+                    }
+                },
+                {
+                    "quantity": 1,
+                    "item": {
+                        "id": "BID_956_ValentineFashion_V4RF2",
+                        "type": {
+                            "id": "backpack",
+                            "name": "BackBling"
+                        },
+                        "name": "Lovely Skully",
+                        "description": "He might not have a heartbeat, but he's cute as heck.",
+                        "rarity": {
+                            "id": "Epic",
+                            "name": "Epic"
+                        },
+                        "series": null,
+                        "images": {
+                            "icon": "https://media.fortniteapi.io/images/f0725d21ae4203807bf61f80dfd673f9/transparent.png",
+                            "featured": null,
+                            "background": "https://media.fortniteapi.io/images/cosmetics/f0725d21ae4203807bf61f80dfd673f9/v2/background.png",
+                            "icon_background": "https://media.fortniteapi.io/images/cosmetics/f0725d21ae4203807bf61f80dfd673f9/v2/icon_background.png",
+                            "full_background": "https://media.fortniteapi.io/images/cosmetics/f0725d21ae4203807bf61f80dfd673f9/v2/info.en.png"
+                        },
+                        "video": null,
+                        "gameplayTags": [
+                            "Cosmetics.Filter.Season.19",
+                            "Cosmetics.UserFacingFlags.HasVariants",
+                            "Cosmetics.Set.NothingRoyalty"
+                        ],
+                        "introduction": {
+                            "chapter": "Chapter 3",
+                            "season": "Season 1",
+                            "text": "Introduced in Chapter 3 - Season 1."
+                        }
+                    }
+                },
+                {
+                    "quantity": 1,
+                    "item": {
+                        "id": "Pickaxe_ID_753_ValentinesFashionFemale_CPGK7",
+                        "type": {
+                            "id": "pickaxe",
+                            "name": "Harvesting Tool"
+                        },
+                        "name": "Heartslash",
+                        "description": "The beat goes on.",
+                        "rarity": {
+                            "id": "Epic",
+                            "name": "Epic"
+                        },
+                        "series": null,
+                        "images": {
+                            "icon": "https://media.fortniteapi.io/images/27fbbd8878c6ca48d952f2fb264c35d2/transparent.png",
+                            "featured": null,
+                            "background": "https://media.fortniteapi.io/images/cosmetics/27fbbd8878c6ca48d952f2fb264c35d2/v2/background.png",
+                            "icon_background": "https://media.fortniteapi.io/images/cosmetics/27fbbd8878c6ca48d952f2fb264c35d2/v2/icon_background.png",
+                            "full_background": "https://media.fortniteapi.io/images/cosmetics/27fbbd8878c6ca48d952f2fb264c35d2/v2/info.en.png"
+                        },
+                        "video": null,
+                        "gameplayTags": [
+                            "Cosmetics.Filter.Season.19",
+                            "Cosmetics.Source.CrewPack.March2022",
+                            "Cosmetics.Set.NothingRoyalty",
+                            "Cosmetics.UserFacingFlags.HasVariants"
+                        ],
+                        "introduction": {
+                            "chapter": "Chapter 3",
+                            "season": "Season 1",
+                            "text": "Introduced in Chapter 3 - Season 1."
+                        }
+                    }
+                },
+                {
+                    "quantity": 1,
+                    "item": {
+                        "id": "Wrap_441_ValentineFashion_H50ID",
+                        "type": {
+                            "id": "wrap",
+                            "name": "Wrap"
+                        },
+                        "name": "Tracy's Arsenal",
+                        "description": "Show your style.",
+                        "rarity": {
+                            "id": "Uncommon",
+                            "name": "UNCOMMON"
+                        },
+                        "series": null,
+                        "images": {
+                            "icon": "https://media.fortniteapi.io/images/e026e75a5f077e9a77bff8bc20f66d2f/transparent.png",
+                            "featured": null,
+                            "background": "https://media.fortniteapi.io/images/cosmetics/e026e75a5f077e9a77bff8bc20f66d2f/v2/background.png",
+                            "icon_background": "https://media.fortniteapi.io/images/cosmetics/e026e75a5f077e9a77bff8bc20f66d2f/v2/icon_background.png",
+                            "full_background": "https://media.fortniteapi.io/images/cosmetics/e026e75a5f077e9a77bff8bc20f66d2f/v2/info.en.png"
+                        },
+                        "video": null,
+                        "gameplayTags": [
+                            "Cosmetics.Filter.Season.19",
+                            "Cosmetics.Set.NothingRoyalty",
+                            "Cosmetics.Source.CrewPack.March2022"
+                        ],
+                        "introduction": {
+                            "chapter": "Chapter 3",
+                            "season": "Season 1",
+                            "text": "Introduced in Chapter 3 - Season 1."
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "type": "past",
+            "date": "2022-02-01",
+            "colors": {
+                "A": "3c0197",
+                "B": "987fdb",
+                "C": "987fdb"
+            },
+            "video": "https://media.fortniteapi.io/videos/news/dvFNWcMmdSGHoXVyws_en.mp4",
+            "skinImageTakeOver": false,
+            "descriptions": {
+                "title": "Crew Pack",
+                "battlepass": "Battle Pass",
+                "vbucksTitle": "1,000 V-Bucks"
+            },
+            "images": {
+                "battlepass": null,
+                "battlepassTile": null,
+                "itemShopTile": "https://cdn2.unrealengine.com/subs-ingame-aftermath-shoptile-2048x1124-7fc8f152a5ff.jpg",
+                "skin": "https://cdn2.unrealengine.com/subs-ingame-aftermath-crewtile-1024x1024-083c0f844d87.png",
+                "apiRender": "https://media.fortniteapi.io/images/crew/2022-02/presentation.en.png"
+            },
+            "rewards": [
+                {
+                    "quantity": 1,
+                    "item": {
+                        "id": "CID_A_327_Athena_Commando_M_SkullPunk_9QTQI",
+                        "type": {
+                            "id": "outfit",
+                            "name": "Outfit"
+                        },
+                        "name": "Aftermath",
+                        "description": "The ultimate encore.",
+                        "rarity": {
+                            "id": "Epic",
+                            "name": "Epic"
+                        },
+                        "series": null,
+                        "images": {
+                            "icon": "https://media.fortniteapi.io/images/db68e5bf05f7ddee4e5309aa66fad8ee/transparent.png",
+                            "featured": null,
+                            "background": "https://media.fortniteapi.io/images/cosmetics/db68e5bf05f7ddee4e5309aa66fad8ee/v2/background.png",
+                            "icon_background": "https://media.fortniteapi.io/images/cosmetics/db68e5bf05f7ddee4e5309aa66fad8ee/v2/icon_background.png",
+                            "full_background": "https://media.fortniteapi.io/images/cosmetics/db68e5bf05f7ddee4e5309aa66fad8ee/v2/info.en.png"
+                        },
+                        "video": null,
+                        "gameplayTags": [
+                            "Cosmetics.Filter.Season.19",
+                            "Cosmetics.UserFacingFlags.HasVariants",
+                            "SoundLibrary.ID.StepType.ShoesSneakers",
+                            "SoundLibrary.ID.ClothingType.Generic",
+                            "SoundLibrary.ID.HandType.Glove",
+                            "Cosmetics.Source.CrewPack.February2022",
+                            "Cosmetics.Set.BlazingBrain"
+                        ],
+                        "introduction": {
+                            "chapter": "Chapter 3",
+                            "season": "Season 1",
+                            "text": "Introduced in Chapter 3 - Season 1."
+                        }
+                    }
+                },
+                {
+                    "quantity": 1,
+                    "item": {
+                        "id": "BID_941_SkullPunk_W8FWD",
+                        "type": {
+                            "id": "backpack",
+                            "name": "BackBling"
+                        },
+                        "name": "Flatline",
+                        "description": "Ask not for whom the beat drops...",
+                        "rarity": {
+                            "id": "Epic",
+                            "name": "Epic"
+                        },
+                        "series": null,
+                        "images": {
+                            "icon": "https://media.fortniteapi.io/images/f19abb300dae05d981cf99edce0dcd75/transparent.png",
+                            "featured": null,
+                            "background": "https://media.fortniteapi.io/images/cosmetics/f19abb300dae05d981cf99edce0dcd75/v2/background.png",
+                            "icon_background": "https://media.fortniteapi.io/images/cosmetics/f19abb300dae05d981cf99edce0dcd75/v2/icon_background.png",
+                            "full_background": "https://media.fortniteapi.io/images/cosmetics/f19abb300dae05d981cf99edce0dcd75/v2/info.en.png"
+                        },
+                        "video": null,
+                        "gameplayTags": [
+                            "Cosmetics.Filter.Season.19",
+                            "Cosmetics.UserFacingFlags.Reactive",
+                            "Cosmetics.Source.CrewPack.February2022",
+                            "Cosmetics.Set.BlazingBrain"
+                        ],
+                        "introduction": {
+                            "chapter": "Chapter 3",
+                            "season": "Season 1",
+                            "text": "Introduced in Chapter 3 - Season 1."
+                        }
+                    }
+                },
+                {
+                    "quantity": 1,
+                    "item": {
+                        "id": "Pickaxe_ID_740_SkullPunk_7K48Y",
+                        "type": {
+                            "id": "pickaxe",
+                            "name": "Harvesting Tool"
+                        },
+                        "name": "Rave Digger",
+                        "description": "Shining with the iridescence of the other side.",
+                        "rarity": {
+                            "id": "Epic",
+                            "name": "Epic"
+                        },
+                        "series": null,
+                        "images": {
+                            "icon": "https://media.fortniteapi.io/images/183ac7545e166f8d09d3071525448aeb/transparent.png",
+                            "featured": null,
+                            "background": "https://media.fortniteapi.io/images/cosmetics/183ac7545e166f8d09d3071525448aeb/v2/background.png",
+                            "icon_background": "https://media.fortniteapi.io/images/cosmetics/183ac7545e166f8d09d3071525448aeb/v2/icon_background.png",
+                            "full_background": "https://media.fortniteapi.io/images/cosmetics/183ac7545e166f8d09d3071525448aeb/v2/info.en.png"
+                        },
+                        "video": null,
+                        "gameplayTags": [
+                            "Cosmetics.Filter.Season.19",
+                            "Cosmetics.Source.CrewPack.February2022",
+                            "Cosmetics.Set.BlazingBrain"
+                        ],
+                        "introduction": {
+                            "chapter": "Chapter 3",
+                            "season": "Season 1",
+                            "text": "Introduced in Chapter 3 - Season 1."
+                        }
+                    }
+                },
+                {
+                    "quantity": 1,
+                    "item": {
+                        "id": "Wrap_432_SkullPunk_KPBF4",
+                        "type": {
+                            "id": "wrap",
+                            "name": "Wrap"
+                        },
+                        "name": "Glitter n' Grim",
+                        "description": "Show your style.",
+                        "rarity": {
+                            "id": "Rare",
+                            "name": "RARE"
+                        },
+                        "series": null,
+                        "images": {
+                            "icon": "https://media.fortniteapi.io/images/f0602cb5a831adf267245084171513b5/transparent.png",
+                            "featured": null,
+                            "background": "https://media.fortniteapi.io/images/cosmetics/f0602cb5a831adf267245084171513b5/v2/background.png",
+                            "icon_background": "https://media.fortniteapi.io/images/cosmetics/f0602cb5a831adf267245084171513b5/v2/icon_background.png",
+                            "full_background": "https://media.fortniteapi.io/images/cosmetics/f0602cb5a831adf267245084171513b5/v2/info.en.png"
+                        },
+                        "video": null,
+                        "gameplayTags": [
+                            "Cosmetics.Filter.Season.19",
+                            "Cosmetics.UserFacingFlags.Reactive.WeaponFire",
+                            "Cosmetics.Source.CrewPack.February2022",
+                            "Cosmetics.Set.BlazingBrain",
+                            "Cosmetics.UserFacingFlags.Wrap.Animated"
+                        ],
+                        "introduction": {
+                            "chapter": "Chapter 3",
+                            "season": "Season 1",
+                            "text": "Introduced in Chapter 3 - Season 1."
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "type": "past",
+            "date": "2022-01-01",
+            "colors": {
+                "A": "0f25b7",
+                "B": "61cdfc",
+                "C": "61cdfc"
+            },
+            "video": "https://media.fortniteapi.io/videos/news/UUhixRiYjRZwBCnuNG_en.mp4",
+            "skinImageTakeOver": false,
+            "descriptions": {
+                "title": "",
+                "battlepass": "",
+                "vbucksTitle": ""
+            },
+            "images": {
+                "battlepass": null,
+                "battlepassTile": null,
+                "itemShopTile": "https://cdn2.unrealengine.com/19br-subs-snowstealthsloan-upsell-2048x1124-838b385848f9.jpg",
+                "skin": "https://cdn2.unrealengine.com/19br-subs-snowstealthsloan-upsell-detailpage-1920x1080-707f3d90b469.png",
+                "apiRender": "https://media.fortniteapi.io/images/crew/2022-01/presentation.en.png"
+            },
+            "rewards": [
+                {
+                    "quantity": 1,
+                    "item": {
+                        "id": "CID_A_324_Athena_Commando_F_InnovatorFestive_3FUPH",
+                        "type": {
+                            "id": "outfit",
+                            "name": "Outfit"
+                        },
+                        "name": "Snow Stealth Slone",
+                        "description": "Equipped for the frostiest stealth missions.",
+                        "rarity": {
+                            "id": "Epic",
+                            "name": "Epic"
+                        },
+                        "series": null,
+                        "images": {
+                            "icon": "https://media.fortniteapi.io/images/6d4086590e8cdffbddd295358155b82a/transparent.png",
+                            "featured": null,
+                            "background": "https://media.fortniteapi.io/images/cosmetics/6d4086590e8cdffbddd295358155b82a/v2/background.png",
+                            "icon_background": "https://media.fortniteapi.io/images/cosmetics/6d4086590e8cdffbddd295358155b82a/v2/icon_background.png",
+                            "full_background": "https://media.fortniteapi.io/images/cosmetics/6d4086590e8cdffbddd295358155b82a/v2/info.en.png"
+                        },
+                        "video": null,
+                        "gameplayTags": [
+                            "Cosmetics.Filter.Season.19",
+                            "Cosmetics.UserFacingFlags.HasVariants",
+                            "Cosmetics.Set.ColdDestroy",
+                            "SoundLibrary.ID.StepType.BootsCombat",
+                            "SoundLibrary.ID.ClothingType.Generic",
+                            "SoundLibrary.ID.HandType.Glove"
+                        ],
+                        "introduction": {
+                            "chapter": "Chapter 3",
+                            "season": "Season 1",
+                            "text": "Introduced in Chapter 3 - Season 1."
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "type": "past",
+            "date": "2021-12-01",
+            "colors": {
+                "A": "2700a3",
+                "B": "da00dd",
+                "C": "da00dd"
+            },
+            "video": null,
+            "skinImageTakeOver": false,
+            "descriptions": {
+                "title": "EXCLUSIVE CREW PACK",
+                "battlepass": "BATTLE PASS",
+                "vbucksTitle": "1,000 V-BUCKS"
+            },
+            "images": {
+                "battlepass": "https://cdn2.unrealengine.com/18br-subs-cubeassassin-upsell-rewardimage-1024x1024-eb8899cf58ed.png",
+                "battlepassTile": null,
+                "itemShopTile": "https://cdn2.unrealengine.com/19br-subs-winterfest-upsell-2048x1124-9d26d2e07914.jpg",
+                "skin": "https://cdn2.unrealengine.com/19br-subs-winterfest-upsell-detailpage-1920x1080-9f23245cc1a2.png",
+                "apiRender": "https://media.fortniteapi.io/images/crew/2021-12/presentation.en.png"
+            },
+            "rewards": [
+                {
+                    "quantity": 1,
+                    "item": {
+                        "id": "CID_865_Athena_Commando_F_CloakedAssassin_1XKHT",
+                        "type": {
+                            "id": "outfit",
+                            "name": "Outfit"
+                        },
+                        "name": "Cube Assassin",
+                        "description": "Unknowable. Unstoppable.",
+                        "rarity": {
+                            "id": "Epic",
+                            "name": "Epic"
+                        },
+                        "series": null,
+                        "images": {
+                            "icon": "https://media.fortniteapi.io/images/e658c2fa2b4c04f06184228da4a1c77e/transparent.png",
+                            "featured": null,
+                            "background": "https://media.fortniteapi.io/images/cosmetics/e658c2fa2b4c04f06184228da4a1c77e/v2/background.png",
+                            "icon_background": "https://media.fortniteapi.io/images/cosmetics/e658c2fa2b4c04f06184228da4a1c77e/v2/icon_background.png",
+                            "full_background": "https://media.fortniteapi.io/images/cosmetics/e658c2fa2b4c04f06184228da4a1c77e/v2/info.en.png"
+                        },
+                        "video": null,
+                        "gameplayTags": [
+                            "Cosmetics.UserFacingFlags.Reactive",
+                            "Cosmetics.Set.RuneMood",
+                            "Cosmetics.Source.CrewPack.December2021",
+                            "Cosmetics.Filter.Season.18",
+                            "SoundLibrary.ID.StepType.BootsCombat",
+                            "SoundLibrary.ID.ClothingType.GearTactical",
+                            "SoundLibrary.ID.HandType.Glove"
+                        ],
+                        "introduction": {
+                            "chapter": "Chapter 2",
+                            "season": "Season 8",
+                            "text": "Introduced in Chapter 2 - Season 8."
+                        }
+                    }
+                },
+                {
+                    "quantity": 1,
+                    "item": {
+                        "id": "BID_612_CloakedAssassin_K7415",
+                        "type": {
+                            "id": "backpack",
+                            "name": "BackBling"
+                        },
+                        "name": "The Cubist",
+                        "description": "The cubiest possible cube.",
+                        "rarity": {
+                            "id": "Epic",
+                            "name": "Epic"
+                        },
+                        "series": null,
+                        "images": {
+                            "icon": "https://media.fortniteapi.io/images/e588765f4195608ef9bf75cde65750af/transparent.png",
+                            "featured": null,
+                            "background": "https://media.fortniteapi.io/images/cosmetics/e588765f4195608ef9bf75cde65750af/v2/background.png",
+                            "icon_background": "https://media.fortniteapi.io/images/cosmetics/e588765f4195608ef9bf75cde65750af/v2/icon_background.png",
+                            "full_background": "https://media.fortniteapi.io/images/cosmetics/e588765f4195608ef9bf75cde65750af/v2/info.en.png"
+                        },
+                        "video": null,
+                        "gameplayTags": [
+                            "Cosmetics.Filter.Season.14",
+                            "Cosmetics.UserFacingFlags.Reactive",
+                            "Cosmetics.Set.RuneMood",
+                            "Cosmetics.Source.CrewPack.December2021",
+                            "Cosmetics.UserFacingFlags.HasVariants"
+                        ],
+                        "introduction": {
+                            "chapter": "Chapter 2",
+                            "season": "Season 4",
+                            "text": "Introduced in Chapter 2 - Season 4."
+                        }
+                    }
+                },
+                {
+                    "quantity": 1,
+                    "item": {
+                        "id": "Pickaxe_ID_467_CloakedAssassinFemale1H_XGC2B",
+                        "type": {
+                            "id": "pickaxe",
+                            "name": "Harvesting Tool"
+                        },
+                        "name": "Cube Edge",
+                        "description": "Do not disappoint the Cube Edge.",
+                        "rarity": {
+                            "id": "Epic",
+                            "name": "Epic"
+                        },
+                        "series": null,
+                        "images": {
+                            "icon": "https://media.fortniteapi.io/images/39207b9e1135b13747a2badb4f37f809/transparent.png",
+                            "featured": "https://media.fortniteapi.io/images/39207b9e1135b13747a2badb4f37f809/full_featured.png",
+                            "background": "https://media.fortniteapi.io/images/cosmetics/39207b9e1135b13747a2badb4f37f809/v2/background.png",
+                            "icon_background": "https://media.fortniteapi.io/images/cosmetics/39207b9e1135b13747a2badb4f37f809/v2/icon_background.png",
+                            "full_background": "https://media.fortniteapi.io/images/cosmetics/39207b9e1135b13747a2badb4f37f809/v2/info.en.png"
+                        },
+                        "video": null,
+                        "gameplayTags": [
+                            "Cosmetics.Pickaxe.DualWield",
+                            "Cosmetics.Set.RuneMood",
+                            "Cosmetics.UserFacingFlags.Reactive",
+                            "Cosmetics.Filter.Season.18",
+                            "Cosmetics.Source.CrewPack.December2021"
+                        ],
+                        "introduction": {
+                            "chapter": "Chapter 2",
+                            "season": "Season 8",
+                            "text": "Introduced in Chapter 2 - Season 8."
+                        }
+                    }
+                },
+                {
+                    "quantity": 1,
+                    "item": {
+                        "id": "Wrap_418_CloakedAssassin_I43FL",
+                        "type": {
+                            "id": "wrap",
+                            "name": "Wrap"
+                        },
+                        "name": "Assassin's Mark",
+                        "description": "Show your style.",
+                        "rarity": {
+                            "id": "Rare",
+                            "name": "RARE"
+                        },
+                        "series": null,
+                        "images": {
+                            "icon": "https://media.fortniteapi.io/images/9e3da1438361db7bd651083d21b8698b/transparent.png",
+                            "featured": "https://media.fortniteapi.io/images/9e3da1438361db7bd651083d21b8698b/full_featured.png",
+                            "background": "https://media.fortniteapi.io/images/cosmetics/9e3da1438361db7bd651083d21b8698b/v2/background.png",
+                            "icon_background": "https://media.fortniteapi.io/images/cosmetics/9e3da1438361db7bd651083d21b8698b/v2/icon_background.png",
+                            "full_background": "https://media.fortniteapi.io/images/cosmetics/9e3da1438361db7bd651083d21b8698b/v2/info.en.png"
+                        },
+                        "video": null,
+                        "gameplayTags": [
+                            "Cosmetics.Filter.Season.18",
+                            "Cosmetics.UserFacingFlags.Reactive.WeaponFire",
+                            "Cosmetics.UserFacingFlags.Wrap.Animated",
+                            "Cosmetics.Source.CrewPack.December2021"
+                        ],
+                        "introduction": {
+                            "chapter": "Chapter 2",
+                            "season": "Season 8",
+                            "text": "Introduced in Chapter 2 - Season 8."
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "type": "past",
+            "date": "2021-11-01",
+            "colors": {
+                "A": "1f50cc",
+                "B": "56b9ef",
+                "C": "56b9ef"
+            },
+            "video": "https://media.fortniteapi.io/videos/news/MDDDDKkDCHGfBTsWvP_en.mp4",
+            "skinImageTakeOver": false,
+            "descriptions": {
+                "title": "EXCLUSIVE CREW PACK",
+                "battlepass": "BATTLE PASS",
+                "vbucksTitle": "1,000 V-BUCKS"
+            },
+            "images": {
+                "battlepass": "https://cdn2.unrealengine.com/subs-ingame-18bp-upsell-bppromo-1024x1024-3b7160577660.png",
+                "battlepassTile": null,
+                "itemShopTile": "https://cdn2.unrealengine.com/18br-subs-firstshadows3-upsell-2048x1124-2048x1124-81dc78f733c6.jpg",
+                "skin": "https://cdn2.unrealengine.com/18br-subs-firstshadows3-upsell-detailpage-1920x1080-89893068e21e.png",
+                "apiRender": "https://media.fortniteapi.io/images/crew/2021-11/presentation.en.png"
+            },
+            "rewards": [
+                {
+                    "quantity": 1,
+                    "item": {
+                        "id": "CID_A_255_Athena_Commando_F_SAM_QA7ZS",
+                        "type": {
+                            "id": "outfit",
+                            "name": "Outfit"
+                        },
+                        "name": "Sierra",
+                        "description": "Avenging her past from the Shadows.",
+                        "rarity": {
+                            "id": "Epic",
+                            "name": "Epic"
+                        },
+                        "series": null,
+                        "images": {
+                            "icon": "https://media.fortniteapi.io/images/e4a765e43c88ebb1be3093017ead3cc8/transparent.png",
+                            "featured": null,
+                            "background": "https://media.fortniteapi.io/images/cosmetics/e4a765e43c88ebb1be3093017ead3cc8/v2/background.png",
+                            "icon_background": "https://media.fortniteapi.io/images/cosmetics/e4a765e43c88ebb1be3093017ead3cc8/v2/icon_background.png",
+                            "full_background": "https://media.fortniteapi.io/images/cosmetics/e4a765e43c88ebb1be3093017ead3cc8/v2/info.en.png"
+                        },
+                        "video": null,
+                        "gameplayTags": [
+                            "Cosmetics.Filter.Season.18",
+                            "Cosmetics.UserFacingFlags.HasVariants",
+                            "Cosmetics.Set.BreachDog",
+                            "SoundLibrary.ID.StepType.ShoesSneakers",
+                            "SoundLibrary.ID.ClothingType.Generic",
+                            "SoundLibrary.ID.HandType.Bare"
+                        ],
+                        "introduction": {
+                            "chapter": "Chapter 2",
+                            "season": "Season 8",
+                            "text": "Introduced in Chapter 2 - Season 8."
+                        }
+                    }
+                },
+                {
+                    "quantity": 1,
+                    "item": {
+                        "id": "BID_888_SAM_4LYL3",
+                        "type": {
+                            "id": "backpack",
+                            "name": "BackBling"
+                        },
+                        "name": "Sierra's Go Bag",
+                        "description": "Contains rations, field supplies, and one tattered family photo...",
+                        "rarity": {
+                            "id": "Epic",
+                            "name": "Epic"
+                        },
+                        "series": null,
+                        "images": {
+                            "icon": "https://media.fortniteapi.io/images/5669389b4f5143e4566e78e3c4fd2261/transparent.png",
+                            "featured": null,
+                            "background": "https://media.fortniteapi.io/images/cosmetics/5669389b4f5143e4566e78e3c4fd2261/v2/background.png",
+                            "icon_background": "https://media.fortniteapi.io/images/cosmetics/5669389b4f5143e4566e78e3c4fd2261/v2/icon_background.png",
+                            "full_background": "https://media.fortniteapi.io/images/cosmetics/5669389b4f5143e4566e78e3c4fd2261/v2/info.en.png"
+                        },
+                        "video": null,
+                        "gameplayTags": [
+                            "Cosmetics.Source.CrewPack.November2021",
+                            "Cosmetics.Filter.Season.18",
+                            "Cosmetics.UserFacingFlags.HasVariants",
+                            "Cosmetics.Set.BreachDog"
+                        ],
+                        "introduction": {
+                            "chapter": "Chapter 2",
+                            "season": "Season 8",
+                            "text": "Introduced in Chapter 2 - Season 8."
+                        }
+                    }
+                },
+                {
+                    "quantity": 1,
+                    "item": {
+                        "id": "Pickaxe_ID_697_SAMFemale1H_RV6AN",
+                        "type": {
+                            "id": "pickaxe",
+                            "name": "Harvesting Tool"
+                        },
+                        "name": "Serrated Steelblades",
+                        "description": "Forged with steel salvaged from Sierra's childhood home.",
+                        "rarity": {
+                            "id": "Epic",
+                            "name": "Epic"
+                        },
+                        "series": null,
+                        "images": {
+                            "icon": "https://media.fortniteapi.io/images/299280f58b71dd38d333b888bc678656/transparent.png",
+                            "featured": null,
+                            "background": "https://media.fortniteapi.io/images/cosmetics/299280f58b71dd38d333b888bc678656/v2/background.png",
+                            "icon_background": "https://media.fortniteapi.io/images/cosmetics/299280f58b71dd38d333b888bc678656/v2/icon_background.png",
+                            "full_background": "https://media.fortniteapi.io/images/cosmetics/299280f58b71dd38d333b888bc678656/v2/info.en.png"
+                        },
+                        "video": null,
+                        "gameplayTags": [
+                            "Cosmetics.Pickaxe.DualWield",
+                            "Cosmetics.Filter.Season.18",
+                            "Cosmetics.Source.CrewPack.November2021",
+                            "Cosmetics.UserFacingFlags.HasVariants",
+                            "Cosmetics.Set.BreachDog"
+                        ],
+                        "introduction": {
+                            "chapter": "Chapter 2",
+                            "season": "Season 8",
+                            "text": "Introduced in Chapter 2 - Season 8."
+                        }
+                    }
+                },
+                {
+                    "quantity": 1,
+                    "item": {
+                        "id": "Wrap_413_SAM_WK0AX",
+                        "type": {
+                            "id": "wrap",
+                            "name": "Wrap"
+                        },
+                        "name": "Glowing Vengeance",
+                        "description": "Show your style.",
+                        "rarity": {
+                            "id": "Rare",
+                            "name": "RARE"
+                        },
+                        "series": null,
+                        "images": {
+                            "icon": "https://media.fortniteapi.io/images/3453da7b735f6fcc16a5353d1adac84e/transparent.png",
+                            "featured": null,
+                            "background": "https://media.fortniteapi.io/images/cosmetics/3453da7b735f6fcc16a5353d1adac84e/v2/background.png",
+                            "icon_background": "https://media.fortniteapi.io/images/cosmetics/3453da7b735f6fcc16a5353d1adac84e/v2/icon_background.png",
+                            "full_background": "https://media.fortniteapi.io/images/cosmetics/3453da7b735f6fcc16a5353d1adac84e/v2/info.en.png"
+                        },
+                        "video": null,
+                        "gameplayTags": [
+                            "Cosmetics.Filter.Season.18",
+                            "Cosmetics.UserFacingFlags.Wrap.Animated",
+                            "Cosmetics.UserFacingFlags.Reactive.WeaponFire",
+                            "Cosmetics.Source.CrewPack.November2021",
+                            "Cosmetics.Set.BreachDog"
+                        ],
+                        "introduction": {
+                            "chapter": "Chapter 2",
+                            "season": "Season 8",
+                            "text": "Introduced in Chapter 2 - Season 8."
+                        }
+                    }
+                },
+                {
+                    "quantity": 1,
+                    "item": {
+                        "id": "LSID_363_DarkTrioNov_4B2M5",
+                        "type": {
+                            "id": "loadingscreen",
+                            "name": "Loading Screen"
+                        },
+                        "name": "Sierra's Vengeance",
+                        "description": "From now on, she has her own back. Art by Sebastian Fiumara.",
+                        "rarity": {
+                            "id": "Uncommon",
+                            "name": "UNCOMMON"
+                        },
+                        "series": null,
+                        "images": {
+                            "icon": "https://media.fortniteapi.io/images/0af5bfd1bf9cdaf53adb644e481d0759/transparent.png",
+                            "featured": "https://media.fortniteapi.io/images/0af5bfd1bf9cdaf53adb644e481d0759/full_featured.png",
+                            "background": "https://media.fortniteapi.io/images/cosmetics/0af5bfd1bf9cdaf53adb644e481d0759/v2/background.png",
+                            "icon_background": "https://media.fortniteapi.io/images/cosmetics/0af5bfd1bf9cdaf53adb644e481d0759/v2/icon_background.png",
+                            "full_background": "https://media.fortniteapi.io/images/cosmetics/0af5bfd1bf9cdaf53adb644e481d0759/v2/info.en.png"
+                        },
+                        "video": null,
+                        "gameplayTags": [
+                            "Cosmetics.Filter.Season.18",
+                            "Cosmetics.Source.CrewPack",
+                            "Cosmetics.Set.BreachDog"
+                        ],
+                        "introduction": {
+                            "chapter": "Chapter 2",
+                            "season": "Season 8",
+                            "text": "Introduced in Chapter 2 - Season 8."
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "type": "past",
+            "date": "2021-10-01",
+            "colors": {
+                "A": "AA104E",
+                "B": "EE699F",
+                "C": "EE699F"
+            },
+            "video": "https://media.fortniteapi.io/videos/news/SZsdWXCFDBUdaTUXqP_en.mp4",
+            "skinImageTakeOver": false,
+            "descriptions": {
+                "title": "EXCLUSIVE CREW PACK",
+                "battlepass": "BATTLE PASS",
+                "vbucksTitle": "1,000 V-BUCKS"
+            },
+            "images": {
+                "battlepass": "https://cdn2.unrealengine.com/subs-ingame-18bp-upsell-bppromo-1024x1024-3b7160577660.png",
+                "battlepassTile": null,
+                "itemShopTile": "https://cdn2.unrealengine.com/18br-subs-firstshadows2-upsell-alt-2048x1124-62b1e5c134fe.jpg",
+                "skin": "https://cdn2.unrealengine.com/18br-subs-firstshadows2-upsell-detailpage-alt-1920x1080-bf14c24448e5.png",
+                "apiRender": "https://media.fortniteapi.io/images/crew/2021-10/presentation.en.png"
+            },
+            "rewards": [
+                {
+                    "quantity": 1,
+                    "item": {
+                        "id": "CID_A_211_Athena_Commando_M_Psyche_JWQP3",
+                        "type": {
+                            "id": "outfit",
+                            "name": "Outfit"
+                        },
+                        "name": "Chaos Origins",
+                        "description": "He's a mad, mad, mad, mad scientist.",
+                        "rarity": {
+                            "id": "Epic",
+                            "name": "Epic"
+                        },
+                        "series": null,
+                        "images": {
+                            "icon": "https://media.fortniteapi.io/images/f0f2cc5d85040c437d55217f7f18fd34/transparent.png",
+                            "featured": null,
+                            "background": "https://media.fortniteapi.io/images/cosmetics/f0f2cc5d85040c437d55217f7f18fd34/v2/background.png",
+                            "icon_background": "https://media.fortniteapi.io/images/cosmetics/f0f2cc5d85040c437d55217f7f18fd34/v2/icon_background.png",
+                            "full_background": "https://media.fortniteapi.io/images/cosmetics/f0f2cc5d85040c437d55217f7f18fd34/v2/info.en.png"
+                        },
+                        "video": null,
+                        "gameplayTags": [
+                            "Cosmetics.Filter.Season.18",
+                            "Cosmetics.Set.BreachDog",
+                            "SoundLibrary.ID.StepType.ShoesSneakers",
+                            "SoundLibrary.ID.ClothingType.Generic",
+                            "SoundLibrary.ID.HandType.Glove"
+                        ],
+                        "introduction": {
+                            "chapter": "Chapter 2",
+                            "season": "Season 8",
+                            "text": "Introduced in Chapter 2 - Season 8."
+                        }
+                    }
+                },
+                {
+                    "quantity": 1,
+                    "item": {
+                        "id": "BID_868_PsycheMale_CTVM0",
+                        "type": {
+                            "id": "backpack",
+                            "name": "BackBling"
+                        },
+                        "name": "Siphon Pack",
+                        "description": "Don't spread yourself too thin.",
+                        "rarity": {
+                            "id": "Epic",
+                            "name": "Epic"
+                        },
+                        "series": null,
+                        "images": {
+                            "icon": "https://media.fortniteapi.io/images/fc64fdbb18065078fc3b1560deae0d78/transparent.png",
+                            "featured": null,
+                            "background": "https://media.fortniteapi.io/images/cosmetics/fc64fdbb18065078fc3b1560deae0d78/v2/background.png",
+                            "icon_background": "https://media.fortniteapi.io/images/cosmetics/fc64fdbb18065078fc3b1560deae0d78/v2/icon_background.png",
+                            "full_background": "https://media.fortniteapi.io/images/cosmetics/fc64fdbb18065078fc3b1560deae0d78/v2/info.en.png"
+                        },
+                        "video": null,
+                        "gameplayTags": [
+                            "Cosmetics.Filter.Season.18",
+                            "Cosmetics.Set.BreachDog"
+                        ],
+                        "introduction": {
+                            "chapter": "Chapter 2",
+                            "season": "Season 8",
+                            "text": "Introduced in Chapter 2 - Season 8."
+                        }
+                    }
+                },
+                {
+                    "quantity": 1,
+                    "item": {
+                        "id": "Pickaxe_ID_678_PsycheMale_81RMH",
+                        "type": {
+                            "id": "pickaxe",
+                            "name": "Harvesting Tool"
+                        },
+                        "name": "Mutagen Mace",
+                        "description": "The best mad scientists really put themselves in their work.",
+                        "rarity": {
+                            "id": "Epic",
+                            "name": "Epic"
+                        },
+                        "series": null,
+                        "images": {
+                            "icon": "https://media.fortniteapi.io/images/78fbd0cbbcbf7d843ca48d5af1062314/transparent.png",
+                            "featured": null,
+                            "background": "https://media.fortniteapi.io/images/cosmetics/78fbd0cbbcbf7d843ca48d5af1062314/v2/background.png",
+                            "icon_background": "https://media.fortniteapi.io/images/cosmetics/78fbd0cbbcbf7d843ca48d5af1062314/v2/icon_background.png",
+                            "full_background": "https://media.fortniteapi.io/images/cosmetics/78fbd0cbbcbf7d843ca48d5af1062314/v2/info.en.png"
+                        },
+                        "video": null,
+                        "gameplayTags": [
+                            "Cosmetics.Filter.Season.18",
+                            "Cosmetics.Source.CrewPack.October2021",
+                            "Cosmetics.Set.BreachDog"
+                        ],
+                        "introduction": {
+                            "chapter": "Chapter 2",
+                            "season": "Season 8",
+                            "text": "Introduced in Chapter 2 - Season 8."
+                        }
+                    }
+                },
+                {
+                    "quantity": 1,
+                    "item": {
+                        "id": "Wrap_406_Psyche_YFO29",
+                        "type": {
+                            "id": "wrap",
+                            "name": "Wrap"
+                        },
+                        "name": "World Dominator",
+                        "description": "Show your style.",
+                        "rarity": {
+                            "id": "Rare",
+                            "name": "RARE"
+                        },
+                        "series": null,
+                        "images": {
+                            "icon": "https://media.fortniteapi.io/images/d8f7c9193a87533adf2bb5ef0e1282f5/transparent.png",
+                            "featured": null,
+                            "background": "https://media.fortniteapi.io/images/cosmetics/d8f7c9193a87533adf2bb5ef0e1282f5/v2/background.png",
+                            "icon_background": "https://media.fortniteapi.io/images/cosmetics/d8f7c9193a87533adf2bb5ef0e1282f5/v2/icon_background.png",
+                            "full_background": "https://media.fortniteapi.io/images/cosmetics/d8f7c9193a87533adf2bb5ef0e1282f5/v2/info.en.png"
+                        },
+                        "video": null,
+                        "gameplayTags": [
+                            "Cosmetics.Filter.Season.18",
+                            "Cosmetics.UserFacingFlags.Wrap.Animated",
+                            "Cosmetics.Set.BreachDog",
+                            "Cosmetics.Source.CrewPack.October2021"
+                        ],
+                        "introduction": {
+                            "chapter": "Chapter 2",
+                            "season": "Season 8",
+                            "text": "Introduced in Chapter 2 - Season 8."
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "type": "past",
+            "date": "2021-09-01",
+            "colors": {
+                "A": "421078",
+                "B": "B67FF4",
+                "C": "B67FF4"
+            },
+            "video": "https://media.fortniteapi.io/videos/news/pYdKAlzsykDdMvtShZ_en.mp4",
+            "skinImageTakeOver": false,
+            "descriptions": {
+                "title": "EXCLUSIVE CREW PACK",
+                "battlepass": "BATTLE PASS",
+                "vbucksTitle": "1,000 V-BUCKS"
+            },
+            "images": {
+                "battlepass": "https://cdn2.unrealengine.com/subs-ingame-18bp-upsell-bppromo-1024x1024-3b7160577660.png",
+                "battlepassTile": null,
+                "itemShopTile": "https://cdn2.unrealengine.com/subs-ingame-ninjawolf-upsell-2048x1124-2048x1124-1ba49a116557.jpg",
+                "skin": "https://cdn2.unrealengine.com/subs-ingame-ninjawolf-upsell-detailpage-1920x1080-0392703b11a3.png",
+                "apiRender": "https://media.fortniteapi.io/images/crew/2021-09/presentation.en.png"
+            },
+            "rewards": [
+                {
+                    "quantity": 1,
+                    "item": {
+                        "id": "CID_A_184_Athena_Commando_M_NinjaWolf_F09O3",
+                        "type": {
+                            "id": "outfit",
+                            "name": "Outfit"
+                        },
+                        "name": "The Burning Wolf",
+                        "description": "The legend is nightmarish. The reality is worse.",
+                        "rarity": {
+                            "id": "Epic",
+                            "name": "Epic"
+                        },
+                        "series": null,
+                        "images": {
+                            "icon": "https://media.fortniteapi.io/images/502f511b3566af3f34702536448a568b/transparent.png",
+                            "featured": null,
+                            "background": "https://media.fortniteapi.io/images/cosmetics/502f511b3566af3f34702536448a568b/v2/background.png",
+                            "icon_background": "https://media.fortniteapi.io/images/cosmetics/502f511b3566af3f34702536448a568b/v2/icon_background.png",
+                            "full_background": "https://media.fortniteapi.io/images/cosmetics/502f511b3566af3f34702536448a568b/v2/info.en.png"
+                        },
+                        "video": null,
+                        "gameplayTags": [
+                            "Cosmetics.UserFacingFlags.HasVariants",
+                            "Cosmetics.Filter.Season.17",
+                            "Cosmetics.Source.CrewPack.September2021",
+                            "Cosmetics.Set.BreachDog",
+                            "SoundLibrary.ID.StepType.ShoesSneakers",
+                            "SoundLibrary.ID.HandType.Robot",
+                            "SoundLibrary.ID.ClothingType.Robot"
+                        ],
+                        "introduction": {
+                            "chapter": "Chapter 2",
+                            "season": "Season 7",
+                            "text": "Introduced in Chapter 2 - Season 7."
+                        }
+                    }
+                },
+                {
+                    "quantity": 1,
+                    "item": {
+                        "id": "BID_830_NinjaWolf_4CWAW",
+                        "type": {
+                            "id": "backpack",
+                            "name": "BackBling"
+                        },
+                        "name": "Burning Fangs",
+                        "description": "Vengeance is only the beginning.",
+                        "rarity": {
+                            "id": "Epic",
+                            "name": "Epic"
+                        },
+                        "series": null,
+                        "images": {
+                            "icon": "https://media.fortniteapi.io/images/bdccaa8d5ba76ee1493d730a1275ae6f/transparent.png",
+                            "featured": null,
+                            "background": "https://media.fortniteapi.io/images/cosmetics/bdccaa8d5ba76ee1493d730a1275ae6f/v2/background.png",
+                            "icon_background": "https://media.fortniteapi.io/images/cosmetics/bdccaa8d5ba76ee1493d730a1275ae6f/v2/icon_background.png",
+                            "full_background": "https://media.fortniteapi.io/images/cosmetics/bdccaa8d5ba76ee1493d730a1275ae6f/v2/info.en.png"
+                        },
+                        "video": null,
+                        "gameplayTags": [
+                            "Cosmetics.Source.CrewPack.September2021",
+                            "Cosmetics.Filter.Season.17",
+                            "Cosmetics.Set.BreachDog"
+                        ],
+                        "introduction": {
+                            "chapter": "Chapter 2",
+                            "season": "Season 7",
+                            "text": "Introduced in Chapter 2 - Season 7."
+                        }
+                    }
+                },
+                {
+                    "quantity": 1,
+                    "item": {
+                        "id": "Pickaxe_ID_656_NinjaWolfMale_7PTDP",
+                        "type": {
+                            "id": "pickaxe",
+                            "name": "Harvesting Tool"
+                        },
+                        "name": "Burning Fangs",
+                        "description": "Vengeance is only the beginning.",
+                        "rarity": {
+                            "id": "Epic",
+                            "name": "Epic"
+                        },
+                        "series": null,
+                        "images": {
+                            "icon": "https://media.fortniteapi.io/images/18abe9969bbcf234d8758e034945043c/transparent.png",
+                            "featured": null,
+                            "background": "https://media.fortniteapi.io/images/cosmetics/18abe9969bbcf234d8758e034945043c/v2/background.png",
+                            "icon_background": "https://media.fortniteapi.io/images/cosmetics/18abe9969bbcf234d8758e034945043c/v2/icon_background.png",
+                            "full_background": "https://media.fortniteapi.io/images/cosmetics/18abe9969bbcf234d8758e034945043c/v2/info.en.png"
+                        },
+                        "video": null,
+                        "gameplayTags": [
+                            "Cosmetics.Pickaxe.DualWield",
+                            "Cosmetics.Filter.Season.17",
+                            "Cosmetics.Set.BreachDog",
+                            "Cosmetics.Source.CrewPack.September2021"
+                        ],
+                        "introduction": {
+                            "chapter": "Chapter 2",
+                            "season": "Season 7",
+                            "text": "Introduced in Chapter 2 - Season 7."
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "type": "past",
+            "date": "2021-08-01",
+            "colors": {
+                "A": "4619e0",
+                "B": "2de5ff",
+                "C": "2de5ff"
+            },
+            "video": null,
+            "skinImageTakeOver": false,
+            "descriptions": {
+                "title": "EXCLUSIVE CREW PACK",
+                "battlepass": "BATTLE PASS",
+                "vbucksTitle": "1,000 V-BUCKS"
+            },
+            "images": {
+                "battlepass": "https://cdn2.unrealengine.com/t-ui-subs-bp-rewardimage-season151-1024x1024-3db53fe15ce9.png",
+                "battlepassTile": null,
+                "itemShopTile": "https://cdn2.unrealengine.com/subs-ingame-buffcatfan-upsell-2048x1124-2048x1124-1c6425009145.jpg",
+                "skin": "https://cdn2.unrealengine.com/subs-ingame-buffcatfan-upsell-detailpage-1920x1080-0873c4327dc5.png",
+                "apiRender": "https://media.fortniteapi.io/images/crew/2021-08/presentation.en.png"
+            },
+            "rewards": [
+                {
+                    "quantity": 1,
+                    "item": {
+                        "id": "CID_A_153_Athena_Commando_F_BuffCatFan_TS2DR",
+                        "type": {
+                            "id": "outfit",
+                            "name": "Outfit"
+                        },
+                        "name": "Summer Skye",
+                        "description": "Combat master, cat protector, and lover of all things kawaii.",
+                        "rarity": {
+                            "id": "Epic",
+                            "name": "Epic"
+                        },
+                        "series": null,
+                        "images": {
+                            "icon": "https://media.fortniteapi.io/images/45caac9fc35100f267b552d338d3df4b/transparent.png",
+                            "featured": null,
+                            "background": "https://media.fortniteapi.io/images/cosmetics/45caac9fc35100f267b552d338d3df4b/v2/background.png",
+                            "icon_background": "https://media.fortniteapi.io/images/cosmetics/45caac9fc35100f267b552d338d3df4b/v2/icon_background.png",
+                            "full_background": "https://media.fortniteapi.io/images/cosmetics/45caac9fc35100f267b552d338d3df4b/v2/info.en.png"
+                        },
+                        "video": null,
+                        "gameplayTags": [
+                            "Cosmetics.Filter.Season.17",
+                            "Cosmetics.UserFacingFlags.HasVariants",
+                            "Cosmetics.Set.JobHeat",
+                            "Cosmetics.Source.CrewPack.August2021",
+                            "SoundLibrary.ID.StepType.ShoesSneakers",
+                            "SoundLibrary.ID.ClothingType.Generic",
+                            "SoundLibrary.ID.HandType.Bare"
+                        ],
+                        "introduction": {
+                            "chapter": "Chapter 2",
+                            "season": "Season 7",
+                            "text": "Introduced in Chapter 2 - Season 7."
+                        }
+                    }
+                },
+                {
+                    "quantity": 1,
+                    "item": {
+                        "id": "BID_814_BuffCatFan_C3DES",
+                        "type": {
+                            "id": "backpack",
+                            "name": "BackBling"
+                        },
+                        "name": "Cursed Eagleshield",
+                        "description": "Why even carry an Eagleshield if it's not cursed?",
+                        "rarity": {
+                            "id": "Epic",
+                            "name": "Epic"
+                        },
+                        "series": null,
+                        "images": {
+                            "icon": "https://media.fortniteapi.io/images/494d7aefa993794b561096508d47fc49/transparent.png",
+                            "featured": null,
+                            "background": "https://media.fortniteapi.io/images/cosmetics/494d7aefa993794b561096508d47fc49/v2/background.png",
+                            "icon_background": "https://media.fortniteapi.io/images/cosmetics/494d7aefa993794b561096508d47fc49/v2/icon_background.png",
+                            "full_background": "https://media.fortniteapi.io/images/cosmetics/494d7aefa993794b561096508d47fc49/v2/info.en.png"
+                        },
+                        "video": null,
+                        "gameplayTags": [
+                            "Cosmetics.Source.CrewPack.August2021",
+                            "Cosmetics.Filter.Season.17",
+                            "Cosmetics.Set.JobHeat"
+                        ],
+                        "introduction": {
+                            "chapter": "Chapter 2",
+                            "season": "Season 7",
+                            "text": "Introduced in Chapter 2 - Season 7."
+                        }
+                    }
+                },
+                {
+                    "quantity": 1,
+                    "item": {
+                        "id": "Pickaxe_ID_635_BuffCatFanFemale_J642P",
+                        "type": {
+                            "id": "pickaxe",
+                            "name": "Harvesting Tool"
+                        },
+                        "name": "Epic Sword of Might",
+                        "description": "It's only a little bit cursed.",
+                        "rarity": {
+                            "id": "Rare",
+                            "name": "RARE"
+                        },
+                        "series": null,
+                        "images": {
+                            "icon": "https://media.fortniteapi.io/images/d995cd944e07f52644a7b06119392446/transparent.png",
+                            "featured": null,
+                            "background": "https://media.fortniteapi.io/images/cosmetics/d995cd944e07f52644a7b06119392446/v2/background.png",
+                            "icon_background": "https://media.fortniteapi.io/images/cosmetics/d995cd944e07f52644a7b06119392446/v2/icon_background.png",
+                            "full_background": "https://media.fortniteapi.io/images/cosmetics/d995cd944e07f52644a7b06119392446/v2/info.en.png"
+                        },
+                        "video": null,
+                        "gameplayTags": [
+                            "Cosmetics.Filter.Season.17",
+                            "Cosmetics.Set.JobHeat",
+                            "Cosmetics.Source.CrewPack.August2021"
+                        ],
+                        "introduction": {
+                            "chapter": "Chapter 2",
+                            "season": "Season 7",
+                            "text": "Introduced in Chapter 2 - Season 7."
+                        }
+                    }
+                },
+                {
+                    "quantity": 1,
+                    "item": {
+                        "id": "Wrap_382_BuffCatFan_OQ9IZ",
+                        "type": {
+                            "id": "wrap",
+                            "name": "Wrap"
+                        },
+                        "name": "Pspspsps!",
+                        "description": "Show your style.",
+                        "rarity": {
+                            "id": "Uncommon",
+                            "name": "UNCOMMON"
+                        },
+                        "series": null,
+                        "images": {
+                            "icon": "https://media.fortniteapi.io/images/ccbe2e7cae131a1ff3bfdd47e7190817/transparent.png",
+                            "featured": null,
+                            "background": "https://media.fortniteapi.io/images/cosmetics/ccbe2e7cae131a1ff3bfdd47e7190817/v2/background.png",
+                            "icon_background": "https://media.fortniteapi.io/images/cosmetics/ccbe2e7cae131a1ff3bfdd47e7190817/v2/icon_background.png",
+                            "full_background": "https://media.fortniteapi.io/images/cosmetics/ccbe2e7cae131a1ff3bfdd47e7190817/v2/info.en.png"
+                        },
+                        "video": null,
+                        "gameplayTags": [
+                            "Cosmetics.Filter.Season.17",
+                            "Cosmetics.Set.JobHeat",
+                            "Cosmetics.Source.CrewPack.August2021"
+                        ],
+                        "introduction": {
+                            "chapter": "Chapter 2",
+                            "season": "Season 7",
+                            "text": "Introduced in Chapter 2 - Season 7."
+                        }
+                    }
+                },
+                {
+                    "quantity": 1,
+                    "item": {
+                        "id": "Wrap_378_BuffCatFanB_J74F1",
+                        "type": {
+                            "id": "wrap",
+                            "name": "Wrap"
+                        },
+                        "name": "Cattitude",
+                        "description": "Show your style.",
+                        "rarity": {
+                            "id": "Uncommon",
+                            "name": "UNCOMMON"
+                        },
+                        "series": null,
+                        "images": {
+                            "icon": "https://media.fortniteapi.io/images/58243e13c37197586848b8010587758e/transparent.png",
+                            "featured": null,
+                            "background": "https://media.fortniteapi.io/images/cosmetics/58243e13c37197586848b8010587758e/v2/background.png",
+                            "icon_background": "https://media.fortniteapi.io/images/cosmetics/58243e13c37197586848b8010587758e/v2/icon_background.png",
+                            "full_background": "https://media.fortniteapi.io/images/cosmetics/58243e13c37197586848b8010587758e/v2/info.en.png"
+                        },
+                        "video": null,
+                        "gameplayTags": [
+                            "Cosmetics.Filter.Season.17",
+                            "Cosmetics.Set.JobHeat",
+                            "Cosmetics.Source.CrewPack.August2021"
+                        ],
+                        "introduction": {
+                            "chapter": "Chapter 2",
+                            "season": "Season 7",
+                            "text": "Introduced in Chapter 2 - Season 7."
+                        }
+                    }
+                },
+                {
+                    "quantity": 1,
+                    "item": {
+                        "id": "LSID_324_BuffCatFan_99Q4A",
+                        "type": {
+                            "id": "loadingscreen",
+                            "name": "Loading Screen"
+                        },
+                        "name": "Afternoon Quest",
+                        "description": "Searching for adventure beyond the sky.",
+                        "rarity": {
+                            "id": "Uncommon",
+                            "name": "UNCOMMON"
+                        },
+                        "series": null,
+                        "images": {
+                            "icon": "https://media.fortniteapi.io/images/7b7812070fc075c60134311bf79b467c/transparent.png",
+                            "featured": "https://media.fortniteapi.io/images/7b7812070fc075c60134311bf79b467c/full_featured.png",
+                            "background": "https://media.fortniteapi.io/images/cosmetics/7b7812070fc075c60134311bf79b467c/v2/background.png",
+                            "icon_background": "https://media.fortniteapi.io/images/cosmetics/7b7812070fc075c60134311bf79b467c/v2/icon_background.png",
+                            "full_background": "https://media.fortniteapi.io/images/cosmetics/7b7812070fc075c60134311bf79b467c/v2/info.en.png"
+                        },
+                        "video": null,
+                        "gameplayTags": [
+                            "Cosmetics.Filter.Season.17",
+                            "Cosmetics.Source.CrewPack.August2021",
+                            "Cosmetics.Set.JobHeat"
+                        ],
+                        "introduction": {
+                            "chapter": "Chapter 2",
+                            "season": "Season 7",
+                            "text": "Introduced in Chapter 2 - Season 7."
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "type": "past",
+            "date": "2021-07-01",
+            "colors": {
+                "A": "151d02",
+                "B": "6ce240",
+                "C": "6ce240"
+            },
+            "video": "https://media.fortniteapi.io/videos/news/BmTFLEPGpVWirrTdTQ_en.mp4",
+            "skinImageTakeOver": false,
+            "descriptions": {
+                "title": "EXCLUSIVE CREW PACK",
+                "battlepass": "BATTLE PASS",
+                "vbucksTitle": "1,000 V-BUCKS"
+            },
+            "images": {
+                "battlepass": "https://cdn2.unrealengine.com/subs-ingame-upsell-bpreward-1024x1024-3ff78b9232e8.png",
+                "battlepassTile": null,
+                "itemShopTile": "https://cdn2.unrealengine.com/subs-ingame-loki-upsell-2048x1124-2048x1124-dea043645a9b.jpg",
+                "skin": "https://cdn2.unrealengine.com/subs-ingame-loki-upsell-detailpage-1920x1080-5b9618873a41.png",
+                "apiRender": "https://media.fortniteapi.io/images/crew/2021-07/presentation.en.png"
+            },
+            "rewards": [
+                {
+                    "quantity": 1,
+                    "item": {
+                        "id": "CID_A_126_Athena_Commando_M_Linguini_PX0QU",
+                        "type": {
+                            "id": "outfit",
+                            "name": "Outfit"
+                        },
+                        "name": "Loki Laufeyson",
+                        "description": "Your savior is here.",
+                        "rarity": {
+                            "id": "Epic",
+                            "name": "Epic"
+                        },
+                        "series": {
+                            "id": "MarvelSeries",
+                            "name": "MARVEL SERIES"
+                        },
+                        "images": {
+                            "icon": "https://media.fortniteapi.io/images/d80998c60256ffc8280a11dacee76fb8/transparent.png",
+                            "featured": null,
+                            "background": "https://media.fortniteapi.io/images/cosmetics/d80998c60256ffc8280a11dacee76fb8/v2/background.png",
+                            "icon_background": "https://media.fortniteapi.io/images/cosmetics/d80998c60256ffc8280a11dacee76fb8/v2/icon_background.png",
+                            "full_background": "https://media.fortniteapi.io/images/cosmetics/d80998c60256ffc8280a11dacee76fb8/v2/info.en.png"
+                        },
+                        "video": null,
+                        "gameplayTags": [
+                            "Cosmetics.Filter.Season.17",
+                            "Cosmetics.Set.ArtistPhysics",
+                            "SoundLibrary.ID.StepType.BootsCombat",
+                            "SoundLibrary.ID.ClothingType.Generic",
+                            "SoundLibrary.ID.HandType.Bare"
+                        ],
+                        "introduction": {
+                            "chapter": "Chapter 2",
+                            "season": "Season 7",
+                            "text": "Introduced in Chapter 2 - Season 7."
+                        }
+                    }
+                },
+                {
+                    "quantity": 1,
+                    "item": {
+                        "id": "BID_791_Linguini_GM9A0",
+                        "type": {
+                            "id": "backpack",
+                            "name": "BackBling"
+                        },
+                        "name": "Loki's Cape",
+                        "description": "The perfect accessory for the God of Mischief.",
+                        "rarity": {
+                            "id": "Epic",
+                            "name": "Epic"
+                        },
+                        "series": {
+                            "id": "MarvelSeries",
+                            "name": "MARVEL SERIES"
+                        },
+                        "images": {
+                            "icon": "https://media.fortniteapi.io/images/a563fdf48bce829391a198c7b7fe6d95/transparent.png",
+                            "featured": null,
+                            "background": "https://media.fortniteapi.io/images/cosmetics/a563fdf48bce829391a198c7b7fe6d95/v2/background.png",
+                            "icon_background": "https://media.fortniteapi.io/images/cosmetics/a563fdf48bce829391a198c7b7fe6d95/v2/icon_background.png",
+                            "full_background": "https://media.fortniteapi.io/images/cosmetics/a563fdf48bce829391a198c7b7fe6d95/v2/info.en.png"
+                        },
+                        "video": null,
+                        "gameplayTags": [
+                            "Cosmetics.Filter.Season.17",
+                            "Cosmetics.Set.ArtistPhysics",
+                            "Cosmetics.Backpack.IsCape"
+                        ],
+                        "introduction": {
+                            "chapter": "Chapter 2",
+                            "season": "Season 7",
+                            "text": "Introduced in Chapter 2 - Season 7."
+                        }
+                    }
+                },
+                {
+                    "quantity": 1,
+                    "item": {
+                        "id": "Pickaxe_ID_627_LinguiniMale_2ZOX0",
+                        "type": {
+                            "id": "pickaxe",
+                            "name": "Harvesting Tool"
+                        },
+                        "name": "Loki's Scepter",
+                        "description": "Also known as the glow stick of destiny.",
+                        "rarity": {
+                            "id": "Epic",
+                            "name": "Epic"
+                        },
+                        "series": {
+                            "id": "MarvelSeries",
+                            "name": "MARVEL SERIES"
+                        },
+                        "images": {
+                            "icon": "https://media.fortniteapi.io/images/ce322e2160a6aadce7c95bcf819bd43b/transparent.png",
+                            "featured": null,
+                            "background": "https://media.fortniteapi.io/images/cosmetics/ce322e2160a6aadce7c95bcf819bd43b/v2/background.png",
+                            "icon_background": "https://media.fortniteapi.io/images/cosmetics/ce322e2160a6aadce7c95bcf819bd43b/v2/icon_background.png",
+                            "full_background": "https://media.fortniteapi.io/images/cosmetics/ce322e2160a6aadce7c95bcf819bd43b/v2/info.en.png"
+                        },
+                        "video": null,
+                        "gameplayTags": [
+                            "Cosmetics.Filter.Season.17",
+                            "Cosmetics.Source.CrewPack.July2021",
+                            "Cosmetics.Set.ArtistPhysics"
+                        ],
+                        "introduction": {
+                            "chapter": "Chapter 2",
+                            "season": "Season 7",
+                            "text": "Introduced in Chapter 2 - Season 7."
+                        }
+                    }
+                },
+                {
+                    "quantity": 1,
+                    "item": {
+                        "id": "Glider_ID_301_LinguiniMale_IP674",
+                        "type": {
+                            "id": "glider",
+                            "name": "Glider"
+                        },
+                        "name": "Chitauri Chariot",
+                        "description": "Not of Asgard or any world known.",
+                        "rarity": {
+                            "id": "Epic",
+                            "name": "Epic"
+                        },
+                        "series": {
+                            "id": "MarvelSeries",
+                            "name": "MARVEL SERIES"
+                        },
+                        "images": {
+                            "icon": "https://media.fortniteapi.io/images/57b3c0b84cc18bbd8eba59cf3137f39c/transparent.png",
+                            "featured": null,
+                            "background": "https://media.fortniteapi.io/images/cosmetics/57b3c0b84cc18bbd8eba59cf3137f39c/v2/background.png",
+                            "icon_background": "https://media.fortniteapi.io/images/cosmetics/57b3c0b84cc18bbd8eba59cf3137f39c/v2/icon_background.png",
+                            "full_background": "https://media.fortniteapi.io/images/cosmetics/57b3c0b84cc18bbd8eba59cf3137f39c/v2/info.en.png"
+                        },
+                        "video": null,
+                        "gameplayTags": [
+                            "Cosmetics.Filter.Season.17",
+                            "Cosmetics.Source.CrewPack.July2021",
+                            "Cosmetics.Set.ArtistPhysics"
+                        ],
+                        "introduction": {
+                            "chapter": "Chapter 2",
+                            "season": "Season 7",
+                            "text": "Introduced in Chapter 2 - Season 7."
+                        }
+                    }
+                },
+                {
+                    "quantity": 1,
+                    "item": {
+                        "id": "LSID_320_Linguini_8O4H0",
+                        "type": {
+                            "id": "loadingscreen",
+                            "name": "Loading Screen"
+                        },
+                        "name": "Loki's Welcoming",
+                        "description": "Not Midgard, but this will do.",
+                        "rarity": {
+                            "id": "Epic",
+                            "name": "Epic"
+                        },
+                        "series": {
+                            "id": "MarvelSeries",
+                            "name": "MARVEL SERIES"
+                        },
+                        "images": {
+                            "icon": "https://media.fortniteapi.io/images/4fd27d4d125bd2d683d5c4e99255b87a/transparent.png",
+                            "featured": "https://media.fortniteapi.io/images/4fd27d4d125bd2d683d5c4e99255b87a/full_featured.png",
+                            "background": "https://media.fortniteapi.io/images/cosmetics/4fd27d4d125bd2d683d5c4e99255b87a/v2/background.png",
+                            "icon_background": "https://media.fortniteapi.io/images/cosmetics/4fd27d4d125bd2d683d5c4e99255b87a/v2/icon_background.png",
+                            "full_background": "https://media.fortniteapi.io/images/cosmetics/4fd27d4d125bd2d683d5c4e99255b87a/v2/info.en.png"
+                        },
+                        "video": null,
+                        "gameplayTags": [
+                            "Cosmetics.Filter.Season.17",
+                            "Cosmetics.Set.ArtistPhysics"
+                        ],
+                        "introduction": {
+                            "chapter": "Chapter 2",
+                            "season": "Season 7",
+                            "text": "Introduced in Chapter 2 - Season 7."
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "type": "past",
+            "date": "2021-06-01",
+            "colors": {
+                "A": "d50e5e",
+                "B": "ff9cc8",
+                "C": "ff9cc8"
+            },
+            "video": "https://media.fortniteapi.io/videos/news/wIZHxzUfoxzbYZnnjb_en.mp4",
+            "skinImageTakeOver": false,
+            "descriptions": {
+                "title": "EXCLUSIVE CREW PACK",
+                "battlepass": "BATTLE PASS",
+                "vbucksTitle": "1,000 V-BUCKS"
+            },
+            "images": {
+                "battlepass": "https://cdn2.unrealengine.com/t-ui-subs-bp-rewardimage-season151-1024x1024-3db53fe15ce9.png",
+                "battlepassTile": null,
+                "itemShopTile": "https://cdn2.unrealengine.com/subs-ingame-spacecuddles-upsell-2048x1124-2048x1124-6d03e201ad16.jpg",
+                "skin": "https://cdn2.unrealengine.com/subs-ingame-spacecuddles-upsell-detailpage-1920x1080-4d12a44fb706.png",
+                "apiRender": "https://media.fortniteapi.io/images/crew/2021-06/presentation.en.png"
+            },
+            "rewards": [
+                {
+                    "quantity": 1,
+                    "item": {
+                        "id": "CID_A_105_Athena_Commando_F_SpaceCuddles_5TEVA",
+                        "type": {
+                            "id": "outfit",
+                            "name": "Outfit"
+                        },
+                        "name": "Mecha Cuddle Master",
+                        "description": "Snuggle through space and time.",
+                        "rarity": {
+                            "id": "Legendary",
+                            "name": "LEGENDARY"
+                        },
+                        "series": null,
+                        "images": {
+                            "icon": "https://media.fortniteapi.io/images/89b50971eb4d278fad42f210d079df43/transparent.png",
+                            "featured": null,
+                            "background": "https://media.fortniteapi.io/images/cosmetics/89b50971eb4d278fad42f210d079df43/v2/background.png",
+                            "icon_background": "https://media.fortniteapi.io/images/cosmetics/89b50971eb4d278fad42f210d079df43/v2/icon_background.png",
+                            "full_background": "https://media.fortniteapi.io/images/cosmetics/89b50971eb4d278fad42f210d079df43/v2/info.en.png"
+                        },
+                        "video": null,
+                        "gameplayTags": [
+                            "Cosmetics.Filter.Season.16",
+                            "Cosmetics.UserFacingFlags.HasVariants",
+                            "Cosmetics.Source.CrewPack.June2021",
+                            "Cosmetics.Set.Comeback",
+                            "SoundLibrary.ID.StepType.BootsMetal",
+                            "SoundLibrary.ID.ClothingType.ArmorMetal",
+                            "SoundLibrary.ID.HandType.Glove"
+                        ],
+                        "introduction": {
+                            "chapter": "Chapter 2",
+                            "season": "Season 6",
+                            "text": "Introduced in Chapter 2 - Season 6."
+                        }
+                    }
+                },
+                {
+                    "quantity": 1,
+                    "item": {
+                        "id": "BID_770_SpaceCuddles_X9QET",
+                        "type": {
+                            "id": "backpack",
+                            "name": "BackBling"
+                        },
+                        "name": "Psytronic Bow",
+                        "description": "Hearts!",
+                        "rarity": {
+                            "id": "Legendary",
+                            "name": "LEGENDARY"
+                        },
+                        "series": null,
+                        "images": {
+                            "icon": "https://media.fortniteapi.io/images/ad8863ca98c55e4813138efe0441d4d4/transparent.png",
+                            "featured": null,
+                            "background": "https://media.fortniteapi.io/images/cosmetics/ad8863ca98c55e4813138efe0441d4d4/v2/background.png",
+                            "icon_background": "https://media.fortniteapi.io/images/cosmetics/ad8863ca98c55e4813138efe0441d4d4/v2/icon_background.png",
+                            "full_background": "https://media.fortniteapi.io/images/cosmetics/ad8863ca98c55e4813138efe0441d4d4/v2/info.en.png"
+                        },
+                        "video": null,
+                        "gameplayTags": [
+                            "Cosmetics.Filter.Season.16",
+                            "Cosmetics.UserFacingFlags.HasVariants",
+                            "Cosmetics.Source.CrewPack.June2021",
+                            "Cosmetics.Set.Comeback"
+                        ],
+                        "introduction": {
+                            "chapter": "Chapter 2",
+                            "season": "Season 6",
+                            "text": "Introduced in Chapter 2 - Season 6."
+                        }
+                    }
+                },
+                {
+                    "quantity": 1,
+                    "item": {
+                        "id": "Pickaxe_ID_607_SpaceCuddlesFemale_0ECBA",
+                        "type": {
+                            "id": "pickaxe",
+                            "name": "Harvesting Tool"
+                        },
+                        "name": "Nuzzle Jet",
+                        "description": "Featuring genuine hug-blasted mecha-strike action.",
+                        "rarity": {
+                            "id": "Epic",
+                            "name": "Epic"
+                        },
+                        "series": null,
+                        "images": {
+                            "icon": "https://media.fortniteapi.io/images/d1ead011ffc8b9bef22ce75ddf724c0b/transparent.png",
+                            "featured": null,
+                            "background": "https://media.fortniteapi.io/images/cosmetics/d1ead011ffc8b9bef22ce75ddf724c0b/v2/background.png",
+                            "icon_background": "https://media.fortniteapi.io/images/cosmetics/d1ead011ffc8b9bef22ce75ddf724c0b/v2/icon_background.png",
+                            "full_background": "https://media.fortniteapi.io/images/cosmetics/d1ead011ffc8b9bef22ce75ddf724c0b/v2/info.en.png"
+                        },
+                        "video": null,
+                        "gameplayTags": [
+                            "Cosmetics.Filter.Season.16",
+                            "Cosmetics.UserFacingFlags.HasVariants",
+                            "Cosmetics.Set.Comeback",
+                            "Cosmetics.Source.CrewPack.June2021"
+                        ],
+                        "introduction": {
+                            "chapter": "Chapter 2",
+                            "season": "Season 6",
+                            "text": "Introduced in Chapter 2 - Season 6."
+                        }
+                    }
+                },
+                {
+                    "quantity": 1,
+                    "item": {
+                        "id": "Wrap_357_SpaceCuddles_8GDWQ",
+                        "type": {
+                            "id": "wrap",
+                            "name": "Wrap"
+                        },
+                        "name": "Cuddle Mech",
+                        "description": "Show your style.",
+                        "rarity": {
+                            "id": "Rare",
+                            "name": "RARE"
+                        },
+                        "series": null,
+                        "images": {
+                            "icon": "https://media.fortniteapi.io/images/66b2710440bcdf494ea3ba721eca6a96/transparent.png",
+                            "featured": null,
+                            "background": "https://media.fortniteapi.io/images/cosmetics/66b2710440bcdf494ea3ba721eca6a96/v2/background.png",
+                            "icon_background": "https://media.fortniteapi.io/images/cosmetics/66b2710440bcdf494ea3ba721eca6a96/v2/icon_background.png",
+                            "full_background": "https://media.fortniteapi.io/images/cosmetics/66b2710440bcdf494ea3ba721eca6a96/v2/info.en.png"
+                        },
+                        "video": null,
+                        "gameplayTags": [
+                            "Cosmetics.Filter.Season.16",
+                            "Cosmetics.Set.Comeback",
+                            "Cosmetics.UserFacingFlags.Reactive.WeaponFire",
+                            "Cosmetics.Source.CrewPack.June2021"
+                        ],
+                        "introduction": {
+                            "chapter": "Chapter 2",
+                            "season": "Season 6",
+                            "text": "Introduced in Chapter 2 - Season 6."
+                        }
+                    }
+                },
+                {
+                    "quantity": 1,
+                    "item": {
+                        "id": "LSID_298_SpaceCuddles",
+                        "type": {
+                            "id": "loadingscreen",
+                            "name": "Loading Screen"
+                        },
+                        "name": "Bearallel Universe",
+                        "description": "The cuddliest timeline. May 2021 Crew Bonus.",
+                        "rarity": {
+                            "id": "Uncommon",
+                            "name": "UNCOMMON"
+                        },
+                        "series": null,
+                        "images": {
+                            "icon": "https://media.fortniteapi.io/images/fac68647f0b39be71df6f326e6d25c4b/transparent.png",
+                            "featured": "https://media.fortniteapi.io/images/fac68647f0b39be71df6f326e6d25c4b/full_featured.png",
+                            "background": "https://media.fortniteapi.io/images/cosmetics/fac68647f0b39be71df6f326e6d25c4b/v2/background.png",
+                            "icon_background": "https://media.fortniteapi.io/images/cosmetics/fac68647f0b39be71df6f326e6d25c4b/v2/icon_background.png",
+                            "full_background": "https://media.fortniteapi.io/images/cosmetics/fac68647f0b39be71df6f326e6d25c4b/v2/info.en.png"
+                        },
+                        "video": null,
+                        "gameplayTags": [
+                            "Cosmetics.Filter.Season.16",
+                            "Cosmetics.Set.Comeback"
+                        ],
+                        "introduction": {
+                            "chapter": "Chapter 2",
+                            "season": "Season 6",
+                            "text": "Introduced in Chapter 2 - Season 6."
+                        }
+                    }
+                },
+                {
+                    "quantity": 1,
+                    "item": {
+                        "id": "LSID_299_SpaceCuddles2",
+                        "type": {
+                            "id": "loadingscreen",
+                            "name": "Loading Screen"
+                        },
+                        "name": "Bear Beginnings",
+                        "description": "How it started. May 2021 Crew Bonus.",
+                        "rarity": {
+                            "id": "Uncommon",
+                            "name": "UNCOMMON"
+                        },
+                        "series": null,
+                        "images": {
+                            "icon": "https://media.fortniteapi.io/images/2a2161c127bea0f8171b8655eeba958c/transparent.png",
+                            "featured": "https://media.fortniteapi.io/images/2a2161c127bea0f8171b8655eeba958c/full_featured.png",
+                            "background": "https://media.fortniteapi.io/images/cosmetics/2a2161c127bea0f8171b8655eeba958c/v2/background.png",
+                            "icon_background": "https://media.fortniteapi.io/images/cosmetics/2a2161c127bea0f8171b8655eeba958c/v2/icon_background.png",
+                            "full_background": "https://media.fortniteapi.io/images/cosmetics/2a2161c127bea0f8171b8655eeba958c/v2/info.en.png"
+                        },
+                        "video": null,
+                        "gameplayTags": [
+                            "Cosmetics.Filter.Season.16",
+                            "Cosmetics.Set.Comeback"
+                        ],
+                        "introduction": {
+                            "chapter": "Chapter 2",
+                            "season": "Season 6",
+                            "text": "Introduced in Chapter 2 - Season 6."
+                        }
+                    }
+                },
+                {
+                    "quantity": 1,
+                    "item": {
+                        "id": "LSID_300_SpaceCuddles3",
+                        "type": {
+                            "id": "loadingscreen",
+                            "name": "Loading Screen"
+                        },
+                        "name": "Cuddle Charge!",
+                        "description": "How it's going. May 2021 Crew Bonus.",
+                        "rarity": {
+                            "id": "Uncommon",
+                            "name": "UNCOMMON"
+                        },
+                        "series": null,
+                        "images": {
+                            "icon": "https://media.fortniteapi.io/images/89290ffbf4ceaa697976bf628ea88f75/transparent.png",
+                            "featured": "https://media.fortniteapi.io/images/89290ffbf4ceaa697976bf628ea88f75/full_featured.png",
+                            "background": "https://media.fortniteapi.io/images/cosmetics/89290ffbf4ceaa697976bf628ea88f75/v2/background.png",
+                            "icon_background": "https://media.fortniteapi.io/images/cosmetics/89290ffbf4ceaa697976bf628ea88f75/v2/icon_background.png",
+                            "full_background": "https://media.fortniteapi.io/images/cosmetics/89290ffbf4ceaa697976bf628ea88f75/v2/info.en.png"
+                        },
+                        "video": null,
+                        "gameplayTags": [
+                            "Cosmetics.Filter.Season.16",
+                            "Cosmetics.Set.Comeback"
+                        ],
+                        "introduction": {
+                            "chapter": "Chapter 2",
+                            "season": "Season 6",
+                            "text": "Introduced in Chapter 2 - Season 6."
+                        }
+                    }
+                },
+                {
+                    "quantity": 1,
+                    "item": {
+                        "id": "LSID_306_SpaceCuddles4",
+                        "type": {
+                            "id": "loadingscreen",
+                            "name": "Loading Screen"
+                        },
+                        "name": "The New Team",
+                        "description": "How it ends. May 2021 Crew Bonus.",
+                        "rarity": {
+                            "id": "Uncommon",
+                            "name": "UNCOMMON"
+                        },
+                        "series": null,
+                        "images": {
+                            "icon": "https://media.fortniteapi.io/images/005c93274e3781785f766425441e3c3d/transparent.png",
+                            "featured": "https://media.fortniteapi.io/images/005c93274e3781785f766425441e3c3d/full_featured.png",
+                            "background": "https://media.fortniteapi.io/images/cosmetics/005c93274e3781785f766425441e3c3d/v2/background.png",
+                            "icon_background": "https://media.fortniteapi.io/images/cosmetics/005c93274e3781785f766425441e3c3d/v2/icon_background.png",
+                            "full_background": "https://media.fortniteapi.io/images/cosmetics/005c93274e3781785f766425441e3c3d/v2/info.en.png"
+                        },
+                        "video": null,
+                        "gameplayTags": [
+                            "Cosmetics.Filter.Season.16",
+                            "Cosmetics.Set.Comeback"
+                        ],
+                        "introduction": {
+                            "chapter": "Chapter 2",
+                            "season": "Season 6",
+                            "text": "Introduced in Chapter 2 - Season 6."
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "type": "past",
+            "date": "2021-05-01",
+            "colors": {
+                "A": "27020b",
+                "B": "ff1446",
+                "C": "ff1446"
+            },
+            "video": "https://media.fortniteapi.io/videos/news/rnxeSYTOxuXtnTKhIM_en.mp4",
+            "skinImageTakeOver": false,
+            "descriptions": {
+                "title": "EXCLUSIVE CREW PACK",
+                "battlepass": "BATTLE PASS",
+                "vbucksTitle": "1,000 V-BUCKS"
+            },
+            "images": {
+                "battlepass": "https://cdn2.unrealengine.com/subs-ingame-bp-agentjones-1024x1024-2db86af68584.png",
+                "battlepassTile": null,
+                "itemShopTile": "https://cdn2.unrealengine.com/subs-ingame-deimos-upsell-spotify-2048x1124-2048x1124-60d791fad728.jpg",
+                "skin": "https://cdn2.unrealengine.com/subs-ingame-deimos-upsell-detailpage-flipped-1920x1080-e175e056abd2.png",
+                "apiRender": "https://media.fortniteapi.io/images/crew/2021-05/presentation.en.png"
+            },
+            "rewards": [
+                {
+                    "quantity": 1,
+                    "item": {
+                        "id": "CID_A_071_Athena_Commando_M_Cranium",
+                        "type": {
+                            "id": "outfit",
+                            "name": "Outfit"
+                        },
+                        "name": "Deimos",
+                        "description": "Travelers beware on the road to the next world.",
+                        "rarity": {
+                            "id": "Epic",
+                            "name": "Epic"
+                        },
+                        "series": null,
+                        "images": {
+                            "icon": "https://media.fortniteapi.io/images/3af882a389357d64848cb20e3b3edd7f/transparent.png",
+                            "featured": null,
+                            "background": "https://media.fortniteapi.io/images/cosmetics/3af882a389357d64848cb20e3b3edd7f/v2/background.png",
+                            "icon_background": "https://media.fortniteapi.io/images/cosmetics/3af882a389357d64848cb20e3b3edd7f/v2/icon_background.png",
+                            "full_background": "https://media.fortniteapi.io/images/cosmetics/3af882a389357d64848cb20e3b3edd7f/v2/info.en.png"
+                        },
+                        "video": null,
+                        "gameplayTags": [
+                            "Cosmetics.Filter.Season.16",
+                            "Cosmetics.UserFacingFlags.HasVariants",
+                            "Cosmetics.Source.CrewPack.May2021",
+                            "Cosmetics.Set.CyberSyndicate",
+                            "SoundLibrary.ID.StepType.ShoesSneakers",
+                            "SoundLibrary.ID.ClothingType.Generic",
+                            "SoundLibrary.ID.HandType.Glove"
+                        ],
+                        "introduction": {
+                            "chapter": "Chapter 2",
+                            "season": "Season 6",
+                            "text": "Introduced in Chapter 2 - Season 6."
+                        }
+                    }
+                },
+                {
+                    "quantity": 1,
+                    "item": {
+                        "id": "BID_754_CraniumMale",
+                        "type": {
+                            "id": "backpack",
+                            "name": "BackBling"
+                        },
+                        "name": "Sorrow's Edge",
+                        "description": "Picked it up from a fallen traveler.",
+                        "rarity": {
+                            "id": "Epic",
+                            "name": "Epic"
+                        },
+                        "series": null,
+                        "images": {
+                            "icon": "https://media.fortniteapi.io/images/e3bd5692f1591da80a6dd0380449ec0c/transparent.png",
+                            "featured": null,
+                            "background": "https://media.fortniteapi.io/images/cosmetics/e3bd5692f1591da80a6dd0380449ec0c/v2/background.png",
+                            "icon_background": "https://media.fortniteapi.io/images/cosmetics/e3bd5692f1591da80a6dd0380449ec0c/v2/icon_background.png",
+                            "full_background": "https://media.fortniteapi.io/images/cosmetics/e3bd5692f1591da80a6dd0380449ec0c/v2/info.en.png"
+                        },
+                        "video": null,
+                        "gameplayTags": [
+                            "Cosmetics.Filter.Season.16",
+                            "Cosmetics.UserFacingFlags.HasVariants",
+                            "Cosmetics.Source.CrewPack.May2021",
+                            "Cosmetics.Set.CyberSyndicate"
+                        ],
+                        "introduction": {
+                            "chapter": "Chapter 2",
+                            "season": "Season 6",
+                            "text": "Introduced in Chapter 2 - Season 6."
+                        }
+                    }
+                },
+                {
+                    "quantity": 1,
+                    "item": {
+                        "id": "Pickaxe_ID_590_CraniumMale",
+                        "type": {
+                            "id": "pickaxe",
+                            "name": "Harvesting Tool"
+                        },
+                        "name": "Sorrow's Reach",
+                        "description": "There's no escaping the underworld's clutches.",
+                        "rarity": {
+                            "id": "Epic",
+                            "name": "Epic"
+                        },
+                        "series": null,
+                        "images": {
+                            "icon": "https://media.fortniteapi.io/images/0ead08950af9084eae44dc11b15973fd/transparent.png",
+                            "featured": null,
+                            "background": "https://media.fortniteapi.io/images/cosmetics/0ead08950af9084eae44dc11b15973fd/v2/background.png",
+                            "icon_background": "https://media.fortniteapi.io/images/cosmetics/0ead08950af9084eae44dc11b15973fd/v2/icon_background.png",
+                            "full_background": "https://media.fortniteapi.io/images/cosmetics/0ead08950af9084eae44dc11b15973fd/v2/info.en.png"
+                        },
+                        "video": null,
+                        "gameplayTags": [
+                            "Cosmetics.Filter.Season.16",
+                            "Cosmetics.UserFacingFlags.HasVariants",
+                            "Cosmetics.Pickaxe.DualWield",
+                            "Cosmetics.Source.CrewPack.May2021",
+                            "Cosmetics.Set.CyberSyndicate"
+                        ],
+                        "introduction": {
+                            "chapter": "Chapter 2",
+                            "season": "Season 6",
+                            "text": "Introduced in Chapter 2 - Season 6."
+                        }
+                    }
+                },
+                {
+                    "quantity": 1,
+                    "item": {
+                        "id": "Wrap_349_Cranium",
+                        "type": {
+                            "id": "wrap",
+                            "name": "Wrap"
+                        },
+                        "name": "Doomed Echo",
+                        "description": "Show your style.",
+                        "rarity": {
+                            "id": "Uncommon",
+                            "name": "UNCOMMON"
+                        },
+                        "series": null,
+                        "images": {
+                            "icon": "https://media.fortniteapi.io/images/9330da6aae989fd60194a7a281b2308f/transparent.png",
+                            "featured": null,
+                            "background": "https://media.fortniteapi.io/images/cosmetics/9330da6aae989fd60194a7a281b2308f/v2/background.png",
+                            "icon_background": "https://media.fortniteapi.io/images/cosmetics/9330da6aae989fd60194a7a281b2308f/v2/icon_background.png",
+                            "full_background": "https://media.fortniteapi.io/images/cosmetics/9330da6aae989fd60194a7a281b2308f/v2/info.en.png"
+                        },
+                        "video": null,
+                        "gameplayTags": [
+                            "Cosmetics.Filter.Season.16",
+                            "Cosmetics.Source.CrewPack.May2021",
+                            "Cosmetics.Set.CyberSyndicate"
+                        ],
+                        "introduction": {
+                            "chapter": "Chapter 2",
+                            "season": "Season 6",
+                            "text": "Introduced in Chapter 2 - Season 6."
+                        }
+                    }
+                },
+                {
+                    "quantity": 1,
+                    "item": {
+                        "id": "LSID_293_Cranium",
+                        "type": {
+                            "id": "loadingscreen",
+                            "name": "Loading Screen"
+                        },
+                        "name": "Skull Stalker",
+                        "description": "A new gatekeeper for a new underworld.",
+                        "rarity": {
+                            "id": "Uncommon",
+                            "name": "UNCOMMON"
+                        },
+                        "series": null,
+                        "images": {
+                            "icon": "https://media.fortniteapi.io/images/32e08f285b59586ce81f566ad0845a75/transparent.png",
+                            "featured": "https://media.fortniteapi.io/images/32e08f285b59586ce81f566ad0845a75/full_featured.png",
+                            "background": "https://media.fortniteapi.io/images/cosmetics/32e08f285b59586ce81f566ad0845a75/v2/background.png",
+                            "icon_background": "https://media.fortniteapi.io/images/cosmetics/32e08f285b59586ce81f566ad0845a75/v2/icon_background.png",
+                            "full_background": "https://media.fortniteapi.io/images/cosmetics/32e08f285b59586ce81f566ad0845a75/v2/info.en.png"
+                        },
+                        "video": null,
+                        "gameplayTags": [
+                            "Cosmetics.Filter.Season.16",
+                            "Cosmetics.Source.CrewPack.May2021",
+                            "Cosmetics.Set.CyberSyndicate"
+                        ],
+                        "introduction": {
+                            "chapter": "Chapter 2",
+                            "season": "Season 6",
+                            "text": "Introduced in Chapter 2 - Season 6."
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "type": "past",
+            "date": "2021-04-01",
+            "colors": {
+                "A": "e04486",
+                "B": "f9ab05",
+                "C": "f9ab05"
+            },
+            "video": "https://media.fortniteapi.io/videos/news/MnIqjkWABhRjtmJHge_en.mp4",
+            "skinImageTakeOver": false,
+            "descriptions": {
+                "title": "EXCLUSIVE CREW PACK",
+                "battlepass": "BATTLE PASS",
+                "vbucksTitle": "1,000 V-BUCKS"
+            },
+            "images": {
+                "battlepass": "https://cdn2.unrealengine.com/subs-ingame-bp-agentjones-1024x1024-2db86af68584.png",
+                "battlepassTile": null,
+                "itemShopTile": "https://cdn2.unrealengine.com/subs-ingame-alli-upsell-2048x1124-2048x1124-0c2b1aae7dc7.jpg",
+                "skin": "https://cdn2.unrealengine.com/subs-ingame-alli-upsell-detailpage-1920x1080-4c01a215a0b3.png",
+                "apiRender": "https://media.fortniteapi.io/images/crew/2021-04/presentation.en.png"
+            },
+            "rewards": [
+                {
+                    "quantity": 1,
+                    "item": {
+                        "id": "CID_A_044_Athena_Commando_F_NeonCatFashion_64JW3",
+                        "type": {
+                            "id": "outfit",
+                            "name": "Outfit"
+                        },
+                        "name": "Alli",
+                        "description": "Who're you calling a stray?",
+                        "rarity": {
+                            "id": "Legendary",
+                            "name": "LEGENDARY"
+                        },
+                        "series": null,
+                        "images": {
+                            "icon": "https://media.fortniteapi.io/images/5a51881afcc5295855deb78865c8b856/transparent.png",
+                            "featured": null,
+                            "background": "https://media.fortniteapi.io/images/cosmetics/5a51881afcc5295855deb78865c8b856/v2/background.png",
+                            "icon_background": "https://media.fortniteapi.io/images/cosmetics/5a51881afcc5295855deb78865c8b856/v2/icon_background.png",
+                            "full_background": "https://media.fortniteapi.io/images/cosmetics/5a51881afcc5295855deb78865c8b856/v2/info.en.png"
+                        },
+                        "video": null,
+                        "gameplayTags": [
+                            "Cosmetics.Filter.Season.16",
+                            "Cosmetics.Set.FelineRat",
+                            "SoundLibrary.ID.StepType.BootsHeeled",
+                            "SoundLibrary.ID.ClothingType.Generic",
+                            "SoundLibrary.ID.HandType.Bare"
+                        ],
+                        "introduction": {
+                            "chapter": "Chapter 2",
+                            "season": "Season 6",
+                            "text": "Introduced in Chapter 2 - Season 6."
+                        }
+                    }
+                },
+                {
+                    "quantity": 1,
+                    "item": {
+                        "id": "BID_722_NeonCatFashion_KEP9B",
+                        "type": {
+                            "id": "backpack",
+                            "name": "BackBling"
+                        },
+                        "name": "Squee",
+                        "description": "... he's just sleeping.",
+                        "rarity": {
+                            "id": "Legendary",
+                            "name": "LEGENDARY"
+                        },
+                        "series": null,
+                        "images": {
+                            "icon": "https://media.fortniteapi.io/images/ab86cba794fe97d4232b08c2587bc109/transparent.png",
+                            "featured": null,
+                            "background": "https://media.fortniteapi.io/images/cosmetics/ab86cba794fe97d4232b08c2587bc109/v2/background.png",
+                            "icon_background": "https://media.fortniteapi.io/images/cosmetics/ab86cba794fe97d4232b08c2587bc109/v2/icon_background.png",
+                            "full_background": "https://media.fortniteapi.io/images/cosmetics/ab86cba794fe97d4232b08c2587bc109/v2/info.en.png"
+                        },
+                        "video": null,
+                        "gameplayTags": [
+                            "Cosmetics.Filter.Season.16",
+                            "Cosmetics.Set.FelineRat"
+                        ],
+                        "introduction": {
+                            "chapter": "Chapter 2",
+                            "season": "Season 6",
+                            "text": "Introduced in Chapter 2 - Season 6."
+                        }
+                    }
+                },
+                {
+                    "quantity": 1,
+                    "item": {
+                        "id": "Pickaxe_ID_567_NeonCatFashionFemale_FX9S5",
+                        "type": {
+                            "id": "pickaxe",
+                            "name": "Harvesting Tool"
+                        },
+                        "name": "Skellyfish",
+                        "description": "Picked clean.",
+                        "rarity": {
+                            "id": "Rare",
+                            "name": "RARE"
+                        },
+                        "series": null,
+                        "images": {
+                            "icon": "https://media.fortniteapi.io/images/ae0af19b65e7baa1564fa3f2c86289c1/transparent.png",
+                            "featured": null,
+                            "background": "https://media.fortniteapi.io/images/cosmetics/ae0af19b65e7baa1564fa3f2c86289c1/v2/background.png",
+                            "icon_background": "https://media.fortniteapi.io/images/cosmetics/ae0af19b65e7baa1564fa3f2c86289c1/v2/icon_background.png",
+                            "full_background": "https://media.fortniteapi.io/images/cosmetics/ae0af19b65e7baa1564fa3f2c86289c1/v2/info.en.png"
+                        },
+                        "video": null,
+                        "gameplayTags": [
+                            "Cosmetics.Source.ItemShop",
+                            "Cosmetics.Filter.Season.16",
+                            "Cosmetics.Source.CrewPack.April2021",
+                            "Cosmetics.Set.FelineRat"
+                        ],
+                        "introduction": {
+                            "chapter": "Chapter 2",
+                            "season": "Season 6",
+                            "text": "Introduced in Chapter 2 - Season 6."
+                        }
+                    }
+                },
+                {
+                    "quantity": 1,
+                    "item": {
+                        "id": "Wrap_337_NeonCatFashion_93JRO",
+                        "type": {
+                            "id": "wrap",
+                            "name": "Wrap"
+                        },
+                        "name": "Cat's Paw",
+                        "description": "Show your style.",
+                        "rarity": {
+                            "id": "Rare",
+                            "name": "RARE"
+                        },
+                        "series": null,
+                        "images": {
+                            "icon": "https://media.fortniteapi.io/images/cc83155c380ee9960a0d12a5cd9d6bc8/transparent.png",
+                            "featured": null,
+                            "background": "https://media.fortniteapi.io/images/cosmetics/cc83155c380ee9960a0d12a5cd9d6bc8/v2/background.png",
+                            "icon_background": "https://media.fortniteapi.io/images/cosmetics/cc83155c380ee9960a0d12a5cd9d6bc8/v2/icon_background.png",
+                            "full_background": "https://media.fortniteapi.io/images/cosmetics/cc83155c380ee9960a0d12a5cd9d6bc8/v2/info.en.png"
+                        },
+                        "video": null,
+                        "gameplayTags": [
+                            "Cosmetics.Filter.Season.16",
+                            "Cosmetics.Source.CrewPack.April2021",
+                            "Cosmetics.Set.FelineRat",
+                            "Cosmetics.UserFacingFlags.Wrap.Animated"
+                        ],
+                        "introduction": {
+                            "chapter": "Chapter 2",
+                            "season": "Season 6",
+                            "text": "Introduced in Chapter 2 - Season 6."
+                        }
+                    }
+                },
+                {
+                    "quantity": 1,
+                    "item": {
+                        "id": "LSID_290_AprilSubs",
+                        "type": {
+                            "id": "loadingscreen",
+                            "name": "Loading Screen"
+                        },
+                        "name": "Catwalk",
+                        "description": "Alli's on the prowl.",
+                        "rarity": {
+                            "id": "Uncommon",
+                            "name": "UNCOMMON"
+                        },
+                        "series": null,
+                        "images": {
+                            "icon": "https://media.fortniteapi.io/images/ac218a1e72892058f53d8ef526180204/transparent.png",
+                            "featured": "https://media.fortniteapi.io/images/ac218a1e72892058f53d8ef526180204/full_featured.png",
+                            "background": "https://media.fortniteapi.io/images/cosmetics/ac218a1e72892058f53d8ef526180204/v2/background.png",
+                            "icon_background": "https://media.fortniteapi.io/images/cosmetics/ac218a1e72892058f53d8ef526180204/v2/icon_background.png",
+                            "full_background": "https://media.fortniteapi.io/images/cosmetics/ac218a1e72892058f53d8ef526180204/v2/info.en.png"
+                        },
+                        "video": null,
+                        "gameplayTags": [
+                            "Cosmetics.Filter.Season.16",
+                            "Cosmetics.Set.FelineRat",
+                            "Cosmetics.Source.CrewPack.April2021"
+                        ],
+                        "introduction": {
+                            "chapter": "Chapter 2",
+                            "season": "Season 6",
+                            "text": "Introduced in Chapter 2 - Season 6."
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "type": "past",
+            "date": "2021-03-01",
+            "colors": {
+                "A": "13001f",
+                "B": "2f008e",
+                "C": "2f008e"
+            },
+            "video": "https://media.fortniteapi.io/videos/news/pXnBlVTSIzDGrsgxgA_en.mp4",
+            "skinImageTakeOver": false,
+            "descriptions": {
+                "title": "EXCLUSIVE CREW PACK",
+                "battlepass": "BATTLE PASS",
+                "vbucksTitle": "1,000 V-BUCKS"
+            },
+            "images": {
+                "battlepass": "https://cdn2.unrealengine.com/subs-ingame-bp-agentjones-1024x1024-2db86af68584.png",
+                "battlepassTile": null,
+                "itemShopTile": "https://cdn2.unrealengine.com/subs-ingame-llambroalt-upsell-2048x1124-2048x1124-fd1122bf7d8a.jpg",
+                "skin": "https://cdn2.unrealengine.com/subs-ingame-llambroalt-upsell-hero-1920x1080-9e61c2d71770.png",
+                "apiRender": "https://media.fortniteapi.io/images/crew/2021-03/presentation.en.png"
+            },
+            "rewards": [
+                {
+                    "quantity": 1,
+                    "item": {
+                        "id": "CID_A_029_Athena_Commando_M_LlamaHeroWinter_C83TZ",
+                        "type": {
+                            "id": "outfit",
+                            "name": "Outfit"
+                        },
+                        "name": "Llambro",
+                        "description": "He's one ice cold llamacorn.",
+                        "rarity": {
+                            "id": "Epic",
+                            "name": "Epic"
+                        },
+                        "series": null,
+                        "images": {
+                            "icon": "https://media.fortniteapi.io/images/3202d495943e233831134208b73492f5/transparent.png",
+                            "featured": null,
+                            "background": "https://media.fortniteapi.io/images/cosmetics/3202d495943e233831134208b73492f5/v2/background.png",
+                            "icon_background": "https://media.fortniteapi.io/images/cosmetics/3202d495943e233831134208b73492f5/v2/icon_background.png",
+                            "full_background": "https://media.fortniteapi.io/images/cosmetics/3202d495943e233831134208b73492f5/v2/info.en.png"
+                        },
+                        "video": null,
+                        "gameplayTags": [
+                            "Cosmetics.Filter.Season.15",
+                            "Cosmetics.Set.AcutePanic",
+                            "Cosmetics.Source.CrewPack.March2021",
+                            "SoundLibrary.ID.StepType.ShoesSneakers",
+                            "SoundLibrary.ID.ClothingType.Generic",
+                            "SoundLibrary.ID.HandType.Glove"
+                        ],
+                        "introduction": {
+                            "chapter": "Chapter 2",
+                            "season": "Season 5",
+                            "text": "Introduced in Chapter 2 - Season 5."
+                        }
+                    }
+                },
+                {
+                    "quantity": 1,
+                    "item": {
+                        "id": "BID_707_LlamaHeroWinter_3OQ1V",
+                        "type": {
+                            "id": "backpack",
+                            "name": "BackBling"
+                        },
+                        "name": "Up North",
+                        "description": "Follow the frost.",
+                        "rarity": {
+                            "id": "Epic",
+                            "name": "Epic"
+                        },
+                        "series": null,
+                        "images": {
+                            "icon": "https://media.fortniteapi.io/images/4163011a6121dce7c4cb7c523611b614/transparent.png",
+                            "featured": null,
+                            "background": "https://media.fortniteapi.io/images/cosmetics/4163011a6121dce7c4cb7c523611b614/v2/background.png",
+                            "icon_background": "https://media.fortniteapi.io/images/cosmetics/4163011a6121dce7c4cb7c523611b614/v2/icon_background.png",
+                            "full_background": "https://media.fortniteapi.io/images/cosmetics/4163011a6121dce7c4cb7c523611b614/v2/info.en.png"
+                        },
+                        "video": null,
+                        "gameplayTags": [
+                            "Cosmetics.Filter.Season.15",
+                            "Cosmetics.Set.AcutePanic",
+                            "Cosmetics.Source.CrewPack.March2021"
+                        ],
+                        "introduction": {
+                            "chapter": "Chapter 2",
+                            "season": "Season 5",
+                            "text": "Introduced in Chapter 2 - Season 5."
+                        }
+                    }
+                },
+                {
+                    "quantity": 1,
+                    "item": {
+                        "id": "Pickaxe_ID_552_LlamaHeroWinterMale_S9MDN",
+                        "type": {
+                            "id": "pickaxe",
+                            "name": "Harvesting Tool"
+                        },
+                        "name": "Puffcorn Pick",
+                        "description": "Inflated for maximum cornage.",
+                        "rarity": {
+                            "id": "Epic",
+                            "name": "Epic"
+                        },
+                        "series": null,
+                        "images": {
+                            "icon": "https://media.fortniteapi.io/images/9f80066e48c397d42eeba4c5e779b4bc/transparent.png",
+                            "featured": null,
+                            "background": "https://media.fortniteapi.io/images/cosmetics/9f80066e48c397d42eeba4c5e779b4bc/v2/background.png",
+                            "icon_background": "https://media.fortniteapi.io/images/cosmetics/9f80066e48c397d42eeba4c5e779b4bc/v2/icon_background.png",
+                            "full_background": "https://media.fortniteapi.io/images/cosmetics/9f80066e48c397d42eeba4c5e779b4bc/v2/info.en.png"
+                        },
+                        "video": null,
+                        "gameplayTags": [
+                            "Cosmetics.Filter.Season.15",
+                            "Cosmetics.Set.AcutePanic",
+                            "Cosmetics.Source.CrewPack.March2021"
+                        ],
+                        "introduction": {
+                            "chapter": "Chapter 2",
+                            "season": "Season 5",
+                            "text": "Introduced in Chapter 2 - Season 5."
+                        }
+                    }
+                },
+                {
+                    "quantity": 1,
+                    "item": {
+                        "id": "Wrap_329_LlamaHeroWinter_XZTGC",
+                        "type": {
+                            "id": "wrap",
+                            "name": "Wrap"
+                        },
+                        "name": "The Llegend",
+                        "description": "Show your style.",
+                        "rarity": {
+                            "id": "Rare",
+                            "name": "RARE"
+                        },
+                        "series": null,
+                        "images": {
+                            "icon": "https://media.fortniteapi.io/images/efaa5d00862ecddbe1b4e30a972b9017/transparent.png",
+                            "featured": null,
+                            "background": "https://media.fortniteapi.io/images/cosmetics/efaa5d00862ecddbe1b4e30a972b9017/v2/background.png",
+                            "icon_background": "https://media.fortniteapi.io/images/cosmetics/efaa5d00862ecddbe1b4e30a972b9017/v2/icon_background.png",
+                            "full_background": "https://media.fortniteapi.io/images/cosmetics/efaa5d00862ecddbe1b4e30a972b9017/v2/info.en.png"
+                        },
+                        "video": null,
+                        "gameplayTags": [
+                            "Cosmetics.Filter.Season.15",
+                            "Cosmetics.UserFacingFlags.Wrap.Animated",
+                            "Cosmetics.UserFacingFlags.Reactive.WeaponFire",
+                            "Cosmetics.Set.AcutePanic",
+                            "Cosmetics.Source.CrewPack.March2021"
+                        ],
+                        "introduction": {
+                            "chapter": "Chapter 2",
+                            "season": "Season 5",
+                            "text": "Introduced in Chapter 2 - Season 5."
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "type": "past",
+            "date": "2021-02-01",
+            "colors": {
+                "A": "13001f",
+                "B": "2f008e",
+                "C": "2f008e"
+            },
+            "video": "https://media.fortniteapi.io/videos/news/jgAyOxpKMZuEXMtYGa_en.mp4",
+            "skinImageTakeOver": false,
+            "descriptions": {
+                "title": "EXCLUSIVE CREW PACK",
+                "battlepass": "BATTLE PASS",
+                "vbucksTitle": "1,000 V-BUCKS"
+            },
+            "images": {
+                "battlepass": "https://cdn2.unrealengine.com/t-ui-subs-bp-rewardimage-season15-1024x1024-b0299347e570.png",
+                "battlepassTile": null,
+                "itemShopTile": "https://cdn2.unrealengine.com/subs-ingame-foxwarrior-upsell-2048x1124-2048x1124-04b628a94beb.jpg",
+                "skin": "https://cdn2.unrealengine.com/t-ui-subscriptionskinreward-foxwarrior-1920x1080-1920x1080-1a0a8d0efdf7.png",
+                "apiRender": "https://media.fortniteapi.io/images/crew/2021-02/presentation.en.png"
+            },
+            "rewards": [
+                {
+                    "quantity": 1,
+                    "item": {
+                        "id": "CID_A_009_Athena_Commando_F_FoxWarrior_21B9R",
+                        "type": {
+                            "id": "outfit",
+                            "name": "Outfit"
+                        },
+                        "name": "Vi",
+                        "description": "Always the hunter. Never the hunted.",
+                        "rarity": {
+                            "id": "Legendary",
+                            "name": "LEGENDARY"
+                        },
+                        "series": null,
+                        "images": {
+                            "icon": "https://media.fortniteapi.io/images/cd7cac4b9e41fd283fa4b0652781eef7/transparent.png",
+                            "featured": null,
+                            "background": "https://media.fortniteapi.io/images/cosmetics/cd7cac4b9e41fd283fa4b0652781eef7/v2/background.png",
+                            "icon_background": "https://media.fortniteapi.io/images/cosmetics/cd7cac4b9e41fd283fa4b0652781eef7/v2/icon_background.png",
+                            "full_background": "https://media.fortniteapi.io/images/cosmetics/cd7cac4b9e41fd283fa4b0652781eef7/v2/info.en.png"
+                        },
+                        "video": null,
+                        "gameplayTags": [
+                            "Cosmetics.Set.ThesisCinema",
+                            "Cosmetics.Filter.Season.15",
+                            "Cosmetics.UserFacingFlags.HasVariants",
+                            "Cosmetics.UserFacingFlags.Reactive",
+                            "Cosmetics.Source.CrewPack.Feb2021",
+                            "SoundLibrary.ID.StepType.BootsHeeled",
+                            "SoundLibrary.ID.ClothingType.GearTactical",
+                            "SoundLibrary.ID.HandType.Glove"
+                        ],
+                        "introduction": {
+                            "chapter": "Chapter 2",
+                            "season": "Season 5",
+                            "text": "Introduced in Chapter 2 - Season 5."
+                        }
+                    }
+                },
+                {
+                    "quantity": 1,
+                    "item": {
+                        "id": "BID_697_FoxWarrior_G0YTR",
+                        "type": {
+                            "id": "backpack",
+                            "name": "BackBling"
+                        },
+                        "name": "Foxbow Quiver",
+                        "description": "May your aim be true.",
+                        "rarity": {
+                            "id": "Legendary",
+                            "name": "LEGENDARY"
+                        },
+                        "series": null,
+                        "images": {
+                            "icon": "https://media.fortniteapi.io/images/39a0fa8e015f44933c77960adf815aeb/transparent.png",
+                            "featured": null,
+                            "background": "https://media.fortniteapi.io/images/cosmetics/39a0fa8e015f44933c77960adf815aeb/v2/background.png",
+                            "icon_background": "https://media.fortniteapi.io/images/cosmetics/39a0fa8e015f44933c77960adf815aeb/v2/icon_background.png",
+                            "full_background": "https://media.fortniteapi.io/images/cosmetics/39a0fa8e015f44933c77960adf815aeb/v2/info.en.png"
+                        },
+                        "video": null,
+                        "gameplayTags": [
+                            "Cosmetics.Set.ThesisCinema",
+                            "Cosmetics.Filter.Season.15",
+                            "Cosmetics.UserFacingFlags.HasVariants",
+                            "Cosmetics.Source.CrewPack.Feb2021"
+                        ],
+                        "introduction": {
+                            "chapter": "Chapter 2",
+                            "season": "Season 5",
+                            "text": "Introduced in Chapter 2 - Season 5."
+                        }
+                    }
+                },
+                {
+                    "quantity": 1,
+                    "item": {
+                        "id": "Pickaxe_ID_544_FoxWarriorFemale_BYVM8",
+                        "type": {
+                            "id": "pickaxe",
+                            "name": "Harvesting Tool"
+                        },
+                        "name": "Crooked Claw",
+                        "description": "Trusted and true.",
+                        "rarity": {
+                            "id": "Rare",
+                            "name": "RARE"
+                        },
+                        "series": null,
+                        "images": {
+                            "icon": "https://media.fortniteapi.io/images/04ac303fb364b415f45fb7985a21ceab/transparent.png",
+                            "featured": null,
+                            "background": "https://media.fortniteapi.io/images/cosmetics/04ac303fb364b415f45fb7985a21ceab/v2/background.png",
+                            "icon_background": "https://media.fortniteapi.io/images/cosmetics/04ac303fb364b415f45fb7985a21ceab/v2/icon_background.png",
+                            "full_background": "https://media.fortniteapi.io/images/cosmetics/04ac303fb364b415f45fb7985a21ceab/v2/info.en.png"
+                        },
+                        "video": null,
+                        "gameplayTags": [
+                            "Cosmetics.Set.ThesisCinema",
+                            "Cosmetics.Filter.Season.15",
+                            "Cosmetics.UserFacingFlags.HasVariants",
+                            "Cosmetics.Source.CrewPack.Feb2021"
+                        ],
+                        "introduction": {
+                            "chapter": "Chapter 2",
+                            "season": "Season 5",
+                            "text": "Introduced in Chapter 2 - Season 5."
+                        }
+                    }
+                },
+                {
+                    "quantity": 1,
+                    "item": {
+                        "id": "Wrap_321_FoxWarrior_IH2A5",
+                        "type": {
+                            "id": "wrap",
+                            "name": "Wrap"
+                        },
+                        "name": "Drift Shift",
+                        "description": "Show your style.",
+                        "rarity": {
+                            "id": "Rare",
+                            "name": "RARE"
+                        },
+                        "series": null,
+                        "images": {
+                            "icon": "https://media.fortniteapi.io/images/e4b53a5eba00aedb437765f668dc3444/transparent.png",
+                            "featured": null,
+                            "background": "https://media.fortniteapi.io/images/cosmetics/e4b53a5eba00aedb437765f668dc3444/v2/background.png",
+                            "icon_background": "https://media.fortniteapi.io/images/cosmetics/e4b53a5eba00aedb437765f668dc3444/v2/icon_background.png",
+                            "full_background": "https://media.fortniteapi.io/images/cosmetics/e4b53a5eba00aedb437765f668dc3444/v2/info.en.png"
+                        },
+                        "video": null,
+                        "gameplayTags": [
+                            "Cosmetics.Set.ThesisCinema",
+                            "Cosmetics.Filter.Season.15",
+                            "Cosmetics.UserFacingFlags.Wrap.Animated",
+                            "Cosmetics.Source.CrewPack.Feb2021"
+                        ],
+                        "introduction": {
+                            "chapter": "Chapter 2",
+                            "season": "Season 5",
+                            "text": "Introduced in Chapter 2 - Season 5."
+                        }
+                    }
+                },
+                {
+                    "quantity": 1,
+                    "item": {
+                        "id": "LSID_272_FoxWarrior_6DFA1",
+                        "type": {
+                            "id": "loadingscreen",
+                            "name": "Loading Screen"
+                        },
+                        "name": "Kitsune's Pursuit",
+                        "description": "Created by Amelia Vidal.",
+                        "rarity": {
+                            "id": "Uncommon",
+                            "name": "UNCOMMON"
+                        },
+                        "series": null,
+                        "images": {
+                            "icon": "https://media.fortniteapi.io/images/a1f2fe147746675858c41e49e9093313/transparent.png",
+                            "featured": "https://media.fortniteapi.io/images/a1f2fe147746675858c41e49e9093313/full_featured.png",
+                            "background": "https://media.fortniteapi.io/images/cosmetics/a1f2fe147746675858c41e49e9093313/v2/background.png",
+                            "icon_background": "https://media.fortniteapi.io/images/cosmetics/a1f2fe147746675858c41e49e9093313/v2/icon_background.png",
+                            "full_background": "https://media.fortniteapi.io/images/cosmetics/a1f2fe147746675858c41e49e9093313/v2/info.en.png"
+                        },
+                        "video": null,
+                        "gameplayTags": [
+                            "Cosmetics.Set.ThesisCinema",
+                            "Cosmetics.Filter.Season.15",
+                            "Cosmetics.Source.CrewPack.Feb2021"
+                        ],
+                        "introduction": {
+                            "chapter": "Chapter 2",
+                            "season": "Season 5",
+                            "text": "Introduced in Chapter 2 - Season 5."
+                        }
+                    }
+                },
+                {
+                    "quantity": 1,
+                    "item": {
+                        "id": "LSID_275_FoxWarrior2",
+                        "type": {
+                            "id": "loadingscreen",
+                            "name": "Loading Screen"
+                        },
+                        "name": "Fox Clan Reborn",
+                        "description": "Catch us if you can..",
+                        "rarity": {
+                            "id": "Uncommon",
+                            "name": "UNCOMMON"
+                        },
+                        "series": null,
+                        "images": {
+                            "icon": "https://media.fortniteapi.io/images/5c51cd0746c995440ec79cfaad80c5e8/transparent.png",
+                            "featured": "https://media.fortniteapi.io/images/5c51cd0746c995440ec79cfaad80c5e8/full_featured.png",
+                            "background": "https://media.fortniteapi.io/images/cosmetics/5c51cd0746c995440ec79cfaad80c5e8/v2/background.png",
+                            "icon_background": "https://media.fortniteapi.io/images/cosmetics/5c51cd0746c995440ec79cfaad80c5e8/v2/icon_background.png",
+                            "full_background": "https://media.fortniteapi.io/images/cosmetics/5c51cd0746c995440ec79cfaad80c5e8/v2/info.en.png"
+                        },
+                        "video": null,
+                        "gameplayTags": [
+                            "Cosmetics.Filter.Season.15",
+                            "Cosmetics.Set.ThesisCinema",
+                            "Cosmetics.Source.CrewPack.March2021"
+                        ],
+                        "introduction": {
+                            "chapter": "Chapter 2",
+                            "season": "Season 5",
+                            "text": "Introduced in Chapter 2 - Season 5."
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "type": "past",
+            "date": "2021-01-01",
+            "colors": {
+                "A": "0f1f00",
+                "B": "0da966",
+                "C": "0da966"
+            },
+            "video": "https://media.fortniteapi.io/videos/news/plwuEXgMChdofqTScc_en.mp4",
+            "skinImageTakeOver": false,
+            "descriptions": {
+                "title": "EXCLUSIVE CREW PACK",
+                "battlepass": "BATTLE PASS",
+                "vbucksTitle": "1,000 V-BUCKS"
+            },
+            "images": {
+                "battlepass": "https://cdn2.unrealengine.com/t-ui-subs-bp-rewardimage-season15-kondor-1024x1024-b806feb90df9.png",
+                "battlepassTile": null,
+                "itemShopTile": "https://cdn2.unrealengine.com/ui-itemshoptile-subscription-tiptoe-2048x1124-3909e75ea13e.png",
+                "skin": "https://cdn2.unrealengine.com/t-ui-subscriptionskinreward-tiptoe-1920x1080-1920x1080-ddc4155b2a84.png",
+                "apiRender": "https://media.fortniteapi.io/images/crew/2021-01/presentation.en.png"
+            },
+            "rewards": [
+                {
+                    "quantity": 1,
+                    "item": {
+                        "id": "CID_985_Athena_Commando_M_TipToe_5L424",
+                        "type": {
+                            "id": "outfit",
+                            "name": "Outfit"
+                        },
+                        "name": "Green Arrow",
+                        "description": "Former castaway Oliver Queen protects Star City as the expert archer Green Arrow.",
+                        "rarity": {
+                            "id": "Epic",
+                            "name": "Epic"
+                        },
+                        "series": {
+                            "id": "DCUSeries",
+                            "name": "DC SERIES"
+                        },
+                        "images": {
+                            "icon": "https://media.fortniteapi.io/images/18a04a8288b0aa58364910f3ee79aaea/transparent.png",
+                            "featured": null,
+                            "background": "https://media.fortniteapi.io/images/cosmetics/18a04a8288b0aa58364910f3ee79aaea/v2/background.png",
+                            "icon_background": "https://media.fortniteapi.io/images/cosmetics/18a04a8288b0aa58364910f3ee79aaea/v2/icon_background.png",
+                            "full_background": "https://media.fortniteapi.io/images/cosmetics/18a04a8288b0aa58364910f3ee79aaea/v2/info.en.png"
+                        },
+                        "video": null,
+                        "gameplayTags": [
+                            "Cosmetics.Filter.Season.15",
+                            "Cosmetics.Set.LeanScale",
+                            "Cosmetics.Source.CrewPack.Jan2021",
+                            "SoundLibrary.ID.StepType.BootsCombat",
+                            "SoundLibrary.ID.ClothingType.Generic",
+                            "SoundLibrary.ID.HandType.Glove"
+                        ],
+                        "introduction": {
+                            "chapter": "Chapter 2",
+                            "season": "Season 5",
+                            "text": "Introduced in Chapter 2 - Season 5."
+                        }
+                    }
+                },
+                {
+                    "quantity": 1,
+                    "item": {
+                        "id": "BID_585_TipToe_V1T3M",
+                        "type": {
+                            "id": "backpack",
+                            "name": "BackBling"
+                        },
+                        "name": "Tactical Quiver",
+                        "description": "A hero is only as good as their tools.",
+                        "rarity": {
+                            "id": "Epic",
+                            "name": "Epic"
+                        },
+                        "series": {
+                            "id": "DCUSeries",
+                            "name": "DC SERIES"
+                        },
+                        "images": {
+                            "icon": "https://media.fortniteapi.io/images/2b9bece3677c93072ec5eb1ba57337ae/transparent.png",
+                            "featured": null,
+                            "background": "https://media.fortniteapi.io/images/cosmetics/2b9bece3677c93072ec5eb1ba57337ae/v2/background.png",
+                            "icon_background": "https://media.fortniteapi.io/images/cosmetics/2b9bece3677c93072ec5eb1ba57337ae/v2/icon_background.png",
+                            "full_background": "https://media.fortniteapi.io/images/cosmetics/2b9bece3677c93072ec5eb1ba57337ae/v2/info.en.png"
+                        },
+                        "video": null,
+                        "gameplayTags": [
+                            "Cosmetics.Filter.Season.15",
+                            "Cosmetics.Set.LeanScale",
+                            "Cosmetics.Source.CrewPack.Jan2021"
+                        ],
+                        "introduction": {
+                            "chapter": "Chapter 2",
+                            "season": "Season 5",
+                            "text": "Introduced in Chapter 2 - Season 5."
+                        }
+                    }
+                },
+                {
+                    "quantity": 1,
+                    "item": {
+                        "id": "Pickaxe_ID_529_TiptoeMale_MQ5UM",
+                        "type": {
+                            "id": "pickaxe",
+                            "name": "Harvesting Tool"
+                        },
+                        "name": "Boxing Glove Arrow",
+                        "description": "Always knew it would come in handy.",
+                        "rarity": {
+                            "id": "Epic",
+                            "name": "Epic"
+                        },
+                        "series": {
+                            "id": "DCUSeries",
+                            "name": "DC SERIES"
+                        },
+                        "images": {
+                            "icon": "https://media.fortniteapi.io/images/a02699015f1408dd6c73417b98cac116/transparent.png",
+                            "featured": null,
+                            "background": "https://media.fortniteapi.io/images/cosmetics/a02699015f1408dd6c73417b98cac116/v2/background.png",
+                            "icon_background": "https://media.fortniteapi.io/images/cosmetics/a02699015f1408dd6c73417b98cac116/v2/icon_background.png",
+                            "full_background": "https://media.fortniteapi.io/images/cosmetics/a02699015f1408dd6c73417b98cac116/v2/info.en.png"
+                        },
+                        "video": null,
+                        "gameplayTags": [
+                            "Cosmetics.Filter.Season.15",
+                            "Cosmetics.Set.LeanScale",
+                            "Cosmetics.Source.CrewPack.Jan2021"
+                        ],
+                        "introduction": {
+                            "chapter": "Chapter 2",
+                            "season": "Season 5",
+                            "text": "Introduced in Chapter 2 - Season 5."
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "type": "past",
+            "date": "2020-12-01",
+            "colors": {
+                "A": "180A40",
+                "B": "C74FE7",
+                "C": "C74FE7"
+            },
+            "video": "https://media.fortniteapi.io/videos/news/LqUHUJChvPyJJfrU_en.mp4",
+            "skinImageTakeOver": false,
+            "descriptions": {
+                "title": "EXCLUSIVE CREW PACK",
+                "battlepass": "BATTLE PASS",
+                "vbucksTitle": "1,000 V-BUCKS"
+            },
+            "images": {
+                "battlepass": "https://cdn2.unrealengine.com/t-ui-subs-bp-rewardimage-season15-1024x1024-b0299347e570.png",
+                "battlepassTile": null,
+                "itemShopTile": "https://cdn2.unrealengine.com/ui-itemshoptile-subscription-galaxia-fix-2048x1124-fc632eda06ba.png",
+                "skin": "https://cdn2.unrealengine.com/t-ui-testsubscriptionskinreward-season15-1920x1080-1920x1080-512754626.png",
+                "apiRender": "https://media.fortniteapi.io/images/crew/2020-12/presentation.en.png"
+            },
+            "rewards": [
+                {
+                    "quantity": 1,
+                    "item": {
+                        "id": "CID_935_Athena_Commando_F_Eternity",
+                        "type": {
+                            "id": "outfit",
+                            "name": "Outfit"
+                        },
+                        "name": "Galaxia",
+                        "description": "Empress of the Cosmos.",
+                        "rarity": {
+                            "id": "Legendary",
+                            "name": "LEGENDARY"
+                        },
+                        "series": null,
+                        "images": {
+                            "icon": "https://media.fortniteapi.io/images/c9af18510ca6b01a24d3240d9b511245/transparent.png",
+                            "featured": "https://media.fortniteapi.io/images/c9af18510ca6b01a24d3240d9b511245/full_featured.png",
+                            "background": "https://media.fortniteapi.io/images/cosmetics/c9af18510ca6b01a24d3240d9b511245/v2/background.png",
+                            "icon_background": "https://media.fortniteapi.io/images/cosmetics/c9af18510ca6b01a24d3240d9b511245/v2/icon_background.png",
+                            "full_background": "https://media.fortniteapi.io/images/cosmetics/c9af18510ca6b01a24d3240d9b511245/v2/info.en.png"
+                        },
+                        "video": null,
+                        "gameplayTags": [
+                            "Cosmetics.Source.ItemShop",
+                            "Cosmetics.Filter.Season.14",
+                            "Cosmetics.UserFacingFlags.HasVariants",
+                            "Cosmetics.Set.GalaxyQueen",
+                            "SoundLibrary.ID.ClothingType.Scales",
+                            "SoundLibrary.ID.HandType.Bare",
+                            "SoundLibrary.ID.StepType.BootsCombat"
+                        ],
+                        "introduction": {
+                            "chapter": "Chapter 2",
+                            "season": "Season 4",
+                            "text": "Introduced in Chapter 2 - Season 4."
+                        }
+                    }
+                },
+                {
+                    "quantity": 1,
+                    "item": {
+                        "id": "BID_651_EternityFemale",
+                        "type": {
+                            "id": "backpack",
+                            "name": "BackBling"
+                        },
+                        "name": "Fractured World",
+                        "description": "Forever caught in stasis moments before it exploded.",
+                        "rarity": {
+                            "id": "Legendary",
+                            "name": "LEGENDARY"
+                        },
+                        "series": null,
+                        "images": {
+                            "icon": "https://media.fortniteapi.io/images/7965e62b4cd97e223d675f052983c5ff/transparent.png",
+                            "featured": null,
+                            "background": "https://media.fortniteapi.io/images/cosmetics/7965e62b4cd97e223d675f052983c5ff/v2/background.png",
+                            "icon_background": "https://media.fortniteapi.io/images/cosmetics/7965e62b4cd97e223d675f052983c5ff/v2/icon_background.png",
+                            "full_background": "https://media.fortniteapi.io/images/cosmetics/7965e62b4cd97e223d675f052983c5ff/v2/info.en.png"
+                        },
+                        "video": null,
+                        "gameplayTags": [
+                            "Cosmetics.Source.ItemShop",
+                            "Cosmetics.Filter.Season.14",
+                            "Cosmetics.Set.GalaxyQueen"
+                        ],
+                        "introduction": {
+                            "chapter": "Chapter 2",
+                            "season": "Season 4",
+                            "text": "Introduced in Chapter 2 - Season 4."
+                        }
+                    }
+                },
+                {
+                    "quantity": 1,
+                    "item": {
+                        "id": "Pickaxe_ID_501_EternityFemale",
+                        "type": {
+                            "id": "pickaxe",
+                            "name": "Harvesting Tool"
+                        },
+                        "name": "Cosmic Llamacorn",
+                        "description": "Its horn is made of dreamstuff.",
+                        "rarity": {
+                            "id": "Epic",
+                            "name": "Epic"
+                        },
+                        "series": null,
+                        "images": {
+                            "icon": "https://media.fortniteapi.io/images/fbcfefbe9a0637f3dec4c817b7311870/transparent.png",
+                            "featured": "https://media.fortniteapi.io/images/fbcfefbe9a0637f3dec4c817b7311870/full_featured.png",
+                            "background": "https://media.fortniteapi.io/images/cosmetics/fbcfefbe9a0637f3dec4c817b7311870/v2/background.png",
+                            "icon_background": "https://media.fortniteapi.io/images/cosmetics/fbcfefbe9a0637f3dec4c817b7311870/v2/icon_background.png",
+                            "full_background": "https://media.fortniteapi.io/images/cosmetics/fbcfefbe9a0637f3dec4c817b7311870/v2/info.en.png"
+                        },
+                        "video": null,
+                        "gameplayTags": [
+                            "Cosmetics.Filter.Season.14",
+                            "Cosmetics.Source.ItemShop",
+                            "Cosmetics.Set.GalaxyQueen"
+                        ],
+                        "introduction": {
+                            "chapter": "Chapter 2",
+                            "season": "Season 4",
+                            "text": "Introduced in Chapter 2 - Season 4."
+                        }
+                    }
+                }
+            ]
+        }
+    ]
+}
