@@ -1,0 +1,762 @@
+{
+    "result": true,
+    "lang": "en",
+    "maps": [
+        {
+            "patchVersion": "1.6.0",
+            "releaseDate": "2017-09-12",
+            "url": "https://media.fortniteapi.io/images/maps/map-1.6.png",
+            "urlPOI": null
+        },
+        {
+            "patchVersion": "1.7.1",
+            "releaseDate": "2017-10-11",
+            "url": "https://media.fortniteapi.io/images/maps/map-1.7.1.png",
+            "urlPOI": null
+        },
+        {
+            "patchVersion": "1.7.2",
+            "releaseDate": "2017-10-17",
+            "url": "https://media.fortniteapi.io/images/maps/map-1.7.2.png",
+            "urlPOI": null
+        },
+        {
+            "patchVersion": "1.8.0",
+            "releaseDate": "2017-10-25",
+            "url": "https://media.fortniteapi.io/images/maps/map-1.8.png",
+            "urlPOI": null
+        },
+        {
+            "patchVersion": "1.8.1",
+            "releaseDate": "2017-11-02",
+            "url": "https://media.fortniteapi.io/images/maps/map-1.8.1.png",
+            "urlPOI": null
+        },
+        {
+            "patchVersion": "1.8.2",
+            "releaseDate": "2017-11-08",
+            "url": "https://media.fortniteapi.io/images/maps/map-1.8.2.png",
+            "urlPOI": null
+        },
+        {
+            "patchVersion": "1.9.0",
+            "releaseDate": "2017-11-14",
+            "url": "https://media.fortniteapi.io/images/maps/map-1.9.0.png",
+            "urlPOI": null
+        },
+        {
+            "patchVersion": "1.9.1",
+            "releaseDate": "2017-11-29",
+            "url": "https://media.fortniteapi.io/images/maps/map-1.9.1.png",
+            "urlPOI": null
+        },
+        {
+            "patchVersion": "2.1.0",
+            "releaseDate": "2018-01-10",
+            "url": "https://media.fortniteapi.io/images/maps/map-2.1.0.png",
+            "urlPOI": null
+        },
+        {
+            "patchVersion": "2.2.0",
+            "releaseDate": "2018-01-17",
+            "url": "https://media.fortniteapi.io/images/maps/map-2.2.0.png",
+            "urlPOI": null
+        },
+        {
+            "patchVersion": "2.3.0",
+            "releaseDate": "2018-01-25",
+            "url": "https://media.fortniteapi.io/images/maps/map-2.3.0.png",
+            "urlPOI": null
+        },
+        {
+            "patchVersion": "2.4.0",
+            "releaseDate": "2018-01-31",
+            "url": "https://media.fortniteapi.io/images/maps/map-2.4.0.png",
+            "urlPOI": null
+        },
+        {
+            "patchVersion": "2.4.2",
+            "releaseDate": "2018-02-08",
+            "url": "https://media.fortniteapi.io/images/maps/map-2.4.2.png",
+            "urlPOI": null
+        },
+        {
+            "patchVersion": "2.5.0",
+            "releaseDate": "2018-02-12",
+            "url": "https://media.fortniteapi.io/images/maps/map-2.5.png",
+            "urlPOI": null
+        },
+        {
+            "patchVersion": "3.0.0",
+            "releaseDate": "2018-02-20",
+            "url": "https://media.fortniteapi.io/images/maps/map-3.0.png",
+            "urlPOI": null
+        },
+        {
+            "patchVersion": "3.1.0",
+            "releaseDate": "2018-02-27",
+            "url": "https://media.fortniteapi.io/images/maps/map-3.1.png",
+            "urlPOI": null
+        },
+        {
+            "patchVersion": "3.2.0",
+            "releaseDate": "2018-03-08",
+            "url": "https://media.fortniteapi.io/images/maps/map-3.2.png",
+            "urlPOI": null
+        },
+        {
+            "patchVersion": "3.5.0",
+            "releaseDate": "2018-04-11",
+            "url": "https://media.fortniteapi.io/images/maps/map-3.5.png",
+            "urlPOI": null
+        },
+        {
+            "patchVersion": "4.0",
+            "releaseDate": "2018-05-01",
+            "url": "https://media.fortniteapi.io/images/maps/map-4.0.png",
+            "urlPOI": null
+        },
+        {
+            "patchVersion": "4.1",
+            "releaseDate": "2018-05-08",
+            "url": "https://media.fortniteapi.io/images/maps/map-4.1.png",
+            "urlPOI": null
+        },
+        {
+            "patchVersion": "4.2",
+            "releaseDate": "2018-05-16",
+            "url": "https://media.fortniteapi.io/images/maps/map-4.2.png",
+            "urlPOI": null
+        },
+        {
+            "patchVersion": "4.3",
+            "releaseDate": "2018-05-30",
+            "url": "https://media.fortniteapi.io/images/maps/map-4.3.png",
+            "urlPOI": null
+        },
+        {
+            "patchVersion": "4.4",
+            "releaseDate": "2018-06-11",
+            "url": "https://media.fortniteapi.io/images/maps/map-4.4.png",
+            "urlPOI": null
+        },
+        {
+            "patchVersion": "4.5",
+            "releaseDate": "2018-06-27",
+            "url": "https://media.fortniteapi.io/images/maps/map-4.5.png",
+            "urlPOI": null
+        },
+        {
+            "patchVersion": "5.0",
+            "releaseDate": "2018-07-12",
+            "url": "https://media.fortniteapi.io/images/maps/map-5.0.png",
+            "urlPOI": null
+        },
+        {
+            "patchVersion": "5.10",
+            "releaseDate": "2018-07-24",
+            "url": "https://media.fortniteapi.io/images/maps/map-5.10.png",
+            "urlPOI": null
+        },
+        {
+            "patchVersion": "5.20",
+            "releaseDate": "2018-08-07",
+            "url": "https://media.fortniteapi.io/images/maps/map-5.20.png",
+            "urlPOI": null
+        },
+        {
+            "patchVersion": "5.21",
+            "releaseDate": "2018-08-15",
+            "url": "https://media.fortniteapi.io/images/maps/map-5.21.png",
+            "urlPOI": null
+        },
+        {
+            "patchVersion": "5.30",
+            "releaseDate": "2018-08-23",
+            "url": "https://media.fortniteapi.io/images/maps/map-5.30.png",
+            "urlPOI": null
+        },
+        {
+            "patchVersion": "5.40",
+            "releaseDate": "2018-09-06",
+            "url": "https://media.fortniteapi.io/images/maps/map-5.40.png",
+            "urlPOI": null
+        },
+        {
+            "patchVersion": "5.41",
+            "releaseDate": "2018-09-18",
+            "url": "https://media.fortniteapi.io/images/maps/map-5.41.png",
+            "urlPOI": null
+        },
+        {
+            "patchVersion": "6.0",
+            "releaseDate": "2018-09-27",
+            "url": "https://media.fortniteapi.io/images/maps/map-6.0.png",
+            "urlPOI": null
+        },
+        {
+            "patchVersion": "6.01",
+            "releaseDate": "2018-10-03",
+            "url": "https://media.fortniteapi.io/images/maps/map-6.01.png",
+            "urlPOI": null
+        },
+        {
+            "patchVersion": "6.02",
+            "releaseDate": "2018-10-10",
+            "url": "https://media.fortniteapi.io/images/maps/map-6.02.png",
+            "urlPOI": null
+        },
+        {
+            "patchVersion": "6.10",
+            "releaseDate": "2018-10-16",
+            "url": "https://media.fortniteapi.io/images/maps/map-6.10.png",
+            "urlPOI": null
+        },
+        {
+            "patchVersion": "6.20",
+            "releaseDate": "2018-10-23",
+            "url": "https://media.fortniteapi.io/images/maps/map-6.20.png",
+            "urlPOI": null
+        },
+        {
+            "patchVersion": "6.21",
+            "releaseDate": "2018-11-01",
+            "url": "https://media.fortniteapi.io/images/maps/map-6.21.png",
+            "urlPOI": null
+        },
+        {
+            "patchVersion": "6.22",
+            "releaseDate": "2018-11-06",
+            "url": "https://media.fortniteapi.io/images/maps/map-6.22.png",
+            "urlPOI": null
+        },
+        {
+            "patchVersion": "6.30",
+            "releaseDate": "2018-11-14",
+            "url": "https://media.fortniteapi.io/images/maps/map-6.30.png",
+            "urlPOI": null
+        },
+        {
+            "patchVersion": "6.31",
+            "releaseDate": "2018-11-27",
+            "url": "https://media.fortniteapi.io/images/maps/map-6.31.png",
+            "urlPOI": null
+        },
+        {
+            "patchVersion": "7.00",
+            "releaseDate": "2018-12-06",
+            "url": "https://media.fortniteapi.io/images/maps/map-7.0.png",
+            "urlPOI": null
+        },
+        {
+            "patchVersion": "7.01",
+            "releaseDate": "2018-12-11",
+            "url": "https://media.fortniteapi.io/images/maps/map-7.01.png",
+            "urlPOI": null
+        },
+        {
+            "patchVersion": "7.10",
+            "releaseDate": "2018-12-18",
+            "url": "https://media.fortniteapi.io/images/maps/map-7.10.png",
+            "urlPOI": null
+        },
+        {
+            "patchVersion": "7.10",
+            "releaseDate": "2018-12-25",
+            "url": "https://media.fortniteapi.io/images/maps/map-7.10-snow.png",
+            "urlPOI": null
+        },
+        {
+            "patchVersion": "7.20",
+            "releaseDate": "2019-01-15",
+            "url": "https://media.fortniteapi.io/images/maps/map-7.20.png",
+            "urlPOI": null
+        },
+        {
+            "patchVersion": "7.30",
+            "releaseDate": "2019-01-29",
+            "url": "https://media.fortniteapi.io/images/maps/map-7.30.png",
+            "urlPOI": null
+        },
+        {
+            "patchVersion": "7.40",
+            "releaseDate": "2019-02-14",
+            "url": "https://media.fortniteapi.io/images/maps/map-7.40.png",
+            "urlPOI": null
+        },
+        {
+            "patchVersion": "8.00",
+            "releaseDate": "2019-02-28",
+            "url": "https://media.fortniteapi.io/images/maps/map-8.0.png",
+            "urlPOI": null
+        },
+        {
+            "patchVersion": "8.01",
+            "releaseDate": "2019-03-05",
+            "url": "https://media.fortniteapi.io/images/maps/map-8.01.png",
+            "urlPOI": null
+        },
+        {
+            "patchVersion": "8.10",
+            "releaseDate": "2019-03-12",
+            "url": "https://media.fortniteapi.io/images/maps/map-8.10.png",
+            "urlPOI": null
+        },
+        {
+            "patchVersion": "8.20",
+            "releaseDate": "2019-03-27",
+            "url": "https://media.fortniteapi.io/images/maps/map-8.20.png",
+            "urlPOI": null
+        },
+        {
+            "patchVersion": "8.30",
+            "releaseDate": "2019-04-10",
+            "url": "https://media.fortniteapi.io/images/maps/map-8.30.png",
+            "urlPOI": null
+        },
+        {
+            "patchVersion": "8.40",
+            "releaseDate": "2019-04-17",
+            "url": "https://media.fortniteapi.io/images/maps/map-8.40.png",
+            "urlPOI": null
+        },
+        {
+            "patchVersion": "8.50",
+            "releaseDate": "2019-04-25",
+            "url": "https://media.fortniteapi.io/images/maps/map-8.50.png",
+            "urlPOI": null
+        },
+        {
+            "patchVersion": "8.51",
+            "releaseDate": "2019-05-02",
+            "url": "https://media.fortniteapi.io/images/maps/map-8.51.png",
+            "urlPOI": null
+        },
+        {
+            "patchVersion": "9.00",
+            "releaseDate": "2019-05-09",
+            "url": "https://media.fortniteapi.io/images/maps/map-9.0.png",
+            "urlPOI": null
+        },
+        {
+            "patchVersion": "9.10",
+            "releaseDate": "2019-05-22",
+            "url": "https://media.fortniteapi.io/images/maps/map-9.10.png",
+            "urlPOI": null
+        },
+        {
+            "patchVersion": "9.01",
+            "releaseDate": "2019-05-22",
+            "url": "https://media.fortniteapi.io/images/maps/map-9.01.png",
+            "urlPOI": null
+        },
+        {
+            "patchVersion": "9.20",
+            "releaseDate": "2019-06-05",
+            "url": "https://media.fortniteapi.io/images/maps/map-9.20.png",
+            "urlPOI": null
+        },
+        {
+            "patchVersion": "9.21",
+            "releaseDate": "2019-06-12",
+            "url": "https://media.fortniteapi.io/images/maps/map-9.21.png",
+            "urlPOI": null
+        },
+        {
+            "patchVersion": "9.30",
+            "releaseDate": "2019-06-18",
+            "url": "https://media.fortniteapi.io/images/maps/map-9.30.png",
+            "urlPOI": null
+        },
+        {
+            "patchVersion": "9.40",
+            "releaseDate": "2019-07-17",
+            "url": "https://media.fortniteapi.io/images/maps/map-9.40.png",
+            "urlPOI": null
+        },
+        {
+            "patchVersion": "9.41",
+            "releaseDate": "2019-07-23",
+            "url": "https://media.fortniteapi.io/images/maps/map-9.41.png",
+            "urlPOI": null
+        },
+        {
+            "patchVersion": "10.0",
+            "releaseDate": "2019-08-01",
+            "url": "https://media.fortniteapi.io/images/maps/map-10.0.png",
+            "urlPOI": null
+        },
+        {
+            "patchVersion": "10.10",
+            "releaseDate": "2019-08-14",
+            "url": "https://media.fortniteapi.io/images/maps/map-10.10.png",
+            "urlPOI": null
+        },
+        {
+            "patchVersion": "10.20",
+            "releaseDate": "2019-08-27",
+            "url": "https://media.fortniteapi.io/images/maps/map-10.20.png",
+            "urlPOI": null
+        },
+        {
+            "patchVersion": "10.30",
+            "releaseDate": "2019-09-11",
+            "url": "https://media.fortniteapi.io/images/maps/map-10.30.png",
+            "urlPOI": null
+        },
+        {
+            "patchVersion": "10.31",
+            "releaseDate": "2019-09-18",
+            "url": "https://media.fortniteapi.io/images/maps/map-10.31.png",
+            "urlPOI": null
+        },
+        {
+            "patchVersion": "10.40",
+            "releaseDate": "2019-09-25",
+            "url": "https://media.fortniteapi.io/images/maps/map-10.40.png",
+            "urlPOI": null
+        },
+        {
+            "patchVersion": "11.00",
+            "releaseDate": "2019-10-14",
+            "url": "https://media.fortniteapi.io/images/maps/map-11.00.png",
+            "urlPOI": "https://media.fortniteapi.io/images/maps/poi/en/map-11.00.png"
+        },
+        {
+            "patchVersion": "11.10",
+            "releaseDate": "2019-10-29",
+            "url": "https://media.fortniteapi.io/images/maps/map-11.10.png",
+            "urlPOI": "https://media.fortniteapi.io/images/maps/poi/en/map-11.10.png"
+        },
+        {
+            "patchVersion": "11.30",
+            "releaseDate": "2019-12-12",
+            "url": "https://media.fortniteapi.io/images/maps/map-11.30.png",
+            "urlPOI": "https://media.fortniteapi.io/images/maps/poi/en/map-11.30.png"
+        },
+        {
+            "patchVersion": "11.31",
+            "releaseDate": "2019-12-25",
+            "url": "https://media.fortniteapi.io/images/maps/map-11.31.png",
+            "urlPOI": "https://media.fortniteapi.io/images/maps/poi/en/map-11.31.png"
+        },
+        {
+            "patchVersion": "11.31",
+            "releaseDate": "2020-01-11",
+            "url": "https://media.fortniteapi.io/images/maps/map-11.31-2.png",
+            "urlPOI": "https://media.fortniteapi.io/images/maps/poi/en/map-11.31-2.png"
+        },
+        {
+            "patchVersion": "11.40",
+            "releaseDate": "2020-01-15",
+            "url": "https://media.fortniteapi.io/images/maps/map-11.40.png",
+            "urlPOI": "https://media.fortniteapi.io/images/maps/poi/en/map-11.40.png"
+        },
+        {
+            "patchVersion": "12.00",
+            "releaseDate": "2020-02-20",
+            "url": "https://media.fortniteapi.io/images/maps/map-12.00.png",
+            "urlPOI": "https://media.fortniteapi.io/images/maps/poi/en/map-12.00.png"
+        },
+        {
+            "patchVersion": "12.20",
+            "releaseDate": "2020-03-17",
+            "url": "https://media.fortniteapi.io/images/maps/map-12.20.png",
+            "urlPOI": "https://media.fortniteapi.io/images/maps/poi/en/map-12.20.png"
+        },
+        {
+            "patchVersion": "12.50",
+            "releaseDate": "2020-04-29",
+            "url": "https://media.fortniteapi.io/images/maps/map-12.50.png",
+            "urlPOI": "https://media.fortniteapi.io/images/maps/poi/en/map-12.50.png"
+        },
+        {
+            "patchVersion": "12.60",
+            "releaseDate": "2020-05-20",
+            "url": "https://media.fortniteapi.io/images/maps/map-12.60.png",
+            "urlPOI": "https://media.fortniteapi.io/images/maps/poi/en/map-12.60.png"
+        },
+        {
+            "patchVersion": "13.00",
+            "releaseDate": "2020-06-17",
+            "url": "https://media.fortniteapi.io/images/maps/map-13.00.png",
+            "urlPOI": "https://media.fortniteapi.io/images/maps/poi/en/map-13.00.png"
+        },
+        {
+            "patchVersion": "13.20",
+            "releaseDate": "2020-06-30",
+            "url": "https://media.fortniteapi.io/images/maps/map-13.20.png",
+            "urlPOI": "https://media.fortniteapi.io/images/maps/poi/en/map-13.20.png"
+        },
+        {
+            "patchVersion": "13.20",
+            "releaseDate": "2020-07-01",
+            "url": "https://media.fortniteapi.io/images/maps/map-13.20-2.png",
+            "urlPOI": "https://media.fortniteapi.io/images/maps/poi/en/map-13.20-2.png"
+        },
+        {
+            "patchVersion": "13.20",
+            "releaseDate": "2020-07-11",
+            "url": "https://media.fortniteapi.io/images/maps/map-13.20-3.png",
+            "urlPOI": "https://media.fortniteapi.io/images/maps/poi/en/map-13.20-3.png"
+        },
+        {
+            "patchVersion": "13.20",
+            "releaseDate": "2020-07-18",
+            "url": "https://media.fortniteapi.io/images/maps/map-13.20-4.png",
+            "urlPOI": "https://media.fortniteapi.io/images/maps/poi/en/map-13.20-4.png"
+        },
+        {
+            "patchVersion": "13.30",
+            "releaseDate": "2020-07-24",
+            "url": "https://media.fortniteapi.io/images/maps/map-13.30.png",
+            "urlPOI": "https://media.fortniteapi.io/images/maps/poi/en/map-13.30.png"
+        },
+        {
+            "patchVersion": "13.30",
+            "releaseDate": "2020-07-27",
+            "url": "https://media.fortniteapi.io/images/maps/map-13.30-2.png",
+            "urlPOI": "https://media.fortniteapi.io/images/maps/poi/en/map-13.30-2.png"
+        },
+        {
+            "patchVersion": "13.30",
+            "releaseDate": "2020-07-30",
+            "url": "https://media.fortniteapi.io/images/maps/map-13.30-3.png",
+            "urlPOI": "https://media.fortniteapi.io/images/maps/poi/en/map-13.30-3.png"
+        },
+        {
+            "patchVersion": "13.30",
+            "releaseDate": "2020-08-01",
+            "url": "https://media.fortniteapi.io/images/maps/map-13.30-4.png",
+            "urlPOI": "https://media.fortniteapi.io/images/maps/poi/en/map-13.30-4.png"
+        },
+        {
+            "patchVersion": "14.00",
+            "releaseDate": "2020-08-27",
+            "url": "https://media.fortniteapi.io/images/maps/map-14.00.png",
+            "urlPOI": "https://media.fortniteapi.io/images/maps/poi/en/map-14.00.png"
+        },
+        {
+            "patchVersion": "14.10",
+            "releaseDate": "2020-09-10",
+            "url": "https://media.fortniteapi.io/images/maps/map-14.10.png",
+            "urlPOI": "https://media.fortniteapi.io/images/maps/poi/en/map-14.10.png"
+        },
+        {
+            "patchVersion": "14.20",
+            "releaseDate": "2020-09-23",
+            "url": "https://media.fortniteapi.io/images/maps/map-14.20.png",
+            "urlPOI": "https://media.fortniteapi.io/images/maps/poi/en/map-14.20.png"
+        },
+        {
+            "patchVersion": "14.40",
+            "releaseDate": "2020-10-21",
+            "url": "https://media.fortniteapi.io/images/maps/map-14.40.png",
+            "urlPOI": "https://media.fortniteapi.io/images/maps/poi/en/map-14.40.png"
+        },
+        {
+            "patchVersion": "15.00",
+            "releaseDate": "2020-12-02",
+            "url": "https://media.fortniteapi.io/images/maps/map-15.00.png",
+            "urlPOI": "https://media.fortniteapi.io/images/maps/poi/en/map-15.00.png"
+        },
+        {
+            "patchVersion": "15.10",
+            "releaseDate": "2020-12-15",
+            "url": "https://media.fortniteapi.io/images/maps/map-15.10.png",
+            "urlPOI": "https://media.fortniteapi.io/images/maps/poi/en/map-15.10.png"
+        },
+        {
+            "patchVersion": "15.10",
+            "releaseDate": "2020-12-16",
+            "url": "https://media.fortniteapi.io/images/maps/map-15.10-snow20201216.png",
+            "urlPOI": "https://media.fortniteapi.io/images/maps/poi/en/map-15.10-snow20201216.png"
+        },
+        {
+            "patchVersion": "15.10",
+            "releaseDate": "2020-12-18",
+            "url": "https://media.fortniteapi.io/images/maps/map-15.10-snow20201218.png",
+            "urlPOI": "https://media.fortniteapi.io/images/maps/poi/en/map-15.10-snow20201218.png"
+        },
+        {
+            "patchVersion": "15.20",
+            "releaseDate": "2021-01-13",
+            "url": "https://media.fortniteapi.io/images/maps/map-15.20.png",
+            "urlPOI": "https://media.fortniteapi.io/images/maps/poi/en/map-15.20.png"
+        },
+        {
+            "patchVersion": "15.21",
+            "releaseDate": "2021-01-20",
+            "url": "https://media.fortniteapi.io/images/maps/map-15.21.png",
+            "urlPOI": "https://media.fortniteapi.io/images/maps/poi/en/map-15.21.png"
+        },
+        {
+            "patchVersion": "15.30",
+            "releaseDate": "2021-02-02",
+            "url": "https://media.fortniteapi.io/images/maps/map-15.30.png",
+            "urlPOI": "https://media.fortniteapi.io/images/maps/poi/en/map-15.30.png"
+        },
+        {
+            "patchVersion": "15.40",
+            "releaseDate": "2021-02-16",
+            "url": "https://media.fortniteapi.io/images/maps/map-15.40.png",
+            "urlPOI": "https://media.fortniteapi.io/images/maps/poi/en/map-15.40.png"
+        },
+        {
+            "patchVersion": "16.00",
+            "releaseDate": "2021-03-16",
+            "url": "https://media.fortniteapi.io/images/maps/map-16.00.png",
+            "urlPOI": "https://media.fortniteapi.io/images/maps/poi/en/map-16.00.png"
+        },
+        {
+            "patchVersion": "16.10",
+            "releaseDate": "2021-03-30",
+            "url": "https://media.fortniteapi.io/images/maps/map-16.10.png",
+            "urlPOI": "https://media.fortniteapi.io/images/maps/poi/en/map-16.10.png"
+        },
+        {
+            "patchVersion": "16.20",
+            "releaseDate": "2021-04-13",
+            "url": "https://media.fortniteapi.io/images/maps/map-16.20.png",
+            "urlPOI": "https://media.fortniteapi.io/images/maps/poi/en/map-16.20.png"
+        },
+        {
+            "patchVersion": "16.30",
+            "releaseDate": "2021-04-27",
+            "url": "https://media.fortniteapi.io/images/maps/map-16.30.png",
+            "urlPOI": "https://media.fortniteapi.io/images/maps/poi/en/map-16.30.png"
+        },
+        {
+            "patchVersion": "16.40",
+            "releaseDate": "2021-05-11",
+            "url": "https://media.fortniteapi.io/images/maps/map-16.40.png",
+            "urlPOI": "https://media.fortniteapi.io/images/maps/poi/en/map-16.40.png"
+        },
+        {
+            "patchVersion": "16.50",
+            "releaseDate": "2021-05-25",
+            "url": "https://media.fortniteapi.io/images/maps/map-16.50.png",
+            "urlPOI": "https://media.fortniteapi.io/images/maps/poi/en/map-16.50.png"
+        },
+        {
+            "patchVersion": "17.00",
+            "releaseDate": "2021-06-08",
+            "url": "https://media.fortniteapi.io/images/maps/map-17.00.png",
+            "urlPOI": "https://media.fortniteapi.io/images/maps/poi/en/map-17.00.png"
+        },
+        {
+            "patchVersion": "17.10",
+            "releaseDate": "2021-06-22",
+            "url": "https://media.fortniteapi.io/images/maps/map-17.10.png",
+            "urlPOI": "https://media.fortniteapi.io/images/maps/poi/en/map-17.10.png"
+        },
+        {
+            "patchVersion": "17.20",
+            "releaseDate": "2021-07-20",
+            "url": "https://media.fortniteapi.io/images/maps/map-17.20.png",
+            "urlPOI": "https://media.fortniteapi.io/images/maps/poi/en/map-17.20.png"
+        },
+        {
+            "patchVersion": "17.21",
+            "releaseDate": "2021-07-27",
+            "url": "https://media.fortniteapi.io/images/maps/map-17.21.png",
+            "urlPOI": "https://media.fortniteapi.io/images/maps/poi/en/map-17.21.png"
+        },
+        {
+            "patchVersion": "17.30",
+            "releaseDate": "2021-08-03",
+            "url": "https://media.fortniteapi.io/images/maps/map-17.30.png",
+            "urlPOI": "https://media.fortniteapi.io/images/maps/poi/en/map-17.30.png"
+        },
+        {
+            "patchVersion": "17.40",
+            "releaseDate": "2021-08-17",
+            "url": "https://media.fortniteapi.io/images/maps/map-17.40.png",
+            "urlPOI": "https://media.fortniteapi.io/images/maps/poi/en/map-17.40.png"
+        },
+        {
+            "patchVersion": "17.50",
+            "releaseDate": "2021-08-31",
+            "url": "https://media.fortniteapi.io/images/maps/map-17.50.png",
+            "urlPOI": "https://media.fortniteapi.io/images/maps/poi/en/map-17.50.png"
+        },
+        {
+            "patchVersion": "18.00",
+            "releaseDate": "2021-09-13",
+            "url": "https://media.fortniteapi.io/images/maps/map-18.00.png",
+            "urlPOI": "https://media.fortniteapi.io/images/maps/poi/en/map-18.00.png"
+        },
+        {
+            "patchVersion": "18.10",
+            "releaseDate": "2021-09-28",
+            "url": "https://media.fortniteapi.io/images/maps/map-18.10.png",
+            "urlPOI": "https://media.fortniteapi.io/images/maps/poi/en/map-18.10.png"
+        },
+        {
+            "patchVersion": "18.20",
+            "releaseDate": "2021-10-12",
+            "url": "https://media.fortniteapi.io/images/maps/map-18.20.png",
+            "urlPOI": "https://media.fortniteapi.io/images/maps/poi/en/map-18.20.png"
+        },
+        {
+            "patchVersion": "18.21",
+            "releaseDate": "2021-10-19",
+            "url": "https://media.fortniteapi.io/images/maps/map-18.21.png",
+            "urlPOI": "https://media.fortniteapi.io/images/maps/poi/en/map-18.21.png"
+        },
+        {
+            "patchVersion": "18.30",
+            "releaseDate": "2021-10-26",
+            "url": "https://media.fortniteapi.io/images/maps/map-18.30.png",
+            "urlPOI": "https://media.fortniteapi.io/images/maps/poi/en/map-18.30.png"
+        },
+        {
+            "patchVersion": "18.40",
+            "releaseDate": "2021-11-16",
+            "url": "https://media.fortniteapi.io/images/maps/map-18.40.png",
+            "urlPOI": "https://media.fortniteapi.io/images/maps/poi/en/map-18.40.png"
+        },
+        {
+            "patchVersion": "19.00",
+            "releaseDate": "2021-12-05",
+            "url": "https://media.fortniteapi.io/images/maps/map-19.00.png",
+            "urlPOI": "https://media.fortniteapi.io/images/maps/poi/en/map-19.00.png"
+        },
+        {
+            "patchVersion": "19.01",
+            "releaseDate": "2021-12-14",
+            "url": "https://media.fortniteapi.io/images/maps/map-19.01.png",
+            "urlPOI": "https://media.fortniteapi.io/images/maps/poi/en/map-19.01.png"
+        },
+        {
+            "patchVersion": "19.10",
+            "releaseDate": "2022-01-18",
+            "url": "https://media.fortniteapi.io/images/maps/map-19.10.png",
+            "urlPOI": "https://media.fortniteapi.io/images/maps/poi/en/map-19.10.png"
+        },
+        {
+            "patchVersion": "19.20",
+            "releaseDate": "2022-02-01",
+            "url": "https://media.fortniteapi.io/images/maps/map-19.20.png",
+            "urlPOI": "https://media.fortniteapi.io/images/maps/poi/en/map-19.20.png"
+        },
+        {
+            "patchVersion": "19.30",
+            "releaseDate": "2022-02-15",
+            "url": "https://media.fortniteapi.io/images/maps/map-19.30.png",
+            "urlPOI": "https://media.fortniteapi.io/images/maps/poi/en/map-19.30.png"
+        },
+        {
+            "patchVersion": "19.40",
+            "releaseDate": "2022-03-01",
+            "url": "https://media.fortniteapi.io/images/maps/map-19.40.png",
+            "urlPOI": "https://media.fortniteapi.io/images/maps/poi/en/map-19.40.png"
+        },
+        {
+            "patchVersion": "20.00",
+            "releaseDate": "2022-03-20",
+            "url": "https://media.fortniteapi.io/images/maps/map-20.00.png",
+            "urlPOI": "https://media.fortniteapi.io/images/maps/poi/en/map-20.00.png"
+        }
+    ]
+}
