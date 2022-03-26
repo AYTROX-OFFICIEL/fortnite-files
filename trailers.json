@@ -1,0 +1,586 @@
+{
+    "result": true,
+    "chapter1": "1",
+    "infos1": {
+    "season2": {
+    "displayInfo": {
+        "chapter": "Chapter 1",
+        "season": "Season 2",
+        "chapterSeason": "Chapter 1 - Season 2"
+    },
+    "video": [
+        {
+            "type": "bp",
+            "lang": {
+            "EN": "https://media.fortniteapi.io/videos/seasons/bp_s2_en.mp4"
+        }
+        },
+        {
+            "type": "trailer",
+            "lang-url": null
+        }
+    ]
+},
+  "season3": {
+  "displayInfo": {
+      "chapter":"Chapter 1",
+      "season": "Season 3",
+      "chapterSeason": "Chapter 1 - Season 3"
+  },
+  "video": [
+      {
+          "type": "bp",
+          "lang-url": {
+          "EN": "https://media.fortniteapi.io/videos/seasons/bp_s3_en.mp4",
+          "FR": "https://media.fortniteapi.io/videos/seasons/bp_s3_fr.mp4",
+          "ES": "https://media.fortniteapi.io/videos/seasons/bp_s3_es.mp4",
+          "JA": "https://media.fortniteapi.io/videos/seasons/bp_s3_ja.mp4",
+          "RU": "https://media.fortniteapi.io/videos/seasons/bp_s3_ru.mp4"
+      }
+    },
+      {
+          "type": "trailer",
+          "lang-url": null
+      }
+  ]
+ },
+ "season4": {
+     "displayInfo": {
+         "chapter": "Chapter 1",
+         "season": "Season 4",
+         "chapterSeason": "Chapter 1 - Season 4"
+     },
+     "video": [
+         {
+             "type": "bp",
+             "lang-url": {
+                 "EN": "https://media.fortniteapi.io/videos/seasons/bp_s4_en.mp4",
+                 "FR": "https://media.fortniteapi.io/videos/seasons/bp_s4_fr.mp4",
+                 "ES": "https://media.fortniteapi.io/videos/seasons/bp_s4_es.mp4",
+                 "JA": "https://media.fortniteapi.io/videos/seasons/bp_s4_ja.mp4",
+                 "RU": "https://media.fortniteapi.io/videos/seasons/bp_s4_ru.mp4"
+             }
+         },
+         {
+             "type": "trailer",
+             "lang-url": {
+                 "EN": "https://media.fortniteapi.io/videos/seasons/trailer_s4_en.mp4",
+                 "FR": "https://media.fortniteapi.io/videos/seasons/trailer_s4_fr.mp4",
+                 "ES": "https://media.fortniteapi.io/videos/seasons/trailer_s4_es.mp4",
+                 "JA": "https://media.fortniteapi.io/videos/seasons/trailer_s4_ja.mp4",
+                 "RU": "https://media.fortniteapi.io/videos/seasons/trailer_s4_ru.mp4"
+             }
+         }
+     ]
+ },
+ "season5": {
+     "displayInfo": {
+         "chapter": "Chapter 1",
+         "season": "Season 5",
+         "chapterSeason": "Chapter 1 - Season 5"
+     },
+     "video": [
+         {
+             "type": "bp",
+             "lang-url": {
+                 "EN": "https://media.fortniteapi.io/videos/seasons/bp_s5_en.mp4",
+                 "FR": "https://media.fortniteapi.io/videos/seasons/bp_s5_fr.mp4",
+                 "ES": "https://media.fortniteapi.io/videos/seasons/bp_s5_es.mp4",
+                 "JA": "https://media.fortniteapi.io/videos/seasons/bp_s5_ja.mp4",
+                 "RU": "https://media.fortniteapi.io/videos/seasons/bp_s5_ru.mp4"
+             }
+         },
+         {
+             "type": "trailer",
+             "lang-url": {
+                 "EN": "https://media.fortniteapi.io/videos/seasons/trailer_s5_en.mp4",
+                 "FR": "https://media.fortniteapi.io/videos/seasons/trailer_s5_fr.mp4",
+                 "ES": "https://media.fortniteapi.io/videos/seasons/trailer_s5_es.mp4",
+                 "JA": "https://media.fortniteapi.io/videos/seasons/trailer_s5_ja.mp4",
+                 "RU": "https://media.fortniteapi.io/videos/seasons/trailer_s5_ru.mp4"
+             }
+         }
+     ]
+ },
+ "season6": {
+     "displayInfo": {
+         "chapter": "Chapter 1",
+         "season": "Season 6",
+         "chapterSeason": "Chapter 1 - Season 6"
+     },
+     "video": [
+         {
+             "type": "bp",
+             "lang-url": {
+                 "EN": "https://media.fortniteapi.io/videos/seasons/bp_s6_en.mp4",
+                 "FR": "https://media.fortniteapi.io/videos/seasons/bp_s6_fr.mp4",
+                 "ES": "https://media.fortniteapi.io/videos/seasons/bp_s6_es.mp4",
+                 "JA": "https://media.fortniteapi.io/videos/seasons/bp_s6_ja.mp4",
+                 "RU": "https://media.fortniteapi.io/videos/seasons/bp_s6_ru.mp4"
+             }
+         },
+         {
+             "type": "trailer",
+             "lang-url": {
+                 "EN": "https://media.fortniteapi.io/videos/seasons/trailer_s6_en.mp4",
+                 "FR": "https://media.fortniteapi.io/videos/seasons/trailer_s6_fr.mp4",
+                 "ES": "https://media.fortniteapi.io/videos/seasons/trailer_s6_es.mp4",
+                 "JA": "https://media.fortniteapi.io/videos/seasons/trailer_s6_ja.mp4",
+                 "RU": "https://media.fortniteapi.io/videos/seasons/trailer_s6_ru.mp4"
+             }
+         }
+     ]
+ },
+ "season7": {
+     "displayInfo": {
+         "chapter": "Chapter 1",
+         "season": "Season 7",
+         "chapterSeason": "Chapter 1 - Season 7"
+     },
+     "video": [
+         {
+             "type": "bp",
+             "lang-url": {
+                 "EN": "https://media.fortniteapi.io/videos/seasons/bp_s7_en.mp4",
+                 "FR": "https://media.fortniteapi.io/videos/seasons/bp_s7_fr.mp4",
+                 "ES": "https://media.fortniteapi.io/videos/seasons/bp_s7_es.mp4",
+                 "JA": "https://media.fortniteapi.io/videos/seasons/bp_s7_ja.mp4",
+                 "RU": "https://media.fortniteapi.io/videos/seasons/bp_s7_ru.mp4"
+             }
+         },
+         {
+             "type": "trailer",
+             "lang-url": {
+                 "EN": "https://media.fortniteapi.io/videos/seasons/trailer_s7_en.mp4",
+                 "FR": "https://media.fortniteapi.io/videos/seasons/trailer_s7_fr.mp4",
+                 "ES": "https://media.fortniteapi.io/videos/seasons/trailer_s7_es.mp4",
+                 "JA": "https://media.fortniteapi.io/videos/seasons/trailer_s7_ja.mp4",
+                 "RU": "https://media.fortniteapi.io/videos/seasons/trailer_s7_ru.mp4"
+             }
+         }
+     ]
+ },
+ "season8": {
+     "displayInfo": {
+         "chapter": "Chapter 1",
+         "season": "Season 8",
+         "chapterSeason": "Chapter 1 - Season 8"
+     },
+     "video": [
+         {
+             "type": "bp",
+             "lang-url": {
+                 "EN": "https://media.fortniteapi.io/videos/seasons/bp_s8_en.mp4",
+                 "FR": "https://media.fortniteapi.io/videos/seasons/bp_s8_fr.mp4",
+                 "ES": "https://media.fortniteapi.io/videos/seasons/bp_s8_es.mp4",
+                 "JA": "https://media.fortniteapi.io/videos/seasons/bp_s8_ja.mp4",
+                 "RU": "https://media.fortniteapi.io/videos/seasons/bp_s8_ru.mp4"
+             }
+         },
+         {
+             "type": "trailer",
+             "lang-url": {
+                 "EN": "https://media.fortniteapi.io/videos/seasons/trailer_s8_en.mp4",
+                 "FR": "https://media.fortniteapi.io/videos/seasons/trailer_s8_fr.mp4",
+                 "ES": "https://media.fortniteapi.io/videos/seasons/trailer_s8_es.mp4",
+                 "JA": "https://media.fortniteapi.io/videos/seasons/trailer_s8_ja.mp4",
+                 "RU": "https://media.fortniteapi.io/videos/seasons/trailer_s8_ru.mp4"
+             }
+         }
+     ]
+ },
+ "season9": {
+     "displayInfo": {
+         "chapter": "Chapter 1",
+         "season": "Season 9",
+         "chapterSeason": "Chapter 1 - Season 9"
+     },
+     "video": [
+         {
+             "type": "bp",
+             "lang-url": {
+                 "EN": "https://media.fortniteapi.io/videos/seasons/bp_s9_en.mp4",
+                 "FR": "https://media.fortniteapi.io/videos/seasons/bp_s9_fr.mp4",
+                 "ES": "https://media.fortniteapi.io/videos/seasons/bp_s9_es.mp4",
+                 "JA": "https://media.fortniteapi.io/videos/seasons/bp_s9_ja.mp4",
+                 "RU": "https://media.fortniteapi.io/videos/seasons/bp_s9_ru.mp4"
+             }
+         },
+         {
+             "type": "trailer",
+             "lang-url": {
+                 "EN": "https://media.fortniteapi.io/videos/seasons/trailer_s9_en.mp4",
+                 "FR": "https://media.fortniteapi.io/videos/seasons/trailer_s9_fr.mp4",
+                 "ES": "https://media.fortniteapi.io/videos/seasons/trailer_s9_es.mp4",
+                 "JA": "https://media.fortniteapi.io/videos/seasons/trailer_s9_ja.mp4",
+                 "RU": "https://media.fortniteapi.io/videos/seasons/trailer_s9_ru.mp4"
+             }
+         }
+     ]
+ },
+ "season10": {
+     "displayInfo": {
+         "chapter": "Chapter 1",
+         "season": "Season X",
+         "chapterSeason": "Chapter 1 - Season X"
+     },
+     "video": [
+         {
+             "type": "bp",
+             "lang-url": {
+                 "EN": "https://media.fortniteapi.io/videos/seasons/bp_s10_en.mp4",
+                 "FR": "https://media.fortniteapi.io/videos/seasons/bp_s10_fr.mp4",
+                 "ES": "https://media.fortniteapi.io/videos/seasons/bp_s10_es.mp4",
+                 "JA": "https://media.fortniteapi.io/videos/seasons/bp_s10_ja.mp4",
+                 "RU": "https://media.fortniteapi.io/videos/seasons/bp_s10_ru.mp4",
+                 "AR": "https://media.fortniteapi.io/videos/seasons/bp_s10_ar.mp4",
+                 "IT": "https://media.fortniteapi.io/videos/seasons/bp_s10_it.mp4"
+             }
+         },
+         {
+             "type": "trailer",
+             "lang-url": {
+                 "EN": "https://media.fortniteapi.io/videos/seasons/trailer_s10_en.mp4",
+                 "FR": "https://media.fortniteapi.io/videos/seasons/trailer_s10_fr.mp4",
+                 "ES": "https://media.fortniteapi.io/videos/seasons/trailer_s10_es.mp4",
+                 "JA": "https://media.fortniteapi.io/videos/seasons/trailer_s10_ja.mp4",
+                 "RU": "https://media.fortniteapi.io/videos/seasons/trailer_s10_ru.mp4",
+                 "AR": "https://media.fortniteapi.io/videos/seasons/trailer_s10_ar.mp4",
+                 "IT": "https://media.fortniteapi.io/videos/seasons/trailer_s10_it.mp4"
+             }
+         }
+     ]
+ }
+},
+"chapter2": "Chapter 2",
+"infos2": {
+    "season11": {
+        "displayInfo": {
+            "chapter": "Chapter 2",
+            "season": "Season 1",
+            "chapterSeason": "Chapter 2 - Season 1"
+        },
+        "video": [
+            {
+                "type": "bp",
+                "lang-url": {
+                    "EN": "https://media.fortniteapi.io/videos/seasons/bp_s11_en.mp4",
+                    "FR": "https://media.fortniteapi.io/videos/seasons/bp_s11_fr.mp4",
+                    "ES": "https://media.fortniteapi.io/videos/seasons/bp_s11_es.mp4",
+                    "JA": "https://media.fortniteapi.io/videos/seasons/bp_s11_ja.mp4",
+                    "RU": "https://media.fortniteapi.io/videos/seasons/bp_s11_ru.mp4",
+                    "AR": "https://media.fortniteapi.io/videos/seasons/bp_s11_ar.mp4",
+                    "IT": "https://media.fortniteapi.io/videos/seasons/bp_s11_it.mp4"
+                }
+            },
+            {
+                "type": "trailer",
+                "lang-url": {
+                    "EN": "https://media.fortniteapi.io/videos/seasons/trailer_s11_en.mp4",
+                    "FR": "https://media.fortniteapi.io/videos/seasons/trailer_s11_fr.mp4",
+                    "ES": "https://media.fortniteapi.io/videos/seasons/trailer_s11_es.mp4",
+                    "JA": "https://media.fortniteapi.io/videos/seasons/trailer_s11_ja.mp4",
+                    "RU": "https://media.fortniteapi.io/videos/seasons/trailer_s11_ru.mp4",
+                    "AR": "https://media.fortniteapi.io/videos/seasons/trailer_s11_ar.mp4",
+                    "IT": "https://media.fortniteapi.io/videos/seasons/trailer_s11_it.mp4"
+                }
+            }
+        ]
+    },
+    "season12": {
+        "displayInfo": {
+            "chapter": "Chapter 2",
+            "season": "Season 2",
+            "chapterSeason": "Chapter 2 - Season 2"
+        },
+        "video": [
+            {
+                "type": "bp",
+                "lang-url": {
+                    "EN": "https://media.fortniteapi.io/videos/seasons/bp_s12_en.mp4",
+                    "FR": "https://media.fortniteapi.io/videos/seasons/bp_s12_fr.mp4",
+                    "ES": "https://media.fortniteapi.io/videos/seasons/bp_s12_es.mp4",
+                    "JA": "https://media.fortniteapi.io/videos/seasons/bp_s12_ja.mp4",
+                    "RU": "https://media.fortniteapi.io/videos/seasons/bp_s12_ru.mp4",
+                    "AR": "https://media.fortniteapi.io/videos/seasons/bp_s12_ar.mp4",
+                    "IT": "https://media.fortniteapi.io/videos/seasons/bp_s12_it.mp4"
+                }
+            },
+            {
+                "type": "trailer",
+                "lang-url": {
+                    "EN": "https://media.fortniteapi.io/videos/seasons/trailer_s12_en.mp4",
+                    "FR": "https://media.fortniteapi.io/videos/seasons/trailer_s12_fr.mp4",
+                    "ES": "https://media.fortniteapi.io/videos/seasons/trailer_s12_es.mp4",
+                    "JA": "https://media.fortniteapi.io/videos/seasons/trailer_s12_ja.mp4",
+                    "RU": "https://media.fortniteapi.io/videos/seasons/trailer_s12_ru.mp4",
+                    "AR": "https://media.fortniteapi.io/videos/seasons/trailer_s12_ar.mp4",
+                    "IT": "https://media.fortniteapi.io/videos/seasons/trailer_s12_it.mp4"
+                }
+            }
+        ]
+    },
+    "season13": {
+        "displayInfo": {
+            "chapter": "Chapter 2",
+            "season": "Season 3",
+            "chapterSeason":"Chapter 2 - Season 3"
+        },
+        "video": [
+            {
+                "type": "bp",
+                "lang-url": {
+                    "EN": "https://media.fortniteapi.io/videos/seasons/bp_s13_en.mp4",
+                    "FR": "https://media.fortniteapi.io/videos/seasons/bp_s13_fr.mp4",
+                    "ES": "https://media.fortniteapi.io/videos/seasons/bp_s13_es.mp4",
+                    "JA": "https://media.fortniteapi.io/videos/seasons/bp_s13_ja.mp4",
+                    "RU": "https://media.fortniteapi.io/videos/seasons/bp_s13_ru.mp4",
+                    "AR": "https://media.fortniteapi.io/videos/seasons/bp_s13_ar.mp4",
+                    "IT": "https://media.fortniteapi.io/videos/seasons/bp_s13_it.mp4"
+                }
+            },
+            {
+                "type": "trailer",
+                "lang-url": {
+                    "EN": "https://media.fortniteapi.io/videos/seasons/trailer_s13_en.mp4",
+                    "FR": "https://media.fortniteapi.io/videos/seasons/trailer_s13_fr.mp4",
+                    "ES": "https://media.fortniteapi.io/videos/seasons/trailer_s13_es.mp4",
+                    "JA": "https://media.fortniteapi.io/videos/seasons/trailer_s13_ja.mp4",
+                    "RU": "https://media.fortniteapi.io/videos/seasons/trailer_s13_ru.mp4",
+                    "AR": "https://media.fortniteapi.io/videos/seasons/trailer_s13_ar.mp4",
+                    "IT": "https://media.fortniteapi.io/videos/seasons/trailer_s13_it.mp4"
+                }
+            }
+        ]
+    },
+    "season14": {
+        "displayInfo": {
+            "chapter": "Chapter 2",
+            "season": "Season 4",
+            "chapterSeason":"Chapter 2 - Season 4"
+        },
+        "video": [
+            {
+                "type": "bp",
+                "lang-url": {
+                    "EN": "https://media.fortniteapi.io/videos/seasons/bp_s14_en.mp4",
+                    "FR": "https://media.fortniteapi.io/videos/seasons/bp_s14_fr.mp4",
+                    "ES": "https://media.fortniteapi.io/videos/seasons/bp_s14_es.mp4",
+                    "JA": "https://media.fortniteapi.io/videos/seasons/bp_s14_ja.mp4",
+                    "RU": "https://media.fortniteapi.io/videos/seasons/bp_s14_ru.mp4",
+                    "AR": "https://media.fortniteapi.io/videos/seasons/bp_s14_ar.mp4",
+                    "IT": "https://media.fortniteapi.io/videos/seasons/bp_s14_it.mp4"
+                }
+            },
+            {
+                "type": "trailer",
+                "lang-url": {
+                    "EN": "https://media.fortniteapi.io/videos/seasons/trailer_s14_en.mp4",
+                    "FR": "https://media.fortniteapi.io/videos/seasons/trailer_s14_fr.mp4",
+                    "ES": "https://media.fortniteapi.io/videos/seasons/trailer_s14_es.mp4",
+                    "JA": "https://media.fortniteapi.io/videos/seasons/trailer_s14_ja.mp4",
+                    "RU": "https://media.fortniteapi.io/videos/seasons/trailer_s14_ru.mp4",
+                    "AR": "https://media.fortniteapi.io/videos/seasons/trailer_s14_ar.mp4",
+                    "IT": "https://media.fortniteapi.io/videos/seasons/trailer_s14_it.mp4"
+                }
+            }
+        ]
+    },
+    "season15": {
+        "displayInfo": {
+            "chapter": "Chapter 2",
+            "season": "Season 5",
+            "chapterSeason": "Chapter 2 - Season 5"
+        },
+        "video": [
+            {
+                "type": "bp",
+                "lang-url": {
+                    "EN": "https://media.fortniteapi.io/videos/seasons/bp_s15_en.mp4",
+                    "FR": "https://media.fortniteapi.io/videos/seasons/bp_s15_fr.mp4",
+                    "ES": "https://media.fortniteapi.io/videos/seasons/bp_s15_es.mp4",
+                    "JA": "https://media.fortniteapi.io/videos/seasons/bp_s15_ja.mp4",
+                    "RU": "https://media.fortniteapi.io/videos/seasons/bp_s15_ru.mp4",
+                    "AR": "https://media.fortniteapi.io/videos/seasons/bp_s15_ar.mp4",
+                    "IT": "https://media.fortniteapi.io/videos/seasons/bp_s15_it.mp4"
+                }
+            },
+            {
+                "type": "trailer",
+                "lang-url": {
+                    "EN": "https://media.fortniteapi.io/videos/seasons/trailer_s15_en.mp4",
+                    "FR": "https://media.fortniteapi.io/videos/seasons/trailer_s15_fr.mp4",
+                    "ES": "https://media.fortniteapi.io/videos/seasons/trailer_s15_es.mp4",
+                    "JA": "https://media.fortniteapi.io/videos/seasons/trailer_s15_ja.mp4",
+                    "RU": "https://media.fortniteapi.io/videos/seasons/trailer_s15_ru.mp4",
+                    "AR": "https://media.fortniteapi.io/videos/seasons/trailer_s15_ar.mp4",
+                    "IT": "https://media.fortniteapi.io/videos/seasons/trailer_s15_it.mp4"
+                }
+            }
+        ]
+    },
+    "season16": {
+        "displayInfo": {
+            "chapter": "Chapter 2",
+            "season": "Season 6",
+            "chapterSeason": "Chapter 2 - Season 6"
+        },
+        "video": [
+            {
+                "type": "bp",
+                "lang-url": {
+                    "EN": "https://media.fortniteapi.io/videos/seasons/bp_s16_en.mp4",
+                    "FR": "https://media.fortniteapi.io/videos/seasons/bp_s16_fr.mp4",
+                    "ES": "https://media.fortniteapi.io/videos/seasons/bp_s16_es.mp4",
+                    "JA": "https://media.fortniteapi.io/videos/seasons/bp_s16_ja.mp4",
+                    "RU": "https://media.fortniteapi.io/videos/seasons/bp_s16_ru.mp4",
+                    "AR": "https://media.fortniteapi.io/videos/seasons/bp_s16_ar.mp4",
+                    "IT": "https://media.fortniteapi.io/videos/seasons/bp_s16_it.mp4"
+                }
+            },
+            {
+                "type": "trailer",
+                "lang-url": {
+                    "EN": "https://media.fortniteapi.io/videos/seasons/trailer_s16_en.mp4",
+                    "FR": "https://media.fortniteapi.io/videos/seasons/trailer_s16_fr.mp4",
+                    "ES": "https://media.fortniteapi.io/videos/seasons/trailer_s16_es.mp4",
+                    "JA": "https://media.fortniteapi.io/videos/seasons/trailer_s16_ja.mp4",
+                    "RU": "https://media.fortniteapi.io/videos/seasons/trailer_s16_ru.mp4",
+                    "AR": "https://media.fortniteapi.io/videos/seasons/trailer_s16_ar.mp4",
+                    "IT": "https://media.fortniteapi.io/videos/seasons/trailer_s16_it.mp4"
+                }
+            }
+        ]
+    },
+    "season17": {
+        "displayInfo": {
+            "chapter": "Chapter 2",
+            "season": "Season 7",
+            "chapterSeason":"Chapter 2 - Season 7"
+        },
+        "video": [
+            {
+                "type": "bp",
+                "lang-url": {
+                    "EN": "https://media.fortniteapi.io/videos/seasons/bp_s17_en.mp4",
+                    "FR": "https://media.fortniteapi.io/videos/seasons/bp_s17_fr.mp4",
+                    "ES": "https://media.fortniteapi.io/videos/seasons/bp_s17_es.mp4",
+                    "JA": "https://media.fortniteapi.io/videos/seasons/bp_s17_ja.mp4",
+                    "RU": "https://media.fortniteapi.io/videos/seasons/bp_s17_ru.mp4",
+                    "AR": "https://media.fortniteapi.io/videos/seasons/bp_s17_ar.mp4",
+                    "IT": "https://media.fortniteapi.io/videos/seasons/bp_s17_it.mp4"
+                }
+            },
+            {
+                "type": "trailer",
+                "lang-url": {
+                    "EN": "https://media.fortniteapi.io/videos/seasons/trailer_s17_en.mp4",
+                    "FR": "https://media.fortniteapi.io/videos/seasons/trailer_s17_fr.mp4",
+                    "ES": "https://media.fortniteapi.io/videos/seasons/trailer_s17_es.mp4",
+                    "JA": "https://media.fortniteapi.io/videos/seasons/trailer_s17_ja.mp4",
+                    "RU": "https://media.fortniteapi.io/videos/seasons/trailer_s17_ru.mp4",
+                    "AR": "https://media.fortniteapi.io/videos/seasons/trailer_s17_ar.mp4",
+                    "IT": "https://media.fortniteapi.io/videos/seasons/trailer_s17_it.mp4"
+                }
+            }
+        ]
+    },
+    "season18": {
+        "displayInfo": {
+            "chapter": "Chapter 2",
+            "season": "Season 8",
+            "chapterSeason": "Chapter 2 - Season 8"
+        },
+        "video": [
+            {
+                "type": "bp",
+                "lang-url": {
+                    "EN": "https://media.fortniteapi.io/videos/seasons/bp_s18_en.mp4",
+                    "FR": "https://media.fortniteapi.io/videos/seasons/bp_s18_fr.mp4",
+                    "ES": "https://media.fortniteapi.io/videos/seasons/bp_s18_es.mp4",
+                    "JA": "https://media.fortniteapi.io/videos/seasons/bp_s18_ja.mp4",
+                    "RU": "https://media.fortniteapi.io/videos/seasons/bp_s18_ru.mp4",
+                    "AR": "https://media.fortniteapi.io/videos/seasons/bp_s18_ar.mp4",
+                    "IT": "https://media.fortniteapi.io/videos/seasons/bp_s18_it.mp4"
+                }
+            },
+            {
+                "type": "trailer",
+                "lang-url": {
+                    "EN": "https://media.fortniteapi.io/videos/seasons/trailer_s18_en.mp4",
+                    "FR": "https://media.fortniteapi.io/videos/seasons/trailer_s18_fr.mp4",
+                    "ES": "https://media.fortniteapi.io/videos/seasons/trailer_s18_es.mp4",
+                    "JA": "https://media.fortniteapi.io/videos/seasons/trailer_s18_ja.mp4",
+                    "RU": "https://media.fortniteapi.io/videos/seasons/trailer_s18_ru.mp4",
+                    "AR": "https://media.fortniteapi.io/videos/seasons/trailer_s18_ar.mp4",
+                    "IT": "https://media.fortniteapi.io/videos/seasons/trailer_s18_it.mp4"
+                }
+            }
+        ]
+    }
+    },
+    "chapter3": "Chapter 3",
+    "info3": {
+    "season19": {
+        "displayInfo": {
+            "chapter": "Chapter 3",
+            "season": "Season 1",
+            "chapterSeason": "Chapter 3 - Season 1"
+        },
+        "video": [
+            {
+                "type": "bp",
+                "lang-url": {
+                    "EN": "https://media.fortniteapi.io/videos/seasons/bp_s19_en.mp4",
+                    "FR": "https://media.fortniteapi.io/videos/seasons/bp_s19_fr.mp4",
+                    "ES": "https://media.fortniteapi.io/videos/seasons/bp_s19_es.mp4",
+                    "JA": "https://media.fortniteapi.io/videos/seasons/bp_s19_ja.mp4",
+                    "RU": "https://media.fortniteapi.io/videos/seasons/bp_s19_ru.mp4",
+                    "AR": "https://media.fortniteapi.io/videos/seasons/bp_s19_ar.mp4",
+                    "IT": "https://media.fortniteapi.io/videos/seasons/bp_s19_it.mp4"
+                }
+            },
+            {
+                "type": "trailer",
+                "lang-url": {
+                    "EN": "https://media.fortniteapi.io/videos/seasons/trailer_s19_en.mp4",
+                    "FR": "https://media.fortniteapi.io/videos/seasons/trailer_s19_fr.mp4",
+                    "ES": "https://media.fortniteapi.io/videos/seasons/trailer_s19_es.mp4",
+                    "JA": "https://media.fortniteapi.io/videos/seasons/trailer_s19_ja.mp4",
+                    "RU": "https://media.fortniteapi.io/videos/seasons/trailer_s19_ru.mp4",
+                    "AR": "https://media.fortniteapi.io/videos/seasons/trailer_s19_ar.mp4",
+                    "IT": "https://media.fortniteapi.io/videos/seasons/trailer_s19_it.mp4"
+                }
+            }
+        ]
+    },
+    "season20": {
+        "displayInfo": {
+            "chapter": "Chapter 3",
+            "season": "Season 2",
+            "chapterSeason": "Chapter 3 - Season 2"
+        },
+        "video": [
+            {
+                "type": "bp",
+                "lang-url": {
+                    "EN": "https://media.fortniteapi.io/videos/seasons/bp_s20_en.mp4",
+                    "FR": "https://media.fortniteapi.io/videos/seasons/bp_s20_fr.mp4",
+                    "ES": "https://media.fortniteapi.io/videos/seasons/bp_s20_es.mp4",
+                    "JA": "https://media.fortniteapi.io/videos/seasons/bp_s20_ja.mp4",
+                    "RU": "https://media.fortniteapi.io/videos/seasons/bp_s20_ru.mp4",
+                    "AR": "https://media.fortniteapi.io/videos/seasons/bp_s20_ar.mp4",
+                    "IT": "https://media.fortniteapi.io/videos/seasons/bp_s20_it.mp4"
+                }
+            },
+            {
+                "type": "trailer",
+                "lang-url": {
+                    "EN": "https://media.fortniteapi.io/videos/seasons/trailer_s20_en.mp4",
+                    "JA": "https://media.fortniteapi.io/videos/seasons/trailer_s20_ja.mp4"
+                }
+            }
+        ]
+    }
+  }
+}
