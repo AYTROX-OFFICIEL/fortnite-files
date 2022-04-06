@@ -1800,15 +1800,15 @@
         },
         {
             "id": "VID_Tank_Vehicle_Seven",
-            "name": "IO Titan Tank",
+            "name": "Seven Titan Tank",
             "icon": "https://media.fortniteapi.io/images/T-T-Icon-BR-SevenTankVehicle.png",
             "stats": {
-                "Vehicle.Tank.Spawn.MinSpawnPercent": -0.7,
-                "Vehicle.Tank.Spawn.MaxSpawnPercent": 2500,
-                "Default.Tank.Spawn.MaxNumberCanSpawn": 1,
-                "Default.Tank.Spawn.MaxPercentWithGas": 1,
-                "Default.Tank.Spawn.MinPercentInoperable": 2500,
-                "Default.Tank.Spawn.MaxPercentInoperable": 0
+                "Vehicle.Tank.Spawn.MinSpawnPercent.Seven": 2500,
+                "Vehicle.Tank.Spawn.MaxSpawnPercent.Seven": 2500,
+                "Default.Tank.Spawn.MaxNumberCanSpawn.Seven": 0,
+                "Default.Tank.Spawn.MaxPercentWithGas": 0,
+                "Default.Tank.Spawn.MinPercentInoperable": 1,
+                "Default.Tank.Spawn.MaxPercentInoperable": 1
             },
             "gears": [
                 {
@@ -1948,12 +1948,12 @@
             "name": "IO Titan Tank",
             "icon": "https://media.fortniteapi.io/images/T-T-Icon-BR-TankVehicle.png",
             "stats": {
-                "Vehicle.Tank.Spawn.MinSpawnPercent.DailyBugle": -0.7,
+                "Vehicle.Tank.Spawn.MinSpawnPercent.DailyBugle": 2500,
                 "Vehicle.Tank.Spawn.MaxSpawnPercent.DailyBugle": 2500,
-                "Default.Tank.Spawn.MaxNumberCanSpawn.DailyBugle": 1,
-                "Default.Tank.Spawn.MaxPercentWithGas": 1,
-                "Default.Tank.Spawn.MinPercentInoperable": 2500,
-                "Default.Tank.Spawn.MaxPercentInoperable": 0
+                "Default.Tank.Spawn.MaxNumberCanSpawn.DailyBugle": 0,
+                "Default.Tank.Spawn.MaxPercentWithGas": 0,
+                "Default.Tank.Spawn.MinPercentInoperable": 1,
+                "Default.Tank.Spawn.MaxPercentInoperable": 1
             },
             "gears": [
                 {
