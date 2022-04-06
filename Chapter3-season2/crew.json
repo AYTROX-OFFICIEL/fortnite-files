@@ -2,13 +2,13 @@
     "result": true,
     "currentCrew": {
         "type": "current",
-        "date": "2022-03-01",
+        "date": "2022-04-01",
         "colors": {
-            "A": "7204fd",
-            "B": "f1cbfe",
-            "C": "f1cbfe"
+            "A": "170f40",
+            "B": "f74dc8",
+            "C": "f74dc8"
         },
-        "video": null,
+        "video": "https://cdn2.unrealengine.com/221069-s20-aprilcrew-en-nr-blog-04892ba3bcf4.mp4",
         "skinImageTakeOver": false,
         "descriptions": {
             "title": "Crew Pack",
@@ -18,129 +18,127 @@
         "images": {
             "battlepass": null,
             "battlepassTile": null,
-            "itemShopTile": "https://cdn2.unrealengine.com/19br-subs-tracy-ingame-shoptile-2048x1124-b9b819a26a0d.jpg",
-            "skin": "https://cdn2.unrealengine.com/19br-subs-tracy-ingame-crewtile-1024x1024-b234643c2cc4.png",
-            "apiRender": "https://media.fortniteapi.io/images/crew/2022-03/presentation.en.png"
+            "itemShopTile": "https://cdn2.unrealengine.com/20br-subs-sayara-ingame-shoptile-2048x1124-9bfe7c17c56d.jpg",
+            "skin": "https://cdn2.unrealengine.com/20br-subs-sayara-ingame-crewtile-1024x1024-9751b83baf4f.png",
+            "apiRender": "https://media.fortniteapi.io/images/crew/2022-04/presentation.en.png"
         },
         "rewards": [
             {
                 "quantity": 1,
                 "item": {
-                    "id": "CID_A_357_Athena_Commando_F_ValentineFashion_B3S3R",
+                    "id": "CID_A_378_Athena_Commando_F_Bacteria_8JYGU",
                     "type": {
                         "id": "outfit",
                         "name": "Outfit"
                     },
-                    "name": "Tracy Trouble",
-                    "description": "She's got you in her sights.",
+                    "name": "Sayara",
+                    "description": "Nowhere is safe from you.",
                     "rarity": {
                         "id": "Epic",
                         "name": "Epic"
                     },
                     "series": null,
                     "images": {
-                        "icon": "https://media.fortniteapi.io/images/01f9b143d6d05cfbc4bebd0f267aec87/transparent.png",
+                        "icon": "https://media.fortniteapi.io/images/385a2b05386286021ba4bd163f6beb9d/transparent.png",
                         "featured": null,
-                        "background": "https://media.fortniteapi.io/images/cosmetics/01f9b143d6d05cfbc4bebd0f267aec87/v2/background.png",
-                        "icon_background": "https://media.fortniteapi.io/images/cosmetics/01f9b143d6d05cfbc4bebd0f267aec87/v2/icon_background.png",
-                        "full_background": "https://media.fortniteapi.io/images/cosmetics/01f9b143d6d05cfbc4bebd0f267aec87/v2/info.en.png"
+                        "background": "https://media.fortniteapi.io/images/cosmetics/385a2b05386286021ba4bd163f6beb9d/v2/background.png",
+                        "icon_background": "https://media.fortniteapi.io/images/cosmetics/385a2b05386286021ba4bd163f6beb9d/v2/icon_background.png",
+                        "full_background": "https://media.fortniteapi.io/images/cosmetics/385a2b05386286021ba4bd163f6beb9d/v2/info.en.png"
                     },
                     "video": null,
                     "gameplayTags": [
-                        "Cosmetics.UserFacingFlags.HasVariants",
-                        "Cosmetics.Filter.Season.19",
-                        "SoundLibrary.ID.StepType.ShoesSneakers",
-                        "SoundLibrary.ID.ClothingType.Generic",
+                        "SoundLibrary.ID.StepType.BootsCombat",
+                        "SoundLibrary.ID.ClothingType.ArmorLeather",
                         "SoundLibrary.ID.HandType.Glove",
-                        "Cosmetics.Set.NothingRoyalty"
+                        "Cosmetics.Set.ShadowChoice",
+                        "Cosmetics.Filter.Season.20"
                     ],
                     "introduction": {
                         "chapter": "Chapter 3",
-                        "season": "Season 1",
-                        "text": "Introduced in Chapter 3 - Season 1."
+                        "season": "Season 2",
+                        "text": "Introduced in Chapter 3 - Season 2."
                     }
                 }
             },
             {
                 "quantity": 1,
                 "item": {
-                    "id": "BID_956_ValentineFashion_V4RF2",
+                    "id": "BID_978_BacteriaFemale_UKDH2",
                     "type": {
                         "id": "backpack",
                         "name": "BackBling"
                     },
-                    "name": "Lovely Skully",
-                    "description": "He might not have a heartbeat, but he's cute as heck.",
+                    "name": "Fangs of Sayara",
+                    "description": "Watch yourself around those.",
                     "rarity": {
                         "id": "Epic",
                         "name": "Epic"
                     },
                     "series": null,
                     "images": {
-                        "icon": "https://media.fortniteapi.io/images/f0725d21ae4203807bf61f80dfd673f9/transparent.png",
+                        "icon": "https://media.fortniteapi.io/images/2a75603ab54203660ffd819e6fbce695/transparent.png",
                         "featured": null,
-                        "background": "https://media.fortniteapi.io/images/cosmetics/f0725d21ae4203807bf61f80dfd673f9/v2/background.png",
-                        "icon_background": "https://media.fortniteapi.io/images/cosmetics/f0725d21ae4203807bf61f80dfd673f9/v2/icon_background.png",
-                        "full_background": "https://media.fortniteapi.io/images/cosmetics/f0725d21ae4203807bf61f80dfd673f9/v2/info.en.png"
+                        "background": "https://media.fortniteapi.io/images/cosmetics/2a75603ab54203660ffd819e6fbce695/v2/background.png",
+                        "icon_background": "https://media.fortniteapi.io/images/cosmetics/2a75603ab54203660ffd819e6fbce695/v2/icon_background.png",
+                        "full_background": "https://media.fortniteapi.io/images/cosmetics/2a75603ab54203660ffd819e6fbce695/v2/info.en.png"
                     },
                     "video": null,
                     "gameplayTags": [
-                        "Cosmetics.Filter.Season.19",
-                        "Cosmetics.UserFacingFlags.HasVariants",
-                        "Cosmetics.Set.NothingRoyalty"
+                        "Cosmetics.Filter.Season.20",
+                        "Cosmetics.Set.ShadowChoice"
                     ],
                     "introduction": {
                         "chapter": "Chapter 3",
-                        "season": "Season 1",
-                        "text": "Introduced in Chapter 3 - Season 1."
+                        "season": "Season 2",
+                        "text": "Introduced in Chapter 3 - Season 2."
                     }
                 }
             },
             {
                 "quantity": 1,
                 "item": {
-                    "id": "Pickaxe_ID_753_ValentinesFashionFemale_CPGK7",
+                    "id": "Pickaxe_ID_765_BacteriaFemale1H",
                     "type": {
                         "id": "pickaxe",
                         "name": "Harvesting Tool"
                     },
-                    "name": "Heartslash",
-                    "description": "The beat goes on.",
+                    "name": "Dual Machettas",
+                    "description": "Nothing escapes Sayara's machettas.",
                     "rarity": {
                         "id": "Epic",
                         "name": "Epic"
                     },
                     "series": null,
                     "images": {
-                        "icon": "https://media.fortniteapi.io/images/27fbbd8878c6ca48d952f2fb264c35d2/transparent.png",
+                        "icon": "https://media.fortniteapi.io/images/dc20868947dcba7c928e1d6c444fb4ec/transparent.png",
                         "featured": null,
-                        "background": "https://media.fortniteapi.io/images/cosmetics/27fbbd8878c6ca48d952f2fb264c35d2/v2/background.png",
-                        "icon_background": "https://media.fortniteapi.io/images/cosmetics/27fbbd8878c6ca48d952f2fb264c35d2/v2/icon_background.png",
-                        "full_background": "https://media.fortniteapi.io/images/cosmetics/27fbbd8878c6ca48d952f2fb264c35d2/v2/info.en.png"
+                        "background": "https://media.fortniteapi.io/images/cosmetics/dc20868947dcba7c928e1d6c444fb4ec/v2/background.png",
+                        "icon_background": "https://media.fortniteapi.io/images/cosmetics/dc20868947dcba7c928e1d6c444fb4ec/v2/icon_background.png",
+                        "full_background": "https://media.fortniteapi.io/images/cosmetics/dc20868947dcba7c928e1d6c444fb4ec/v2/info.en.png"
                     },
                     "video": null,
                     "gameplayTags": [
-                        "Cosmetics.Filter.Season.19",
-                        "Cosmetics.Source.CrewPack.March2022",
-                        "Cosmetics.Set.NothingRoyalty",
-                        "Cosmetics.UserFacingFlags.HasVariants"
+                        "Cosmetics.Pickaxe.DualWield",
+                        "Cosmetics.Filter.Season.20",
+                        "Cosmetics.Source.CrewPack.April2022",
+                        "Cosmetics.Set.ShadowChoice"
                     ],
                     "introduction": {
                         "chapter": "Chapter 3",
-                        "season": "Season 1",
-                        "text": "Introduced in Chapter 3 - Season 1."
+                        "season": "Season 2",
+                        "text": "Introduced in Chapter 3 - Season 2."
                     }
                 }
             },
             {
                 "quantity": 1,
                 "item": {
-                    "id": "Wrap_441_ValentineFashion_H50ID",
+                    "id": "Wrap_449_Bacteria",
                     "type": {
                         "id": "wrap",
                         "name": "Wrap"
                     },
-                    "name": "Tracy's Arsenal",
+                    "name": "Sayara Sight",
                     "description": "Show your style.",
                     "rarity": {
                         "id": "Uncommon",
@@ -148,22 +146,22 @@
                     },
                     "series": null,
                     "images": {
-                        "icon": "https://media.fortniteapi.io/images/e026e75a5f077e9a77bff8bc20f66d2f/transparent.png",
+                        "icon": "https://media.fortniteapi.io/images/fe3b1fc356e442f2d3c736cccb9944c8/transparent.png",
                         "featured": null,
-                        "background": "https://media.fortniteapi.io/images/cosmetics/e026e75a5f077e9a77bff8bc20f66d2f/v2/background.png",
-                        "icon_background": "https://media.fortniteapi.io/images/cosmetics/e026e75a5f077e9a77bff8bc20f66d2f/v2/icon_background.png",
-                        "full_background": "https://media.fortniteapi.io/images/cosmetics/e026e75a5f077e9a77bff8bc20f66d2f/v2/info.en.png"
+                        "background": "https://media.fortniteapi.io/images/cosmetics/fe3b1fc356e442f2d3c736cccb9944c8/v2/background.png",
+                        "icon_background": "https://media.fortniteapi.io/images/cosmetics/fe3b1fc356e442f2d3c736cccb9944c8/v2/icon_background.png",
+                        "full_background": "https://media.fortniteapi.io/images/cosmetics/fe3b1fc356e442f2d3c736cccb9944c8/v2/info.en.png"
                     },
                     "video": null,
                     "gameplayTags": [
-                        "Cosmetics.Filter.Season.19",
-                        "Cosmetics.Set.NothingRoyalty",
-                        "Cosmetics.Source.CrewPack.March2022"
+                        "Cosmetics.Filter.Season.20",
+                        "Cosmetics.Source.CrewPack.April2022",
+                        "Cosmetics.Set.ShadowChoice"
                     ],
                     "introduction": {
                         "chapter": "Chapter 3",
-                        "season": "Season 1",
-                        "text": "Introduced in Chapter 3 - Season 1."
+                        "season": "Season 2",
+                        "text": "Introduced in Chapter 3 - Season 2."
                     }
                 }
             }
