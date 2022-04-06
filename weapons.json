@@ -1168,7 +1168,7 @@
             "id": "WID_Assault_Surgical_Thermal_Athena_SR_Ore_T03",
             "enabled": true,
             "name": "Thermal Scoped Assault Rifle",
-            "description": "Assault Weapon: Precision Thermal Automatic. A automatic tactical assault rifle featuring a thermal scope. Good damage and impact at long range.",
+            "description": "Assault Weapon: Precision Thermal Semi-Automatic. A semi-automatic tactical assault rifle featuring a thermal scope. Deals high damage and impact at long range.",
             "rarity": "legendary",
             "type": "standard",
             "gameplayTags": [
@@ -1206,7 +1206,7 @@
             "id": "WID_Assault_Surgical_Thermal_Athena_VR_Ore_T03",
             "enabled": true,
             "name": "Thermal Scoped Assault Rifle",
-            "description": "Assault Weapon: Precision Thermal Automatic. A automatic tactical assault rifle featuring a thermal scope. Good damage and impact at long range.",
+            "description": "Assault Weapon: Precision Thermal Semi-Automatic. A semi-automatic tactical assault rifle featuring a thermal scope. Deals high damage and impact at long range.",
             "rarity": "epic",
             "type": "standard",
             "gameplayTags": [
@@ -4187,7 +4187,7 @@
         },
         {
             "id": "WID_Sniper_Heavy_Athena_SR_Ore_T03",
-            "enabled": false,
+            "enabled": true,
             "name": "Heavy Sniper Rifle",
             "description": "Sniper Rifle: Heavy. Powerful and accurate rifle with a bolt-action mechanism with an extremely slow reload.",
             "rarity": "legendary",
@@ -4223,7 +4223,7 @@
         },
         {
             "id": "WID_Sniper_Heavy_Athena_VR_Ore_T03",
-            "enabled": false,
+            "enabled": true,
             "name": "Heavy Sniper Rifle",
             "description": "Sniper Rifle: Heavy. Powerful and accurate rifle with a bolt-action mechanism with an extremely slow reload.",
             "rarity": "epic",
@@ -6557,7 +6557,7 @@
         },
         {
             "id": "WID_Sniper_Heavy_Athena_R_Ore_T03",
-            "enabled": false,
+            "enabled": true,
             "name": "Heavy Sniper Rifle",
             "description": "Sniper Rifle: Heavy. Powerful and accurate rifle with a bolt-action mechanism with an extremely slow reload.",
             "rarity": "rare",
@@ -11098,7 +11098,7 @@
             "id": "Athena_SuperTowerGrenade_A",
             "enabled": false,
             "name": "Port-a-Fortress",
-            "description": "It's a portable fort. It's Port-a-Fort!",
+            "description": "It's a portable fortress. It's Port-a-Fortress!",
             "rarity": "legendary",
             "type": "standard",
             "gameplayTags": [
@@ -20085,7 +20085,6 @@
                 "Bacchus.Throw.Grenade.Explosive",
                 "Athena.Item.Utility",
                 "Athena.ItemAction.Throw",
-                "Rarity.Rare",
                 "Item.Consumable.ChillBronco",
                 "Item.SortsRight"
             ],
@@ -23836,7 +23835,7 @@
         },
         {
             "id": "WID_Athena_ResTorch",
-            "enabled": false,
+            "enabled": true,
             "name": "Repair Torch",
             "description": "Utility: Repairs vehicles and metals, but ignites and damages other objects",
             "rarity": "rare",
@@ -23867,7 +23866,7 @@
         },
         {
             "id": "WID_Assault_Surgical_Thermal_Athena_UR_ThunderMeow",
-            "enabled": false,
+            "enabled": true,
             "name": "Huntmaster Saber's Thermal Rifle",
             "description": "Assault Weapon: Precision Thermal Automatic. A automatic tactical assault rifle featuring a thermal scope. Good damage and impact at long range.",
             "rarity": "mythic",
@@ -23888,8 +23887,8 @@
             ],
             "searchTags": "Guns Assault Rifles Scope Thermal Automatic",
             "images": {
-                "icon": "https://media.fortniteapi.io/images/T-Icon-Weapons-SK-ThermalScope-L.png",
-                "background": "https://media.fortniteapi.io/images/loot/mythic/T-Icon-Weapons-SK-ThermalScope-L.png"
+                "icon": "https://media.fortniteapi.io/images/T-Icon-Weapons-ThermalARWeapon-L.png",
+                "background": "https://media.fortniteapi.io/images/loot/mythic/T-Icon-Weapons-ThermalARWeapon-L.png"
             },
             "mainStats": {
                 "DmgPB": 32,
@@ -23904,7 +23903,7 @@
         },
         {
             "id": "WID_Assault_RedDotBurstAR_Athena_UC",
-            "enabled": false,
+            "enabled": true,
             "name": "Striker Burst Rifle",
             "description": "Assault Rifle: Burst-fire rifle with a customized sight.",
             "rarity": "uncommon",
@@ -23936,7 +23935,7 @@
         },
         {
             "id": "WID_Assault_RedDotBurstAR_Athena_UR_Slone",
-            "enabled": false,
+            "enabled": true,
             "name": "Slone's Striker Burst Rifle",
             "description": "Slone's personal Striker Burst Rifle",
             "rarity": "mythic",
@@ -23968,7 +23967,7 @@
         },
         {
             "id": "WID_Assault_RedDotBurstAR_Athena_SR",
-            "enabled": false,
+            "enabled": true,
             "name": "Striker Burst Rifle",
             "description": "Assault Rifle: Burst-fire rifle with a customized sight.",
             "rarity": "legendary",
@@ -24000,7 +23999,7 @@
         },
         {
             "id": "WID_Assault_RedDotBurstAR_Athena_R",
-            "enabled": false,
+            "enabled": true,
             "name": "Striker Burst Rifle",
             "description": "Assault Rifle: Burst-fire rifle with a customized sight.",
             "rarity": "rare",
@@ -24032,7 +24031,7 @@
         },
         {
             "id": "WID_Assault_RedDotBurstAR_Athena_VR",
-            "enabled": false,
+            "enabled": true,
             "name": "Striker Burst Rifle",
             "description": "Assault Rifle: Burst-fire rifle with a customized sight.",
             "rarity": "epic",
@@ -24096,7 +24095,7 @@
         },
         {
             "id": "WID_Assault_RedDotBurstAR_Athena_C",
-            "enabled": false,
+            "enabled": true,
             "name": "Striker Burst Rifle",
             "description": "Assault Rifle: Burst-fire rifle with a customized sight.",
             "rarity": "common",
@@ -24128,7 +24127,7 @@
         },
         {
             "id": "WID_Launcher_HomingRocket_Athena_SR",
-            "enabled": false,
+            "enabled": true,
             "name": "Anvil Rocket Launcher",
             "description": "Explosive Weapon: Rocket homes to locked on vehicles or to the aimed at location. Aim down sight to lock on!",
             "rarity": "legendary",
@@ -24139,10 +24138,10 @@
                 "Bacchus.Shoot.Launcher.Rocket",
                 "Trait.Explosive",
                 "phoebe.weapon.ranged.rocket_launcher",
-                "phoebe.items.rocket_launcher",
                 "Item.Weapon.Ranged.Launcher.HomingRocket",
                 "Rarity.SuperRare",
-                "phoebe.weapon.trait.homing"
+                "phoebe.weapon.trait.homing",
+                "phoebe.items.homing_launcher"
             ],
             "searchTags": "",
             "images": {
@@ -24162,7 +24161,7 @@
         },
         {
             "id": "WID_Launcher_HomingRocket_Athena_R",
-            "enabled": false,
+            "enabled": true,
             "name": "Anvil Rocket Launcher",
             "description": "Explosive Weapon: Rocket homes to locked on vehicles or to the aimed at location. Aim down sight to lock on!",
             "rarity": "rare",
@@ -24173,10 +24172,10 @@
                 "Bacchus.Shoot.Launcher.Rocket",
                 "Trait.Explosive",
                 "phoebe.weapon.ranged.rocket_launcher",
-                "phoebe.items.rocket_launcher",
                 "Rarity.Rare",
                 "Item.Weapon.Ranged.Launcher.HomingRocket",
-                "phoebe.weapon.trait.homing"
+                "phoebe.weapon.trait.homing",
+                "phoebe.items.homing_launcher"
             ],
             "searchTags": "",
             "images": {
@@ -24196,7 +24195,7 @@
         },
         {
             "id": "WID_Launcher_HomingRocket_Athena_VR",
-            "enabled": false,
+            "enabled": true,
             "name": "Anvil Rocket Launcher",
             "description": "Explosive Weapon: Rocket homes to locked on vehicles or to the aimed at location. Aim down sight to lock on!",
             "rarity": "epic",
@@ -24207,10 +24206,10 @@
                 "Bacchus.Shoot.Launcher.Rocket",
                 "Trait.Explosive",
                 "phoebe.weapon.ranged.rocket_launcher",
-                "phoebe.items.rocket_launcher",
                 "Item.Weapon.Ranged.Launcher.HomingRocket",
                 "Rarity.VeryRare",
-                "phoebe.weapon.trait.homing"
+                "phoebe.weapon.trait.homing",
+                "phoebe.items.homing_launcher"
             ],
             "searchTags": "",
             "images": {
@@ -24299,7 +24298,7 @@
             "id": "WID_Assault_Surgical_Thermal_Athena_C_Ore_T03",
             "enabled": false,
             "name": "Thermal Scoped Assault Rifle",
-            "description": "Assault Weapon: Precision Thermal Automatic. A automatic tactical assault rifle featuring a thermal scope. Good damage and impact at long range.",
+            "description": "Assault Weapon: Precision Thermal Semi-Automatic. A semi-automatic tactical assault rifle featuring a thermal scope. Deals high damage and impact at long range.",
             "rarity": "common",
             "type": "standard",
             "gameplayTags": [
@@ -24440,7 +24439,7 @@
             "id": "WID_Assault_Surgical_Thermal_Athena_UC_Ore_T03",
             "enabled": false,
             "name": "Thermal Scoped Assault Rifle",
-            "description": "Assault Weapon: Precision Thermal Automatic. A automatic tactical assault rifle featuring a thermal scope. Good damage and impact at long range.",
+            "description": "Assault Weapon: Precision Thermal Semi-Automatic. A semi-automatic tactical assault rifle featuring a thermal scope. Deals high damage and impact at long range.",
             "rarity": "uncommon",
             "type": "standard",
             "gameplayTags": [
@@ -24513,7 +24512,7 @@
             "id": "WID_Assault_Surgical_Thermal_Athena_R_Ore_T03",
             "enabled": true,
             "name": "Thermal Scoped Assault Rifle",
-            "description": "Assault Weapon: Precision Thermal Automatic. A automatic tactical assault rifle featuring a thermal scope. Good damage and impact at long range.",
+            "description": "Assault Weapon: Precision Thermal Semi-Automatic. A semi-automatic tactical assault rifle featuring a thermal scope. Deals high damage and impact at long range.",
             "rarity": "rare",
             "type": "standard",
             "gameplayTags": [
