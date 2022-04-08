@@ -8,7 +8,7 @@
             "id": "3bfda017-133c-45b9-ba03-272e40f6c92a",
             "title": "Ukraine Humanitarian Relief",
             "tabTitle": "Ukraine Humanitarian Relief",
-            "date": "2022-04-06T19:03:02+00:00",
+            "date": "2022-04-08T17:03:02+00:00",
             "body": "Our deepest thanks to everyone who joined us in supporting humanitarian relief efforts for people affected by the war in Ukraine. Together we raised $144 million USD.",
             "adspace": "",
             "image": "https://cdn-live.prm.ol.epicgames.com/prod/11fe9b4ace8ac7bfae670794b67432aa7427fd091590b79d9fe2caefb1cdeecb787c620b766256362f637c930773da69eab0131769f63761a47bc75112595cf9-ac42720e-48e2-4a07-80f7-939171abe679.jpeg?width=1920",
@@ -19,7 +19,7 @@
             "id": "76fecd63-6e7f-4237-adad-cdeae567060b",
             "title": "Battle for Daily Bugle",
             "tabTitle": "Battle for Daily Bugle",
-            "date": "2022-04-06T19:03:02+00:00",
+            "date": "2022-04-08T17:03:02+00:00",
             "body": "It’s time to resist. Turn up the heat and take the fight to the Imagined Order at the Daily Bugle.",
             "adspace": "",
             "image": "https://cdn-live.prm.ol.epicgames.com/prod/5d88be9ee709f2b3ee1267fdfe950fb78e914838b49ecfc02192ae34566f9d556461073047f42ff5f4a1b3660908cad7-6175f495-c6fe-4216-8fde-057eeb683e76.jpeg?width=1920",
@@ -27,25 +27,47 @@
             "video": null
         },
         {
-            "id": "f025c729-5934-4523-ac77-2f06c6f49d21",
-            "title": "Mystery at Croft Manor",
-            "tabTitle": "Mystery at Croft Manor",
-            "date": "2022-04-06T19:03:02+00:00",
-            "body": "Discover the source of mysterious distortions and unveil the secrets of Croft's Manor.",
-            "adspace": "",
-            "image": "https://cdn-live.prm.ol.epicgames.com/prod/a5582a8bbf9650bac8a03dc3f65d92c8376f382c4a214183b01a30403c62167acd1bc7c70ab925dcbc6d4b1df8fc9297-cb3f2dd0-e069-4406-a2ef-54dc4d12dd01.jpeg?width=1920",
-            "live": true,
-            "video": null
-        },
-        {
             "id": "8a84b522-d17f-4e1e-9b75-c87d32106544",
             "title": "Zero Build Trials",
             "tabTitle": "Zero Build Trials",
-            "date": "2022-04-06T19:03:02+00:00",
+            "date": "2022-04-08T17:03:02+00:00",
             "body": "Sign up for the Zero Build Trials and complete challenges before April 10th at 11:59 PM ET to earn unique in-game rewards!",
             "adspace": "",
             "image": "https://cdn-live.prm.ol.epicgames.com/prod/b09ecdb6ed01822ae0af47c16ffac79bf333596cf89cd72e9911f29e09f7968a-fe781e25-c094-4d28-9eb3-d188a365d493.jpeg?width=1920",
             "live": true,
+            "video": null
+        },
+        {
+            "id": "e052a7d7-e83a-4ef3-ab0b-a82b952a708e",
+            "title": "Tales from the Animus",
+            "tabTitle": "New Outfits",
+            "date": "2022-04-08T17:03:02+00:00",
+            "body": "Strike from the shadows to serve the light.",
+            "adspace": "",
+            "image": "https://cdn-live.prm.ol.epicgames.com/prod/85e6b3ce122b05ac949b52dd01c05256e01064b60e9b1a3cdf661c9239458a6f-18091745-e0b6-4abe-8a6e-783639cff072.jpeg?width=1920",
+            "live": true,
+            "video": "https://media.fortniteapi.io/videos/news/jGrPYIcNuiQPTBkxQs_en.mp4"
+        },
+        {
+            "id": "c11d7fd1-26b2-4097-8144-e1cb7346a2c6",
+            "title": "Global Effort Vote",
+            "tabTitle": "Global Effort Vote",
+            "date": "2022-04-08T01:03:02+00:00",
+            "body": "Use your Bars to vote in a global effort for either the MK-Seven or Combat Assault Rifle to return!",
+            "adspace": "",
+            "image": "https://cdn-live.prm.ol.epicgames.com/prod/7ab6bbcb7cad6eb1e1276f04e2d834f5831df3777bbb0399b0814b95f25bbacd8f882b3a286b6a21d54692bb3b41e8ea90c77b2e5c59ef66d514a6165d987937-252f86c3-078c-4a7c-8173-d0c8639303ef.jpeg?width=1920",
+            "live": false,
+            "video": null
+        },
+        {
+            "id": "f025c729-5934-4523-ac77-2f06c6f49d21",
+            "title": "Mystery at Croft Manor",
+            "tabTitle": "Mystery at Croft Manor",
+            "date": "2022-04-07T23:03:01+00:00",
+            "body": "Discover the source of mysterious distortions and unveil the secrets of Croft's Manor.",
+            "adspace": "",
+            "image": "https://cdn-live.prm.ol.epicgames.com/prod/a5582a8bbf9650bac8a03dc3f65d92c8376f382c4a214183b01a30403c62167acd1bc7c70ab925dcbc6d4b1df8fc9297-cb3f2dd0-e069-4406-a2ef-54dc4d12dd01.jpeg?width=1920",
+            "live": false,
             "video": null
         },
         {
@@ -56,17 +78,6 @@
             "body": "Load up high caliber rounds and take down threats from afar with the Heavy Sniper.",
             "adspace": "",
             "image": "https://cdn-live.prm.ol.epicgames.com/prod/e254f1d9f305587119d0e739311af0a0623f310379bf5bd5d5cac2f6cce355eb174b66a3a516837938cb08858379afb7-cebb0e42-58fd-466a-b5c5-4af8b72a3381.jpeg?width=1920",
-            "live": false,
-            "video": null
-        },
-        {
-            "id": "c11d7fd1-26b2-4097-8144-e1cb7346a2c6",
-            "title": "Global Effort Vote",
-            "tabTitle": "Global Effort Vote",
-            "date": "2022-04-05T14:31:02+00:00",
-            "body": "Use your Bars to vote in a global effort for either the MK-Seven or Combat Assault Rifle to return!",
-            "adspace": "",
-            "image": "https://cdn-live.prm.ol.epicgames.com/prod/7ab6bbcb7cad6eb1e1276f04e2d834f5831df3777bbb0399b0814b95f25bbacd8f882b3a286b6a21d54692bb3b41e8ea90c77b2e5c59ef66d514a6165d987937-252f86c3-078c-4a7c-8173-d0c8639303ef.jpeg?width=1920",
             "live": false,
             "video": null
         },
@@ -265,17 +276,6 @@
             "body": "Jump into battle with a hero that's truly your own. With over a dozen customizable components, including using your Emoticons as Stickers, the possibilities are boundless!",
             "adspace": "",
             "image": "https://cdn-live.prm.ol.epicgames.com/prod/8697f6ba6e16be02bfaab70f2aa7a2b10df1e80a082ac6985393d55b07fd8e06-14083438-a2cd-4b68-8b6b-a88a4d9fa08b.jpeg?width=1920",
-            "live": false,
-            "video": null
-        },
-        {
-            "id": "7b0f5a93-a816-4b1a-9353-51c8c5237b3c",
-            "title": "Naruto and Team 7",
-            "tabTitle": "Naruto and Team 7",
-            "date": "2022-03-19T00:01:02+00:00",
-            "body": "Believe it! Follow your ninja way with Naruto and the rest of Team 7.",
-            "adspace": "",
-            "image": "https://cdn-live.prm.ol.epicgames.com/prod/67a2b0c9def9bb752099c0ee00caffd041a208333534da05925b9f4fc6cfd629feacef92c73260efb4b755c1713a69c0-08df0692-0e48-43da-8856-496465404f81.jpeg?width=1920",
             "live": false,
             "video": null
         }
