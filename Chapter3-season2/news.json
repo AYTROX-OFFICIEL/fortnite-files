@@ -5,21 +5,10 @@
     "show": 25,
     "news": [
         {
-            "id": "3bfda017-133c-45b9-ba03-272e40f6c92a",
-            "title": "Ukraine Humanitarian Relief",
-            "tabTitle": "Ukraine Humanitarian Relief",
-            "date": "2022-04-08T17:03:02+00:00",
-            "body": "Our deepest thanks to everyone who joined us in supporting humanitarian relief efforts for people affected by the war in Ukraine. Together we raised $144 million USD.",
-            "adspace": "",
-            "image": "https://cdn-live.prm.ol.epicgames.com/prod/11fe9b4ace8ac7bfae670794b67432aa7427fd091590b79d9fe2caefb1cdeecb787c620b766256362f637c930773da69eab0131769f63761a47bc75112595cf9-ac42720e-48e2-4a07-80f7-939171abe679.jpeg?width=1920",
-            "live": true,
-            "video": null
-        },
-        {
             "id": "76fecd63-6e7f-4237-adad-cdeae567060b",
             "title": "Battle for Daily Bugle",
             "tabTitle": "Battle for Daily Bugle",
-            "date": "2022-04-08T17:03:02+00:00",
+            "date": "2022-04-11T19:31:02+00:00",
             "body": "It’s time to resist. Turn up the heat and take the fight to the Imagined Order at the Daily Bugle.",
             "adspace": "",
             "image": "https://cdn-live.prm.ol.epicgames.com/prod/5d88be9ee709f2b3ee1267fdfe950fb78e914838b49ecfc02192ae34566f9d556461073047f42ff5f4a1b3660908cad7-6175f495-c6fe-4216-8fde-057eeb683e76.jpeg?width=1920",
@@ -27,25 +16,80 @@
             "video": null
         },
         {
+            "id": "ed7c2c95-8607-4bef-bfe6-cf06a63ec87f",
+            "title": "Heavy Sniper",
+            "tabTitle": "Weapon Unvaulted",
+            "date": "2022-04-11T19:31:02+00:00",
+            "body": "Load up high caliber rounds and take down threats from afar with the Heavy Sniper.",
+            "adspace": "",
+            "image": "https://cdn-live.prm.ol.epicgames.com/prod/e254f1d9f305587119d0e739311af0a0623f310379bf5bd5d5cac2f6cce355eb174b66a3a516837938cb08858379afb7-cebb0e42-58fd-466a-b5c5-4af8b72a3381.jpeg?width=1920",
+            "live": true,
+            "video": null
+        },
+        {
+            "id": "d326d827-223b-4909-b993-7d0ce294f157",
+            "title": "Showcase Your Skills",
+            "tabTitle": "Resistance Week 3",
+            "date": "2022-04-11T19:31:02+00:00",
+            "body": "Take to the sniper range to showcase your skills, download schematics from a secret ally and deliver the plans to The Seven.",
+            "adspace": "",
+            "image": "https://cdn-live.prm.ol.epicgames.com/prod/de5d45db83a809bff0aa86e16a3f7bfeef7272ad03d7e88f85900bf3d8362a7483ca32f1906a3a9c43b96f52438b1fb64b5ab6d68feb5a7b70c1a0a6d89937b3-1abc6dba-1d03-4b78-a9c1-553e39cb1986.jpeg?width=1920",
+            "live": true,
+            "video": null
+        },
+        {
+            "id": "151b1667-d776-4616-872d-2da69391abd1",
+            "title": "All Battle, No Build",
+            "tabTitle": "Discover New Games",
+            "date": "2022-04-11T19:31:02+00:00",
+            "body": " Jump right into the firefight with combat only games in the All Battle, No Build Discover Category!",
+            "adspace": "",
+            "image": "https://cdn-live.prm.ol.epicgames.com/prod/6a4158c15f8c282fca4df6a9e25149c27dd5faa19f332a3bbda421585d41527317c1c4200d8165ec3a84680b71d4c243-0c0bbd36-fb20-43a7-b117-f47c7b75bc1a.jpeg?width=1920",
+            "live": true,
+            "video": "https://media.fortniteapi.io/videos/news/dAlQQuYigThWBuaKhR_en.mp4"
+        },
+        {
+            "id": "3bfda017-133c-45b9-ba03-272e40f6c92a",
+            "title": "Ukraine Humanitarian Relief",
+            "tabTitle": "Ukraine Humanitarian Relief",
+            "date": "2022-04-11T14:03:02+00:00",
+            "body": "Our deepest thanks to everyone who joined us in supporting humanitarian relief efforts for people affected by the war in Ukraine. Together we raised $144 million USD.",
+            "adspace": "",
+            "image": "https://cdn-live.prm.ol.epicgames.com/prod/11fe9b4ace8ac7bfae670794b67432aa7427fd091590b79d9fe2caefb1cdeecb787c620b766256362f637c930773da69eab0131769f63761a47bc75112595cf9-ac42720e-48e2-4a07-80f7-939171abe679.jpeg?width=1920",
+            "live": false,
+            "video": null
+        },
+        {
+            "id": "46a08cf3-5fa1-4660-ae1d-cf19676a65d0",
+            "title": "MK-Seven Unvaulted",
+            "tabTitle": "Global Effort Completed",
+            "date": "2022-04-11T13:03:02+00:00",
+            "body": "The MK-Seven vs Combat Assault Rifle Global Effort has been completed and the MK-Seven Assault Rifle is now available!",
+            "adspace": "",
+            "image": "https://cdn-live.prm.ol.epicgames.com/prod/7ab6bbcb7cad6eb1e1276f04e2d834f569772e5a41c789eb6d9b54bd261405fcd6e978619a8ca99659cb29cd7ddd24d8896843150766cad2679c987d198a455d-9861fe8b-5b07-4985-b0de-69594fe7a23a.jpeg?width=1920",
+            "live": false,
+            "video": null
+        },
+        {
             "id": "8a84b522-d17f-4e1e-9b75-c87d32106544",
             "title": "Zero Build Trials",
             "tabTitle": "Zero Build Trials",
-            "date": "2022-04-08T17:03:02+00:00",
+            "date": "2022-04-10T16:03:02+00:00",
             "body": "Sign up for the Zero Build Trials and complete challenges before April 10th at 11:59 PM ET to earn unique in-game rewards!",
             "adspace": "",
             "image": "https://cdn-live.prm.ol.epicgames.com/prod/b09ecdb6ed01822ae0af47c16ffac79bf333596cf89cd72e9911f29e09f7968a-fe781e25-c094-4d28-9eb3-d188a365d493.jpeg?width=1920",
-            "live": true,
+            "live": false,
             "video": null
         },
         {
             "id": "e052a7d7-e83a-4ef3-ab0b-a82b952a708e",
             "title": "Tales from the Animus",
             "tabTitle": "New Outfits",
-            "date": "2022-04-08T17:03:02+00:00",
+            "date": "2022-04-08T18:03:02+00:00",
             "body": "Strike from the shadows to serve the light.",
             "adspace": "",
             "image": "https://cdn-live.prm.ol.epicgames.com/prod/85e6b3ce122b05ac949b52dd01c05256e01064b60e9b1a3cdf661c9239458a6f-18091745-e0b6-4abe-8a6e-783639cff072.jpeg?width=1920",
-            "live": true,
+            "live": false,
             "video": "https://media.fortniteapi.io/videos/news/jGrPYIcNuiQPTBkxQs_en.mp4"
         },
         {
@@ -67,17 +111,6 @@
             "body": "Discover the source of mysterious distortions and unveil the secrets of Croft's Manor.",
             "adspace": "",
             "image": "https://cdn-live.prm.ol.epicgames.com/prod/a5582a8bbf9650bac8a03dc3f65d92c8376f382c4a214183b01a30403c62167acd1bc7c70ab925dcbc6d4b1df8fc9297-cb3f2dd0-e069-4406-a2ef-54dc4d12dd01.jpeg?width=1920",
-            "live": false,
-            "video": null
-        },
-        {
-            "id": "ed7c2c95-8607-4bef-bfe6-cf06a63ec87f",
-            "title": "Heavy Sniper",
-            "tabTitle": "Weapon Unvaulted",
-            "date": "2022-04-06T14:03:02+00:00",
-            "body": "Load up high caliber rounds and take down threats from afar with the Heavy Sniper.",
-            "adspace": "",
-            "image": "https://cdn-live.prm.ol.epicgames.com/prod/e254f1d9f305587119d0e739311af0a0623f310379bf5bd5d5cac2f6cce355eb174b66a3a516837938cb08858379afb7-cebb0e42-58fd-466a-b5c5-4af8b72a3381.jpeg?width=1920",
             "live": false,
             "video": null
         },
@@ -243,39 +276,6 @@
             "body": "Spend your Stars and claim the Battle Pass rewards you want. Complete Shanta Quests to unlock additional styles and use Feathers to unlock Haven Masks before the Season ends!",
             "adspace": "",
             "image": "https://cdn-live.prm.ol.epicgames.com/prod/c1309a0034f79f8776ccb7f2ad99178bdba090b087d5cbfa2590d7e1d16585e8c520ed942f440cbe1be6d8bd429d5829-8070ba79-7fe5-490c-bc12-4a017878fdf6.jpeg?width=1920",
-            "live": false,
-            "video": null
-        },
-        {
-            "id": "cff03ae2-244e-42be-b964-53be87dc6e6b",
-            "title": "Bargain Bin Week",
-            "tabTitle": "New Quests",
-            "date": "2022-03-20T09:31:01+00:00",
-            "body": "Your cache of Bars will be reset next season, spend them while you can and earn extra XP before the season ends!",
-            "adspace": "",
-            "image": "https://cdn-live.prm.ol.epicgames.com/prod/feb1b813598d2bee72cb8a786ebc909d749245da5fa3cf479d3b6552e120c391dbf2071345da92971e582d88d9ee38a3-1bd592ce-5594-4879-acd2-274fc3ab4498.jpeg?width=1920",
-            "live": false,
-            "video": null
-        },
-        {
-            "id": "f3d0ae7a-1519-44c3-aa52-3f261bde7c39",
-            "title": "Pepper Thorne",
-            "tabTitle": "Pepper Thorne",
-            "date": "2022-03-20T09:31:01+00:00",
-            "body": "Songwriter and musician Pepper Thorne began her music career with a self-produced EP: Salty Slurpwaters!",
-            "adspace": "",
-            "image": "https://cdn-live.prm.ol.epicgames.com/prod/030e8231843ea7f64dd09688f79d79d26a166dd2b930344ea2623ee3ed2e88a7bf3fcf68a6179ec900b4f770fc05df4a-e05d1a0b-46c5-4860-afe0-b256c9489042.png?width=1920",
-            "live": false,
-            "video": null
-        },
-        {
-            "id": "261804d3-7ecd-4a04-a415-93e85873f8ae",
-            "title": "Boundless Set",
-            "tabTitle": "Customizable Outfits",
-            "date": "2022-03-20T00:01:02+00:00",
-            "body": "Jump into battle with a hero that's truly your own. With over a dozen customizable components, including using your Emoticons as Stickers, the possibilities are boundless!",
-            "adspace": "",
-            "image": "https://cdn-live.prm.ol.epicgames.com/prod/8697f6ba6e16be02bfaab70f2aa7a2b10df1e80a082ac6985393d55b07fd8e06-14083438-a2cd-4b68-8b6b-a88a4d9fa08b.jpeg?width=1920",
             "live": false,
             "video": null
         }
