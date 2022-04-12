@@ -5,47 +5,91 @@
     "show": 25,
     "news": [
         {
+            "id": "a5b47f12-b335-48af-99e1-009024c7c649",
+            "title": "Battle for Condo Canyon",
+            "tabTitle": "Battle for Condo Canyon",
+            "date": "2022-04-12T16:31:02+00:00",
+            "body": "It’s time to resist. Turn up the heat and take the fight to the Imagined Order at Condo Canyon.",
+            "adspace": "",
+            "image": "https://cdn-live.prm.ol.epicgames.com/prod/047e71d0fb3cfba9478053f5addff66b0873b274d77d860813455f18b0ba33bbc3d08f2521a407438b58323af63798a516df42e0efd7a6270b1f28b8f82ba8f96dc19586c3372b08b69aad3fd342b4b5-702e283e-7e8d-49fb-952f-4eb52b92628e.jpeg?width=1920",
+            "live": true,
+            "video": null
+        },
+        {
+            "id": "eeda2438-ac3a-4040-9d3c-524b28054ed3",
+            "title": "Parkour",
+            "tabTitle": "Discover New Games",
+            "date": "2022-04-12T16:31:02+00:00",
+            "body": "Sprint, slide, and mantle your way over obstacles with games in the Parkour Discover Category!",
+            "adspace": "",
+            "image": "https://cdn-live.prm.ol.epicgames.com/prod/b6f43272c4471848d59ae157a0090cc360f9c6c2653d57fdaf253177cdee0ecd-bcdd4fa2-d391-4976-8853-045279d2cbca.jpeg?width=1920",
+            "live": true,
+            "video": null
+        },
+        {
+            "id": "05443a2d-6319-4175-b146-2e1e1b9e50b0",
+            "title": "Jetpack Unvaulted",
+            "tabTitle": "Jetpack Unvaulted",
+            "date": "2022-04-12T16:31:02+00:00",
+            "body": "Grab a Jetpack and propel your way to the high ground.",
+            "adspace": "",
+            "image": "https://cdn-live.prm.ol.epicgames.com/prod/047e71d0fb3cfba9478053f5addff66bd8bf780ee661995f7a5934d1782a88af19b9e4102b1882f32e05e0aa7e7a682f572abd7f8990663872a238f256d24335-f236bca0-200d-4c81-b9e9-bc771a3612da.jpeg?width=1920",
+            "live": true,
+            "video": null
+        },
+        {
+            "id": "4e1c5bda-72b1-4090-a571-6ef152e0e993",
+            "title": "Ramp Up The Battle",
+            "tabTitle": "Resistance Week 4",
+            "date": "2022-04-12T16:31:02+00:00",
+            "body": "Test out new battlefield tech and extract vital surveillance data from Imagined Order blimps.",
+            "adspace": "",
+            "image": "https://cdn-live.prm.ol.epicgames.com/prod/eba5990733e750e9fbdfd7d3b0aaac417baeb07955c38859d0e7c9d9957c054c-9c143c30-b728-4643-b451-2ced9ad1be3d.jpeg?width=1920",
+            "live": true,
+            "video": null
+        },
+        {
             "id": "76fecd63-6e7f-4237-adad-cdeae567060b",
             "title": "Battle for Daily Bugle",
             "tabTitle": "Battle for Daily Bugle",
-            "date": "2022-04-11T19:31:02+00:00",
+            "date": "2022-04-12T13:03:02+00:00",
             "body": "It’s time to resist. Turn up the heat and take the fight to the Imagined Order at the Daily Bugle.",
             "adspace": "",
             "image": "https://cdn-live.prm.ol.epicgames.com/prod/5d88be9ee709f2b3ee1267fdfe950fb78e914838b49ecfc02192ae34566f9d556461073047f42ff5f4a1b3660908cad7-6175f495-c6fe-4216-8fde-057eeb683e76.jpeg?width=1920",
-            "live": true,
+            "live": false,
             "video": null
         },
         {
             "id": "ed7c2c95-8607-4bef-bfe6-cf06a63ec87f",
             "title": "Heavy Sniper",
             "tabTitle": "Weapon Unvaulted",
-            "date": "2022-04-11T19:31:02+00:00",
+            "date": "2022-04-12T13:03:02+00:00",
             "body": "Load up high caliber rounds and take down threats from afar with the Heavy Sniper.",
             "adspace": "",
             "image": "https://cdn-live.prm.ol.epicgames.com/prod/e254f1d9f305587119d0e739311af0a0623f310379bf5bd5d5cac2f6cce355eb174b66a3a516837938cb08858379afb7-cebb0e42-58fd-466a-b5c5-4af8b72a3381.jpeg?width=1920",
-            "live": true,
+            "live": false,
             "video": null
         },
         {
             "id": "d326d827-223b-4909-b993-7d0ce294f157",
             "title": "Showcase Your Skills",
             "tabTitle": "Resistance Week 3",
-            "date": "2022-04-11T19:31:02+00:00",
+            "date": "2022-04-12T13:03:02+00:00",
             "body": "Take to the sniper range to showcase your skills, download schematics from a secret ally and deliver the plans to The Seven.",
             "adspace": "",
             "image": "https://cdn-live.prm.ol.epicgames.com/prod/de5d45db83a809bff0aa86e16a3f7bfeef7272ad03d7e88f85900bf3d8362a7483ca32f1906a3a9c43b96f52438b1fb64b5ab6d68feb5a7b70c1a0a6d89937b3-1abc6dba-1d03-4b78-a9c1-553e39cb1986.jpeg?width=1920",
-            "live": true,
+            "live": false,
             "video": null
         },
         {
             "id": "151b1667-d776-4616-872d-2da69391abd1",
             "title": "All Battle, No Build",
             "tabTitle": "Discover New Games",
-            "date": "2022-04-11T19:31:02+00:00",
+            "date": "2022-04-12T13:03:02+00:00",
             "body": " Jump right into the firefight with combat only games in the All Battle, No Build Discover Category!",
             "adspace": "",
             "image": "https://cdn-live.prm.ol.epicgames.com/prod/6a4158c15f8c282fca4df6a9e25149c27dd5faa19f332a3bbda421585d41527317c1c4200d8165ec3a84680b71d4c243-0c0bbd36-fb20-43a7-b117-f47c7b75bc1a.jpeg?width=1920",
-            "live": true,
+            "live": false,
             "video": "https://media.fortniteapi.io/videos/news/dAlQQuYigThWBuaKhR_en.mp4"
         },
         {
@@ -232,50 +276,6 @@
             "body": "She's always watching - coming soon in the April Crew Pack!",
             "adspace": "",
             "image": "https://cdn-live.prm.ol.epicgames.com/prod/2cf572933a762c239cbbae6184c747cf2ac6f9f3ba311f80125cbff94bc90dd033362359ab0dba1cc1518edc6bc3a11a-e69214af-dca8-447d-9d54-73e566700888.jpeg?width=1920",
-            "live": false,
-            "video": null
-        },
-        {
-            "id": "28fd9618-b74a-4872-a3b3-f4c722ab3c8d",
-            "title": "Ukraine Humanitarian Relief",
-            "tabTitle": "Ukraine Humanitarian Relief",
-            "date": "2022-03-29T20:31:02+00:00",
-            "body": "Together we’ve already raised $70 million USD in humanitarian relief funds to support people affected by the war in Ukraine.",
-            "adspace": "",
-            "image": "https://cdn-live.prm.ol.epicgames.com/prod/11fe9b4ace8ac7bfae670794b67432aa33012f962855adc024150f456988d6ac7f6ec1823f666e21c1b381434141771cc159b8642865aaf247b467a817cc9e4d-d5c0d4ab-3825-4f1f-945c-e890ee9e6af1.jpeg?width=1920",
-            "live": false,
-            "video": null
-        },
-        {
-            "id": "d591ce8e-b698-422b-8519-0dd07a9388dc",
-            "title": "Scout the Battlefield",
-            "tabTitle": "New Quests",
-            "date": "2022-03-29T13:03:02+00:00",
-            "body": "There’s open conflict between the Imagined Order and The Seven. Battle lines have been drawn. Scout the battlefield to gather intel and gain the Origin’s trust.",
-            "adspace": "",
-            "image": "https://cdn-live.prm.ol.epicgames.com/prod/2be57625784de24e8658f7a8986cd8ffa24a719cec65f827cda4aaffd4631a12-952aa067-723b-4368-8e68-b042097131d0.jpeg?width=1920",
-            "live": false,
-            "video": null
-        },
-        {
-            "id": "018bfdaf-8429-4d68-8d5e-4c5ff14ae701",
-            "title": "Ukraine Humanitarian Relief",
-            "tabTitle": "Ukraine Humanitarian Relief",
-            "date": "2022-03-25T19:31:01+00:00",
-            "body": "Together we’ve already raised $50 million USD in humanitarian relief funds to support people affected by the war in Ukraine.",
-            "adspace": "",
-            "image": "https://cdn-live.prm.ol.epicgames.com/prod/11fe9b4ace8ac7bfae670794b67432aa7427fd091590b79d9fe2caefb1cdeecb787c620b766256362f637c930773da69eab0131769f63761a47bc75112595cf9-82ba4a58-85e7-42fa-8ae7-1c1c5e416c01.jpeg?width=1920",
-            "live": false,
-            "video": null
-        },
-        {
-            "id": "dfee61b9-791f-4fa0-8d44-c1f774d9ad7a",
-            "title": "Battle Pass Ending Soon",
-            "tabTitle": "Battle Pass Ending Soon",
-            "date": "2022-03-20T09:31:01+00:00",
-            "body": "Spend your Stars and claim the Battle Pass rewards you want. Complete Shanta Quests to unlock additional styles and use Feathers to unlock Haven Masks before the Season ends!",
-            "adspace": "",
-            "image": "https://cdn-live.prm.ol.epicgames.com/prod/c1309a0034f79f8776ccb7f2ad99178bdba090b087d5cbfa2590d7e1d16585e8c520ed942f440cbe1be6d8bd429d5829-8070ba79-7fe5-490c-bc12-4a017878fdf6.jpeg?width=1920",
             "live": false,
             "video": null
         }
