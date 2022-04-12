@@ -15086,7 +15086,7 @@
         },
         {
             "id": "WID_Launcher_Egg_Athena_R_Ore_T03",
-            "enabled": false,
+            "enabled": true,
             "name": "Egg Launcher  ",
             "description": "Explosive Weapon: Lobs rockets that damage everything in an area.",
             "rarity": "rare",
@@ -15119,7 +15119,7 @@
         },
         {
             "id": "WID_Launcher_Egg_Athena_SR_Ore_T03",
-            "enabled": false,
+            "enabled": true,
             "name": "Egg Launcher  ",
             "description": "Explosive Weapon: Lobs rockets that damage everything in an area.",
             "rarity": "legendary",
@@ -15185,7 +15185,7 @@
         },
         {
             "id": "WID_Launcher_Egg_Athena_VR_Ore_T03",
-            "enabled": false,
+            "enabled": true,
             "name": "Egg Launcher  ",
             "description": "Explosive Weapon: Lobs rockets that damage everything in an area.",
             "rarity": "epic",
@@ -18827,7 +18827,7 @@
         },
         {
             "id": "WID_Athena_ShieldHops",
-            "enabled": false,
+            "enabled": true,
             "name": "Bouncy Egg",
             "description": "Consume for a small amount of shields and low gravity effect.",
             "rarity": "common",
