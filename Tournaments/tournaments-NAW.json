@@ -4173,7 +4173,7 @@
             "id": "epicgames_S12_NAW_SoloTest",
             "displayId": "s12_test_solo",
             "region": "NAW",
-            "name_line1": "SOLO",
+            "name_line1": "TRIOS",
             "name_line2": "TEST EVENT",
             "poster": "https://cdn2.unrealengine.com/Fortnite%2Ffortnite-game%2Ftournamentinformation%2FTEST_12BR_Competitive_In-Game_FNCS_Poster_Front-750x1080-3fcd795f59a70c0f1104d7b91428c333ae0de719.jpg",
             "posterBack": null,
@@ -12612,7 +12612,7 @@
             "id": "epicgames_S15_FridayNiteBraggingRightsTestWeek_NAW",
             "displayId": "s12_test_solo",
             "region": "NAW",
-            "name_line1": "SOLO",
+            "name_line1": "TRIOS",
             "name_line2": "TEST EVENT",
             "poster": "https://cdn2.unrealengine.com/Fortnite/fortnite-game/tournamentinformation/TEST_12BR_Competitive_In-Game_FNCS_Poster_Front-750x1080-3fcd795f59a70c0f1104d7b91428c333ae0de719.jpg",
             "posterBack": null,
@@ -12709,7 +12709,7 @@
             "id": "epicgames_S15_SoloCashCupTestWeek_NAW",
             "displayId": "s12_test_solo",
             "region": "NAW",
-            "name_line1": "SOLO",
+            "name_line1": "TRIOS",
             "name_line2": "TEST EVENT",
             "poster": "https://cdn2.unrealengine.com/Fortnite/fortnite-game/tournamentinformation/TEST_12BR_Competitive_In-Game_FNCS_Poster_Front-750x1080-3fcd795f59a70c0f1104d7b91428c333ae0de719.jpg",
             "posterBack": null,
@@ -12754,7 +12754,7 @@
             "id": "epicgames_S15_CashCupTestWeek_NAW",
             "displayId": "s12_test_solo",
             "region": "NAW",
-            "name_line1": "SOLO",
+            "name_line1": "TRIOS",
             "name_line2": "TEST EVENT",
             "poster": "https://cdn2.unrealengine.com/Fortnite/fortnite-game/tournamentinformation/TEST_12BR_Competitive_In-Game_FNCS_Poster_Front-750x1080-3fcd795f59a70c0f1104d7b91428c333ae0de719.jpg",
             "posterBack": null,
@@ -19540,15 +19540,15 @@
                 "Windows"
             ],
             "renderData": {
-                "title_color": "FFFFFF",
                 "background_text_color": "161616",
+                "poster_fade_color": "792F68",
+                "secondary_color": "161616",
+                "title_color": "FFFFFF",
                 "background_right_color": "FCEF5B",
                 "highlight_color": "F7FF00",
                 "primary_color": "FFFFFF",
                 "shadow_color": "792F68",
                 "background_left_color": "E82CBE",
-                "poster_fade_color": "792F68",
-                "secondary_color": "161616",
                 "base_color": "FFFFFF"
             },
             "windows": [
@@ -19569,8 +19569,8 @@
                 },
                 {
                     "windowId": "S20_DuosCashCup_NAW_Event2_Round2",
-                    "beginTime": "2022-04-14T01:00:00+00:00",
-                    "endTime": "2022-04-14T04:00:00+00:00"
+                    "beginTime": "2022-04-14T02:00:00+00:00",
+                    "endTime": "2022-04-14T05:00:00+00:00"
                 },
                 {
                     "windowId": "S20_DuosCashCup_NAW_Event3_Round1",
@@ -19619,8 +19619,8 @@
                 },
                 {
                     "windowId": "S20_DuosCashCup_NAW_Event7_Round2",
-                    "beginTime": "2022-05-26T01:00:00+00:00",
-                    "endTime": "2022-05-26T04:00:00+00:00"
+                    "beginTime": "2022-05-27T01:00:00+00:00",
+                    "endTime": "2022-05-27T04:00:00+00:00"
                 },
                 {
                     "windowId": "S20_DuosCashCup_NAW_Event8_Round1",
@@ -19663,15 +19663,15 @@
                 "Windows"
             ],
             "renderData": {
-                "title_color": "FFFFFF",
                 "background_text_color": "161616",
+                "poster_fade_color": "3C0999",
+                "secondary_color": "161616",
+                "title_color": "FFFFFF",
                 "background_right_color": "3C0999",
                 "highlight_color": "F7FF00",
                 "primary_color": "FFFFFF",
                 "shadow_color": "250545",
                 "background_left_color": "9D35FF",
-                "poster_fade_color": "3C0999",
-                "secondary_color": "161616",
                 "base_color": "FFFFFF"
             },
             "windows": [
@@ -19742,8 +19742,8 @@
                 },
                 {
                     "windowId": "S20_DuosHypeCup_Contender_NAW_Event7_Round2",
-                    "beginTime": "2022-05-26T01:00:00+00:00",
-                    "endTime": "2022-05-26T04:00:00+00:00"
+                    "beginTime": "2022-05-27T01:00:00+00:00",
+                    "endTime": "2022-05-27T04:00:00+00:00"
                 },
                 {
                     "windowId": "S20_DuosHypeCup_Contender_NAW_Event8_Round1",
@@ -19910,15 +19910,15 @@
                 "Windows"
             ],
             "renderData": {
-                "title_color": "FFFFFF",
                 "background_text_color": "161616",
+                "poster_fade_color": "3C0999",
+                "secondary_color": "161616",
+                "title_color": "FFFFFF",
                 "background_right_color": "3C0999",
                 "highlight_color": "F7FF00",
                 "primary_color": "FFFFFF",
                 "shadow_color": "250545",
                 "background_left_color": "9D35FF",
-                "poster_fade_color": "3C0999",
-                "secondary_color": "161616",
                 "base_color": "FFFFFF"
             },
             "windows": [
@@ -20023,15 +20023,15 @@
                 "Windows"
             ],
             "renderData": {
-                "title_color": "FFFFFF",
                 "background_text_color": "161616",
+                "poster_fade_color": "792F68",
+                "secondary_color": "161616",
+                "title_color": "FFFFFF",
                 "background_right_color": "FCEF5B",
                 "highlight_color": "F7FF00",
                 "primary_color": "FFFFFF",
                 "shadow_color": "792F68",
                 "background_left_color": "E82CBE",
-                "poster_fade_color": "792F68",
-                "secondary_color": "161616",
                 "base_color": "FFFFFF"
             },
             "windows": [
@@ -20116,15 +20116,15 @@
                 "Windows"
             ],
             "renderData": {
-                "title_color": "FFFFFF",
                 "background_text_color": "161616",
+                "poster_fade_color": "3C0999",
+                "secondary_color": "161616",
+                "title_color": "FFFFFF",
                 "background_right_color": "3C0999",
                 "highlight_color": "F7FF00",
                 "primary_color": "FFFFFF",
                 "shadow_color": "250545",
                 "background_left_color": "9D35FF",
-                "poster_fade_color": "3C0999",
-                "secondary_color": "161616",
                 "base_color": "FFFFFF"
             },
             "windows": [
@@ -20209,15 +20209,15 @@
                 "Windows"
             ],
             "renderData": {
-                "title_color": "FFFFFF",
                 "background_text_color": "161616",
+                "poster_fade_color": "3C0999",
+                "secondary_color": "161616",
+                "title_color": "FFFFFF",
                 "background_right_color": "3C0999",
                 "highlight_color": "F7FF00",
                 "primary_color": "FFFFFF",
                 "shadow_color": "250545",
                 "background_left_color": "9D35FF",
-                "poster_fade_color": "3C0999",
-                "secondary_color": "161616",
                 "base_color": "FFFFFF"
             },
             "windows": [
@@ -20270,6 +20270,122 @@
                     "windowId": "S20_SoloHypeCup_Open_NAW_Event5_Round2",
                     "beginTime": "2022-05-22T21:00:00+00:00",
                     "endTime": "2022-05-23T00:00:00+00:00"
+                }
+            ]
+        },
+        {
+            "id": "epicgames_S20_LCElimOnlyHighScoreTrios_NAW",
+            "displayId": "s20_lc_highscore_elims_trios",
+            "region": "NAW",
+            "name_line1": "\"High Score - Eliminations Only\"",
+            "name_line2": "Lightning Cup",
+            "poster": "https://cdn2.unrealengine.com/20comp-lightningcup-poster-front-750x1080-1634c7d2f3de.jpg",
+            "posterBack": "https://cdn2.unrealengine.com/20comp-lightningcup-poster-back-750x1080-8b6ed46acbea.jpg",
+            "loadingScreen": "https://cdn2.unrealengine.com/20comp-lightningcup-tile-1920x1080-1920x1080-9f2e90db5f7d.jpg",
+            "tileImage": "https://cdn2.unrealengine.com/20comp-lightningcup-tile-1920x1080-1920x1080-9f2e90db5f7d.jpg",
+            "short_description": "Try to get the High Score through eliminations only!",
+            "long_description": "This Lightning Cup will utilize the \"High Score\" format, where only your team's best single match will count. There are no points for Placements this time around, so focus on getting those eliminations!  Full rules and details here: https://www.epicgames.com/fortnite/competitive/en-US/rules-library",
+            "schedule": "April 12th",
+            "beginTime": "2022-04-12T17:00:00+00:00",
+            "endTime": "2022-04-13T03:00:00+00:00",
+            "cumulative": false,
+            "platforms": [
+                "XboxOneGDK",
+                "PS4",
+                "XboxOne",
+                "XSX",
+                "Android",
+                "PS5",
+                "GFN",
+                "Switch",
+                "GFNMOBILE",
+                "Windows"
+            ],
+            "renderData": {
+                "title_color": "FFFFFF",
+                "background_text_color": "FFFFFF",
+                "background_right_color": "38025A",
+                "highlight_color": "F7FF00",
+                "primary_color": "F83D47",
+                "shadow_color": "24003A",
+                "background_left_color": "590191",
+                "poster_fade_color": "2E014B",
+                "secondary_color": "38025A",
+                "base_color": "FFFFFF"
+            },
+            "windows": [
+                {
+                    "windowId": "S20_LCElimOnlyHighScoreTrios_NAW_Round1",
+                    "beginTime": "2022-04-12T17:00:00+00:00",
+                    "endTime": "2022-04-12T19:00:00+00:00"
+                },
+                {
+                    "windowId": "S20_LCElimOnlyHighScoreTrios_NAW_Round2",
+                    "beginTime": "2022-04-12T21:00:00+00:00",
+                    "endTime": "2022-04-12T23:00:00+00:00"
+                },
+                {
+                    "windowId": "S20_LCElimOnlyHighScoreTrios_NAW_Round3",
+                    "beginTime": "2022-04-13T01:00:00+00:00",
+                    "endTime": "2022-04-13T03:00:00+00:00"
+                }
+            ]
+        },
+        {
+            "id": "epicgames_S20_LCElimOnlyHighScoreDuos_NAW",
+            "displayId": "s20_lc_highscore_elims_duos",
+            "region": "NAW",
+            "name_line1": "\"High Score - Eliminations Only\"",
+            "name_line2": "Lightning Cup",
+            "poster": "https://cdn2.unrealengine.com/20comp-lightningcup-poster-front-750x1080-1634c7d2f3de.jpg",
+            "posterBack": "https://cdn2.unrealengine.com/20comp-lightningcup-poster-back-750x1080-8b6ed46acbea.jpg",
+            "loadingScreen": "https://cdn2.unrealengine.com/20comp-lightningcup-tile-1920x1080-1920x1080-9f2e90db5f7d.jpg",
+            "tileImage": "https://cdn2.unrealengine.com/20comp-lightningcup-tile-1920x1080-1920x1080-9f2e90db5f7d.jpg",
+            "short_description": "Try to get the High Score through eliminations only!",
+            "long_description": "This Lightning Cup will utilize the \"High Score\" format, where only your team's best single match will count. There are no points for Placements this time around, so focus on getting those eliminations!  Full rules and details here: https://www.epicgames.com/fortnite/competitive/en-US/rules-library",
+            "schedule": "April 14th",
+            "beginTime": "2022-04-14T17:00:00+00:00",
+            "endTime": "2022-04-15T03:00:00+00:00",
+            "cumulative": false,
+            "platforms": [
+                "XboxOneGDK",
+                "PS4",
+                "XboxOne",
+                "XSX",
+                "Android",
+                "PS5",
+                "GFN",
+                "Switch",
+                "GFNMOBILE",
+                "Windows"
+            ],
+            "renderData": {
+                "title_color": "FFFFFF",
+                "background_text_color": "FFFFFF",
+                "background_right_color": "38025A",
+                "highlight_color": "F7FF00",
+                "primary_color": "F83D47",
+                "shadow_color": "24003A",
+                "background_left_color": "590191",
+                "poster_fade_color": "2E014B",
+                "secondary_color": "38025A",
+                "base_color": "FFFFFF"
+            },
+            "windows": [
+                {
+                    "windowId": "S20_LCElimOnlyHighScoreDuos_NAW_Round1",
+                    "beginTime": "2022-04-14T17:00:00+00:00",
+                    "endTime": "2022-04-14T19:00:00+00:00"
+                },
+                {
+                    "windowId": "S20_LCElimOnlyHighScoreDuos_NAW_Round2",
+                    "beginTime": "2022-04-14T21:00:00+00:00",
+                    "endTime": "2022-04-14T23:00:00+00:00"
+                },
+                {
+                    "windowId": "S20_LCElimOnlyHighScoreDuos_NAW_Round3",
+                    "beginTime": "2022-04-15T01:00:00+00:00",
+                    "endTime": "2022-04-15T03:00:00+00:00"
                 }
             ]
         }
