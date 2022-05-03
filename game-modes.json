@@ -17,7 +17,7 @@
             "priority": 3,
             "enabled": true,
             "ltmMessage": null,
-            "video": "https://media.fortniteapi.io/videos/playlist/VTfsLUcDGhrnzHppNB.mp4"
+            "video": "https://media.fortniteapi.io/videos/epic/en/VTfsLUcDGhrnzHppNB.mp4"
         },
         {
             "id": "NoBuildBR_Solo",
@@ -33,7 +33,7 @@
             "priority": 3,
             "enabled": true,
             "ltmMessage": null,
-            "video": "https://media.fortniteapi.io/videos/playlist/VTfsLUcDGhrnzHppNB.mp4"
+            "video": "https://media.fortniteapi.io/videos/epic/en/VTfsLUcDGhrnzHppNB.mp4"
         },
         {
             "id": "DefaultSolo",
@@ -49,7 +49,7 @@
             "priority": 3,
             "enabled": true,
             "ltmMessage": null,
-            "video": "https://media.fortniteapi.io/videos/playlist/taqdZkWyokbCyEFWld.mp4"
+            "video": "https://media.fortniteapi.io/videos/epic/en/taqdZkWyokbCyEFWld.mp4"
         },
         {
             "id": "NoBuildBR_Squad",
@@ -65,7 +65,7 @@
             "priority": 4,
             "enabled": true,
             "ltmMessage": null,
-            "video": "https://media.fortniteapi.io/videos/playlist/VTfsLUcDGhrnzHppNB.mp4"
+            "video": "https://media.fortniteapi.io/videos/epic/en/VTfsLUcDGhrnzHppNB.mp4"
         },
         {
             "id": "NoBuildBR_Duo",
@@ -81,7 +81,7 @@
             "priority": 4,
             "enabled": true,
             "ltmMessage": null,
-            "video": "https://media.fortniteapi.io/videos/playlist/VTfsLUcDGhrnzHppNB.mp4"
+            "video": "https://media.fortniteapi.io/videos/epic/en/VTfsLUcDGhrnzHppNB.mp4"
         },
         {
             "id": "DefaultDuo",
@@ -97,7 +97,7 @@
             "priority": 4,
             "enabled": true,
             "ltmMessage": null,
-            "video": "https://media.fortniteapi.io/videos/playlist/taqdZkWyokbCyEFWld.mp4"
+            "video": "https://media.fortniteapi.io/videos/epic/en/taqdZkWyokbCyEFWld.mp4"
         },
         {
             "id": "Trios",
@@ -113,7 +113,7 @@
             "priority": 5,
             "enabled": true,
             "ltmMessage": null,
-            "video": "https://media.fortniteapi.io/videos/playlist/taqdZkWyokbCyEFWld.mp4"
+            "video": "https://media.fortniteapi.io/videos/epic/en/taqdZkWyokbCyEFWld.mp4"
         },
         {
             "id": "DefaultSquad",
@@ -129,7 +129,7 @@
             "priority": 6,
             "enabled": true,
             "ltmMessage": null,
-            "video": "https://media.fortniteapi.io/videos/playlist/taqdZkWyokbCyEFWld.mp4"
+            "video": "https://media.fortniteapi.io/videos/epic/en/taqdZkWyokbCyEFWld.mp4"
         },
         {
             "id": "33",
@@ -3066,7 +3066,7 @@
             "priority": 16,
             "enabled": true,
             "ltmMessage": null,
-            "video": "https://media.fortniteapi.io/videos/playlist/pOQbjpyNSnZNptoned.mp4"
+            "video": "https://media.fortniteapi.io/videos/epic/en/pOQbjpyNSnZNptoned.mp4"
         },
         {
             "id": "Crucible_Solo",
@@ -4765,7 +4765,7 @@
             "team": "",
             "largeTeams": false,
             "maxTeamSize": 2,
-            "image": "https://cdn2.unrealengine.com/s19-arena-duos-discovery-1920x1080-66afd47be235.jpg",
+            "image": "https://cdn2.unrealengine.com/tile-1920x1080-duos-1920x1080-5d72d7fe8881.jpg",
             "gameType": "BRArena",
             "matchmakingIcon": "https://media.fortniteapi.io/images/icons/T_Icon_Matchmaking_Duo_64.png",
             "category": null,
@@ -4781,7 +4781,7 @@
             "team": "Solo",
             "largeTeams": false,
             "maxTeamSize": 1,
-            "image": "https://cdn2.unrealengine.com/s19-arena-solo-discovery-1920x1080-7893197f34f7.jpg",
+            "image": "https://cdn2.unrealengine.com/tile-1920x1080-solo-1920x1080-f0f52a7583e6.jpg",
             "gameType": "BRArena",
             "matchmakingIcon": "https://media.fortniteapi.io/images/icons/T_Icon_Matchmaking_Solo_64.png",
             "category": null,
@@ -4813,7 +4813,7 @@
             "team": "Trios",
             "largeTeams": false,
             "maxTeamSize": 3,
-            "image": "https://cdn2.unrealengine.com/s19-arena-trios-discovery-1920x1080-c7a9c68a7e01.jpg",
+            "image": "https://cdn2.unrealengine.com/tile-1920x1080-trios-1920x1080-996096d11f39.jpg",
             "gameType": "BRArena",
             "matchmakingIcon": "https://media.fortniteapi.io/images/icons/T_Icon_Matchmaking_Trios_64.png",
             "category": null,
@@ -5270,9 +5270,9 @@
             "image": "https://cdn2.unrealengine.com/11br-solid-gold-motd-1920x1080-1920x1080-43bce9103b4a.jpg",
             "gameType": "BRLTM",
             "matchmakingIcon": "https://media.fortniteapi.io/images/icons/T_Icon_Matchmaking_Squad_64.png",
-            "category": 2,
-            "priority": 1,
-            "enabled": true,
+            "category": null,
+            "priority": null,
+            "enabled": false,
             "ltmMessage": [
                 "SOLID GOLD      » All weapons are legendary!",
                 "» Extra metal and stone resources!"
@@ -14580,7 +14580,7 @@
             "priority": 20,
             "enabled": true,
             "ltmMessage": null,
-            "video": "https://media.fortniteapi.io/videos/playlist/QljBuQXFYaplYHblAR.mp4"
+            "video": "https://media.fortniteapi.io/videos/epic/en/QljBuQXFYaplYHblAR.mp4"
         },
         {
             "id": "ShowdownTournament_Solo_Test",
@@ -14720,7 +14720,7 @@
             "team": "Duos",
             "largeTeams": false,
             "maxTeamSize": 2,
-            "image": "https://cdn2.unrealengine.com/16br-comp-in-game-ltmcup-modetile-1024x512-0df8463e6bcf.jpg",
+            "image": "https://cdn2.unrealengine.com/20comp-in-game-evergreen-blue-tile-1920x1080-1920x1080-5f1ce6c6419a.jpg",
             "gameType": "CreativeLTM",
             "matchmakingIcon": "https://media.fortniteapi.io/images/icons/T_Icon_Matchmaking_Duo_64.png",
             "category": null,
@@ -15710,7 +15710,7 @@
             "priority": 1,
             "enabled": true,
             "ltmMessage": null,
-            "video": "https://media.fortniteapi.io/videos/playlist/VeMCQpJEuQxYyUQGeB.mp4"
+            "video": "https://media.fortniteapi.io/videos/epic/en/VeMCQpJEuQxYyUQGeB.mp4"
         },
         {
             "id": "Madman_Duos",
@@ -16213,7 +16213,7 @@
             "priority": 1,
             "enabled": false,
             "ltmMessage": null,
-            "video": "https://media.fortniteapi.io/videos/playlist/VeMCQpJEuQxYyUQGeB.mp4"
+            "video": "https://media.fortniteapi.io/videos/epic/en/VeMCQpJEuQxYyUQGeB.mp4"
         },
         {
             "id": "ShowdownAlt_BlueCheese_Regular_Solo",
@@ -16606,7 +16606,7 @@
             "team": "",
             "largeTeams": false,
             "maxTeamSize": 3,
-            "image": null,
+            "image": "https://cdn2.unrealengine.com/20comp-in-game-evergreen-orange-tile-1920x1080-1920x1080-9260fa6fb7df.jpg",
             "gameType": "BRArena",
             "matchmakingIcon": "https://media.fortniteapi.io/images/icons/T-Icon-Chat-Party-64.png",
             "category": null,
@@ -16638,7 +16638,7 @@
             "team": "",
             "largeTeams": false,
             "maxTeamSize": 2,
-            "image": "https://cdn2.unrealengine.com/19br-comp-in-game-chloekimcup-tile-1920x1080-1920x1080-cebe1c3abbb9.jpg",
+            "image": "https://cdn2.unrealengine.com/20comp-lightningcup-tile-1920x1080-1920x1080-9f2e90db5f7d.jpg",
             "gameType": "BRArena",
             "matchmakingIcon": "https://media.fortniteapi.io/images/icons/T_Icon_Matchmaking_Duo_64.png",
             "category": null,
@@ -16725,7 +16725,7 @@
             "priority": null,
             "enabled": false,
             "ltmMessage": null,
-            "video": "https://media.fortniteapi.io/videos/playlist/FafeDLtfnvVWWmOFzQ.mp4"
+            "video": "https://media.fortniteapi.io/videos/epic/en/FafeDLtfnvVWWmOFzQ.mp4"
         },
         {
             "id": "ShowdownTournament_Creative_Duos_16",
