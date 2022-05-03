@@ -3,6 +3,242 @@
     "history": [
         {
             "type": "current",
+            "date": "2022-05-01",
+            "colors": {
+                "A": "201921",
+                "B": "a03096",
+                "C": "a03096"
+            },
+            "video": "https://cdn2.unrealengine.com/221078-s20-maycrew-blog-41af30d0872f.mp4",
+            "skinImageTakeOver": false,
+            "descriptions": {
+                "title": "Crew Pack",
+                "battlepass": "Battle Pass",
+                "vbucksTitle": "1,000 V-Bucks"
+            },
+            "images": {
+                "battlepass": null,
+                "battlepassTile": null,
+                "itemShopTile": "https://cdn2.unrealengine.com/fnc-southpaw-ingame-shoptile-2048x1124-aca9ba383dcf.jpg",
+                "skin": "https://cdn2.unrealengine.com/fnc-southpaw-ingame-crewtile-1024x1024-86116bf7c7c4.png",
+                "apiRender": "https://media.fortniteapi.io/images/crew/2022-05/presentation.en.png"
+            },
+            "rewards": [
+                {
+                    "quantity": 1,
+                    "item": {
+                        "id": "CID_A_393_Athena_Commando_F_Forsake",
+                        "type": {
+                            "id": "outfit",
+                            "name": "Outfit"
+                        },
+                        "name": "Southpaw",
+                        "description": "Everyone loves an underdog.",
+                        "rarity": {
+                            "id": "Epic",
+                            "name": "Epic"
+                        },
+                        "series": null,
+                        "images": {
+                            "icon": "https://media.fortniteapi.io/images/4ddb11f6a1f3dca29c7f8e95f6450f42/transparent.png",
+                            "featured": null,
+                            "background": "https://media.fortniteapi.io/images/cosmetics/4ddb11f6a1f3dca29c7f8e95f6450f42/v2/background.png",
+                            "icon_background": "https://media.fortniteapi.io/images/cosmetics/4ddb11f6a1f3dca29c7f8e95f6450f42/v2/icon_background.png",
+                            "full_background": "https://media.fortniteapi.io/images/cosmetics/4ddb11f6a1f3dca29c7f8e95f6450f42/v2/info.en.png"
+                        },
+                        "video": null,
+                        "gameplayTags": [
+                            "SoundLibrary.ID.StepType.BootsMetal",
+                            "SoundLibrary.ID.ClothingType.ArmorMetal",
+                            "SoundLibrary.ID.HandType.Robot",
+                            "Cosmetics.Filter.Season.20",
+                            "Cosmetics.Source.CrewPack.May2022",
+                            "Cosmetics.Set.LeapForward"
+                        ],
+                        "introduction": {
+                            "chapter": "Chapter 3",
+                            "season": "Season 2",
+                            "text": "Introduced in Chapter 3 - Season 2."
+                        }
+                    }
+                },
+                {
+                    "quantity": 1,
+                    "item": {
+                        "id": "BID_995_ForsakeFemale",
+                        "type": {
+                            "id": "backpack",
+                            "name": "BackBling"
+                        },
+                        "name": "Counterpunch",
+                        "description": "Dominate the ring.",
+                        "rarity": {
+                            "id": "Epic",
+                            "name": "Epic"
+                        },
+                        "series": null,
+                        "images": {
+                            "icon": "https://media.fortniteapi.io/images/5cb12c2d002f93151cf122ae0e462c5a/transparent.png",
+                            "featured": null,
+                            "background": "https://media.fortniteapi.io/images/cosmetics/5cb12c2d002f93151cf122ae0e462c5a/v2/background.png",
+                            "icon_background": "https://media.fortniteapi.io/images/cosmetics/5cb12c2d002f93151cf122ae0e462c5a/v2/icon_background.png",
+                            "full_background": "https://media.fortniteapi.io/images/cosmetics/5cb12c2d002f93151cf122ae0e462c5a/v2/info.en.png"
+                        },
+                        "video": null,
+                        "gameplayTags": [
+                            "Cosmetics.Filter.Season.20",
+                            "Cosmetics.Source.CrewPack.May2022",
+                            "Cosmetics.Set.LeapForward"
+                        ],
+                        "introduction": {
+                            "chapter": "Chapter 3",
+                            "season": "Season 2",
+                            "text": "Introduced in Chapter 3 - Season 2."
+                        }
+                    }
+                },
+                {
+                    "quantity": 1,
+                    "item": {
+                        "id": "Pickaxe_ID_785_ForsakeFemale",
+                        "type": {
+                            "id": "pickaxe",
+                            "name": "Harvesting Tool"
+                        },
+                        "name": "Arc Flail",
+                        "description": "Pain on a chain.",
+                        "rarity": {
+                            "id": "Rare",
+                            "name": "RARE"
+                        },
+                        "series": null,
+                        "images": {
+                            "icon": "https://media.fortniteapi.io/images/3c9ba48c1a0abf220f0e34ed5859ea9c/transparent.png",
+                            "featured": null,
+                            "background": "https://media.fortniteapi.io/images/cosmetics/3c9ba48c1a0abf220f0e34ed5859ea9c/v2/background.png",
+                            "icon_background": "https://media.fortniteapi.io/images/cosmetics/3c9ba48c1a0abf220f0e34ed5859ea9c/v2/icon_background.png",
+                            "full_background": "https://media.fortniteapi.io/images/cosmetics/3c9ba48c1a0abf220f0e34ed5859ea9c/v2/info.en.png"
+                        },
+                        "video": null,
+                        "gameplayTags": [
+                            "Cosmetics.UserFacingFlags.HasVariants",
+                            "Cosmetics.Filter.Season.20",
+                            "Cosmetics.Set.LeapForward",
+                            "Cosmetics.Source.CrewPack.May2022"
+                        ],
+                        "introduction": {
+                            "chapter": "Chapter 3",
+                            "season": "Season 2",
+                            "text": "Introduced in Chapter 3 - Season 2."
+                        }
+                    }
+                },
+                {
+                    "quantity": 1,
+                    "item": {
+                        "id": "LSID_430_ForsakeBeginning",
+                        "type": {
+                            "id": "loadingscreen",
+                            "name": "Loading Screen"
+                        },
+                        "name": "A New Challenger Appears",
+                        "description": "Fight for your life.",
+                        "rarity": {
+                            "id": "Uncommon",
+                            "name": "UNCOMMON"
+                        },
+                        "series": null,
+                        "images": {
+                            "icon": "https://media.fortniteapi.io/images/ad562c8d0a327c1b63789e507d6f945c/transparent.png",
+                            "featured": "https://media.fortniteapi.io/images/ad562c8d0a327c1b63789e507d6f945c/full_featured.png",
+                            "background": "https://media.fortniteapi.io/images/cosmetics/ad562c8d0a327c1b63789e507d6f945c/v2/background.png",
+                            "icon_background": "https://media.fortniteapi.io/images/cosmetics/ad562c8d0a327c1b63789e507d6f945c/v2/icon_background.png",
+                            "full_background": "https://media.fortniteapi.io/images/cosmetics/ad562c8d0a327c1b63789e507d6f945c/v2/info.en.png"
+                        },
+                        "video": null,
+                        "gameplayTags": [
+                            "Cosmetics.Filter.Season.20",
+                            "Cosmetics.Set.LeapForward"
+                        ],
+                        "introduction": {
+                            "chapter": "Chapter 3",
+                            "season": "Season 2",
+                            "text": "Introduced in Chapter 3 - Season 2."
+                        }
+                    }
+                },
+                {
+                    "quantity": 1,
+                    "item": {
+                        "id": "LSID_436_ForsakeTransition",
+                        "type": {
+                            "id": "loadingscreen",
+                            "name": "Loading Screen"
+                        },
+                        "name": "Burgeoning Bout Master",
+                        "description": "Practice makes perfect.",
+                        "rarity": {
+                            "id": "Uncommon",
+                            "name": "UNCOMMON"
+                        },
+                        "series": null,
+                        "images": {
+                            "icon": "https://media.fortniteapi.io/images/5c44cce65f35b0d23b75b6a563ede0ef/transparent.png",
+                            "featured": "https://media.fortniteapi.io/images/5c44cce65f35b0d23b75b6a563ede0ef/full_featured.png",
+                            "background": "https://media.fortniteapi.io/images/cosmetics/5c44cce65f35b0d23b75b6a563ede0ef/v2/background.png",
+                            "icon_background": "https://media.fortniteapi.io/images/cosmetics/5c44cce65f35b0d23b75b6a563ede0ef/v2/icon_background.png",
+                            "full_background": "https://media.fortniteapi.io/images/cosmetics/5c44cce65f35b0d23b75b6a563ede0ef/v2/info.en.png"
+                        },
+                        "video": null,
+                        "gameplayTags": [
+                            "Cosmetics.Filter.Season.20",
+                            "Cosmetics.Set.LeapForward"
+                        ],
+                        "introduction": {
+                            "chapter": "Chapter 3",
+                            "season": "Season 2",
+                            "text": "Introduced in Chapter 3 - Season 2."
+                        }
+                    }
+                },
+                {
+                    "quantity": 1,
+                    "item": {
+                        "id": "MusicPack_132_MayCrew",
+                        "type": {
+                            "id": "music",
+                            "name": "Music"
+                        },
+                        "name": "Crashed In and Lights Out",
+                        "description": "Press play and go round and round and round.",
+                        "rarity": {
+                            "id": "Rare",
+                            "name": "RARE"
+                        },
+                        "series": null,
+                        "images": {
+                            "icon": "https://media.fortniteapi.io/images/a176edb6123e4da3104a0c77fcae72a3/transparent.png",
+                            "featured": null,
+                            "background": "https://media.fortniteapi.io/images/cosmetics/a176edb6123e4da3104a0c77fcae72a3/v2/background.png",
+                            "icon_background": "https://media.fortniteapi.io/images/cosmetics/a176edb6123e4da3104a0c77fcae72a3/v2/icon_background.png",
+                            "full_background": "https://media.fortniteapi.io/images/cosmetics/a176edb6123e4da3104a0c77fcae72a3/v2/info.en.png"
+                        },
+                        "video": "https://media.fortniteapi.io/videos/musicpacks/musicpack_132_maycrew.mp4",
+                        "gameplayTags": [
+                            "Cosmetics.Filter.Season.20",
+                            "Cosmetics.Set.LeapForward"
+                        ],
+                        "introduction": {
+                            "chapter": "Chapter 3",
+                            "season": "Season 2",
+                            "text": "Introduced in Chapter 3 - Season 2."
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "type": "past",
             "date": "2022-04-01",
             "colors": {
                 "A": "170f40",
