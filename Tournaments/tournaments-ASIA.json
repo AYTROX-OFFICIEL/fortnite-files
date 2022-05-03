@@ -92,11 +92,6 @@
                     "endTime": "2018-10-19T14:00:00+00:00"
                 },
                 {
-                    "windowId": "FortniteFridaysFallASIA_Event10",
-                    "beginTime": "2019-01-04T10:00:00+00:00",
-                    "endTime": "2019-01-04T14:00:00+00:00"
-                },
-                {
                     "windowId": "FortniteFridaysFallASIA_Event2",
                     "beginTime": "2018-10-26T10:00:00+00:00",
                     "endTime": "2018-10-26T14:00:00+00:00"
@@ -135,6 +130,11 @@
                     "windowId": "FortniteFridaysFallASIA_Event9",
                     "beginTime": "2018-12-28T10:00:00+00:00",
                     "endTime": "2018-12-28T14:00:00+00:00"
+                },
+                {
+                    "windowId": "FortniteFridaysFallASIA_Event10",
+                    "beginTime": "2019-01-04T10:00:00+00:00",
+                    "endTime": "2019-01-04T14:00:00+00:00"
                 }
             ]
         },
@@ -486,26 +486,6 @@
                     "endTime": "2018-12-08T14:00:00+00:00"
                 },
                 {
-                    "windowId": "ExplorerPopUpSoloASIA_Event10",
-                    "beginTime": "2018-12-31T09:00:00+00:00",
-                    "endTime": "2018-12-31T14:00:00+00:00"
-                },
-                {
-                    "windowId": "ExplorerPopUpSoloASIA_Event11",
-                    "beginTime": "2019-01-24T09:00:00+00:00",
-                    "endTime": "2019-01-24T14:00:00+00:00"
-                },
-                {
-                    "windowId": "ExplorerPopUpSoloASIA_Event12",
-                    "beginTime": "2019-01-26T09:00:00+00:00",
-                    "endTime": "2019-01-26T14:00:00+00:00"
-                },
-                {
-                    "windowId": "ExplorerPopUpSoloASIA_Event13",
-                    "beginTime": "2019-01-28T09:00:00+00:00",
-                    "endTime": "2019-01-28T14:00:00+00:00"
-                },
-                {
                     "windowId": "ExplorerPopUpSoloASIA_Event2",
                     "beginTime": "2018-12-12T09:00:00+00:00",
                     "endTime": "2018-12-12T14:00:00+00:00"
@@ -544,6 +524,26 @@
                     "windowId": "ExplorerPopUpSoloASIA_Event9",
                     "beginTime": "2018-12-29T09:00:00+00:00",
                     "endTime": "2018-12-29T14:00:00+00:00"
+                },
+                {
+                    "windowId": "ExplorerPopUpSoloASIA_Event10",
+                    "beginTime": "2018-12-31T09:00:00+00:00",
+                    "endTime": "2018-12-31T14:00:00+00:00"
+                },
+                {
+                    "windowId": "ExplorerPopUpSoloASIA_Event11",
+                    "beginTime": "2019-01-24T09:00:00+00:00",
+                    "endTime": "2019-01-24T14:00:00+00:00"
+                },
+                {
+                    "windowId": "ExplorerPopUpSoloASIA_Event12",
+                    "beginTime": "2019-01-26T09:00:00+00:00",
+                    "endTime": "2019-01-26T14:00:00+00:00"
+                },
+                {
+                    "windowId": "ExplorerPopUpSoloASIA_Event13",
+                    "beginTime": "2019-01-28T09:00:00+00:00",
+                    "endTime": "2019-01-28T14:00:00+00:00"
                 }
             ]
         },
@@ -581,31 +581,6 @@
                     "windowId": "ExplorerPopUpDuoASIA_Event1",
                     "beginTime": "2018-12-09T09:00:00+00:00",
                     "endTime": "2018-12-09T14:00:00+00:00"
-                },
-                {
-                    "windowId": "ExplorerPopUpDuoASIA_Event10",
-                    "beginTime": "2018-12-30T09:00:00+00:00",
-                    "endTime": "2018-12-30T14:00:00+00:00"
-                },
-                {
-                    "windowId": "ExplorerPopUpDuoASIA_Event11",
-                    "beginTime": "2019-01-01T09:00:00+00:00",
-                    "endTime": "2019-01-01T14:00:00+00:00"
-                },
-                {
-                    "windowId": "ExplorerPopUpDuoASIA_Event12",
-                    "beginTime": "2019-01-23T09:00:00+00:00",
-                    "endTime": "2019-01-23T14:00:00+00:00"
-                },
-                {
-                    "windowId": "ExplorerPopUpDuoASIA_Event13",
-                    "beginTime": "2019-01-25T09:00:00+00:00",
-                    "endTime": "2019-01-25T14:00:00+00:00"
-                },
-                {
-                    "windowId": "ExplorerPopUpDuoASIA_Event14",
-                    "beginTime": "2019-01-27T09:00:00+00:00",
-                    "endTime": "2019-01-27T14:00:00+00:00"
                 },
                 {
                     "windowId": "ExplorerPopUpDuoASIA_Event2",
@@ -646,6 +621,31 @@
                     "windowId": "ExplorerPopUpDuoASIA_Event9",
                     "beginTime": "2018-12-27T09:00:00+00:00",
                     "endTime": "2018-12-27T14:00:00+00:00"
+                },
+                {
+                    "windowId": "ExplorerPopUpDuoASIA_Event10",
+                    "beginTime": "2018-12-30T09:00:00+00:00",
+                    "endTime": "2018-12-30T14:00:00+00:00"
+                },
+                {
+                    "windowId": "ExplorerPopUpDuoASIA_Event11",
+                    "beginTime": "2019-01-01T09:00:00+00:00",
+                    "endTime": "2019-01-01T14:00:00+00:00"
+                },
+                {
+                    "windowId": "ExplorerPopUpDuoASIA_Event12",
+                    "beginTime": "2019-01-23T09:00:00+00:00",
+                    "endTime": "2019-01-23T14:00:00+00:00"
+                },
+                {
+                    "windowId": "ExplorerPopUpDuoASIA_Event13",
+                    "beginTime": "2019-01-25T09:00:00+00:00",
+                    "endTime": "2019-01-25T14:00:00+00:00"
+                },
+                {
+                    "windowId": "ExplorerPopUpDuoASIA_Event14",
+                    "beginTime": "2019-01-27T09:00:00+00:00",
+                    "endTime": "2019-01-27T14:00:00+00:00"
                 }
             ]
         },
@@ -2870,16 +2870,6 @@
                     "endTime": "2019-10-30T11:00:00+00:00"
                 },
                 {
-                    "windowId": "S11_PlatformCup_PC_ASIA_Event10",
-                    "beginTime": "2020-01-22T08:00:00+00:00",
-                    "endTime": "2020-01-22T11:00:00+00:00"
-                },
-                {
-                    "windowId": "S11_PlatformCup_PC_ASIA_Event11",
-                    "beginTime": "2020-02-03T08:00:00+00:00",
-                    "endTime": "2020-02-03T11:00:00+00:00"
-                },
-                {
                     "windowId": "S11_PlatformCup_PC_ASIA_Event2",
                     "beginTime": "2019-11-06T08:00:00+00:00",
                     "endTime": "2019-11-06T11:00:00+00:00"
@@ -2918,6 +2908,16 @@
                     "windowId": "S11_PlatformCup_PC_ASIA_Event9",
                     "beginTime": "2020-01-20T08:00:00+00:00",
                     "endTime": "2020-01-20T11:00:00+00:00"
+                },
+                {
+                    "windowId": "S11_PlatformCup_PC_ASIA_Event10",
+                    "beginTime": "2020-01-22T08:00:00+00:00",
+                    "endTime": "2020-01-22T11:00:00+00:00"
+                },
+                {
+                    "windowId": "S11_PlatformCup_PC_ASIA_Event11",
+                    "beginTime": "2020-02-03T08:00:00+00:00",
+                    "endTime": "2020-02-03T11:00:00+00:00"
                 }
             ]
         },
@@ -2955,16 +2955,6 @@
                     "windowId": "S11_PlatformCup_Console_ASIA_Event1",
                     "beginTime": "2019-10-30T08:00:00+00:00",
                     "endTime": "2019-10-30T11:00:00+00:00"
-                },
-                {
-                    "windowId": "S11_PlatformCup_Console_ASIA_Event10",
-                    "beginTime": "2020-01-22T08:00:00+00:00",
-                    "endTime": "2020-01-22T11:00:00+00:00"
-                },
-                {
-                    "windowId": "S11_PlatformCup_Console_ASIA_Event11",
-                    "beginTime": "2020-02-03T08:00:00+00:00",
-                    "endTime": "2020-02-03T11:00:00+00:00"
                 },
                 {
                     "windowId": "S11_PlatformCup_Console_ASIA_Event2",
@@ -3005,6 +2995,16 @@
                     "windowId": "S11_PlatformCup_Console_ASIA_Event9",
                     "beginTime": "2020-01-20T08:00:00+00:00",
                     "endTime": "2020-01-20T11:00:00+00:00"
+                },
+                {
+                    "windowId": "S11_PlatformCup_Console_ASIA_Event10",
+                    "beginTime": "2020-01-22T08:00:00+00:00",
+                    "endTime": "2020-01-22T11:00:00+00:00"
+                },
+                {
+                    "windowId": "S11_PlatformCup_Console_ASIA_Event11",
+                    "beginTime": "2020-02-03T08:00:00+00:00",
+                    "endTime": "2020-02-03T11:00:00+00:00"
                 }
             ]
         },
@@ -3042,16 +3042,6 @@
                     "windowId": "S11_PlatformCup_Mobile_ASIA_Event1",
                     "beginTime": "2019-10-30T08:00:00+00:00",
                     "endTime": "2019-10-30T11:00:00+00:00"
-                },
-                {
-                    "windowId": "S11_PlatformCup_Mobile_ASIA_Event10",
-                    "beginTime": "2020-01-22T08:00:00+00:00",
-                    "endTime": "2020-01-22T11:00:00+00:00"
-                },
-                {
-                    "windowId": "S11_PlatformCup_Mobile_ASIA_Event11",
-                    "beginTime": "2020-02-03T08:00:00+00:00",
-                    "endTime": "2020-02-03T11:00:00+00:00"
                 },
                 {
                     "windowId": "S11_PlatformCup_Mobile_ASIA_Event2",
@@ -3092,6 +3082,16 @@
                     "windowId": "S11_PlatformCup_Mobile_ASIA_Event9",
                     "beginTime": "2020-01-20T08:00:00+00:00",
                     "endTime": "2020-01-20T11:00:00+00:00"
+                },
+                {
+                    "windowId": "S11_PlatformCup_Mobile_ASIA_Event10",
+                    "beginTime": "2020-01-22T08:00:00+00:00",
+                    "endTime": "2020-01-22T11:00:00+00:00"
+                },
+                {
+                    "windowId": "S11_PlatformCup_Mobile_ASIA_Event11",
+                    "beginTime": "2020-02-03T08:00:00+00:00",
+                    "endTime": "2020-02-03T11:00:00+00:00"
                 }
             ]
         },
@@ -3129,16 +3129,6 @@
                     "windowId": "S11_CC_Contenders_ASIA_Event1",
                     "beginTime": "2019-10-31T08:00:00+00:00",
                     "endTime": "2019-10-31T11:00:00+00:00"
-                },
-                {
-                    "windowId": "S11_CC_Contenders_ASIA_Event10",
-                    "beginTime": "2020-01-23T08:00:00+00:00",
-                    "endTime": "2020-01-23T11:00:00+00:00"
-                },
-                {
-                    "windowId": "S11_CC_Contenders_ASIA_Event11",
-                    "beginTime": "2020-01-30T08:00:00+00:00",
-                    "endTime": "2020-01-30T11:00:00+00:00"
                 },
                 {
                     "windowId": "S11_CC_Contenders_ASIA_Event2",
@@ -3179,6 +3169,16 @@
                     "windowId": "S11_CC_Contenders_ASIA_Event9",
                     "beginTime": "2020-01-16T08:00:00+00:00",
                     "endTime": "2020-01-16T11:00:00+00:00"
+                },
+                {
+                    "windowId": "S11_CC_Contenders_ASIA_Event10",
+                    "beginTime": "2020-01-23T08:00:00+00:00",
+                    "endTime": "2020-01-23T11:00:00+00:00"
+                },
+                {
+                    "windowId": "S11_CC_Contenders_ASIA_Event11",
+                    "beginTime": "2020-01-30T08:00:00+00:00",
+                    "endTime": "2020-01-30T11:00:00+00:00"
                 }
             ]
         },
@@ -3680,21 +3680,6 @@
                     "endTime": "2020-01-10T11:00:00+00:00"
                 },
                 {
-                    "windowId": "S11_HypeNight_ASIA_Level1_Event10",
-                    "beginTime": "2020-02-08T08:00:00+00:00",
-                    "endTime": "2020-02-08T11:00:00+00:00"
-                },
-                {
-                    "windowId": "S11_HypeNight_ASIA_Level1_Event11",
-                    "beginTime": "2020-02-14T08:00:00+00:00",
-                    "endTime": "2020-02-14T11:00:00+00:00"
-                },
-                {
-                    "windowId": "S11_HypeNight_ASIA_Level1_Event12",
-                    "beginTime": "2020-02-15T08:00:00+00:00",
-                    "endTime": "2020-02-15T11:00:00+00:00"
-                },
-                {
                     "windowId": "S11_HypeNight_ASIA_Level1_Event2",
                     "beginTime": "2020-01-11T08:00:00+00:00",
                     "endTime": "2020-01-11T11:00:00+00:00"
@@ -3733,6 +3718,21 @@
                     "windowId": "S11_HypeNight_ASIA_Level1_Event9",
                     "beginTime": "2020-02-07T08:00:00+00:00",
                     "endTime": "2020-02-07T11:00:00+00:00"
+                },
+                {
+                    "windowId": "S11_HypeNight_ASIA_Level1_Event10",
+                    "beginTime": "2020-02-08T08:00:00+00:00",
+                    "endTime": "2020-02-08T11:00:00+00:00"
+                },
+                {
+                    "windowId": "S11_HypeNight_ASIA_Level1_Event11",
+                    "beginTime": "2020-02-14T08:00:00+00:00",
+                    "endTime": "2020-02-14T11:00:00+00:00"
+                },
+                {
+                    "windowId": "S11_HypeNight_ASIA_Level1_Event12",
+                    "beginTime": "2020-02-15T08:00:00+00:00",
+                    "endTime": "2020-02-15T11:00:00+00:00"
                 }
             ]
         },
@@ -3976,7 +3976,7 @@
             "id": "epicgames_S12_ASIA_SoloTest",
             "displayId": "s12_test_solo",
             "region": "ASIA",
-            "name_line1": "TRIOS",
+            "name_line1": "SOLO",
             "name_line2": "TEST EVENT",
             "poster": "https://cdn2.unrealengine.com/Fortnite%2Ffortnite-game%2Ftournamentinformation%2FTEST_12BR_Competitive_In-Game_FNCS_Poster_Front-750x1080-3fcd795f59a70c0f1104d7b91428c333ae0de719.jpg",
             "posterBack": null,
@@ -4041,11 +4041,6 @@
                     "endTime": "2020-03-06T12:00:00+00:00"
                 },
                 {
-                    "windowId": "S12_HypeNight_ASIA_Level2_Ghost_Event10",
-                    "beginTime": "2020-04-18T09:00:00+00:00",
-                    "endTime": "2020-04-18T12:00:00+00:00"
-                },
-                {
                     "windowId": "S12_HypeNight_ASIA_Level2_Ghost_Event2",
                     "beginTime": "2020-03-07T09:00:00+00:00",
                     "endTime": "2020-03-07T12:00:00+00:00"
@@ -4079,6 +4074,11 @@
                     "windowId": "S12_HypeNight_ASIA_Level2_Ghost_Event9",
                     "beginTime": "2020-04-17T09:00:00+00:00",
                     "endTime": "2020-04-17T12:00:00+00:00"
+                },
+                {
+                    "windowId": "S12_HypeNight_ASIA_Level2_Ghost_Event10",
+                    "beginTime": "2020-04-18T09:00:00+00:00",
+                    "endTime": "2020-04-18T12:00:00+00:00"
                 }
             ]
         },
@@ -4178,11 +4178,6 @@
                     "endTime": "2020-03-06T12:00:00+00:00"
                 },
                 {
-                    "windowId": "S12_HypeNight_ASIA_Level1_Ghost_Event10",
-                    "beginTime": "2020-04-18T09:00:00+00:00",
-                    "endTime": "2020-04-18T12:00:00+00:00"
-                },
-                {
                     "windowId": "S12_HypeNight_ASIA_Level1_Ghost_Event2",
                     "beginTime": "2020-03-07T09:00:00+00:00",
                     "endTime": "2020-03-07T12:00:00+00:00"
@@ -4216,6 +4211,11 @@
                     "windowId": "S12_HypeNight_ASIA_Level1_Ghost_Event9",
                     "beginTime": "2020-04-17T09:00:00+00:00",
                     "endTime": "2020-04-17T12:00:00+00:00"
+                },
+                {
+                    "windowId": "S12_HypeNight_ASIA_Level1_Ghost_Event10",
+                    "beginTime": "2020-04-18T09:00:00+00:00",
+                    "endTime": "2020-04-18T12:00:00+00:00"
                 }
             ]
         },
@@ -4879,6 +4879,41 @@
                     "endTime": "2020-03-25T07:00:00+00:00"
                 },
                 {
+                    "windowId": "S12_DailyDuos_ASIA_Console_Event2",
+                    "beginTime": "2020-03-26T04:00:00+00:00",
+                    "endTime": "2020-03-26T07:00:00+00:00"
+                },
+                {
+                    "windowId": "S12_DailyDuos_ASIA_Console_Event3",
+                    "beginTime": "2020-03-27T04:00:00+00:00",
+                    "endTime": "2020-03-27T07:00:00+00:00"
+                },
+                {
+                    "windowId": "S12_DailyDuos_ASIA_Console_Event4",
+                    "beginTime": "2020-03-28T04:00:00+00:00",
+                    "endTime": "2020-03-28T07:00:00+00:00"
+                },
+                {
+                    "windowId": "S12_DailyDuos_ASIA_Console_Event5",
+                    "beginTime": "2020-03-29T04:00:00+00:00",
+                    "endTime": "2020-03-29T07:00:00+00:00"
+                },
+                {
+                    "windowId": "S12_DailyDuos_ASIA_Console_Event6",
+                    "beginTime": "2020-03-30T04:00:00+00:00",
+                    "endTime": "2020-03-30T07:00:00+00:00"
+                },
+                {
+                    "windowId": "S12_DailyDuos_ASIA_Console_Event8",
+                    "beginTime": "2020-04-01T04:00:00+00:00",
+                    "endTime": "2020-04-01T07:00:00+00:00"
+                },
+                {
+                    "windowId": "S12_DailyDuos_ASIA_Console_Event9",
+                    "beginTime": "2020-04-02T04:00:00+00:00",
+                    "endTime": "2020-04-02T07:00:00+00:00"
+                },
+                {
                     "windowId": "S12_DailyDuos_ASIA_Console_Event10",
                     "beginTime": "2020-04-03T04:00:00+00:00",
                     "endTime": "2020-04-03T07:00:00+00:00"
@@ -4924,11 +4959,6 @@
                     "endTime": "2020-04-12T07:00:00+00:00"
                 },
                 {
-                    "windowId": "S12_DailyDuos_ASIA_Console_Event2",
-                    "beginTime": "2020-03-26T04:00:00+00:00",
-                    "endTime": "2020-03-26T07:00:00+00:00"
-                },
-                {
                     "windowId": "S12_DailyDuos_ASIA_Console_Event20",
                     "beginTime": "2020-04-13T04:00:00+00:00",
                     "endTime": "2020-04-13T07:00:00+00:00"
@@ -4969,11 +4999,6 @@
                     "endTime": "2020-04-21T07:00:00+00:00"
                 },
                 {
-                    "windowId": "S12_DailyDuos_ASIA_Console_Event3",
-                    "beginTime": "2020-03-27T04:00:00+00:00",
-                    "endTime": "2020-03-27T07:00:00+00:00"
-                },
-                {
                     "windowId": "S12_DailyDuos_ASIA_Console_Event33",
                     "beginTime": "2020-04-26T04:00:00+00:00",
                     "endTime": "2020-04-26T07:00:00+00:00"
@@ -4992,31 +5017,6 @@
                     "windowId": "S12_DailyDuos_ASIA_Console_Event37",
                     "beginTime": "2020-04-30T04:00:00+00:00",
                     "endTime": "2020-04-30T07:00:00+00:00"
-                },
-                {
-                    "windowId": "S12_DailyDuos_ASIA_Console_Event4",
-                    "beginTime": "2020-03-28T04:00:00+00:00",
-                    "endTime": "2020-03-28T07:00:00+00:00"
-                },
-                {
-                    "windowId": "S12_DailyDuos_ASIA_Console_Event5",
-                    "beginTime": "2020-03-29T04:00:00+00:00",
-                    "endTime": "2020-03-29T07:00:00+00:00"
-                },
-                {
-                    "windowId": "S12_DailyDuos_ASIA_Console_Event6",
-                    "beginTime": "2020-03-30T04:00:00+00:00",
-                    "endTime": "2020-03-30T07:00:00+00:00"
-                },
-                {
-                    "windowId": "S12_DailyDuos_ASIA_Console_Event8",
-                    "beginTime": "2020-04-01T04:00:00+00:00",
-                    "endTime": "2020-04-01T07:00:00+00:00"
-                },
-                {
-                    "windowId": "S12_DailyDuos_ASIA_Console_Event9",
-                    "beginTime": "2020-04-02T04:00:00+00:00",
-                    "endTime": "2020-04-02T07:00:00+00:00"
                 }
             ]
         },
@@ -5053,6 +5053,41 @@
                     "windowId": "S12_DailyDuos_ASIA_PC_Event1",
                     "beginTime": "2020-03-25T04:00:00+00:00",
                     "endTime": "2020-03-25T07:00:00+00:00"
+                },
+                {
+                    "windowId": "S12_DailyDuos_ASIA_PC_Event2",
+                    "beginTime": "2020-03-26T04:00:00+00:00",
+                    "endTime": "2020-03-26T07:00:00+00:00"
+                },
+                {
+                    "windowId": "S12_DailyDuos_ASIA_PC_Event3",
+                    "beginTime": "2020-03-27T04:00:00+00:00",
+                    "endTime": "2020-03-27T07:00:00+00:00"
+                },
+                {
+                    "windowId": "S12_DailyDuos_ASIA_PC_Event4",
+                    "beginTime": "2020-03-28T04:00:00+00:00",
+                    "endTime": "2020-03-28T07:00:00+00:00"
+                },
+                {
+                    "windowId": "S12_DailyDuos_ASIA_PC_Event5",
+                    "beginTime": "2020-03-29T04:00:00+00:00",
+                    "endTime": "2020-03-29T07:00:00+00:00"
+                },
+                {
+                    "windowId": "S12_DailyDuos_ASIA_PC_Event6",
+                    "beginTime": "2020-03-30T04:00:00+00:00",
+                    "endTime": "2020-03-30T07:00:00+00:00"
+                },
+                {
+                    "windowId": "S12_DailyDuos_ASIA_PC_Event8",
+                    "beginTime": "2020-04-01T04:00:00+00:00",
+                    "endTime": "2020-04-01T07:00:00+00:00"
+                },
+                {
+                    "windowId": "S12_DailyDuos_ASIA_PC_Event9",
+                    "beginTime": "2020-04-02T04:00:00+00:00",
+                    "endTime": "2020-04-02T07:00:00+00:00"
                 },
                 {
                     "windowId": "S12_DailyDuos_ASIA_PC_Event10",
@@ -5100,11 +5135,6 @@
                     "endTime": "2020-04-12T07:00:00+00:00"
                 },
                 {
-                    "windowId": "S12_DailyDuos_ASIA_PC_Event2",
-                    "beginTime": "2020-03-26T04:00:00+00:00",
-                    "endTime": "2020-03-26T07:00:00+00:00"
-                },
-                {
                     "windowId": "S12_DailyDuos_ASIA_PC_Event20",
                     "beginTime": "2020-04-13T04:00:00+00:00",
                     "endTime": "2020-04-13T07:00:00+00:00"
@@ -5145,11 +5175,6 @@
                     "endTime": "2020-04-21T07:00:00+00:00"
                 },
                 {
-                    "windowId": "S12_DailyDuos_ASIA_PC_Event3",
-                    "beginTime": "2020-03-27T04:00:00+00:00",
-                    "endTime": "2020-03-27T07:00:00+00:00"
-                },
-                {
                     "windowId": "S12_DailyDuos_ASIA_PC_Event33",
                     "beginTime": "2020-04-26T04:00:00+00:00",
                     "endTime": "2020-04-26T07:00:00+00:00"
@@ -5168,31 +5193,6 @@
                     "windowId": "S12_DailyDuos_ASIA_PC_Event37",
                     "beginTime": "2020-04-30T04:00:00+00:00",
                     "endTime": "2020-04-30T07:00:00+00:00"
-                },
-                {
-                    "windowId": "S12_DailyDuos_ASIA_PC_Event4",
-                    "beginTime": "2020-03-28T04:00:00+00:00",
-                    "endTime": "2020-03-28T07:00:00+00:00"
-                },
-                {
-                    "windowId": "S12_DailyDuos_ASIA_PC_Event5",
-                    "beginTime": "2020-03-29T04:00:00+00:00",
-                    "endTime": "2020-03-29T07:00:00+00:00"
-                },
-                {
-                    "windowId": "S12_DailyDuos_ASIA_PC_Event6",
-                    "beginTime": "2020-03-30T04:00:00+00:00",
-                    "endTime": "2020-03-30T07:00:00+00:00"
-                },
-                {
-                    "windowId": "S12_DailyDuos_ASIA_PC_Event8",
-                    "beginTime": "2020-04-01T04:00:00+00:00",
-                    "endTime": "2020-04-01T07:00:00+00:00"
-                },
-                {
-                    "windowId": "S12_DailyDuos_ASIA_PC_Event9",
-                    "beginTime": "2020-04-02T04:00:00+00:00",
-                    "endTime": "2020-04-02T07:00:00+00:00"
                 }
             ]
         },
@@ -6595,11 +6595,6 @@
                     "endTime": "2020-07-03T07:00:00+00:00"
                 },
                 {
-                    "windowId": "S13_LTMTests_ASIA_Event10",
-                    "beginTime": "2020-07-12T04:00:00+00:00",
-                    "endTime": "2020-07-12T07:00:00+00:00"
-                },
-                {
                     "windowId": "S13_LTMTests_ASIA_Event2",
                     "beginTime": "2020-07-04T04:00:00+00:00",
                     "endTime": "2020-07-04T07:00:00+00:00"
@@ -6638,6 +6633,11 @@
                     "windowId": "S13_LTMTests_ASIA_Event9",
                     "beginTime": "2020-07-11T04:00:00+00:00",
                     "endTime": "2020-07-11T07:00:00+00:00"
+                },
+                {
+                    "windowId": "S13_LTMTests_ASIA_Event10",
+                    "beginTime": "2020-07-12T04:00:00+00:00",
+                    "endTime": "2020-07-12T07:00:00+00:00"
                 }
             ]
         },
@@ -6675,6 +6675,46 @@
                     "windowId": "S13_DailyHypeCup_ASIA_PC_Event1",
                     "beginTime": "2020-07-14T04:00:00+00:00",
                     "endTime": "2020-07-14T07:00:00+00:00"
+                },
+                {
+                    "windowId": "S13_DailyHypeCup_ASIA_PC_Event2",
+                    "beginTime": "2020-07-15T04:00:00+00:00",
+                    "endTime": "2020-07-15T07:00:00+00:00"
+                },
+                {
+                    "windowId": "S13_DailyHypeCup_ASIA_PC_Event3",
+                    "beginTime": "2020-07-16T04:00:00+00:00",
+                    "endTime": "2020-07-16T07:00:00+00:00"
+                },
+                {
+                    "windowId": "S13_DailyHypeCup_ASIA_PC_Event4",
+                    "beginTime": "2020-07-17T04:00:00+00:00",
+                    "endTime": "2020-07-17T07:00:00+00:00"
+                },
+                {
+                    "windowId": "S13_DailyHypeCup_ASIA_PC_Event5",
+                    "beginTime": "2020-07-18T04:00:00+00:00",
+                    "endTime": "2020-07-18T07:00:00+00:00"
+                },
+                {
+                    "windowId": "S13_DailyHypeCup_ASIA_PC_Event6",
+                    "beginTime": "2020-07-19T04:00:00+00:00",
+                    "endTime": "2020-07-19T07:00:00+00:00"
+                },
+                {
+                    "windowId": "S13_DailyHypeCup_ASIA_PC_Event7",
+                    "beginTime": "2020-07-20T04:00:00+00:00",
+                    "endTime": "2020-07-20T07:00:00+00:00"
+                },
+                {
+                    "windowId": "S13_DailyHypeCup_ASIA_PC_Event8",
+                    "beginTime": "2020-07-21T04:00:00+00:00",
+                    "endTime": "2020-07-21T07:00:00+00:00"
+                },
+                {
+                    "windowId": "S13_DailyHypeCup_ASIA_PC_Event9",
+                    "beginTime": "2020-07-22T04:00:00+00:00",
+                    "endTime": "2020-07-22T07:00:00+00:00"
                 },
                 {
                     "windowId": "S13_DailyHypeCup_ASIA_PC_Event10",
@@ -6727,11 +6767,6 @@
                     "endTime": "2020-08-01T07:00:00+00:00"
                 },
                 {
-                    "windowId": "S13_DailyHypeCup_ASIA_PC_Event2",
-                    "beginTime": "2020-07-15T04:00:00+00:00",
-                    "endTime": "2020-07-15T07:00:00+00:00"
-                },
-                {
                     "windowId": "S13_DailyHypeCup_ASIA_PC_Event20",
                     "beginTime": "2020-08-02T04:00:00+00:00",
                     "endTime": "2020-08-02T07:00:00+00:00"
@@ -6770,41 +6805,6 @@
                     "windowId": "S13_DailyHypeCup_ASIA_PC_Event27",
                     "beginTime": "2020-08-09T04:00:00+00:00",
                     "endTime": "2020-08-09T07:00:00+00:00"
-                },
-                {
-                    "windowId": "S13_DailyHypeCup_ASIA_PC_Event3",
-                    "beginTime": "2020-07-16T04:00:00+00:00",
-                    "endTime": "2020-07-16T07:00:00+00:00"
-                },
-                {
-                    "windowId": "S13_DailyHypeCup_ASIA_PC_Event4",
-                    "beginTime": "2020-07-17T04:00:00+00:00",
-                    "endTime": "2020-07-17T07:00:00+00:00"
-                },
-                {
-                    "windowId": "S13_DailyHypeCup_ASIA_PC_Event5",
-                    "beginTime": "2020-07-18T04:00:00+00:00",
-                    "endTime": "2020-07-18T07:00:00+00:00"
-                },
-                {
-                    "windowId": "S13_DailyHypeCup_ASIA_PC_Event6",
-                    "beginTime": "2020-07-19T04:00:00+00:00",
-                    "endTime": "2020-07-19T07:00:00+00:00"
-                },
-                {
-                    "windowId": "S13_DailyHypeCup_ASIA_PC_Event7",
-                    "beginTime": "2020-07-20T04:00:00+00:00",
-                    "endTime": "2020-07-20T07:00:00+00:00"
-                },
-                {
-                    "windowId": "S13_DailyHypeCup_ASIA_PC_Event8",
-                    "beginTime": "2020-07-21T04:00:00+00:00",
-                    "endTime": "2020-07-21T07:00:00+00:00"
-                },
-                {
-                    "windowId": "S13_DailyHypeCup_ASIA_PC_Event9",
-                    "beginTime": "2020-07-22T04:00:00+00:00",
-                    "endTime": "2020-07-22T07:00:00+00:00"
                 }
             ]
         },
@@ -6842,6 +6842,46 @@
                     "windowId": "S13_DailyTrios_ASIA_Console_Event1",
                     "beginTime": "2020-07-14T04:00:00+00:00",
                     "endTime": "2020-07-14T07:00:00+00:00"
+                },
+                {
+                    "windowId": "S13_DailyTrios_ASIA_Console_Event2",
+                    "beginTime": "2020-07-15T04:00:00+00:00",
+                    "endTime": "2020-07-15T07:00:00+00:00"
+                },
+                {
+                    "windowId": "S13_DailyTrios_ASIA_Console_Event3",
+                    "beginTime": "2020-07-16T04:00:00+00:00",
+                    "endTime": "2020-07-16T07:00:00+00:00"
+                },
+                {
+                    "windowId": "S13_DailyTrios_ASIA_Console_Event4",
+                    "beginTime": "2020-07-17T04:00:00+00:00",
+                    "endTime": "2020-07-17T07:00:00+00:00"
+                },
+                {
+                    "windowId": "S13_DailyTrios_ASIA_Console_Event5",
+                    "beginTime": "2020-07-18T04:00:00+00:00",
+                    "endTime": "2020-07-18T07:00:00+00:00"
+                },
+                {
+                    "windowId": "S13_DailyTrios_ASIA_Console_Event6",
+                    "beginTime": "2020-07-19T04:00:00+00:00",
+                    "endTime": "2020-07-19T07:00:00+00:00"
+                },
+                {
+                    "windowId": "S13_DailyTrios_ASIA_Console_Event7",
+                    "beginTime": "2020-07-20T04:00:00+00:00",
+                    "endTime": "2020-07-20T07:00:00+00:00"
+                },
+                {
+                    "windowId": "S13_DailyTrios_ASIA_Console_Event8",
+                    "beginTime": "2020-07-21T04:00:00+00:00",
+                    "endTime": "2020-07-21T07:00:00+00:00"
+                },
+                {
+                    "windowId": "S13_DailyTrios_ASIA_Console_Event9",
+                    "beginTime": "2020-07-22T04:00:00+00:00",
+                    "endTime": "2020-07-22T07:00:00+00:00"
                 },
                 {
                     "windowId": "S13_DailyTrios_ASIA_Console_Event10",
@@ -6894,11 +6934,6 @@
                     "endTime": "2020-08-01T07:00:00+00:00"
                 },
                 {
-                    "windowId": "S13_DailyTrios_ASIA_Console_Event2",
-                    "beginTime": "2020-07-15T04:00:00+00:00",
-                    "endTime": "2020-07-15T07:00:00+00:00"
-                },
-                {
                     "windowId": "S13_DailyTrios_ASIA_Console_Event20",
                     "beginTime": "2020-08-02T04:00:00+00:00",
                     "endTime": "2020-08-02T07:00:00+00:00"
@@ -6937,41 +6972,6 @@
                     "windowId": "S13_DailyTrios_ASIA_Console_Event27",
                     "beginTime": "2020-08-09T04:00:00+00:00",
                     "endTime": "2020-08-09T07:00:00+00:00"
-                },
-                {
-                    "windowId": "S13_DailyTrios_ASIA_Console_Event3",
-                    "beginTime": "2020-07-16T04:00:00+00:00",
-                    "endTime": "2020-07-16T07:00:00+00:00"
-                },
-                {
-                    "windowId": "S13_DailyTrios_ASIA_Console_Event4",
-                    "beginTime": "2020-07-17T04:00:00+00:00",
-                    "endTime": "2020-07-17T07:00:00+00:00"
-                },
-                {
-                    "windowId": "S13_DailyTrios_ASIA_Console_Event5",
-                    "beginTime": "2020-07-18T04:00:00+00:00",
-                    "endTime": "2020-07-18T07:00:00+00:00"
-                },
-                {
-                    "windowId": "S13_DailyTrios_ASIA_Console_Event6",
-                    "beginTime": "2020-07-19T04:00:00+00:00",
-                    "endTime": "2020-07-19T07:00:00+00:00"
-                },
-                {
-                    "windowId": "S13_DailyTrios_ASIA_Console_Event7",
-                    "beginTime": "2020-07-20T04:00:00+00:00",
-                    "endTime": "2020-07-20T07:00:00+00:00"
-                },
-                {
-                    "windowId": "S13_DailyTrios_ASIA_Console_Event8",
-                    "beginTime": "2020-07-21T04:00:00+00:00",
-                    "endTime": "2020-07-21T07:00:00+00:00"
-                },
-                {
-                    "windowId": "S13_DailyTrios_ASIA_Console_Event9",
-                    "beginTime": "2020-07-22T04:00:00+00:00",
-                    "endTime": "2020-07-22T07:00:00+00:00"
                 }
             ]
         },
@@ -7009,6 +7009,46 @@
                     "windowId": "S13_DailyTrios_ASIA_PC_Event1",
                     "beginTime": "2020-07-14T04:00:00+00:00",
                     "endTime": "2020-07-14T07:00:00+00:00"
+                },
+                {
+                    "windowId": "S13_DailyTrios_ASIA_PC_Event2",
+                    "beginTime": "2020-07-15T04:00:00+00:00",
+                    "endTime": "2020-07-15T07:00:00+00:00"
+                },
+                {
+                    "windowId": "S13_DailyTrios_ASIA_PC_Event3",
+                    "beginTime": "2020-07-16T04:00:00+00:00",
+                    "endTime": "2020-07-16T07:00:00+00:00"
+                },
+                {
+                    "windowId": "S13_DailyTrios_ASIA_PC_Event4",
+                    "beginTime": "2020-07-17T04:00:00+00:00",
+                    "endTime": "2020-07-17T07:00:00+00:00"
+                },
+                {
+                    "windowId": "S13_DailyTrios_ASIA_PC_Event5",
+                    "beginTime": "2020-07-18T04:00:00+00:00",
+                    "endTime": "2020-07-18T07:00:00+00:00"
+                },
+                {
+                    "windowId": "S13_DailyTrios_ASIA_PC_Event6",
+                    "beginTime": "2020-07-19T04:00:00+00:00",
+                    "endTime": "2020-07-19T07:00:00+00:00"
+                },
+                {
+                    "windowId": "S13_DailyTrios_ASIA_PC_Event7",
+                    "beginTime": "2020-07-20T04:00:00+00:00",
+                    "endTime": "2020-07-20T07:00:00+00:00"
+                },
+                {
+                    "windowId": "S13_DailyTrios_ASIA_PC_Event8",
+                    "beginTime": "2020-07-21T04:00:00+00:00",
+                    "endTime": "2020-07-21T07:00:00+00:00"
+                },
+                {
+                    "windowId": "S13_DailyTrios_ASIA_PC_Event9",
+                    "beginTime": "2020-07-22T04:00:00+00:00",
+                    "endTime": "2020-07-22T07:00:00+00:00"
                 },
                 {
                     "windowId": "S13_DailyTrios_ASIA_PC_Event10",
@@ -7061,11 +7101,6 @@
                     "endTime": "2020-08-01T07:00:00+00:00"
                 },
                 {
-                    "windowId": "S13_DailyTrios_ASIA_PC_Event2",
-                    "beginTime": "2020-07-15T04:00:00+00:00",
-                    "endTime": "2020-07-15T07:00:00+00:00"
-                },
-                {
                     "windowId": "S13_DailyTrios_ASIA_PC_Event20",
                     "beginTime": "2020-08-02T04:00:00+00:00",
                     "endTime": "2020-08-02T07:00:00+00:00"
@@ -7104,41 +7139,6 @@
                     "windowId": "S13_DailyTrios_ASIA_PC_Event27",
                     "beginTime": "2020-08-09T04:00:00+00:00",
                     "endTime": "2020-08-09T07:00:00+00:00"
-                },
-                {
-                    "windowId": "S13_DailyTrios_ASIA_PC_Event3",
-                    "beginTime": "2020-07-16T04:00:00+00:00",
-                    "endTime": "2020-07-16T07:00:00+00:00"
-                },
-                {
-                    "windowId": "S13_DailyTrios_ASIA_PC_Event4",
-                    "beginTime": "2020-07-17T04:00:00+00:00",
-                    "endTime": "2020-07-17T07:00:00+00:00"
-                },
-                {
-                    "windowId": "S13_DailyTrios_ASIA_PC_Event5",
-                    "beginTime": "2020-07-18T04:00:00+00:00",
-                    "endTime": "2020-07-18T07:00:00+00:00"
-                },
-                {
-                    "windowId": "S13_DailyTrios_ASIA_PC_Event6",
-                    "beginTime": "2020-07-19T04:00:00+00:00",
-                    "endTime": "2020-07-19T07:00:00+00:00"
-                },
-                {
-                    "windowId": "S13_DailyTrios_ASIA_PC_Event7",
-                    "beginTime": "2020-07-20T04:00:00+00:00",
-                    "endTime": "2020-07-20T07:00:00+00:00"
-                },
-                {
-                    "windowId": "S13_DailyTrios_ASIA_PC_Event8",
-                    "beginTime": "2020-07-21T04:00:00+00:00",
-                    "endTime": "2020-07-21T07:00:00+00:00"
-                },
-                {
-                    "windowId": "S13_DailyTrios_ASIA_PC_Event9",
-                    "beginTime": "2020-07-22T04:00:00+00:00",
-                    "endTime": "2020-07-22T07:00:00+00:00"
                 }
             ]
         },
@@ -7965,11 +7965,6 @@
             },
             "windows": [
                 {
-                    "windowId": "S13_FNCS_ASIA_Finals_Console_GrandFinals",
-                    "beginTime": "2020-08-16T08:00:00+00:00",
-                    "endTime": "2020-08-16T11:00:00+00:00"
-                },
-                {
                     "windowId": "S13_FNCS_ASIA_Finals_Console_Heat1",
                     "beginTime": "2020-08-14T08:00:00+00:00",
                     "endTime": "2020-08-14T11:00:00+00:00"
@@ -7978,6 +7973,11 @@
                     "windowId": "S13_FNCS_ASIA_Finals_Console_Heat2",
                     "beginTime": "2020-08-15T08:00:00+00:00",
                     "endTime": "2020-08-15T11:00:00+00:00"
+                },
+                {
+                    "windowId": "S13_FNCS_ASIA_Finals_Console_GrandFinals",
+                    "beginTime": "2020-08-16T08:00:00+00:00",
+                    "endTime": "2020-08-16T11:00:00+00:00"
                 }
             ]
         },
@@ -8012,11 +8012,6 @@
             },
             "windows": [
                 {
-                    "windowId": "S13_FNCS_ASIA_Finals_PC_GrandFinals",
-                    "beginTime": "2020-08-16T08:00:00+00:00",
-                    "endTime": "2020-08-16T11:00:00+00:00"
-                },
-                {
                     "windowId": "S13_FNCS_ASIA_Finals_PC_Heat1",
                     "beginTime": "2020-08-14T08:00:00+00:00",
                     "endTime": "2020-08-14T11:00:00+00:00"
@@ -8025,6 +8020,11 @@
                     "windowId": "S13_FNCS_ASIA_Finals_PC_Heat2",
                     "beginTime": "2020-08-15T08:00:00+00:00",
                     "endTime": "2020-08-15T11:00:00+00:00"
+                },
+                {
+                    "windowId": "S13_FNCS_ASIA_Finals_PC_GrandFinals",
+                    "beginTime": "2020-08-16T08:00:00+00:00",
+                    "endTime": "2020-08-16T11:00:00+00:00"
                 }
             ]
         },
@@ -8526,14 +8526,14 @@
                     "endTime": "2020-09-16T12:00:00+00:00"
                 },
                 {
-                    "windowId": "S14_WildWednesday_ASIA_Event2",
-                    "beginTime": "2020-09-24T08:00:00+00:00",
-                    "endTime": "2020-09-24T11:00:00+00:00"
-                },
-                {
                     "windowId": "S14_WildWednesday_ASIA_Event3",
                     "beginTime": "2020-10-07T08:00:00+00:00",
                     "endTime": "2020-10-07T11:00:00+00:00"
+                },
+                {
+                    "windowId": "S14_WildWednesday_ASIA_Event2",
+                    "beginTime": "2020-09-24T08:00:00+00:00",
+                    "endTime": "2020-09-24T11:00:00+00:00"
                 },
                 {
                     "windowId": "S14_WildWednesday_ASIA_Event4",
@@ -9019,17 +9019,12 @@
             "renderData": null,
             "windows": [
                 {
-                    "windowId": "S14_FNCS_Finals_ASIA_Console_Grandfinals_Event1",
-                    "beginTime": "2020-10-31T08:45:00+00:00",
-                    "endTime": "2020-10-31T11:45:00+00:00"
-                },
-                {
-                    "windowId": "S14_FNCS_Finals_ASIA_Console_Grandfinals_Event2",
-                    "beginTime": "2020-11-01T08:00:00+00:00",
-                    "endTime": "2020-11-01T11:00:00+00:00"
-                },
-                {
                     "windowId": "S14_FNCS_Finals_ASIA_Console_Heat1_Event1",
+                    "beginTime": "2020-10-29T08:00:00+00:00",
+                    "endTime": "2020-10-29T11:00:00+00:00"
+                },
+                {
+                    "windowId": "S14_FNCS_Finals_ASIA_Console_Heat2_Event1",
                     "beginTime": "2020-10-29T08:00:00+00:00",
                     "endTime": "2020-10-29T11:00:00+00:00"
                 },
@@ -9037,11 +9032,6 @@
                     "windowId": "S14_FNCS_Finals_ASIA_Console_Heat1_Event2",
                     "beginTime": "2020-10-30T08:00:00+00:00",
                     "endTime": "2020-10-30T11:00:00+00:00"
-                },
-                {
-                    "windowId": "S14_FNCS_Finals_ASIA_Console_Heat2_Event1",
-                    "beginTime": "2020-10-29T08:00:00+00:00",
-                    "endTime": "2020-10-29T11:00:00+00:00"
                 },
                 {
                     "windowId": "S14_FNCS_Finals_ASIA_Console_Heat2_Event2",
@@ -9052,6 +9042,16 @@
                     "windowId": "S14_FNCS_Finals_ASIA_Console_Wildcard_Event1",
                     "beginTime": "2020-10-31T08:00:00+00:00",
                     "endTime": "2020-10-31T08:28:00+00:00"
+                },
+                {
+                    "windowId": "S14_FNCS_Finals_ASIA_Console_Grandfinals_Event1",
+                    "beginTime": "2020-10-31T08:45:00+00:00",
+                    "endTime": "2020-10-31T11:45:00+00:00"
+                },
+                {
+                    "windowId": "S14_FNCS_Finals_ASIA_Console_Grandfinals_Event2",
+                    "beginTime": "2020-11-01T08:00:00+00:00",
+                    "endTime": "2020-11-01T11:00:00+00:00"
                 }
             ]
         },
@@ -9077,17 +9077,12 @@
             "renderData": null,
             "windows": [
                 {
-                    "windowId": "S14_FNCS_Finals_ASIA_PC_Grandfinals_Event1",
-                    "beginTime": "2020-10-31T08:45:00+00:00",
-                    "endTime": "2020-10-31T11:45:00+00:00"
-                },
-                {
-                    "windowId": "S14_FNCS_Finals_ASIA_PC_Grandfinals_Event2",
-                    "beginTime": "2020-11-01T08:00:00+00:00",
-                    "endTime": "2020-11-01T11:00:00+00:00"
-                },
-                {
                     "windowId": "S14_FNCS_Finals_ASIA_PC_Heat1_Event1",
+                    "beginTime": "2020-10-29T08:00:00+00:00",
+                    "endTime": "2020-10-29T11:00:00+00:00"
+                },
+                {
+                    "windowId": "S14_FNCS_Finals_ASIA_PC_Heat2_Event1",
                     "beginTime": "2020-10-29T08:00:00+00:00",
                     "endTime": "2020-10-29T11:00:00+00:00"
                 },
@@ -9095,11 +9090,6 @@
                     "windowId": "S14_FNCS_Finals_ASIA_PC_Heat1_Event2",
                     "beginTime": "2020-10-30T08:00:00+00:00",
                     "endTime": "2020-10-30T11:00:00+00:00"
-                },
-                {
-                    "windowId": "S14_FNCS_Finals_ASIA_PC_Heat2_Event1",
-                    "beginTime": "2020-10-29T08:00:00+00:00",
-                    "endTime": "2020-10-29T11:00:00+00:00"
                 },
                 {
                     "windowId": "S14_FNCS_Finals_ASIA_PC_Heat2_Event2",
@@ -9110,6 +9100,16 @@
                     "windowId": "S14_FNCS_Finals_ASIA_PC_Wildcard_Event1",
                     "beginTime": "2020-10-31T08:00:00+00:00",
                     "endTime": "2020-10-31T08:28:00+00:00"
+                },
+                {
+                    "windowId": "S14_FNCS_Finals_ASIA_PC_Grandfinals_Event1",
+                    "beginTime": "2020-10-31T08:45:00+00:00",
+                    "endTime": "2020-10-31T11:45:00+00:00"
+                },
+                {
+                    "windowId": "S14_FNCS_Finals_ASIA_PC_Grandfinals_Event2",
+                    "beginTime": "2020-11-01T08:00:00+00:00",
+                    "endTime": "2020-11-01T11:00:00+00:00"
                 }
             ]
         },
@@ -9312,6 +9312,11 @@
             },
             "windows": [
                 {
+                    "windowId": "S14_FNCS_Finals_ASIA_Console_Wildcard_Event1",
+                    "beginTime": "2020-10-31T08:00:00+00:00",
+                    "endTime": "2020-10-31T08:28:00+00:00"
+                },
+                {
                     "windowId": "S14_FNCS_Finals_ASIA_Console_Grandfinals_Event1",
                     "beginTime": "2020-10-31T08:45:00+00:00",
                     "endTime": "2020-10-31T11:45:00+00:00"
@@ -9320,11 +9325,6 @@
                     "windowId": "S14_FNCS_Finals_ASIA_Console_Grandfinals_Event2",
                     "beginTime": "2020-11-01T08:00:00+00:00",
                     "endTime": "2020-11-01T11:00:00+00:00"
-                },
-                {
-                    "windowId": "S14_FNCS_Finals_ASIA_Console_Wildcard_Event1",
-                    "beginTime": "2020-10-31T08:00:00+00:00",
-                    "endTime": "2020-10-31T08:28:00+00:00"
                 }
             ]
         },
@@ -9359,6 +9359,11 @@
             },
             "windows": [
                 {
+                    "windowId": "S14_FNCS_Finals_ASIA_PC_Wildcard_Event1",
+                    "beginTime": "2020-10-31T08:00:00+00:00",
+                    "endTime": "2020-10-31T08:28:00+00:00"
+                },
+                {
                     "windowId": "S14_FNCS_Finals_ASIA_PC_Grandfinals_Event1",
                     "beginTime": "2020-10-31T08:45:00+00:00",
                     "endTime": "2020-10-31T11:45:00+00:00"
@@ -9367,11 +9372,6 @@
                     "windowId": "S14_FNCS_Finals_ASIA_PC_Grandfinals_Event2",
                     "beginTime": "2020-11-01T08:00:00+00:00",
                     "endTime": "2020-11-01T11:00:00+00:00"
-                },
-                {
-                    "windowId": "S14_FNCS_Finals_ASIA_PC_Wildcard_Event1",
-                    "beginTime": "2020-10-31T08:00:00+00:00",
-                    "endTime": "2020-10-31T08:28:00+00:00"
                 }
             ]
         },
@@ -9636,14 +9636,14 @@
                     "endTime": "2020-12-13T11:00:00+00:00"
                 },
                 {
-                    "windowId": "S15_FrostyFrenzy_ASIA_Day2_Event2_Round1_MakeGood",
-                    "beginTime": "2020-12-19T09:00:00+00:00",
-                    "endTime": "2020-12-19T11:00:00+00:00"
-                },
-                {
                     "windowId": "S15_FrostyFrenzy_ASIA_Day2_Event2_Round2",
                     "beginTime": "2020-12-13T12:00:00+00:00",
                     "endTime": "2020-12-13T15:00:00+00:00"
+                },
+                {
+                    "windowId": "S15_FrostyFrenzy_ASIA_Day2_Event2_Round1_MakeGood",
+                    "beginTime": "2020-12-19T09:00:00+00:00",
+                    "endTime": "2020-12-19T11:00:00+00:00"
                 },
                 {
                     "windowId": "S15_FrostyFrenzy_ASIA_Day2_Event2_Round2_MakeGood",
@@ -9762,11 +9762,6 @@
                     "endTime": "2021-01-09T11:00:00+00:00"
                 },
                 {
-                    "windowId": "S15_FridayNiteBraggingRights_ASIA_Console_Event10",
-                    "beginTime": "2021-03-12T12:00:00+00:00",
-                    "endTime": "2021-03-12T15:00:00+00:00"
-                },
-                {
                     "windowId": "S15_FridayNiteBraggingRights_ASIA_Console_Event2",
                     "beginTime": "2021-01-15T08:00:00+00:00",
                     "endTime": "2021-01-15T11:00:00+00:00"
@@ -9795,6 +9790,11 @@
                     "windowId": "S15_FridayNiteBraggingRights_ASIA_Console_Event9",
                     "beginTime": "2021-03-05T12:00:00+00:00",
                     "endTime": "2021-03-05T15:00:00+00:00"
+                },
+                {
+                    "windowId": "S15_FridayNiteBraggingRights_ASIA_Console_Event10",
+                    "beginTime": "2021-03-12T12:00:00+00:00",
+                    "endTime": "2021-03-12T15:00:00+00:00"
                 }
             ]
         },
@@ -9834,11 +9834,6 @@
                     "endTime": "2021-01-09T11:00:00+00:00"
                 },
                 {
-                    "windowId": "S15_FridayNiteBraggingRights_ASIA_Mobile_Event10",
-                    "beginTime": "2021-03-12T12:00:00+00:00",
-                    "endTime": "2021-03-12T15:00:00+00:00"
-                },
-                {
                     "windowId": "S15_FridayNiteBraggingRights_ASIA_Mobile_Event2",
                     "beginTime": "2021-01-15T08:00:00+00:00",
                     "endTime": "2021-01-15T11:00:00+00:00"
@@ -9867,6 +9862,11 @@
                     "windowId": "S15_FridayNiteBraggingRights_ASIA_Mobile_Event9",
                     "beginTime": "2021-03-05T12:00:00+00:00",
                     "endTime": "2021-03-05T15:00:00+00:00"
+                },
+                {
+                    "windowId": "S15_FridayNiteBraggingRights_ASIA_Mobile_Event10",
+                    "beginTime": "2021-03-12T12:00:00+00:00",
+                    "endTime": "2021-03-12T15:00:00+00:00"
                 }
             ]
         },
@@ -9906,11 +9906,6 @@
                     "endTime": "2021-01-09T11:00:00+00:00"
                 },
                 {
-                    "windowId": "S15_FridayNiteBraggingRights_ASIA_Event10",
-                    "beginTime": "2021-03-12T12:00:00+00:00",
-                    "endTime": "2021-03-12T15:00:00+00:00"
-                },
-                {
                     "windowId": "S15_FridayNiteBraggingRights_ASIA_Event2",
                     "beginTime": "2021-01-15T08:00:00+00:00",
                     "endTime": "2021-01-15T11:00:00+00:00"
@@ -9939,6 +9934,11 @@
                     "windowId": "S15_FridayNiteBraggingRights_ASIA_Event9",
                     "beginTime": "2021-03-05T12:00:00+00:00",
                     "endTime": "2021-03-05T15:00:00+00:00"
+                },
+                {
+                    "windowId": "S15_FridayNiteBraggingRights_ASIA_Event10",
+                    "beginTime": "2021-03-12T12:00:00+00:00",
+                    "endTime": "2021-03-12T15:00:00+00:00"
                 }
             ]
         },
@@ -10531,7 +10531,7 @@
             "id": "epicgames_S15_FridayNiteBraggingRightsTestWeek_ASIA",
             "displayId": "s12_test_solo",
             "region": "ASIA",
-            "name_line1": "TRIOS",
+            "name_line1": "SOLO",
             "name_line2": "TEST EVENT",
             "poster": "https://cdn2.unrealengine.com/Fortnite/fortnite-game/tournamentinformation/TEST_12BR_Competitive_In-Game_FNCS_Poster_Front-750x1080-3fcd795f59a70c0f1104d7b91428c333ae0de719.jpg",
             "posterBack": null,
@@ -10628,7 +10628,7 @@
             "id": "epicgames_S15_SoloCashCupTestWeek_ASIA",
             "displayId": "s12_test_solo",
             "region": "ASIA",
-            "name_line1": "TRIOS",
+            "name_line1": "SOLO",
             "name_line2": "TEST EVENT",
             "poster": "https://cdn2.unrealengine.com/Fortnite/fortnite-game/tournamentinformation/TEST_12BR_Competitive_In-Game_FNCS_Poster_Front-750x1080-3fcd795f59a70c0f1104d7b91428c333ae0de719.jpg",
             "posterBack": null,
@@ -10673,7 +10673,7 @@
             "id": "epicgames_S15_CashCupTestWeek_ASIA",
             "displayId": "s12_test_solo",
             "region": "ASIA",
-            "name_line1": "TRIOS",
+            "name_line1": "SOLO",
             "name_line2": "TEST EVENT",
             "poster": "https://cdn2.unrealengine.com/Fortnite/fortnite-game/tournamentinformation/TEST_12BR_Competitive_In-Game_FNCS_Poster_Front-750x1080-3fcd795f59a70c0f1104d7b91428c333ae0de719.jpg",
             "posterBack": null,
@@ -11081,11 +11081,6 @@
                     "endTime": "2021-03-26T12:00:00+00:00"
                 },
                 {
-                    "windowId": "S16_FridayNiteBraggingRights_ASIA_Console_Event10",
-                    "beginTime": "2021-05-28T09:00:00+00:00",
-                    "endTime": "2021-05-28T12:00:00+00:00"
-                },
-                {
                     "windowId": "S16_FridayNiteBraggingRights_ASIA_Console_Event3",
                     "beginTime": "2021-04-09T09:00:00+00:00",
                     "endTime": "2021-04-09T12:00:00+00:00"
@@ -11099,6 +11094,11 @@
                     "windowId": "S16_FridayNiteBraggingRights_ASIA_Console_Event9",
                     "beginTime": "2021-05-21T09:00:00+00:00",
                     "endTime": "2021-05-21T12:00:00+00:00"
+                },
+                {
+                    "windowId": "S16_FridayNiteBraggingRights_ASIA_Console_Event10",
+                    "beginTime": "2021-05-28T09:00:00+00:00",
+                    "endTime": "2021-05-28T12:00:00+00:00"
                 }
             ]
         },
@@ -11138,11 +11138,6 @@
                     "endTime": "2021-03-26T12:00:00+00:00"
                 },
                 {
-                    "windowId": "S16_FridayNiteBraggingRights_ASIA_Mobile_Event10",
-                    "beginTime": "2021-05-28T09:00:00+00:00",
-                    "endTime": "2021-05-28T12:00:00+00:00"
-                },
-                {
                     "windowId": "S16_FridayNiteBraggingRights_ASIA_Mobile_Event3",
                     "beginTime": "2021-04-09T09:00:00+00:00",
                     "endTime": "2021-04-09T12:00:00+00:00"
@@ -11156,6 +11151,11 @@
                     "windowId": "S16_FridayNiteBraggingRights_ASIA_Mobile_Event9",
                     "beginTime": "2021-05-21T09:00:00+00:00",
                     "endTime": "2021-05-21T12:00:00+00:00"
+                },
+                {
+                    "windowId": "S16_FridayNiteBraggingRights_ASIA_Mobile_Event10",
+                    "beginTime": "2021-05-28T09:00:00+00:00",
+                    "endTime": "2021-05-28T12:00:00+00:00"
                 }
             ]
         },
@@ -11195,11 +11195,6 @@
                     "endTime": "2021-03-26T12:00:00+00:00"
                 },
                 {
-                    "windowId": "S16_FridayNiteBraggingRights_ASIA_PC_Event10",
-                    "beginTime": "2021-05-28T09:00:00+00:00",
-                    "endTime": "2021-05-28T12:00:00+00:00"
-                },
-                {
                     "windowId": "S16_FridayNiteBraggingRights_ASIA_PC_Event3",
                     "beginTime": "2021-04-09T09:00:00+00:00",
                     "endTime": "2021-04-09T12:00:00+00:00"
@@ -11218,6 +11213,11 @@
                     "windowId": "S16_FridayNiteBraggingRights_ASIA_PC_Event9",
                     "beginTime": "2021-05-21T09:00:00+00:00",
                     "endTime": "2021-05-21T12:00:00+00:00"
+                },
+                {
+                    "windowId": "S16_FridayNiteBraggingRights_ASIA_PC_Event10",
+                    "beginTime": "2021-05-28T09:00:00+00:00",
+                    "endTime": "2021-05-28T12:00:00+00:00"
                 }
             ]
         },
@@ -12918,11 +12918,6 @@
             "renderData": null,
             "windows": [
                 {
-                    "windowId": "ZoneWarsArena_S17_Division10_Duos",
-                    "beginTime": "2021-08-10T13:00:00+00:00",
-                    "endTime": "2021-08-24T13:00:00+00:00"
-                },
-                {
                     "windowId": "ZoneWarsArena_S17_Division1_Duos",
                     "beginTime": "2021-08-10T13:00:00+00:00",
                     "endTime": "2021-08-24T13:00:00+00:00"
@@ -12964,6 +12959,11 @@
                 },
                 {
                     "windowId": "ZoneWarsArena_S17_Division9_Duos",
+                    "beginTime": "2021-08-10T13:00:00+00:00",
+                    "endTime": "2021-08-24T13:00:00+00:00"
+                },
+                {
+                    "windowId": "ZoneWarsArena_S17_Division10_Duos",
                     "beginTime": "2021-08-10T13:00:00+00:00",
                     "endTime": "2021-08-24T13:00:00+00:00"
                 }
@@ -14013,11 +14013,6 @@
             "renderData": null,
             "windows": [
                 {
-                    "windowId": "Arena_S18_Division10_Bluecheese_Solos",
-                    "beginTime": "2021-10-04T17:00:00+00:00",
-                    "endTime": "2021-12-30T00:00:00+00:00"
-                },
-                {
                     "windowId": "Arena_S18_Division1_Bluecheese_Solos",
                     "beginTime": "2021-10-04T17:00:00+00:00",
                     "endTime": "2021-12-30T00:00:00+00:00"
@@ -14059,6 +14054,11 @@
                 },
                 {
                     "windowId": "Arena_S18_Division9_Bluecheese_Solos",
+                    "beginTime": "2021-10-04T17:00:00+00:00",
+                    "endTime": "2021-12-30T00:00:00+00:00"
+                },
+                {
+                    "windowId": "Arena_S18_Division10_Bluecheese_Solos",
                     "beginTime": "2021-10-04T17:00:00+00:00",
                     "endTime": "2021-12-30T00:00:00+00:00"
                 }
@@ -16554,6 +16554,129 @@
             ]
         },
         {
+            "id": "epicgames_S20_DuosHypeCup_Open_ASIA",
+            "displayId": "S20_hypecup_duos_open",
+            "region": "ASIA",
+            "name_line1": "DUOS OPEN",
+            "name_line2": "HYPE CUP",
+            "poster": "https://cdn2.unrealengine.com/20comp-hypecups-poster-front-750x1080-b2ac096af97c.jpg",
+            "posterBack": "https://cdn2.unrealengine.com/20comp-hypecups-poster-back-750x1080-1a25922b269e.jpg",
+            "loadingScreen": "https://cdn2.unrealengine.com/20comp-hypecups-tile-1920x1080-1920x1080-ebe2063196f0.jpg",
+            "tileImage": "https://cdn2.unrealengine.com/20comp-hypecups-tile-1920x1080-1920x1080-ebe2063196f0.jpg",
+            "short_description": "Compete among the Open League in Fortnite for Hype prizes!",
+            "long_description": "This event has Hype prizes and is only available for Open League players. This tournament occurs across two rounds, with the top 50 duos from Round 1 advancing to Round 2. Full details are available at www.epicgames.com/fortnite/competitive/news.",
+            "schedule": "Mondays and Wednesdays",
+            "beginTime": "2022-04-04T09:00:00+00:00",
+            "endTime": "2022-06-01T12:00:00+00:00",
+            "cumulative": false,
+            "platforms": [
+                "XboxOneGDK",
+                "PS4",
+                "XboxOne",
+                "XSX",
+                "Android",
+                "PS5",
+                "GFN",
+                "Switch",
+                "GFNMOBILE",
+                "Windows"
+            ],
+            "renderData": {
+                "background_text_color": "161616",
+                "poster_fade_color": "3C0999",
+                "secondary_color": "161616",
+                "title_color": "FFFFFF",
+                "background_right_color": "3C0999",
+                "highlight_color": "F7FF00",
+                "primary_color": "FFFFFF",
+                "shadow_color": "250545",
+                "background_left_color": "9D35FF",
+                "base_color": "FFFFFF"
+            },
+            "windows": [
+                {
+                    "windowId": "S20_DuosHypeCup_Open_ASIA_Event1_Round1",
+                    "beginTime": "2022-04-04T09:00:00+00:00",
+                    "endTime": "2022-04-04T12:00:00+00:00"
+                },
+                {
+                    "windowId": "S20_DuosHypeCup_Open_ASIA_Event1_Round2",
+                    "beginTime": "2022-04-06T09:00:00+00:00",
+                    "endTime": "2022-04-06T12:00:00+00:00"
+                },
+                {
+                    "windowId": "S20_DuosHypeCup_Open_ASIA_Event2_Round1",
+                    "beginTime": "2022-04-11T09:00:00+00:00",
+                    "endTime": "2022-04-11T12:00:00+00:00"
+                },
+                {
+                    "windowId": "S20_DuosHypeCup_Open_ASIA_Event2_Round2",
+                    "beginTime": "2022-04-13T09:00:00+00:00",
+                    "endTime": "2022-04-13T12:00:00+00:00"
+                },
+                {
+                    "windowId": "S20_DuosHypeCup_Open_ASIA_Event3_Round1",
+                    "beginTime": "2022-04-18T09:00:00+00:00",
+                    "endTime": "2022-04-18T12:00:00+00:00"
+                },
+                {
+                    "windowId": "S20_DuosHypeCup_Open_ASIA_Event3_Round2",
+                    "beginTime": "2022-04-20T09:00:00+00:00",
+                    "endTime": "2022-04-20T12:00:00+00:00"
+                },
+                {
+                    "windowId": "S20_DuosHypeCup_Open_ASIA_Event4_Round1",
+                    "beginTime": "2022-04-25T09:00:00+00:00",
+                    "endTime": "2022-04-25T12:00:00+00:00"
+                },
+                {
+                    "windowId": "S20_DuosHypeCup_Open_ASIA_Event4_Round2",
+                    "beginTime": "2022-04-27T09:00:00+00:00",
+                    "endTime": "2022-04-27T12:00:00+00:00"
+                },
+                {
+                    "windowId": "S20_DuosHypeCup_Open_ASIA_Event5_Round1",
+                    "beginTime": "2022-05-09T09:00:00+00:00",
+                    "endTime": "2022-05-09T12:00:00+00:00"
+                },
+                {
+                    "windowId": "S20_DuosHypeCup_Open_ASIA_Event5_Round2",
+                    "beginTime": "2022-05-11T09:00:00+00:00",
+                    "endTime": "2022-05-11T12:00:00+00:00"
+                },
+                {
+                    "windowId": "S20_DuosHypeCup_Open_ASIA_Event6_Round1",
+                    "beginTime": "2022-05-16T09:00:00+00:00",
+                    "endTime": "2022-05-16T12:00:00+00:00"
+                },
+                {
+                    "windowId": "S20_DuosHypeCup_Open_ASIA_Event6_Round2",
+                    "beginTime": "2022-05-18T09:00:00+00:00",
+                    "endTime": "2022-05-18T12:00:00+00:00"
+                },
+                {
+                    "windowId": "S20_DuosHypeCup_Open_ASIA_Event7_Round1",
+                    "beginTime": "2022-05-23T09:00:00+00:00",
+                    "endTime": "2022-05-23T12:00:00+00:00"
+                },
+                {
+                    "windowId": "S20_DuosHypeCup_Open_ASIA_Event7_Round2",
+                    "beginTime": "2022-05-26T09:00:00+00:00",
+                    "endTime": "2022-05-26T12:00:00+00:00"
+                },
+                {
+                    "windowId": "S20_DuosHypeCup_Open_ASIA_Event8_Round1",
+                    "beginTime": "2022-05-30T09:00:00+00:00",
+                    "endTime": "2022-05-30T12:00:00+00:00"
+                },
+                {
+                    "windowId": "S20_DuosHypeCup_Open_ASIA_Event8_Round2",
+                    "beginTime": "2022-06-01T09:00:00+00:00",
+                    "endTime": "2022-06-01T12:00:00+00:00"
+                }
+            ]
+        },
+        {
             "id": "epicgames_S20_DuosCashCup_ASIA",
             "displayId": "s20_cashcup_duos",
             "region": "ASIA",
@@ -16586,10 +16709,10 @@
                 "poster_fade_color": "792F68",
                 "secondary_color": "161616",
                 "title_color": "FFFFFF",
-                "background_right_color": "FCEF5B",
+                "background_right_color": "680652",
                 "highlight_color": "F7FF00",
                 "primary_color": "FFFFFF",
-                "shadow_color": "792F68",
+                "shadow_color": "161616",
                 "background_left_color": "E82CBE",
                 "base_color": "FFFFFF"
             },
@@ -16673,6 +16796,11 @@
                     "windowId": "S20_DuosCashCup_ASIA_Event8_Round2",
                     "beginTime": "2022-06-01T09:00:00+00:00",
                     "endTime": "2022-06-01T12:00:00+00:00"
+                },
+                {
+                    "windowId": "S20_DuosCashCup_ASIA_Event4_Round2_Encore",
+                    "beginTime": "2022-04-29T09:00:00+00:00",
+                    "endTime": "2022-04-29T12:00:00+00:00"
                 }
             ]
         },
@@ -16853,6 +16981,152 @@
             ]
         },
         {
+            "id": "epicgames_S20_TriosHypeCup_Champion_ASIA",
+            "displayId": "S20_hypecup_trios_champ",
+            "region": "ASIA",
+            "name_line1": "TRIOS CHAMPION",
+            "name_line2": "HYPE CUP",
+            "poster": "https://cdn2.unrealengine.com/20comp-hypecups-poster-front-750x1080-260702b67367.jpg",
+            "posterBack": "https://cdn2.unrealengine.com/20comp-hypecups-poster-back-750x1080-60b2a41ecb45.jpg",
+            "loadingScreen": "https://cdn2.unrealengine.com/20comp-hypecups-tile-1920x1080-1920x1080-b8f8da5e16ec.jpg",
+            "tileImage": "https://cdn2.unrealengine.com/20comp-hypecups-tile-1920x1080-1920x1080-b8f8da5e16ec.jpg",
+            "short_description": "Hop into this tournament for Champion League players only for a chance to boost your Hype!",
+            "long_description": "This event has Hype prizes and is only available for Champion League players. This tournament occurs across one round, so make it count. Hype will be awarded to the top ranked teams at the conclusion of the event. Full rules and eligibility details are available at www.epicgames.com/fortnite/competitive/news",
+            "schedule": "Every Friday",
+            "beginTime": "2022-04-08T09:00:00+00:00",
+            "endTime": "2022-06-03T12:00:00+00:00",
+            "cumulative": false,
+            "platforms": [
+                "XboxOneGDK",
+                "PS4",
+                "XboxOne",
+                "XSX",
+                "Android",
+                "PS5",
+                "GFN",
+                "Switch",
+                "GFNMOBILE",
+                "Windows"
+            ],
+            "renderData": {
+                "background_text_color": "161616",
+                "poster_fade_color": "3C0999",
+                "secondary_color": "161616",
+                "title_color": "FFFFFF",
+                "background_right_color": "3C0999",
+                "highlight_color": "F7FF00",
+                "primary_color": "FFFFFF",
+                "shadow_color": "250545",
+                "background_left_color": "9D35FF",
+                "base_color": "FFFFFF"
+            },
+            "windows": [
+                {
+                    "windowId": "S20_TriosHypeCup_Champion_ASIA_Event1",
+                    "beginTime": "2022-04-08T09:00:00+00:00",
+                    "endTime": "2022-04-08T12:00:00+00:00"
+                },
+                {
+                    "windowId": "S20_TriosHypeCup_Champion_ASIA_Event2",
+                    "beginTime": "2022-04-15T09:00:00+00:00",
+                    "endTime": "2022-04-15T12:00:00+00:00"
+                },
+                {
+                    "windowId": "S20_TriosHypeCup_Champion_ASIA_Event3",
+                    "beginTime": "2022-04-22T09:00:00+00:00",
+                    "endTime": "2022-04-22T12:00:00+00:00"
+                },
+                {
+                    "windowId": "S20_TriosHypeCup_Champion_ASIA_Event4",
+                    "beginTime": "2022-04-29T09:00:00+00:00",
+                    "endTime": "2022-04-29T12:00:00+00:00"
+                },
+                {
+                    "windowId": "S20_TriosHypeCup_Champion_ASIA_Event5",
+                    "beginTime": "2022-05-20T09:00:00+00:00",
+                    "endTime": "2022-05-20T12:00:00+00:00"
+                },
+                {
+                    "windowId": "S20_TriosHypeCup_Champion_ASIA_Event6",
+                    "beginTime": "2022-06-03T09:00:00+00:00",
+                    "endTime": "2022-06-03T12:00:00+00:00"
+                }
+            ]
+        },
+        {
+            "id": "epicgames_S20_TriosHypeCup_Contender_ASIA",
+            "displayId": "S20_hypecup_trios_contender",
+            "region": "ASIA",
+            "name_line1": "TRIOS CONTENDER",
+            "name_line2": "HYPE CUP",
+            "poster": "https://cdn2.unrealengine.com/20comp-hypecups-poster-front-750x1080-b6ab2b95e450.jpg",
+            "posterBack": "https://cdn2.unrealengine.com/20comp-hypecups-poster-back-750x1080-ae168c43cca4.jpg",
+            "loadingScreen": "https://cdn2.unrealengine.com/20comp-hypecups-tile-1920x1080-1920x1080-116b2c1e1832.jpg",
+            "tileImage": "https://cdn2.unrealengine.com/20comp-hypecups-tile-1920x1080-1920x1080-116b2c1e1832.jpg",
+            "short_description": "Hop into this tournament for Contender League players only for a chance to boost your Hype!",
+            "long_description": "This event has Hype prizes and is only available for Contender League players. This tournament occurs across one round, so make it count. Hype will be awarded to the top ranked teams at the conclusion of the event. Full rules and eligibility details are available at www.epicgames.com/fortnite/competitive/news",
+            "schedule": "Every Friday",
+            "beginTime": "2022-04-08T09:00:00+00:00",
+            "endTime": "2022-06-03T12:00:00+00:00",
+            "cumulative": false,
+            "platforms": [
+                "XboxOneGDK",
+                "PS4",
+                "XboxOne",
+                "XSX",
+                "Android",
+                "PS5",
+                "GFN",
+                "Switch",
+                "GFNMOBILE",
+                "Windows"
+            ],
+            "renderData": {
+                "background_text_color": "161616",
+                "poster_fade_color": "3C0999",
+                "secondary_color": "161616",
+                "title_color": "FFFFFF",
+                "background_right_color": "3C0999",
+                "highlight_color": "F7FF00",
+                "primary_color": "FFFFFF",
+                "shadow_color": "250545",
+                "background_left_color": "9D35FF",
+                "base_color": "FFFFFF"
+            },
+            "windows": [
+                {
+                    "windowId": "S20_TriosHypeCup_Contender_ASIA_Event1",
+                    "beginTime": "2022-04-08T09:00:00+00:00",
+                    "endTime": "2022-04-08T12:00:00+00:00"
+                },
+                {
+                    "windowId": "S20_TriosHypeCup_Contender_ASIA_Event2",
+                    "beginTime": "2022-04-15T09:00:00+00:00",
+                    "endTime": "2022-04-15T12:00:00+00:00"
+                },
+                {
+                    "windowId": "S20_TriosHypeCup_Contender_ASIA_Event3",
+                    "beginTime": "2022-04-22T09:00:00+00:00",
+                    "endTime": "2022-04-22T12:00:00+00:00"
+                },
+                {
+                    "windowId": "S20_TriosHypeCup_Contender_ASIA_Event4",
+                    "beginTime": "2022-04-29T09:00:00+00:00",
+                    "endTime": "2022-04-29T12:00:00+00:00"
+                },
+                {
+                    "windowId": "S20_TriosHypeCup_Contender_ASIA_Event5",
+                    "beginTime": "2022-05-20T09:00:00+00:00",
+                    "endTime": "2022-05-20T12:00:00+00:00"
+                },
+                {
+                    "windowId": "S20_TriosHypeCup_Contender_ASIA_Event6",
+                    "beginTime": "2022-06-03T09:00:00+00:00",
+                    "endTime": "2022-06-03T12:00:00+00:00"
+                }
+            ]
+        },
+        {
             "id": "epicgames_s20_TriosHypeCup_Open_ASIA",
             "displayId": "s20_hypecup_trios_open",
             "region": "ASIA",
@@ -16998,10 +17272,10 @@
                 "poster_fade_color": "792F68",
                 "secondary_color": "161616",
                 "title_color": "FFFFFF",
-                "background_right_color": "FCEF5B",
+                "background_right_color": "680652",
                 "highlight_color": "F7FF00",
                 "primary_color": "FFFFFF",
-                "shadow_color": "792F68",
+                "shadow_color": "161616",
                 "background_left_color": "E82CBE",
                 "base_color": "FFFFFF"
             },
@@ -17357,6 +17631,696 @@
                     "windowId": "S20_LCElimOnlyHighScoreDuos_ASIA_Round3",
                     "beginTime": "2022-04-14T09:00:00+00:00",
                     "endTime": "2022-04-14T11:00:00+00:00"
+                }
+            ]
+        },
+        {
+            "id": "epicgames_S20_LCArchitectDuos_ASIA",
+            "displayId": "s20_lc_architectduos",
+            "region": "ASIA",
+            "name_line1": "\"Architect - Duos\"",
+            "name_line2": "Lightning Cup",
+            "poster": "https://cdn2.unrealengine.com/20comp-lightningcup-poster-front-750x1080-1634c7d2f3de.jpg",
+            "posterBack": "https://cdn2.unrealengine.com/20comp-lightningcup-poster-back-750x1080-8b6ed46acbea.jpg",
+            "loadingScreen": "https://cdn2.unrealengine.com/20comp-lightningcup-tile-1920x1080-1920x1080-9f2e90db5f7d.jpg",
+            "tileImage": "https://cdn2.unrealengine.com/20comp-lightningcup-tile-1920x1080-1920x1080-9f2e90db5f7d.jpg",
+            "short_description": "Share the love (and your builds) in the Architect Cup!",
+            "long_description": "This Lightning Cup will utilize \"Architect\" game rules, where players can edit not only their own builds, but everyone else's too!  Full rules and details here: https://www.epicgames.com/fortnite/competitive/en-US/rules-library",
+            "schedule": "April 19th",
+            "beginTime": "2022-04-19T10:00:00+00:00",
+            "endTime": "2022-04-19T12:00:00+00:00",
+            "cumulative": false,
+            "platforms": [
+                "XboxOneGDK",
+                "PS4",
+                "XboxOne",
+                "XSX",
+                "Android",
+                "PS5",
+                "GFN",
+                "Switch",
+                "GFNMOBILE",
+                "Windows"
+            ],
+            "renderData": {
+                "title_color": "FFFFFF",
+                "background_text_color": "FFFFFF",
+                "background_right_color": "38025A",
+                "highlight_color": "F7FF00",
+                "primary_color": "F83D47",
+                "shadow_color": "24003A",
+                "background_left_color": "590191",
+                "poster_fade_color": "2E014B",
+                "secondary_color": "38025A",
+                "base_color": "FFFFFF"
+            },
+            "windows": [
+                {
+                    "windowId": "S20_LCArchitectDuos_ASIA",
+                    "beginTime": "2022-04-19T10:00:00+00:00",
+                    "endTime": "2022-04-19T12:00:00+00:00"
+                }
+            ]
+        },
+        {
+            "id": "epicgames_S20_LCNoBuildDuos_ASIA",
+            "displayId": "s20_lc_zerobuildduos",
+            "region": "ASIA",
+            "name_line1": "\"Zero Build - Duos\"",
+            "name_line2": "Lightning Cup",
+            "poster": "https://cdn2.unrealengine.com/20comp-lightningcup-poster-front-750x1080-1634c7d2f3de.jpg",
+            "posterBack": "https://cdn2.unrealengine.com/20comp-lightningcup-poster-back-750x1080-8b6ed46acbea.jpg",
+            "loadingScreen": "https://cdn2.unrealengine.com/20comp-lightningcup-tile-1920x1080-1920x1080-9f2e90db5f7d.jpg",
+            "tileImage": "https://cdn2.unrealengine.com/20comp-lightningcup-tile-1920x1080-1920x1080-9f2e90db5f7d.jpg",
+            "short_description": "Leave the blueprints, but bring a friend. It's a Zero Build Lightning Cup!",
+            "long_description": "It's just you and your teammate in this Zero Build Lightning Cup! Full rules and details here: https://www.epicgames.com/fortnite/competitive/en-US/rules-library",
+            "schedule": "April 21st",
+            "beginTime": "2022-04-21T10:00:00+00:00",
+            "endTime": "2022-04-21T12:00:00+00:00",
+            "cumulative": false,
+            "platforms": [
+                "XboxOneGDK",
+                "PS4",
+                "XboxOne",
+                "XSX",
+                "Android",
+                "PS5",
+                "GFN",
+                "Switch",
+                "GFNMOBILE",
+                "Windows"
+            ],
+            "renderData": {
+                "title_color": "FFFFFF",
+                "background_text_color": "FFFFFF",
+                "background_right_color": "38025A",
+                "highlight_color": "F7FF00",
+                "primary_color": "F83D47",
+                "shadow_color": "24003A",
+                "background_left_color": "590191",
+                "poster_fade_color": "2E014B",
+                "secondary_color": "38025A",
+                "base_color": "FFFFFF"
+            },
+            "windows": [
+                {
+                    "windowId": "S20_LCNoBuildDuos_ASIA",
+                    "beginTime": "2022-04-21T10:00:00+00:00",
+                    "endTime": "2022-04-21T12:00:00+00:00"
+                }
+            ]
+        },
+        {
+            "id": "epicgames_S20_TwovTwoGlobalTest_ASIA",
+            "displayId": "s20_2v2_test",
+            "region": "ASIA",
+            "name_line1": "Finest's Realistic 2v2",
+            "name_line2": "Test Event",
+            "poster": "https://cdn2.unrealengine.com/20comp-in-game-evergreen-blue-poster-front-1-750x1080-a0e91eb4e73b.jpg",
+            "posterBack": "https://cdn2.unrealengine.com/20comp-in-game-evergreen-blue-poster-back-750x1080-ac6aa3717ab1.jpg",
+            "loadingScreen": "https://cdn2.unrealengine.com/20comp-in-game-evergreen-blue-tile-1920x1080-1920x1080-5f1ce6c6419a.jpg",
+            "tileImage": "https://cdn2.unrealengine.com/20comp-in-game-evergreen-blue-tile-1920x1080-1920x1080-5f1ce6c6419a.jpg",
+            "short_description": "This test event will self-destruct at it's conclusion.",
+            "long_description": "This is a public test event of \"Finest's Realistic 2v2\" map. Each game is first to 4 rounds. You have unlimited games.",
+            "schedule": "April 6th",
+            "beginTime": "2022-04-22T07:00:00+00:00",
+            "endTime": "2022-04-22T09:00:00+00:00",
+            "cumulative": false,
+            "platforms": [
+                "XboxOneGDK",
+                "PS4",
+                "XboxOne",
+                "XSX",
+                "Android",
+                "PS5",
+                "GFN",
+                "Switch",
+                "GFNMOBILE",
+                "Windows"
+            ],
+            "renderData": {
+                "title_color": "FFFFFF",
+                "background_text_color": "161616",
+                "background_right_color": "029DD7",
+                "highlight_color": "F7FF00",
+                "primary_color": "FFFFFF",
+                "shadow_color": "161616",
+                "background_left_color": "0434E3",
+                "poster_fade_color": "029DD7",
+                "secondary_color": "161616",
+                "base_color": "FFFFFF"
+            },
+            "windows": [
+                {
+                    "windowId": "S20_TwovTwoGlobalTest_ASIA_Event1",
+                    "beginTime": "2022-04-22T07:00:00+00:00",
+                    "endTime": "2022-04-22T09:00:00+00:00"
+                }
+            ]
+        },
+        {
+            "id": "epicgames_S20_LCSuperBlitzDuos_ASIA",
+            "displayId": "s20_lc_superblitzduos",
+            "region": "ASIA",
+            "name_line1": "\"Super Blitz - Duos\"",
+            "name_line2": "Lightning Cup",
+            "poster": "https://cdn2.unrealengine.com/20comp-lightningcup-poster-front-750x1080-1634c7d2f3de.jpg",
+            "posterBack": "https://cdn2.unrealengine.com/20comp-lightningcup-poster-back-750x1080-8b6ed46acbea.jpg",
+            "loadingScreen": "https://cdn2.unrealengine.com/20comp-lightningcup-tile-1920x1080-1920x1080-9f2e90db5f7d.jpg",
+            "tileImage": "https://cdn2.unrealengine.com/20comp-lightningcup-tile-1920x1080-1920x1080-9f2e90db5f7d.jpg",
+            "short_description": "With the storm on your heels, it's time to pick up the pace in the Super Blitz Cup!",
+            "long_description": "This Lightning Cup will feature significantly faster storm timings. Full rules and details here: https://www.epicgames.com/fortnite/competitive/en-US/rules-library",
+            "schedule": "April 26th",
+            "beginTime": "2022-04-26T10:00:00+00:00",
+            "endTime": "2022-04-26T12:00:00+00:00",
+            "cumulative": false,
+            "platforms": [
+                "XboxOneGDK",
+                "PS4",
+                "XboxOne",
+                "XSX",
+                "Android",
+                "PS5",
+                "GFN",
+                "Switch",
+                "GFNMOBILE",
+                "Windows"
+            ],
+            "renderData": {
+                "title_color": "FFFFFF",
+                "background_text_color": "FFFFFF",
+                "background_right_color": "38025A",
+                "highlight_color": "F7FF00",
+                "primary_color": "F83D47",
+                "shadow_color": "24003A",
+                "background_left_color": "590191",
+                "poster_fade_color": "2E014B",
+                "secondary_color": "38025A",
+                "base_color": "FFFFFF"
+            },
+            "windows": [
+                {
+                    "windowId": "S20_LCSuperBlitzDuos_ASIA",
+                    "beginTime": "2022-04-26T10:00:00+00:00",
+                    "endTime": "2022-04-26T12:00:00+00:00"
+                }
+            ]
+        },
+        {
+            "id": "epicgames_S20_AndroidStreetFighterCup_ASIA",
+            "displayId": "s20_streetfighter",
+            "region": "ASIA",
+            "name_line1": "Blanka & Sakura",
+            "name_line2": "Cup",
+            "poster": "https://cdn2.unrealengine.com/20comp-blanka-sakura-poster-front-750x1080-2df7d4b1a701.jpg",
+            "posterBack": "https://cdn2.unrealengine.com/20comp-blanka-sakura-poster-back-750x1080-d86b832da5c1.jpg",
+            "loadingScreen": "https://cdn2.unrealengine.com/20comp-blanka-sakura-tile-1920x1080-1920x1080-9dd6ba60488e.jpg",
+            "tileImage": "https://cdn2.unrealengine.com/20comp-blanka-sakura-tile-1920x1080-1920x1080-9dd6ba60488e.jpg",
+            "short_description": "Round 1, Fight! ",
+            "long_description": "Finish in the top 25% of the leaderboard at the conclusion of the event to win the \"Bonus Stage\"  loading screen! Full rules and details here: fn.gg/BlankaSakuraCup",
+            "schedule": "April 27-28",
+            "beginTime": "2022-04-27T09:00:00+00:00",
+            "endTime": "2022-04-27T12:00:00+00:00",
+            "cumulative": false,
+            "platforms": [
+                "Android"
+            ],
+            "renderData": {
+                "title_color": "FFFFFF",
+                "background_text_color": "161616",
+                "background_right_color": "FFD909",
+                "highlight_color": "F7FF00",
+                "primary_color": "FFFFFF",
+                "shadow_color": "76040F",
+                "background_left_color": "E61107",
+                "poster_fade_color": "BD320D",
+                "secondary_color": "161616",
+                "base_color": "FFFFFF"
+            },
+            "windows": [
+                {
+                    "windowId": "S20_AndroidStreetFighterCup_ASIA_Event1",
+                    "beginTime": "2022-04-27T09:00:00+00:00",
+                    "endTime": "2022-04-27T12:00:00+00:00"
+                }
+            ]
+        },
+        {
+            "id": "epicgames_S20_StreetFighterCup_ASIA",
+            "displayId": "s20_streetfighter",
+            "region": "ASIA",
+            "name_line1": "Blanka & Sakura",
+            "name_line2": "Cup",
+            "poster": "https://cdn2.unrealengine.com/20comp-blanka-sakura-poster-front-750x1080-2df7d4b1a701.jpg",
+            "posterBack": "https://cdn2.unrealengine.com/20comp-blanka-sakura-poster-back-750x1080-d86b832da5c1.jpg",
+            "loadingScreen": "https://cdn2.unrealengine.com/20comp-blanka-sakura-tile-1920x1080-1920x1080-9dd6ba60488e.jpg",
+            "tileImage": "https://cdn2.unrealengine.com/20comp-blanka-sakura-tile-1920x1080-1920x1080-9dd6ba60488e.jpg",
+            "short_description": "Round 1, Fight! ",
+            "long_description": "Finish in the top 25% of the leaderboard at the conclusion of the event to win the \"Bonus Stage\"  loading screen! Full rules and details here: fn.gg/BlankaSakuraCup",
+            "schedule": "April 27-28",
+            "beginTime": "2022-04-28T09:00:00+00:00",
+            "endTime": "2022-04-28T12:00:00+00:00",
+            "cumulative": false,
+            "platforms": [
+                "XboxOneGDK",
+                "PS4",
+                "XboxOne",
+                "XSX",
+                "Android",
+                "PS5",
+                "GFN",
+                "Switch",
+                "GFNMOBILE",
+                "Windows"
+            ],
+            "renderData": {
+                "title_color": "FFFFFF",
+                "background_text_color": "161616",
+                "background_right_color": "FFD909",
+                "highlight_color": "F7FF00",
+                "primary_color": "FFFFFF",
+                "shadow_color": "76040F",
+                "background_left_color": "E61107",
+                "poster_fade_color": "BD320D",
+                "secondary_color": "161616",
+                "base_color": "FFFFFF"
+            },
+            "windows": [
+                {
+                    "windowId": "S20_StreetFighterCup_ASIA_Event1",
+                    "beginTime": "2022-04-28T09:00:00+00:00",
+                    "endTime": "2022-04-28T12:00:00+00:00"
+                }
+            ]
+        },
+        {
+            "id": "epicgames_s20_FridayNightZeroBuild_ASIA",
+            "displayId": "s20_fridaynightzerobuild",
+            "region": "ASIA",
+            "name_line1": "Zero Build",
+            "name_line2": "Night",
+            "poster": "https://cdn2.unrealengine.com/20comp-in-game-evergreen-orange-poster-front-1-750x1080-faa09e264ad3.jpg",
+            "posterBack": "https://cdn2.unrealengine.com/20comp-in-game-evergreen-orange-poster-back-750x1080-28d364f2c19c.jpg",
+            "loadingScreen": "https://cdn2.unrealengine.com/20comp-in-game-evergreen-orange-tile-1920x1080-1920x1080-9260fa6fb7df.jpg",
+            "tileImage": "https://cdn2.unrealengine.com/20comp-in-game-evergreen-orange-tile-1920x1080-1920x1080-9260fa6fb7df.jpg",
+            "short_description": "Throw away your blueprints. It's Friday Night!",
+            "long_description": "Gather your trio and compete in this weekly Zero Build tournament open to everyone! Teams will have 2 hours to score as many points as possible. Full rules and details: https://www.epicgames.com/fortnite/competitive/en-US/rules-library",
+            "schedule": "Fridays",
+            "beginTime": "2022-04-29T11:00:00+00:00",
+            "endTime": "2022-06-03T13:00:00+00:00",
+            "cumulative": false,
+            "platforms": [
+                "XboxOneGDK",
+                "PS4",
+                "XboxOne",
+                "XSX",
+                "Android",
+                "PS5",
+                "GFN",
+                "Switch",
+                "GFNMOBILE",
+                "Windows"
+            ],
+            "renderData": {
+                "title_color": "FFFFFF",
+                "background_text_color": "161616",
+                "background_right_color": "E2C002",
+                "highlight_color": "F7FF00",
+                "primary_color": "FFFFFF",
+                "shadow_color": "161616",
+                "background_left_color": "E33404",
+                "poster_fade_color": "E2C002",
+                "secondary_color": "161616",
+                "base_color": "FFFFFF"
+            },
+            "windows": [
+                {
+                    "windowId": "s20_FridayNightZeroBuild_ASIA_Event1",
+                    "beginTime": "2022-04-29T11:00:00+00:00",
+                    "endTime": "2022-04-29T13:00:00+00:00"
+                },
+                {
+                    "windowId": "s20_FridayNightZeroBuild_ASIA_Event2",
+                    "beginTime": "2022-05-20T11:00:00+00:00",
+                    "endTime": "2022-05-20T13:00:00+00:00"
+                },
+                {
+                    "windowId": "s20_FridayNightZeroBuild_ASIA_Event3",
+                    "beginTime": "2022-06-03T11:00:00+00:00",
+                    "endTime": "2022-06-03T13:00:00+00:00"
+                }
+            ]
+        },
+        {
+            "id": "epicgames_S20_FNCS_Qualifier1_ASIA",
+            "displayId": "s20_fncs_qualifier1",
+            "region": "ASIA",
+            "name_line1": "FNCS",
+            "name_line2": "QUALIFIER 1",
+            "poster": "https://cdn2.unrealengine.com/20comp-fncs-in-game-poster-front-qual1-750x1080-1ca63aab9c7a.jpg",
+            "posterBack": "https://cdn2.unrealengine.com/20comp-fncs-in-game-poster-back-750x1080-306166101154.jpg",
+            "loadingScreen": "https://cdn2.unrealengine.com/20comp-fncs-in-game-discoverytile-1920x1080-1920x1080-629f77936c9f.jpg",
+            "tileImage": "https://cdn2.unrealengine.com/20comp-fncs-in-game-discoverytile-1920x1080-1920x1080-629f77936c9f.jpg",
+            "short_description": "Compete in the Fortnite Champion Series: Chapter 3 - Season 2 for a share of the $3,000,000 total prize pool.",
+            "long_description": "Reach Champion League in Arena mode to unlock this event. This Qualifier occurs across four rounds - Round One (Champion Ranked Duos), Round Two (Top 2000 duos EU/NA/BR, Top 1000 duos ASIA/ME, Top 500 duos OCE), Round Three (Top 500 duos EU/NA/BR, Top 250 duos ASIA/ME/OCE), and Round Four (Top 50 duos). The top 5 teams at the conclusion of Round Four in each region will skip Semi-Finals and advance directly to the Finals. Teams will also accumulate Series Points based on each Qualifier's results, and top performers will be invited to the Semi-Finals. Full rules and details can be found at fortnite.com/competitive",
+            "schedule": "May 2-6",
+            "beginTime": "2022-05-02T09:00:00+00:00",
+            "endTime": "2022-05-06T12:00:00+00:00",
+            "cumulative": false,
+            "platforms": [
+                "XboxOneGDK",
+                "PS4",
+                "XboxOne",
+                "XSX",
+                "Android",
+                "PS5",
+                "GFN",
+                "Switch",
+                "GFNMOBILE",
+                "Windows"
+            ],
+            "renderData": {
+                "background_text_color": "FFFFFF",
+                "poster_fade_color": "EEEDFB",
+                "secondary_color": "161616",
+                "title_color": "FFFFFF",
+                "background_right_color": "AAACBB",
+                "highlight_color": "F7FF00",
+                "primary_color": "F20033",
+                "shadow_color": "161616",
+                "background_left_color": "D8D7E3",
+                "base_color": "FFFFFF"
+            },
+            "windows": [
+                {
+                    "windowId": "S20_FNCS_Qualifier1_ASIA_Round1",
+                    "beginTime": "2022-05-02T09:00:00+00:00",
+                    "endTime": "2022-05-02T12:00:00+00:00"
+                },
+                {
+                    "windowId": "S20_FNCS_Qualifier1_ASIA_Round2",
+                    "beginTime": "2022-05-04T09:00:00+00:00",
+                    "endTime": "2022-05-04T12:00:00+00:00"
+                },
+                {
+                    "windowId": "S20_FNCS_Qualifier1_ASIA_Round3",
+                    "beginTime": "2022-05-05T09:00:00+00:00",
+                    "endTime": "2022-05-05T12:00:00+00:00"
+                },
+                {
+                    "windowId": "S20_FNCS_Qualifier1_ASIA_Round4",
+                    "beginTime": "2022-05-06T09:00:00+00:00",
+                    "endTime": "2022-05-06T12:00:00+00:00"
+                }
+            ]
+        },
+        {
+            "id": "epicgames_S20_LCElegantWeaponsDuos_ASIA",
+            "displayId": "s20_lc_elegantweaponsduos",
+            "region": "ASIA",
+            "name_line1": "\"Star Wars\"",
+            "name_line2": "Lightning Cup",
+            "poster": "https://cdn2.unrealengine.com/20comp-lightningcup-poster-front-750x1080-1634c7d2f3de.jpg",
+            "posterBack": "https://cdn2.unrealengine.com/20comp-lightningcup-poster-back-750x1080-8b6ed46acbea.jpg",
+            "loadingScreen": "https://cdn2.unrealengine.com/20comp-lightningcup-tile-1920x1080-1920x1080-9f2e90db5f7d.jpg",
+            "tileImage": "https://cdn2.unrealengine.com/20comp-lightningcup-tile-1920x1080-1920x1080-9f2e90db5f7d.jpg",
+            "short_description": "This weapon is your life.",
+            "long_description": "This Lightning Cup will feature a special, adjusted loot pool. Full rules and details here: https://www.epicgames.com/fortnite/competitive/en-US/rules-library",
+            "schedule": "May 3rd",
+            "beginTime": "2022-05-03T11:00:00+00:00",
+            "endTime": "2022-05-11T12:00:00+00:00",
+            "cumulative": false,
+            "platforms": [
+                "XboxOneGDK",
+                "PS4",
+                "XboxOne",
+                "XSX",
+                "Android",
+                "PS5",
+                "GFN",
+                "Switch",
+                "GFNMOBILE",
+                "Windows"
+            ],
+            "renderData": {
+                "title_color": "FFFFFF",
+                "background_text_color": "FFFFFF",
+                "background_right_color": "38025A",
+                "highlight_color": "F7FF00",
+                "primary_color": "F83D47",
+                "shadow_color": "24003A",
+                "background_left_color": "590191",
+                "poster_fade_color": "2E014B",
+                "secondary_color": "38025A",
+                "base_color": "FFFFFF"
+            },
+            "windows": [
+                {
+                    "windowId": "S20_LCElegantWeaponsDuos_Event1_ASIA",
+                    "beginTime": "2022-05-03T11:00:00+00:00",
+                    "endTime": "2022-05-03T13:00:00+00:00"
+                },
+                {
+                    "windowId": "S20_LCElegantWeaponsDuos_Event2_ASIA",
+                    "beginTime": "2022-05-11T10:00:00+00:00",
+                    "endTime": "2022-05-11T12:00:00+00:00"
+                }
+            ]
+        },
+        {
+            "id": "epicgames_S20_FNCS_Qualifier2_ASIA",
+            "displayId": "s20_fncs_qualifier2",
+            "region": "ASIA",
+            "name_line1": "FNCS",
+            "name_line2": "QUALIFIER 2",
+            "poster": "https://cdn2.unrealengine.com/20comp-fncs-in-game-poster-front-qual2-750x1080-7e5db04b171d.jpg",
+            "posterBack": "https://cdn2.unrealengine.com/20comp-fncs-in-game-poster-back-750x1080-306166101154.jpg",
+            "loadingScreen": "https://cdn2.unrealengine.com/20comp-fncs-in-game-discoverytile-1920x1080-1920x1080-629f77936c9f.jpg",
+            "tileImage": "https://cdn2.unrealengine.com/20comp-fncs-in-game-discoverytile-1920x1080-1920x1080-629f77936c9f.jpg",
+            "short_description": "Compete in the Fortnite Champion Series: Chapter 3 - Season 2 for a share of the $3,000,000 total prize pool.",
+            "long_description": "Reach Champion League in Arena mode to unlock this event. This Qualifier occurs across four rounds - Round One (Champion Ranked Duos), Round Two (Top 2000 duos EU/NA/BR, Top 1000 duos ASIA/ME, Top 500 duos OCE), Round Three (Top 500 duos EU/NA/BR, Top 250 duos ASIA/ME/OCE), and Round Four (Top 50 duos). The top 5 teams at the conclusion of Round Four in each region will skip Semi-Finals and advance directly to the Finals. Teams will also accumulate Series Points based on each Qualifier's results, and top performers will be invited to the Semi-Finals. Full rules and details can be found at fortnite.com/competitive",
+            "schedule": "May 7-8",
+            "beginTime": "2022-05-07T05:00:00+00:00",
+            "endTime": "2022-05-08T12:00:00+00:00",
+            "cumulative": false,
+            "platforms": [
+                "XboxOneGDK",
+                "PS4",
+                "XboxOne",
+                "XSX",
+                "Android",
+                "PS5",
+                "GFN",
+                "Switch",
+                "GFNMOBILE",
+                "Windows"
+            ],
+            "renderData": {
+                "background_text_color": "FFFFFF",
+                "poster_fade_color": "EEEDFB",
+                "secondary_color": "161616",
+                "title_color": "FFFFFF",
+                "background_right_color": "AAACBB",
+                "highlight_color": "F7FF00",
+                "primary_color": "F20033",
+                "shadow_color": "161616",
+                "background_left_color": "D8D7E3",
+                "base_color": "FFFFFF"
+            },
+            "windows": [
+                {
+                    "windowId": "S20_FNCS_Qualifier2_ASIA_Round1",
+                    "beginTime": "2022-05-07T05:00:00+00:00",
+                    "endTime": "2022-05-07T08:00:00+00:00"
+                },
+                {
+                    "windowId": "S20_FNCS_Qualifier2_ASIA_Round2",
+                    "beginTime": "2022-05-07T09:00:00+00:00",
+                    "endTime": "2022-05-07T12:00:00+00:00"
+                },
+                {
+                    "windowId": "S20_FNCS_Qualifier2_ASIA_Round3",
+                    "beginTime": "2022-05-08T05:00:00+00:00",
+                    "endTime": "2022-05-08T08:00:00+00:00"
+                },
+                {
+                    "windowId": "S20_FNCS_Qualifier2_ASIA_Round4",
+                    "beginTime": "2022-05-08T09:00:00+00:00",
+                    "endTime": "2022-05-08T12:00:00+00:00"
+                }
+            ]
+        },
+        {
+            "id": "epicgames_S20_FNCS_Qualifier3_ASIA",
+            "displayId": "s20_fncs_qualifier3",
+            "region": "ASIA",
+            "name_line1": "FNCS",
+            "name_line2": "QUALIFIER 3",
+            "poster": "https://cdn2.unrealengine.com/20comp-fncs-in-game-poster-front-qual3-750x1080-107147dea920.jpg",
+            "posterBack": "https://cdn2.unrealengine.com/20comp-fncs-in-game-poster-back-750x1080-306166101154.jpg",
+            "loadingScreen": "https://cdn2.unrealengine.com/20comp-fncs-in-game-discoverytile-1920x1080-1920x1080-629f77936c9f.jpg",
+            "tileImage": "https://cdn2.unrealengine.com/20comp-fncs-in-game-discoverytile-1920x1080-1920x1080-629f77936c9f.jpg",
+            "short_description": "Compete in the Fortnite Champion Series: Chapter 3 - Season 2 for a share of the $3,000,000 total prize pool.",
+            "long_description": "Reach Champion League in Arena mode to unlock this event. This Qualifier occurs across four rounds - Round One (Champion Ranked Duos), Round Two (Top 2000 duos EU/NA/BR, Top 1000 duos ASIA/ME, Top 500 duos OCE), Round Three (Top 500 duos EU/NA/BR, Top 250 duos ASIA/ME/OCE), and Round Four (Top 50 duos). The top 5 teams at the conclusion of Round Four in each region will skip Semi-Finals and advance directly to the Finals. Teams will also accumulate Series Points based on each Qualifier's results, and top performers will be invited to the Semi-Finals. Full rules and details can be found at fortnite.com/competitive",
+            "schedule": "May 13-15",
+            "beginTime": "2022-05-13T09:00:00+00:00",
+            "endTime": "2022-05-15T12:00:00+00:00",
+            "cumulative": false,
+            "platforms": [
+                "XboxOneGDK",
+                "PS4",
+                "XboxOne",
+                "XSX",
+                "Android",
+                "PS5",
+                "GFN",
+                "Switch",
+                "GFNMOBILE",
+                "Windows"
+            ],
+            "renderData": {
+                "background_text_color": "FFFFFF",
+                "poster_fade_color": "EEEDFB",
+                "secondary_color": "161616",
+                "title_color": "FFFFFF",
+                "background_right_color": "AAACBB",
+                "highlight_color": "F7FF00",
+                "primary_color": "F20033",
+                "shadow_color": "161616",
+                "background_left_color": "D8D7E3",
+                "base_color": "FFFFFF"
+            },
+            "windows": [
+                {
+                    "windowId": "S20_FNCS_Qualifier3_ASIA_Round1",
+                    "beginTime": "2022-05-13T09:00:00+00:00",
+                    "endTime": "2022-05-13T12:00:00+00:00"
+                },
+                {
+                    "windowId": "S20_FNCS_Qualifier3_ASIA_Round2",
+                    "beginTime": "2022-05-14T05:00:00+00:00",
+                    "endTime": "2022-05-14T08:00:00+00:00"
+                },
+                {
+                    "windowId": "S20_FNCS_Qualifier3_ASIA_Round3",
+                    "beginTime": "2022-05-14T09:00:00+00:00",
+                    "endTime": "2022-05-14T12:00:00+00:00"
+                },
+                {
+                    "windowId": "S20_FNCS_Qualifier3_ASIA_Round4",
+                    "beginTime": "2022-05-15T09:00:00+00:00",
+                    "endTime": "2022-05-15T12:00:00+00:00"
+                }
+            ]
+        },
+        {
+            "id": "epicgames_S20_FNCS_SemiFinals_ASIA",
+            "displayId": "s20_fncs_semi",
+            "region": "ASIA",
+            "name_line1": "FNCS",
+            "name_line2": "Semi-Finals",
+            "poster": "https://cdn2.unrealengine.com/20comp-fncs-in-game-poster-front-semis-750x1080-b7bca9d0b6f9.jpg",
+            "posterBack": "https://cdn2.unrealengine.com/20comp-fncs-in-game-poster-back-750x1080-306166101154.jpg",
+            "loadingScreen": "https://cdn2.unrealengine.com/20comp-fncs-in-game-discoverytile-1920x1080-1920x1080-629f77936c9f.jpg",
+            "tileImage": "https://cdn2.unrealengine.com/20comp-fncs-in-game-discoverytile-1920x1080-1920x1080-629f77936c9f.jpg",
+            "short_description": "Compete in the Fortnite Champion Series: Chapter 3 - Season 2 for a share of the $3,000,000 total prize pool.",
+            "long_description": "Aim to be a top ranked duo on the Series Leaderboard to be invited to these Semi-Finals. Each duo will be assigned to a starting Session based on their final Series Points Leaderboard ranking. Win a match in your Session or be a top ranked team at the end of the Session to advance to the Finals. Those who don't advance at the end of Session 1 will have another chance in Session 2. Those who don't advance at the end of Session 2 will have another chance in Session 3. Full rules and details can be found at fortnite.com/competitive",
+            "schedule": "May 19-22",
+            "beginTime": "2022-05-20T09:00:00+00:00",
+            "endTime": "2022-05-22T12:00:00+00:00",
+            "cumulative": false,
+            "platforms": [
+                "XboxOneGDK",
+                "PS4",
+                "XboxOne",
+                "XSX",
+                "Android",
+                "PS5",
+                "GFN",
+                "Switch",
+                "GFNMOBILE",
+                "Windows"
+            ],
+            "renderData": {
+                "background_text_color": "FFFFFF",
+                "poster_fade_color": "EEEDFB",
+                "secondary_color": "161616",
+                "title_color": "FFFFFF",
+                "background_right_color": "AAACBB",
+                "highlight_color": "F7FF00",
+                "primary_color": "F20033",
+                "shadow_color": "161616",
+                "background_left_color": "D8D7E3",
+                "base_color": "FFFFFF"
+            },
+            "windows": [
+                {
+                    "windowId": "S20_FNCS_SemiFinals_ASIA_Round1",
+                    "beginTime": "2022-05-20T09:00:00+00:00",
+                    "endTime": "2022-05-20T11:30:00+00:00"
+                },
+                {
+                    "windowId": "S20_FNCS_SemiFinals_ASIA_Round2",
+                    "beginTime": "2022-05-21T09:00:00+00:00",
+                    "endTime": "2022-05-21T12:00:00+00:00"
+                },
+                {
+                    "windowId": "S20_FNCS_SemiFinals_ASIA_Round3",
+                    "beginTime": "2022-05-22T09:00:00+00:00",
+                    "endTime": "2022-05-22T12:00:00+00:00"
+                }
+            ]
+        },
+        {
+            "id": "epicgames_S20_FNCS_Finals_ASIA",
+            "displayId": "s20_fncs_final",
+            "region": "ASIA",
+            "name_line1": "FNCS",
+            "name_line2": "FINALS",
+            "poster": "https://cdn2.unrealengine.com/20comp-fncs-in-game-poster-front-finals-750x1080-c5f9bf60cf9a.jpg",
+            "posterBack": "https://cdn2.unrealengine.com/20comp-fncs-in-game-poster-back-750x1080-306166101154.jpg",
+            "loadingScreen": "https://cdn2.unrealengine.com/20comp-fncs-in-game-discoverytile-1920x1080-1920x1080-629f77936c9f.jpg",
+            "tileImage": "https://cdn2.unrealengine.com/20comp-fncs-in-game-discoverytile-1920x1080-1920x1080-629f77936c9f.jpg",
+            "short_description": "Compete in the Fortnite Champion Series: Chapter 3 - Season 2 for a share of the $3,000,000 total prize pool.",
+            "long_description": "Advance from the Semi-Finals or a Qualifier to be invited to the FNCS Finals and compete in the season's pinnacle of Fortnite competition! The Finals adds scores from each session across two days of play, but can end early if Match Point is reached by any duo team (3 Victory Royales + 475 points). Full rules and details can be found at fortnite.com/competitive",
+            "schedule": "May 27-29",
+            "beginTime": "2022-05-28T09:00:00+00:00",
+            "endTime": "2022-05-29T12:00:00+00:00",
+            "cumulative": true,
+            "platforms": [
+                "XboxOneGDK",
+                "PS4",
+                "XboxOne",
+                "XSX",
+                "Android",
+                "PS5",
+                "GFN",
+                "Switch",
+                "GFNMOBILE",
+                "Windows"
+            ],
+            "renderData": {
+                "background_text_color": "FFFFFF",
+                "poster_fade_color": "EEEDFB",
+                "secondary_color": "161616",
+                "title_color": "FFFFFF",
+                "background_right_color": "AAACBB",
+                "highlight_color": "F7FF00",
+                "primary_color": "F20033",
+                "shadow_color": "161616",
+                "background_left_color": "D8D7E3",
+                "base_color": "FFFFFF"
+            },
+            "windows": [
+                {
+                    "windowId": "S20_FNCS_Finals_ASIA_Round1",
+                    "beginTime": "2022-05-28T09:00:00+00:00",
+                    "endTime": "2022-05-28T12:00:00+00:00"
+                },
+                {
+                    "windowId": "S20_FNCS_Finals_ASIA_Round2",
+                    "beginTime": "2022-05-29T09:00:00+00:00",
+                    "endTime": "2022-05-29T12:00:00+00:00"
                 }
             ]
         }
