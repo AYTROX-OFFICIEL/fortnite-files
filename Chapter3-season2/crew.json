@@ -2,13 +2,13 @@
     "result": true,
     "currentCrew": {
         "type": "current",
-        "date": "2022-04-01",
+        "date": "2022-05-01",
         "colors": {
-            "A": "170f40",
-            "B": "f74dc8",
-            "C": "f74dc8"
+            "A": "201921",
+            "B": "a03096",
+            "C": "a03096"
         },
-        "video": "https://cdn2.unrealengine.com/221069-s20-aprilcrew-en-nr-blog-04892ba3bcf4.mp4",
+        "video": "https://cdn2.unrealengine.com/221078-s20-maycrew-blog-41af30d0872f.mp4",
         "skinImageTakeOver": false,
         "descriptions": {
             "title": "Crew Pack",
@@ -18,40 +18,41 @@
         "images": {
             "battlepass": null,
             "battlepassTile": null,
-            "itemShopTile": "https://cdn2.unrealengine.com/20br-subs-sayara-ingame-shoptile-2048x1124-9bfe7c17c56d.jpg",
-            "skin": "https://cdn2.unrealengine.com/20br-subs-sayara-ingame-crewtile-1024x1024-9751b83baf4f.png",
-            "apiRender": "https://media.fortniteapi.io/images/crew/2022-04/presentation.en.png"
+            "itemShopTile": "https://cdn2.unrealengine.com/fnc-southpaw-ingame-shoptile-2048x1124-aca9ba383dcf.jpg",
+            "skin": "https://cdn2.unrealengine.com/fnc-southpaw-ingame-crewtile-1024x1024-86116bf7c7c4.png",
+            "apiRender": "https://media.fortniteapi.io/images/crew/2022-05/presentation.en.png"
         },
         "rewards": [
             {
                 "quantity": 1,
                 "item": {
-                    "id": "CID_A_378_Athena_Commando_F_Bacteria_8JYGU",
+                    "id": "CID_A_393_Athena_Commando_F_Forsake",
                     "type": {
                         "id": "outfit",
                         "name": "Outfit"
                     },
-                    "name": "Sayara",
-                    "description": "Nowhere is safe from you.",
+                    "name": "Southpaw",
+                    "description": "Everyone loves an underdog.",
                     "rarity": {
                         "id": "Epic",
                         "name": "Epic"
                     },
                     "series": null,
                     "images": {
-                        "icon": "https://media.fortniteapi.io/images/385a2b05386286021ba4bd163f6beb9d/transparent.png",
+                        "icon": "https://media.fortniteapi.io/images/4ddb11f6a1f3dca29c7f8e95f6450f42/transparent.png",
                         "featured": null,
-                        "background": "https://media.fortniteapi.io/images/cosmetics/385a2b05386286021ba4bd163f6beb9d/v2/background.png",
-                        "icon_background": "https://media.fortniteapi.io/images/cosmetics/385a2b05386286021ba4bd163f6beb9d/v2/icon_background.png",
-                        "full_background": "https://media.fortniteapi.io/images/cosmetics/385a2b05386286021ba4bd163f6beb9d/v2/info.en.png"
+                        "background": "https://media.fortniteapi.io/images/cosmetics/4ddb11f6a1f3dca29c7f8e95f6450f42/v2/background.png",
+                        "icon_background": "https://media.fortniteapi.io/images/cosmetics/4ddb11f6a1f3dca29c7f8e95f6450f42/v2/icon_background.png",
+                        "full_background": "https://media.fortniteapi.io/images/cosmetics/4ddb11f6a1f3dca29c7f8e95f6450f42/v2/info.en.png"
                     },
                     "video": null,
                     "gameplayTags": [
-                        "SoundLibrary.ID.StepType.BootsCombat",
-                        "SoundLibrary.ID.ClothingType.ArmorLeather",
-                        "SoundLibrary.ID.HandType.Glove",
-                        "Cosmetics.Set.ShadowChoice",
-                        "Cosmetics.Filter.Season.20"
+                        "SoundLibrary.ID.StepType.BootsMetal",
+                        "SoundLibrary.ID.ClothingType.ArmorMetal",
+                        "SoundLibrary.ID.HandType.Robot",
+                        "Cosmetics.Filter.Season.20",
+                        "Cosmetics.Source.CrewPack.May2022",
+                        "Cosmetics.Set.LeapForward"
                     ],
                     "introduction": {
                         "chapter": "Chapter 3",
@@ -63,29 +64,30 @@
             {
                 "quantity": 1,
                 "item": {
-                    "id": "BID_978_BacteriaFemale_UKDH2",
+                    "id": "BID_995_ForsakeFemale",
                     "type": {
                         "id": "backpack",
                         "name": "BackBling"
                     },
-                    "name": "Fangs of Sayara",
-                    "description": "Watch yourself around those.",
+                    "name": "Counterpunch",
+                    "description": "Dominate the ring.",
                     "rarity": {
                         "id": "Epic",
                         "name": "Epic"
                     },
                     "series": null,
                     "images": {
-                        "icon": "https://media.fortniteapi.io/images/2a75603ab54203660ffd819e6fbce695/transparent.png",
+                        "icon": "https://media.fortniteapi.io/images/5cb12c2d002f93151cf122ae0e462c5a/transparent.png",
                         "featured": null,
-                        "background": "https://media.fortniteapi.io/images/cosmetics/2a75603ab54203660ffd819e6fbce695/v2/background.png",
-                        "icon_background": "https://media.fortniteapi.io/images/cosmetics/2a75603ab54203660ffd819e6fbce695/v2/icon_background.png",
-                        "full_background": "https://media.fortniteapi.io/images/cosmetics/2a75603ab54203660ffd819e6fbce695/v2/info.en.png"
+                        "background": "https://media.fortniteapi.io/images/cosmetics/5cb12c2d002f93151cf122ae0e462c5a/v2/background.png",
+                        "icon_background": "https://media.fortniteapi.io/images/cosmetics/5cb12c2d002f93151cf122ae0e462c5a/v2/icon_background.png",
+                        "full_background": "https://media.fortniteapi.io/images/cosmetics/5cb12c2d002f93151cf122ae0e462c5a/v2/info.en.png"
                     },
                     "video": null,
                     "gameplayTags": [
                         "Cosmetics.Filter.Season.20",
-                        "Cosmetics.Set.ShadowChoice"
+                        "Cosmetics.Source.CrewPack.May2022",
+                        "Cosmetics.Set.LeapForward"
                     ],
                     "introduction": {
                         "chapter": "Chapter 3",
@@ -97,31 +99,31 @@
             {
                 "quantity": 1,
                 "item": {
-                    "id": "Pickaxe_ID_765_BacteriaFemale1H",
+                    "id": "Pickaxe_ID_785_ForsakeFemale",
                     "type": {
                         "id": "pickaxe",
                         "name": "Harvesting Tool"
                     },
-                    "name": "Dual Machettas",
-                    "description": "Nothing escapes Sayara's machettas.",
+                    "name": "Arc Flail",
+                    "description": "Pain on a chain.",
                     "rarity": {
-                        "id": "Epic",
-                        "name": "Epic"
+                        "id": "Rare",
+                        "name": "RARE"
                     },
                     "series": null,
                     "images": {
-                        "icon": "https://media.fortniteapi.io/images/dc20868947dcba7c928e1d6c444fb4ec/transparent.png",
+                        "icon": "https://media.fortniteapi.io/images/3c9ba48c1a0abf220f0e34ed5859ea9c/transparent.png",
                         "featured": null,
-                        "background": "https://media.fortniteapi.io/images/cosmetics/dc20868947dcba7c928e1d6c444fb4ec/v2/background.png",
-                        "icon_background": "https://media.fortniteapi.io/images/cosmetics/dc20868947dcba7c928e1d6c444fb4ec/v2/icon_background.png",
-                        "full_background": "https://media.fortniteapi.io/images/cosmetics/dc20868947dcba7c928e1d6c444fb4ec/v2/info.en.png"
+                        "background": "https://media.fortniteapi.io/images/cosmetics/3c9ba48c1a0abf220f0e34ed5859ea9c/v2/background.png",
+                        "icon_background": "https://media.fortniteapi.io/images/cosmetics/3c9ba48c1a0abf220f0e34ed5859ea9c/v2/icon_background.png",
+                        "full_background": "https://media.fortniteapi.io/images/cosmetics/3c9ba48c1a0abf220f0e34ed5859ea9c/v2/info.en.png"
                     },
                     "video": null,
                     "gameplayTags": [
-                        "Cosmetics.Pickaxe.DualWield",
+                        "Cosmetics.UserFacingFlags.HasVariants",
                         "Cosmetics.Filter.Season.20",
-                        "Cosmetics.Source.CrewPack.April2022",
-                        "Cosmetics.Set.ShadowChoice"
+                        "Cosmetics.Set.LeapForward",
+                        "Cosmetics.Source.CrewPack.May2022"
                     ],
                     "introduction": {
                         "chapter": "Chapter 3",
@@ -133,30 +135,97 @@
             {
                 "quantity": 1,
                 "item": {
-                    "id": "Wrap_449_Bacteria",
+                    "id": "LSID_430_ForsakeBeginning",
                     "type": {
-                        "id": "wrap",
-                        "name": "Wrap"
+                        "id": "loadingscreen",
+                        "name": "Loading Screen"
                     },
-                    "name": "Sayara Sight",
-                    "description": "Show your style.",
+                    "name": "A New Challenger Appears",
+                    "description": "Fight for your life.",
                     "rarity": {
                         "id": "Uncommon",
                         "name": "UNCOMMON"
                     },
                     "series": null,
                     "images": {
-                        "icon": "https://media.fortniteapi.io/images/fe3b1fc356e442f2d3c736cccb9944c8/transparent.png",
-                        "featured": null,
-                        "background": "https://media.fortniteapi.io/images/cosmetics/fe3b1fc356e442f2d3c736cccb9944c8/v2/background.png",
-                        "icon_background": "https://media.fortniteapi.io/images/cosmetics/fe3b1fc356e442f2d3c736cccb9944c8/v2/icon_background.png",
-                        "full_background": "https://media.fortniteapi.io/images/cosmetics/fe3b1fc356e442f2d3c736cccb9944c8/v2/info.en.png"
+                        "icon": "https://media.fortniteapi.io/images/ad562c8d0a327c1b63789e507d6f945c/transparent.png",
+                        "featured": "https://media.fortniteapi.io/images/ad562c8d0a327c1b63789e507d6f945c/full_featured.png",
+                        "background": "https://media.fortniteapi.io/images/cosmetics/ad562c8d0a327c1b63789e507d6f945c/v2/background.png",
+                        "icon_background": "https://media.fortniteapi.io/images/cosmetics/ad562c8d0a327c1b63789e507d6f945c/v2/icon_background.png",
+                        "full_background": "https://media.fortniteapi.io/images/cosmetics/ad562c8d0a327c1b63789e507d6f945c/v2/info.en.png"
                     },
                     "video": null,
                     "gameplayTags": [
                         "Cosmetics.Filter.Season.20",
-                        "Cosmetics.Source.CrewPack.April2022",
-                        "Cosmetics.Set.ShadowChoice"
+                        "Cosmetics.Set.LeapForward"
+                    ],
+                    "introduction": {
+                        "chapter": "Chapter 3",
+                        "season": "Season 2",
+                        "text": "Introduced in Chapter 3 - Season 2."
+                    }
+                }
+            },
+            {
+                "quantity": 1,
+                "item": {
+                    "id": "LSID_436_ForsakeTransition",
+                    "type": {
+                        "id": "loadingscreen",
+                        "name": "Loading Screen"
+                    },
+                    "name": "Burgeoning Bout Master",
+                    "description": "Practice makes perfect.",
+                    "rarity": {
+                        "id": "Uncommon",
+                        "name": "UNCOMMON"
+                    },
+                    "series": null,
+                    "images": {
+                        "icon": "https://media.fortniteapi.io/images/5c44cce65f35b0d23b75b6a563ede0ef/transparent.png",
+                        "featured": "https://media.fortniteapi.io/images/5c44cce65f35b0d23b75b6a563ede0ef/full_featured.png",
+                        "background": "https://media.fortniteapi.io/images/cosmetics/5c44cce65f35b0d23b75b6a563ede0ef/v2/background.png",
+                        "icon_background": "https://media.fortniteapi.io/images/cosmetics/5c44cce65f35b0d23b75b6a563ede0ef/v2/icon_background.png",
+                        "full_background": "https://media.fortniteapi.io/images/cosmetics/5c44cce65f35b0d23b75b6a563ede0ef/v2/info.en.png"
+                    },
+                    "video": null,
+                    "gameplayTags": [
+                        "Cosmetics.Filter.Season.20",
+                        "Cosmetics.Set.LeapForward"
+                    ],
+                    "introduction": {
+                        "chapter": "Chapter 3",
+                        "season": "Season 2",
+                        "text": "Introduced in Chapter 3 - Season 2."
+                    }
+                }
+            },
+            {
+                "quantity": 1,
+                "item": {
+                    "id": "MusicPack_132_MayCrew",
+                    "type": {
+                        "id": "music",
+                        "name": "Music"
+                    },
+                    "name": "Crashed In and Lights Out",
+                    "description": "Press play and go round and round and round.",
+                    "rarity": {
+                        "id": "Rare",
+                        "name": "RARE"
+                    },
+                    "series": null,
+                    "images": {
+                        "icon": "https://media.fortniteapi.io/images/a176edb6123e4da3104a0c77fcae72a3/transparent.png",
+                        "featured": null,
+                        "background": "https://media.fortniteapi.io/images/cosmetics/a176edb6123e4da3104a0c77fcae72a3/v2/background.png",
+                        "icon_background": "https://media.fortniteapi.io/images/cosmetics/a176edb6123e4da3104a0c77fcae72a3/v2/icon_background.png",
+                        "full_background": "https://media.fortniteapi.io/images/cosmetics/a176edb6123e4da3104a0c77fcae72a3/v2/info.en.png"
+                    },
+                    "video": "https://media.fortniteapi.io/videos/musicpacks/musicpack_132_maycrew.mp4",
+                    "gameplayTags": [
+                        "Cosmetics.Filter.Season.20",
+                        "Cosmetics.Set.LeapForward"
                     ],
                     "introduction": {
                         "chapter": "Chapter 3",
@@ -195,8 +264,8 @@
         {
             "paymentCurrencyCode": "RUB",
             "paymentCurrencySymbol": "₽",
-            "paymentCurrencyAmount": 71900,
-            "paymentCurrencyAmountNatural": 719
+            "paymentCurrencyAmount": 74900,
+            "paymentCurrencyAmountNatural": 749
         },
         {
             "paymentCurrencyCode": "DKK",
@@ -213,8 +282,8 @@
         {
             "paymentCurrencyCode": "SEK",
             "paymentCurrencySymbol": "kr",
-            "paymentCurrencyAmount": 11900,
-            "paymentCurrencyAmountNatural": 119
+            "paymentCurrencyAmount": 11379,
+            "paymentCurrencyAmountNatural": 113.79
         },
         {
             "paymentCurrencyCode": "BRL",
