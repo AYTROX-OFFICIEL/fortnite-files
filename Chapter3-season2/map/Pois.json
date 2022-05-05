@@ -3,7 +3,7 @@
     "scale": 2048,
     "type": "poi",
     "lang": "en",
-    "gameVersion": "20.10",
+    "gameVersion": "20.30",
     "list": [
         {
             "id": "Athena.Location.POI.CampCuddles",
@@ -154,14 +154,24 @@
             "name": "SYNAPSE STATION",
             "x": 803.65,
             "y": 1782.29,
-            "images": []
+            "images": [
+                {
+                    "type": "overview",
+                    "url": "https://media.fortniteapi.io/images/poi/e14c2ff82ef66e093133af0587349f6b.png"
+                }
+            ]
         },
         {
             "id": "Athena.Location.POI.TheFortress",
             "name": "THE FORTRESS",
             "x": 693.86,
             "y": 830.1,
-            "images": []
+            "images": [
+                {
+                    "type": "overview",
+                    "url": "https://media.fortniteapi.io/images/poi/b5d2cfc6de82b7a5ef6a0d10a08d28ad.png"
+                }
+            ]
         },
         {
             "id": "Athena.Location.POI.TheJoneses",
