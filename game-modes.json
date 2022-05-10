@@ -3064,7 +3064,7 @@
             "matchmakingIcon": null,
             "category": 2,
             "priority": 16,
-            "enabled": true,
+            "enabled": false,
             "ltmMessage": null,
             "video": "https://media.fortniteapi.io/videos/epic/en/pOQbjpyNSnZNptoned.mp4"
         },
@@ -15708,7 +15708,7 @@
             "matchmakingIcon": null,
             "category": 1,
             "priority": 1,
-            "enabled": true,
+            "enabled": false,
             "ltmMessage": null,
             "video": "https://media.fortniteapi.io/videos/epic/en/VeMCQpJEuQxYyUQGeB.mp4"
         },
