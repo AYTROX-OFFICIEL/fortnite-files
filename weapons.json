@@ -2287,7 +2287,7 @@
         },
         {
             "id": "WID_Pistol_Flintlock_Athena_C",
-            "enabled": false,
+            "enabled": true,
             "name": "Flint-Knock Pistol",
             "description": "",
             "rarity": "common",
@@ -2320,7 +2320,7 @@
         },
         {
             "id": "WID_Pistol_Flintlock_Athena_UC",
-            "enabled": false,
+            "enabled": true,
             "name": "Flint-Knock Pistol",
             "description": "",
             "rarity": "uncommon",
@@ -4259,7 +4259,7 @@
         },
         {
             "id": "WID_Sniper_NoScope_Athena_R_Ore_T03",
-            "enabled": false,
+            "enabled": true,
             "name": "Hunting Rifle",
             "description": "Sniper Rifle: Bolt-Action. Powerful and accurate rifle with a bolt-action mechanism that results in a reliable but slow rate of fire. ",
             "rarity": "rare",
@@ -4292,7 +4292,7 @@
         },
         {
             "id": "WID_Sniper_NoScope_Athena_UC_Ore_T03",
-            "enabled": false,
+            "enabled": true,
             "name": "Hunting Rifle",
             "description": "Sniper Rifle: Bolt-Action. Powerful and accurate rifle with a bolt-action mechanism that results in a reliable but slow rate of fire. ",
             "rarity": "uncommon",
@@ -7206,7 +7206,7 @@
         },
         {
             "id": "WID_Sniper_NoScope_Athena_VR_Ore_T03",
-            "enabled": false,
+            "enabled": true,
             "name": "Hunting Rifle",
             "description": "Sniper Rifle: Bolt-Action. Powerful and accurate rifle with a bolt-action mechanism that results in a reliable but slow rate of fire. ",
             "rarity": "epic",
@@ -7239,7 +7239,7 @@
         },
         {
             "id": "WID_Sniper_NoScope_Athena_SR_Ore_T03",
-            "enabled": false,
+            "enabled": true,
             "name": "Hunting Rifle",
             "description": "Sniper Rifle: Bolt-Action. Powerful and accurate rifle with a bolt-action mechanism that results in a reliable but slow rate of fire. ",
             "rarity": "legendary",
@@ -10868,7 +10868,7 @@
         },
         {
             "id": "Athena_AppleSauce",
-            "enabled": false,
+            "enabled": true,
             "name": "Air Strike ",
             "description": "Elimination from above",
             "rarity": "legendary",
