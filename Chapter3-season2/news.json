@@ -8,7 +8,7 @@
             "id": "a4a355e9-1cdd-4c74-bc4a-e1fbde8419a7",
             "title": "Unlock Prowler",
             "tabTitle": "Unlock Prowler",
-            "date": "2022-05-09T16:31:02+00:00",
+            "date": "2022-05-10T16:31:02+00:00",
             "body": "There’s nowhere left to run when Prowler is on the chase. Complete Quests to unlock the Prowler Outfit, alternate styles and more! ",
             "adspace": "",
             "image": "https://cdn-live.prm.ol.epicgames.com/prod/cb4a9b9e1f15abda6cc16d006feec2b0dbe71c3dd5ec31b8a2dc161eab576099b4523200d1ef54225c8659b8e96b2b7c-e7542719-8e08-46b2-830c-a82f05574556.jpeg?width=1920",
@@ -16,36 +16,91 @@
             "video": null
         },
         {
+            "id": "da69adce-3764-4291-b8b5-e5e5340bd1af",
+            "title": "Trickshot Unvaults",
+            "tabTitle": "Trickshot Unvaults",
+            "date": "2022-05-10T16:31:02+00:00",
+            "body": "Never let them know your next move. The Hunting Rifle and Flint-Knock Pistol have been unvaulted and utility item drop rates like Shockwave Grenades have increased for one week only!",
+            "adspace": "",
+            "image": "https://cdn-live.prm.ol.epicgames.com/prod/6e380e92af290b5ceb13a1b555c207d821ac0c4a64a60d9fe21c97bceb5c9786697a0dd254b1f1bcbc811413823fd485-efde7692-c6a6-41e4-88ba-14de12e8c1df.jpeg?width=1920",
+            "live": true,
+            "video": null
+        },
+        {
+            "id": "1a0321ff-752f-4257-a38e-98bf963ba98d",
+            "title": "Survival",
+            "tabTitle": "Discover New Games",
+            "date": "2022-05-10T16:31:02+00:00",
+            "body": "Explore, level up, and survive dangerous encounters with games in the Survival Discover Category!",
+            "adspace": "",
+            "image": "https://cdn-live.prm.ol.epicgames.com/prod/f083d084431c959810c35df49b52ab96b9aa325234c06d75ac9731e361728f3498fe05cfdec04a54611f404a4735564c-67dce245-0050-466b-93d1-c784d35a6ad4.jpeg?width=1920",
+            "live": true,
+            "video": null
+        },
+        {
+            "id": "212bdc05-5466-4ada-9d1c-64c41679113f",
+            "title": "Short Nite is Back",
+            "tabTitle": "Short Nite is Back",
+            "date": "2022-05-10T16:31:02+00:00",
+            "body": "Drop into the Short Nite Theater from May 12th at 2 PM ET until May 16th at 2 PM ET to catch a new series of ten animated shorts!",
+            "adspace": "",
+            "image": "https://cdn-live.prm.ol.epicgames.com/prod/2fa8b432a143fb47d2f4e1a2ed9e086066b3368da88385f7bb156e0f6cc749ed88aaffc8c233efb0fc187963734c7a2e-91fd61b6-1d69-4a5e-9709-536d33d7ca65.jpeg?width=1920",
+            "live": true,
+            "video": null
+        },
+        {
+            "id": "cd8cfb95-e57e-43fa-94cf-9854502cf244",
+            "title": "Air Strike",
+            "tabTitle": "Item Unvaulted",
+            "date": "2022-05-10T16:03:02+00:00",
+            "body": "When the battle has you in a tough situation, call in help from above! ",
+            "adspace": "",
+            "image": "https://cdn-live.prm.ol.epicgames.com/prod/68a464edfe488a5c9ef932718b3f310932a755f481088c87845adaa40edc18bbd570e586566c037cb85bc25f2c47aa27-233bb2c7-62eb-4c23-9236-a9a21f53b26f.jpeg?width=1920",
+            "live": false,
+            "video": null
+        },
+        {
+            "id": "7dd33588-a15c-4453-8731-25b8001dbbc3",
+            "title": "Week 7 Quests",
+            "tabTitle": "Week 7 Quests",
+            "date": "2022-05-10T14:03:01+00:00",
+            "body": "Level structures with the Cow Catcher, get up close and personal with the Repair Torch, recover stolen Seven supplies, and more in this week’s Quests!",
+            "adspace": "",
+            "image": "https://cdn-live.prm.ol.epicgames.com/prod/c16fc4cfa6ff3f7bd5cac2f8700b8640eae9f50b75b15f3a424d093849945f621cf666520b89a58a75a70f1a348e218f-2f3ea01d-f994-4929-b6ea-c905b296576d.jpeg?width=1920",
+            "live": false,
+            "video": null
+        },
+        {
             "id": "99a2d905-c2a5-4304-abf2-a54ebcbf34d3",
             "title": "Lightsabers and E-11 Blasters",
             "tabTitle": "Lightsabers and E-11 Blasters",
-            "date": "2022-05-09T16:31:02+00:00",
+            "date": "2022-05-10T13:03:02+00:00",
             "body": "From a galaxy far, far away. Find Lightsabers in chests, purchase the E-11 Blaster Rifle at Stormtrooper Checkpoints and complete Star Wars May the 4th Quests!",
             "adspace": "",
             "image": "https://cdn-live.prm.ol.epicgames.com/prod/adc2e696ca6986b1401348285e57891a5c37841f9262da8af0f51770276608700bc2cf3174ea597be21a1b5c03e0103e-36abf83d-89e9-4e53-9762-421f8b960940.jpeg?width=1920",
-            "live": true,
+            "live": false,
             "video": "https://media.fortniteapi.io/videos/epic/en/gyXJVNkNGXhXiIfnYl.mp4"
         },
         {
             "id": "b05fe9bb-ed84-4f22-9153-f894df416a9c",
             "title": "Choppa Funding",
             "tabTitle": "Bars to Turn the Tide",
-            "date": "2022-05-09T16:31:02+00:00",
+            "date": "2022-05-10T13:03:02+00:00",
             "body": "Contribute Bars at funding stations to deploy the powerful Choppa onto the battlefield!",
             "adspace": "",
             "image": "https://cdn-live.prm.ol.epicgames.com/prod/7ab6bbcb7cad6eb1e1276f04e2d834f568387319f100a3f899de57e4c1d4116e123ec3d7528fb174ebeefa6ae4f20cc8-27583876-d68f-4afa-9d38-76c5fb4e9ecb.jpeg?width=1920",
-            "live": true,
+            "live": false,
             "video": null
         },
         {
             "id": "4aab5dd8-369d-4547-a825-f140b2ea4295",
             "title": "Battle for Tilted Towers",
             "tabTitle": "Battle for Tilted Towers",
-            "date": "2022-05-09T16:31:02+00:00",
+            "date": "2022-05-10T13:03:02+00:00",
             "body": "Arm up for the most heated conflict yet. Fight for the future of the Island as the battle against the Imagined Order turns to Tilted Towers.",
             "adspace": "",
             "image": "https://cdn-live.prm.ol.epicgames.com/prod/803d0e0f5f5cbd8cd46373a360fcd6d3178b66a8b8bdca388d4d7af1f3a48a703e66f13c699a8899ee092dbf97526446-dcaac5ae-213b-4386-b98c-0b6e68587dee.jpeg?width=1920",
-            "live": true,
+            "live": false,
             "video": null
         },
         {
@@ -221,61 +276,6 @@
             "body": "Complete a four phase mission in Zero Build to unlock the Secret Sledge Pickaxe! Finish the first Quest before April 26 at 9 AM ET in order to be eligible for the second phase.",
             "adspace": "",
             "image": "https://cdn-live.prm.ol.epicgames.com/prod/047e71d0fb3cfba9478053f5addff66b97b55f2df3ce695d92bc168e7b5aab32d3761786544ccdfad5a8151c8fb6f7df552022f9d27f5b4b715de0302339adab-19f24c5f-3071-4d63-aced-c181656021e7.jpeg?width=1920",
-            "live": false,
-            "video": null
-        },
-        {
-            "id": "8b5cc580-a04b-4734-892f-ab035b4aec1a",
-            "title": "Global Effort Trial Period",
-            "tabTitle": "Global Effort Trial Period",
-            "date": "2022-04-22T20:03:02+00:00",
-            "body": "Get ready for a new Global Effort. Try out the Boogie Bomb and the Rift-To-Go before the funding station vote starts!",
-            "adspace": "",
-            "image": "https://cdn-live.prm.ol.epicgames.com/prod/7ab6bbcb7cad6eb1e1276f04e2d834f5fc8696f09b2c29b4b1cd4ab36140a13fdadfb58089dcd73ec9aa77dd75c65d7b9472aace62f2afb177e53ccd89edf523-bcc8d859-c438-4451-a9c7-0d75daa338eb.jpeg?width=1920",
-            "live": false,
-            "video": null
-        },
-        {
-            "id": "387200f0-6efc-4dfe-9a77-562abb1bc182",
-            "title": "Soundwave Series",
-            "tabTitle": "New Soundwave Series Show",
-            "date": "2022-04-22T15:10:02+00:00",
-            "body": "The next installment of the Soundwave Series kicks off on April 29 at 6 PM ET featuring vibrant Brazilian rapper, Emicida! Save the date to let your friends list know you’re going.",
-            "adspace": "",
-            "image": "https://cdn-live.prm.ol.epicgames.com/prod/c3a4b50c2182edd70696d654b09a8508e57768ff15d58e775306565b7405341d4fe5c4de4bb0b49399a80e8462ac8d62-b3a56a53-4511-46e2-b0de-48ce0aadfe29.jpeg?width=1920",
-            "live": false,
-            "video": null
-        },
-        {
-            "id": "40907145-7a27-4b6c-a600-3111b0b3ae38",
-            "title": "Lantern Trials",
-            "tabTitle": "Lantern Trials",
-            "date": "2022-04-22T13:03:02+00:00",
-            "body": "Sign up for the Lantern Trials to complete challenges and earn in-game rewards including an Emoticon, Wrap and Back Bling! Register at: fn.gg/LanternTrials",
-            "adspace": "",
-            "image": "https://cdn-live.prm.ol.epicgames.com/prod/fd1a7641b62e5ea0a47c68a0a3db65a17746f2f243c40ddb79dd391a0e5fa03724fc0e7cbc3fbe7a94a8d37c10a9969f-cb7e9289-70c5-40ae-8922-42d8760a2b8a.jpeg?width=1920",
-            "live": false,
-            "video": null
-        },
-        {
-            "id": "361a0e99-8b82-4fdc-a0a7-2736a279fb99",
-            "title": "Coachella Week 2",
-            "tabTitle": "New Outfits",
-            "date": "2022-04-22T13:03:02+00:00",
-            "body": "Dress as loudly as you sing. Dance to the tune of the beat with music reactive styles and accessories!",
-            "adspace": "",
-            "image": "https://cdn-live.prm.ol.epicgames.com/prod/ce0cf6389e97386db36dbf21d8e3c0cf837b3a74d5d9cd076814ebb77395760964930dd76526d1befcd996f8757a04d1-9ad76cc5-1e13-4ddc-b126-ae944e41e770.jpeg?width=1920",
-            "live": false,
-            "video": null
-        },
-        {
-            "id": "ca2bfe6e-ecf0-4259-9b70-5d5b699d27d7",
-            "title": "Moon Knight",
-            "tabTitle": "New Outfit",
-            "date": "2022-04-22T00:01:02+00:00",
-            "body": "Embrace the chaos and embody the sum of two halves as Moon Knight.",
-            "adspace": "",
-            "image": "https://cdn-live.prm.ol.epicgames.com/prod/e08c6ba172be7ca7b5275b0c87b0a403a9a49778e152510be5fe692db2c02bef8dfdd9da79c0f1f3d8d0677121a7ed01-c82280fa-f04e-44be-ae7d-2742335b7323.jpeg?width=1920",
             "live": false,
             "video": null
         }
