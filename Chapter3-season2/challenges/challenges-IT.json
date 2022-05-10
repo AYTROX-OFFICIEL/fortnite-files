@@ -625,8 +625,8 @@
                 {
                     "id": "Quest_S20_Weekly_W04_Q01",
                     "name": "Viaggia in aria con un jetpack",
-                    "enabled": false,
-                    "enabledDate": null,
+                    "enabled": true,
+                    "enabledDate": "2022-04-14 13:30:04+00:00",
                     "parentQuest": null,
                     "progressTotal": 100,
                     "tandemCharacter": null,
@@ -643,8 +643,8 @@
                 {
                     "id": "Quest_S20_Weekly_W04_Q02",
                     "name": "Ringrazia l'autista del bus e poi finisci tra i primi 25",
-                    "enabled": false,
-                    "enabledDate": null,
+                    "enabled": true,
+                    "enabledDate": "2022-04-14 13:30:04+00:00",
                     "parentQuest": null,
                     "progressTotal": 2,
                     "tandemCharacter": null,
@@ -661,8 +661,8 @@
                 {
                     "id": "Quest_S20_Weekly_W04_Q03",
                     "name": "Visita distributori di benzina in un Bus della battaglia",
-                    "enabled": false,
-                    "enabledDate": null,
+                    "enabled": true,
+                    "enabledDate": "2022-04-14 13:30:04+00:00",
                     "parentQuest": null,
                     "progressTotal": 3,
                     "tandemCharacter": null,
@@ -679,8 +679,8 @@
                 {
                     "id": "Quest_S20_Weekly_W04_Q04",
                     "name": "Ottieni secondi di tempo in volo dopo che una Granata a onda d'urto ti colpisce",
-                    "enabled": false,
-                    "enabledDate": null,
+                    "enabled": true,
+                    "enabledDate": "2022-04-14 13:30:04+00:00",
                     "parentQuest": null,
                     "progressTotal": 3,
                     "tandemCharacter": null,
@@ -697,8 +697,8 @@
                 {
                     "id": "Quest_S20_Weekly_W04_Q05",
                     "name": "Elimina le forze dell'OI in una partita singola",
-                    "enabled": false,
-                    "enabledDate": null,
+                    "enabled": true,
+                    "enabledDate": "2022-04-14 13:30:04+00:00",
                     "parentQuest": null,
                     "progressTotal": 3,
                     "tandemCharacter": null,
@@ -715,8 +715,8 @@
                 {
                     "id": "Quest_S20_Weekly_W04_Q06",
                     "name": "Pesca o raccogli un Pescetermico",
-                    "enabled": false,
-                    "enabledDate": null,
+                    "enabled": true,
+                    "enabledDate": "2022-04-14 13:30:04+00:00",
                     "parentQuest": null,
                     "progressTotal": 1,
                     "tandemCharacter": null,
@@ -733,8 +733,8 @@
                 {
                     "id": "Quest_S20_Weekly_W04_Q07",
                     "name": "Accetta una taglia da una bacheca delle taglie entro 30 secondi dall'atterraggio",
-                    "enabled": false,
-                    "enabledDate": null,
+                    "enabled": true,
+                    "enabledDate": "2022-04-14 13:30:04+00:00",
                     "parentQuest": null,
                     "progressTotal": 1,
                     "tandemCharacter": null,
@@ -751,8 +751,8 @@
                 {
                     "id": "Quest_S20_Weekly_W04_Q08",
                     "name": "Danneggia avversari con uno strumento di raccolta",
-                    "enabled": false,
-                    "enabledDate": null,
+                    "enabled": true,
+                    "enabledDate": "2022-04-14 13:30:04+00:00",
                     "parentQuest": null,
                     "progressTotal": 75,
                     "tandemCharacter": null,
@@ -769,8 +769,8 @@
                 {
                     "id": "Quest_S20_Weekly_W04_Q09",
                     "name": "Cerca le scatole di munizioni a Condotti Confusi o Campo Coccole",
-                    "enabled": false,
-                    "enabledDate": null,
+                    "enabled": true,
+                    "enabledDate": "2022-04-14 13:30:04+00:00",
                     "parentQuest": null,
                     "progressTotal": 3,
                     "tandemCharacter": null,
@@ -787,8 +787,937 @@
             ]
         },
         {
+            "id": "MissionBundle_S20_Week_05",
+            "name": "Incarichi stagionali settimana 5",
+            "unlockType": "EChallengeBundleQuestUnlockType::GrantWithBundle",
+            "tags": [],
+            "apiTags": [],
+            "colors": null,
+            "images": null,
+            "bundleRewards": [],
+            "quests": [
+                {
+                    "id": "Quest_S20_Weekly_W05_Q01",
+                    "name": "Colpisci alla testa le forze dell'OI con un fucile di precisione a Caverna di Comando o nel luogo di una battaglia",
+                    "enabled": true,
+                    "enabledDate": "2022-04-21 13:30:04+00:00",
+                    "parentQuest": null,
+                    "progressTotal": 3,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.Weekly.005",
+                        "ChallengeCategory.XP"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                },
+                {
+                    "id": "Quest_S20_Weekly_W05_Q02",
+                    "name": "Colpisci un avversario due volte usando il fucile pesante Ranger, senza subire danno",
+                    "enabled": true,
+                    "enabledDate": "2022-04-21 13:30:04+00:00",
+                    "parentQuest": null,
+                    "progressTotal": 1,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.Weekly.005",
+                        "ChallengeCategory.XP"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                },
+                {
+                    "id": "Quest_S20_Weekly_W05_Q03",
+                    "name": "Aggancia un veicolo avversario e danneggialo con il Lanciarazzi anticarro",
+                    "enabled": true,
+                    "enabledDate": "2022-04-21 13:30:04+00:00",
+                    "parentQuest": null,
+                    "progressTotal": 2,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.Weekly.005",
+                        "ChallengeCategory.XP"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                },
+                {
+                    "id": "Quest_S20_Weekly_W05_Q04",
+                    "name": "Cura le forze dei Sette con la Curannebbia nel luogo di una battaglia",
+                    "enabled": true,
+                    "enabledDate": "2022-04-21 13:30:04+00:00",
+                    "parentQuest": null,
+                    "progressTotal": 1,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.Weekly.005",
+                        "ChallengeCategory.XP"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                },
+                {
+                    "id": "Quest_S20_Weekly_W05_Q05",
+                    "name": "Danneggia un avversario entro 10 secondi da una salita",
+                    "enabled": true,
+                    "enabledDate": "2022-04-21 13:30:04+00:00",
+                    "parentQuest": null,
+                    "progressTotal": 1,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.Weekly.005",
+                        "ChallengeCategory.XP"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                },
+                {
+                    "id": "Quest_S20_Weekly_W05_Q06",
+                    "name": "Cadi da 10 piani o più senza subire danno",
+                    "enabled": true,
+                    "enabledDate": "2022-04-21 13:30:04+00:00",
+                    "parentQuest": null,
+                    "progressTotal": 1,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.Weekly.005",
+                        "ChallengeCategory.XP"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                },
+                {
+                    "id": "Quest_S20_Weekly_W05_Q07",
+                    "name": "Danneggia veicoli avversari con un fucile di precisione pesante",
+                    "enabled": true,
+                    "enabledDate": "2022-04-21 13:30:04+00:00",
+                    "parentQuest": null,
+                    "progressTotal": 600,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.Weekly.005",
+                        "ChallengeCategory.XP"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                },
+                {
+                    "id": "Quest_S20_Weekly_W05_Q08",
+                    "name": "Distruggi strutture con una mitragliatrice leggera",
+                    "enabled": true,
+                    "enabledDate": "2022-04-21 13:30:04+00:00",
+                    "parentQuest": null,
+                    "progressTotal": 10,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.Weekly.005",
+                        "ChallengeCategory.XP"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                },
+                {
+                    "id": "Quest_S20_Weekly_W05_Q09",
+                    "name": "Ottieni scudo usando le Pozioni scudo piccole in una partita",
+                    "enabled": true,
+                    "enabledDate": "2022-04-21 13:30:04+00:00",
+                    "parentQuest": null,
+                    "progressTotal": 75,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.Weekly.005",
+                        "ChallengeCategory.XP"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                }
+            ]
+        },
+        {
+            "id": "MissionBundle_S20_Week_06",
+            "name": "Incarichi stagionali settimana 6",
+            "unlockType": "EChallengeBundleQuestUnlockType::GrantWithBundle",
+            "tags": [],
+            "apiTags": [],
+            "colors": null,
+            "images": null,
+            "bundleRewards": [],
+            "quests": [
+                {
+                    "id": "Quest_S20_Weekly_W06_Q01",
+                    "name": "Infliggi 100 danni o più a un avversario con un solo proiettile",
+                    "enabled": true,
+                    "enabledDate": "2022-04-28 13:30:03+00:00",
+                    "parentQuest": null,
+                    "progressTotal": 1,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.Weekly.006",
+                        "ChallengeCategory.XP"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                },
+                {
+                    "id": "Quest_S20_Weekly_W06_Q02",
+                    "name": "Sali 5 volte in 5 secondi",
+                    "enabled": true,
+                    "enabledDate": "2022-04-28 13:30:03+00:00",
+                    "parentQuest": null,
+                    "progressTotal": 1,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.Weekly.006",
+                        "ChallengeCategory.XP"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                },
+                {
+                    "id": "Quest_S20_Weekly_W06_Q03",
+                    "name": "Colpisci il corazzato di un avversario con una pistola mentre sei accovacciato",
+                    "enabled": true,
+                    "enabledDate": "2022-04-28 13:30:03+00:00",
+                    "parentQuest": null,
+                    "progressTotal": 200,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.Weekly.006",
+                        "ChallengeCategory.XP"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                },
+                {
+                    "id": "Quest_S20_Weekly_W06_Q04",
+                    "name": "Ottieni tempo in volo in un corazzato",
+                    "enabled": true,
+                    "enabledDate": "2022-04-28 13:30:03+00:00",
+                    "parentQuest": null,
+                    "progressTotal": 3,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.Weekly.006",
+                        "ChallengeCategory.XP"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                },
+                {
+                    "id": "Quest_S20_Weekly_W06_Q05",
+                    "name": "Lancia un cavolo a 100 metri o più di distanza in un solo lancio",
+                    "enabled": true,
+                    "enabledDate": "2022-04-28 13:30:03+00:00",
+                    "parentQuest": null,
+                    "progressTotal": 1,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.Weekly.006",
+                        "ChallengeCategory.XP"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                },
+                {
+                    "id": "Quest_S20_Weekly_W06_Q06",
+                    "name": "Infliggi danni agli avversari mentre cadi",
+                    "enabled": true,
+                    "enabledDate": "2022-04-28 13:30:03+00:00",
+                    "parentQuest": null,
+                    "progressTotal": 150,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.Weekly.006",
+                        "ChallengeCategory.XP"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                },
+                {
+                    "id": "Quest_S20_Weekly_W06_Q07",
+                    "name": "Colpisci un avversario con un Vampafucile Percussore per 4 volte di fila usando continuamente il mirino",
+                    "enabled": true,
+                    "enabledDate": "2022-04-28 13:30:03+00:00",
+                    "parentQuest": null,
+                    "progressTotal": 1,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.Weekly.006",
+                        "ChallengeCategory.XP"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                },
+                {
+                    "id": "Quest_S20_Weekly_W06_Q08",
+                    "name": "Danneggia avversari da 30 metri di distanza o più con un fucile d'assalto",
+                    "enabled": true,
+                    "enabledDate": "2022-04-28 13:30:03+00:00",
+                    "parentQuest": null,
+                    "progressTotal": 150,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.Weekly.006",
+                        "ChallengeCategory.XP"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                },
+                {
+                    "id": "Quest_S20_Weekly_W06_Q09",
+                    "name": "Distruggi strutture con il fuoco",
+                    "enabled": true,
+                    "enabledDate": "2022-04-28 13:30:03+00:00",
+                    "parentQuest": null,
+                    "progressTotal": 100,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.Weekly.006",
+                        "ChallengeCategory.XP"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                }
+            ]
+        },
+        {
+            "id": "MissionBundle_S20_Week_07",
+            "name": "Incarichi stagionali settimana 7",
+            "unlockType": "EChallengeBundleQuestUnlockType::GrantWithBundle",
+            "tags": [],
+            "apiTags": [],
+            "colors": null,
+            "images": null,
+            "bundleRewards": [],
+            "quests": [
+                {
+                    "id": "Quest_S20_Weekly_W07_Q01",
+                    "name": "Distruggi una torretta con esplosivi telecomandati",
+                    "enabled": true,
+                    "enabledDate": "2022-05-05 13:30:03+00:00",
+                    "parentQuest": null,
+                    "progressTotal": 1,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.Weekly.007",
+                        "ChallengeCategory.XP"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                },
+                {
+                    "id": "Quest_S20_Weekly_W07_Q02",
+                    "name": "Visita diversi luoghi indicati in una sola partita",
+                    "enabled": true,
+                    "enabledDate": "2022-05-05 13:30:03+00:00",
+                    "parentQuest": null,
+                    "progressTotal": 5,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.Weekly.007",
+                        "ChallengeCategory.XP",
+                        "Quest.ChallengeIcon.Visit"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                },
+                {
+                    "id": "Quest_S20_Weekly_W07_Q03",
+                    "name": "Disabilita un corazzato danneggiando il motore",
+                    "enabled": true,
+                    "enabledDate": "2022-05-05 13:30:03+00:00",
+                    "parentQuest": null,
+                    "progressTotal": 1,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.Weekly.007",
+                        "ChallengeCategory.XP"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                },
+                {
+                    "id": "Quest_S20_Weekly_W07_Q04",
+                    "name": "Recupera le risorse dei Sette rubate nelle sedi dell'OI",
+                    "enabled": true,
+                    "enabledDate": "2022-05-05 13:30:03+00:00",
+                    "parentQuest": null,
+                    "progressTotal": 3,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.Weekly.007",
+                        "ChallengeCategory.XP",
+                        "Quest.ChallengeIcon.AmmoBox"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                },
+                {
+                    "id": "Quest_S20_Weekly_W07_Q05",
+                    "name": "Distruggi strutture con l'Acchiappamucche",
+                    "enabled": true,
+                    "enabledDate": "2022-05-05 13:30:03+00:00",
+                    "parentQuest": null,
+                    "progressTotal": 200,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.Weekly.007",
+                        "ChallengeCategory.XP"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                },
+                {
+                    "id": "Quest_S20_Weekly_W07_Q06",
+                    "name": "Infliggi danno per colpo alla testa con il Vampafucile Percussore",
+                    "enabled": true,
+                    "enabledDate": "2022-05-05 13:30:03+00:00",
+                    "parentQuest": null,
+                    "progressTotal": 200,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.Weekly.007",
+                        "ChallengeCategory.XP"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                },
+                {
+                    "id": "Quest_S20_Weekly_W07_Q07",
+                    "name": "Danneggia avversari con la torcia per riparazioni",
+                    "enabled": true,
+                    "enabledDate": "2022-05-05 13:30:03+00:00",
+                    "parentQuest": null,
+                    "progressTotal": 5,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.Weekly.007",
+                        "ChallengeCategory.XP"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                },
+                {
+                    "id": "Quest_S20_Weekly_W07_Q08",
+                    "name": "Completa una taglia da una bacheca delle taglie",
+                    "enabled": true,
+                    "enabledDate": "2022-05-05 13:30:03+00:00",
+                    "parentQuest": null,
+                    "progressTotal": 1,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.Weekly.007",
+                        "ChallengeCategory.XP"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                },
+                {
+                    "id": "Quest_S20_Weekly_W07_Q09",
+                    "name": "Rifornisci un veicolo di carburante",
+                    "enabled": true,
+                    "enabledDate": "2022-05-05 13:30:03+00:00",
+                    "parentQuest": null,
+                    "progressTotal": 50,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.Weekly.007",
+                        "ChallengeCategory.XP"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                }
+            ]
+        },
+        {
+            "id": "MissionBundle_S20_Week_08",
+            "name": "Incarichi stagionali settimana 8",
+            "unlockType": "EChallengeBundleQuestUnlockType::GrantWithBundle",
+            "tags": [],
+            "apiTags": [],
+            "colors": null,
+            "images": null,
+            "bundleRewards": [],
+            "quests": [
+                {
+                    "id": "Quest_S20_Weekly_W08_Q01",
+                    "name": "Infliggi danni agli avversari da 10 metri o meno con il fucile pesante a tamburo",
+                    "enabled": false,
+                    "enabledDate": null,
+                    "parentQuest": null,
+                    "progressTotal": 150,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.Weekly.008",
+                        "ChallengeCategory.XP"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                },
+                {
+                    "id": "Quest_S20_Weekly_W08_Q02",
+                    "name": "Viaggia per 1000 metri sul Choppa",
+                    "enabled": false,
+                    "enabledDate": null,
+                    "parentQuest": null,
+                    "progressTotal": 1000,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.Weekly.008",
+                        "ChallengeCategory.XP"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                },
+                {
+                    "id": "Quest_S20_Weekly_W08_Q03",
+                    "name": "Pianta degli alberelli presso i gruppi di crateri delle bombe",
+                    "enabled": false,
+                    "enabledDate": null,
+                    "parentQuest": null,
+                    "progressTotal": 3,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.Weekly.008",
+                        "ChallengeCategory.XP",
+                        "Athena.Quests.Location.Crater.03b",
+                        "Athena.Quests.Location.Crater.02",
+                        "Athena.Quests.Location.Crater.01a",
+                        "Athena.Quests.Location.Crater.01b",
+                        "Athena.Quests.Location.Crater.03a"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                },
+                {
+                    "id": "Quest_S20_Weekly_W08_Q04",
+                    "name": "Fai scoppiare gli esplosivi telecomandati in scivolata",
+                    "enabled": false,
+                    "enabledDate": null,
+                    "parentQuest": null,
+                    "progressTotal": 2,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.Weekly.008",
+                        "ChallengeCategory.XP"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                },
+                {
+                    "id": "Quest_S20_Weekly_W08_Q05",
+                    "name": "Ordina un attacco aereo a un corazzato",
+                    "enabled": false,
+                    "enabledDate": null,
+                    "parentQuest": null,
+                    "progressTotal": 1,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.XP",
+                        "ChallengeCategory.Weekly.008"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                },
+                {
+                    "id": "Quest_S20_Weekly_W08_Q06",
+                    "name": "Rifornisci una torcia per riparazioni alla pompa di benzina",
+                    "enabled": false,
+                    "enabledDate": null,
+                    "parentQuest": null,
+                    "progressTotal": 2,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.Weekly.008",
+                        "Quest.ChallengeIcon.Interact",
+                        "Athena.Location.Meta.GasStation.01",
+                        "Athena.Location.Meta.GasStation.02",
+                        "Athena.Location.Meta.GasStation.03",
+                        "Athena.Location.Meta.GasStation.04",
+                        "Athena.Location.Meta.GasStation.05",
+                        "Athena.Location.Meta.GasStation.06",
+                        "Athena.Location.Meta.GasStation.07",
+                        "Athena.Location.Meta.GasStation.08",
+                        "Athena.Location.Meta.GasStation.09",
+                        "Athena.Location.Meta.GasStation.10",
+                        "Athena.Location.Meta.GasStation.11",
+                        "Athena.Location.Meta.GasStation.12",
+                        "Athena.Location.Meta.GasStation.13",
+                        "ChallengeCategory.XP"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": [
+                        {
+                            "tag": "Athena.Location.Meta.GasStation.01",
+                            "location": null
+                        },
+                        {
+                            "tag": "Athena.Location.Meta.GasStation.02",
+                            "location": null
+                        },
+                        {
+                            "tag": "Athena.Location.Meta.GasStation.03",
+                            "location": null
+                        },
+                        {
+                            "tag": "Athena.Location.Meta.GasStation.04",
+                            "location": null
+                        },
+                        {
+                            "tag": "Athena.Location.Meta.GasStation.05",
+                            "location": null
+                        },
+                        {
+                            "tag": "Athena.Location.Meta.GasStation.06",
+                            "location": null
+                        },
+                        {
+                            "tag": "Athena.Location.Meta.GasStation.07",
+                            "location": null
+                        },
+                        {
+                            "tag": "Athena.Location.Meta.GasStation.08",
+                            "location": null
+                        },
+                        {
+                            "tag": "Athena.Location.Meta.GasStation.09",
+                            "location": null
+                        },
+                        {
+                            "tag": "Athena.Location.Meta.GasStation.10",
+                            "location": null
+                        },
+                        {
+                            "tag": "Athena.Location.Meta.GasStation.11",
+                            "location": null
+                        },
+                        {
+                            "tag": "Athena.Location.Meta.GasStation.12",
+                            "location": null
+                        },
+                        {
+                            "tag": "Athena.Location.Meta.GasStation.13",
+                            "location": null
+                        }
+                    ]
+                },
+                {
+                    "id": "Quest_S20_Weekly_W08_Q07",
+                    "name": "Infliggi danni ai nemici con una mitraglietta da combattimento",
+                    "enabled": false,
+                    "enabledDate": null,
+                    "parentQuest": null,
+                    "progressTotal": 500,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.Weekly.008",
+                        "ChallengeCategory.XP"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                },
+                {
+                    "id": "Quest_S20_Weekly_W08_Q08",
+                    "name": "Apri registratori di cassa",
+                    "enabled": false,
+                    "enabledDate": null,
+                    "parentQuest": null,
+                    "progressTotal": 3,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "Athena.Location.Meta.GasStation.01",
+                        "Athena.Location.Meta.GasStation.02",
+                        "Athena.Location.Meta.GasStation.03",
+                        "Athena.Location.Meta.GasStation.04",
+                        "Athena.Location.Meta.GasStation.05",
+                        "Athena.Location.Meta.GasStation.06",
+                        "Athena.Location.Meta.GasStation.07",
+                        "Athena.Location.Meta.GasStation.08",
+                        "Athena.Location.Meta.GasStation.09",
+                        "Athena.Location.Meta.GasStation.10",
+                        "Athena.Location.Meta.GasStation.11",
+                        "Athena.Location.Meta.GasStation.12",
+                        "ChallengeCategory.Weekly.008",
+                        "ChallengeCategory.XP"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": [
+                        {
+                            "tag": "Athena.Location.Meta.GasStation.01",
+                            "location": null
+                        },
+                        {
+                            "tag": "Athena.Location.Meta.GasStation.02",
+                            "location": null
+                        },
+                        {
+                            "tag": "Athena.Location.Meta.GasStation.03",
+                            "location": null
+                        },
+                        {
+                            "tag": "Athena.Location.Meta.GasStation.04",
+                            "location": null
+                        },
+                        {
+                            "tag": "Athena.Location.Meta.GasStation.05",
+                            "location": null
+                        },
+                        {
+                            "tag": "Athena.Location.Meta.GasStation.06",
+                            "location": null
+                        },
+                        {
+                            "tag": "Athena.Location.Meta.GasStation.07",
+                            "location": null
+                        },
+                        {
+                            "tag": "Athena.Location.Meta.GasStation.08",
+                            "location": null
+                        },
+                        {
+                            "tag": "Athena.Location.Meta.GasStation.09",
+                            "location": null
+                        },
+                        {
+                            "tag": "Athena.Location.Meta.GasStation.10",
+                            "location": null
+                        },
+                        {
+                            "tag": "Athena.Location.Meta.GasStation.11",
+                            "location": null
+                        },
+                        {
+                            "tag": "Athena.Location.Meta.GasStation.12",
+                            "location": null
+                        }
+                    ]
+                },
+                {
+                    "id": "Quest_S20_Weekly_W08_Q09",
+                    "name": "Ottieni un'eliminazione con una pistola, mitraglietta o fucile pesante",
+                    "enabled": false,
+                    "enabledDate": null,
+                    "parentQuest": null,
+                    "progressTotal": 1,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.Weekly.008",
+                        "ChallengeCategory.XP"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                }
+            ]
+        },
+        {
+            "id": "QuestBundle_S20_10_Buttercake",
+            "name": "lost and mound: snow",
+            "unlockType": "EChallengeBundleQuestUnlockType::GrantWithBundle",
+            "tags": [],
+            "apiTags": [],
+            "colors": null,
+            "images": null,
+            "bundleRewards": [],
+            "quests": [
+                {
+                    "id": "quest_s20_buttercake_discover_snowmounds",
+                    "name": "Persa e accumulata: neve",
+                    "enabled": true,
+                    "enabledDate": "2022-04-19 09:03:05+00:00",
+                    "parentQuest": null,
+                    "progressTotal": 3,
+                    "tandemCharacter": null,
+                    "tags": [],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                }
+            ]
+        },
+        {
+            "id": "QuestBundle_S20_20_Buttercake",
+            "name": "klomberries are back",
+            "unlockType": "EChallengeBundleQuestUnlockType::GrantWithBundle",
+            "tags": [],
+            "apiTags": [],
+            "colors": null,
+            "images": null,
+            "bundleRewards": [],
+            "quests": [
+                {
+                    "id": "quest_s20_buttercake_gather_klomberries_simple",
+                    "name": "Le Klombacche sono tornate",
+                    "enabled": true,
+                    "enabledDate": "2022-04-19 09:03:05+00:00",
+                    "parentQuest": null,
+                    "progressTotal": 10,
+                    "tandemCharacter": null,
+                    "tags": [],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                }
+            ]
+        },
+        {
+            "id": "QuestBundle_S20_30_Buttercake",
+            "name": "lost and mound: sand",
+            "unlockType": "EChallengeBundleQuestUnlockType::GrantWithBundle",
+            "tags": [],
+            "apiTags": [],
+            "colors": null,
+            "images": null,
+            "bundleRewards": [],
+            "quests": [
+                {
+                    "id": "quest_s20_buttercake_discover_sandmounds",
+                    "name": "Persa e accumulata: sabbia",
+                    "enabled": true,
+                    "enabledDate": "2022-05-03 09:03:02+00:00",
+                    "parentQuest": null,
+                    "progressTotal": 3,
+                    "tandemCharacter": null,
+                    "tags": [],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                },
+                {
+                    "id": "quest_s20_buttercake_geyser",
+                    "name": "Geyser sputacchianti ovunque",
+                    "enabled": true,
+                    "enabledDate": "2022-05-03 09:03:02+00:00",
+                    "parentQuest": null,
+                    "progressTotal": 3,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.XP"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                }
+            ]
+        },
+        {
             "id": "QuestBundle_S20_BPUnlockableCharacter_01",
-            "name": "???",
+            "name": "PROWLER",
             "unlockType": "EChallengeBundleQuestUnlockType::RequiresBattlePass",
             "tags": [],
             "apiTags": [],
@@ -798,7 +1727,7 @@
             "quests": [
                 {
                     "id": "Quest_S20_BPUnlockableCharacter_q01",
-                    "name": "???",
+                    "name": "Completa incarichi Prowler",
                     "enabled": false,
                     "enabledDate": null,
                     "parentQuest": null,
@@ -813,13 +1742,15 @@
                 },
                 {
                     "id": "Quest_S20_BPUnlockableCharacter_q02",
-                    "name": "???",
+                    "name": "Danneggia avversari in posizione accovacciata o mentre scivoli",
                     "enabled": false,
                     "enabledDate": null,
                     "parentQuest": null,
-                    "progressTotal": 1,
+                    "progressTotal": 500,
                     "tandemCharacter": null,
-                    "tags": [],
+                    "tags": [
+                        "ChallengeCategory.Sienna"
+                    ],
                     "reward": {
                         "xp": 0,
                         "items": []
@@ -828,13 +1759,15 @@
                 },
                 {
                     "id": "Quest_S20_BPUnlockableCharacter_q03",
-                    "name": "???",
+                    "name": "Raccogli diversi tipi di armi di rarità Epica o superiore in una partita singola",
                     "enabled": false,
                     "enabledDate": null,
                     "parentQuest": null,
-                    "progressTotal": 1,
+                    "progressTotal": 3,
                     "tandemCharacter": null,
-                    "tags": [],
+                    "tags": [
+                        "ChallengeCategory.Sienna"
+                    ],
                     "reward": {
                         "xp": 0,
                         "items": []
@@ -843,13 +1776,15 @@
                 },
                 {
                     "id": "Quest_S20_BPUnlockableCharacter_q04",
-                    "name": "???",
+                    "name": "Usa uno spray al Daily Bugle",
                     "enabled": false,
                     "enabledDate": null,
                     "parentQuest": null,
                     "progressTotal": 1,
                     "tandemCharacter": null,
-                    "tags": [],
+                    "tags": [
+                        "ChallengeCategory.Sienna"
+                    ],
                     "reward": {
                         "xp": 0,
                         "items": []
@@ -858,7 +1793,7 @@
                 },
                 {
                     "id": "Quest_S20_BPUnlockableCharacter_q05",
-                    "name": "???",
+                    "name": "Completa incarichi Prowler",
                     "enabled": false,
                     "enabledDate": null,
                     "parentQuest": null,
@@ -873,13 +1808,15 @@
                 },
                 {
                     "id": "Quest_S20_BPUnlockableCharacter_q06",
-                    "name": "???",
+                    "name": "Esamina forzieri prima di subire qualsiasi danno in una partita",
                     "enabled": false,
                     "enabledDate": null,
                     "parentQuest": null,
-                    "progressTotal": 1,
+                    "progressTotal": 7,
                     "tandemCharacter": null,
-                    "tags": [],
+                    "tags": [
+                        "ChallengeCategory.Sienna"
+                    ],
                     "reward": {
                         "xp": 0,
                         "items": []
@@ -888,13 +1825,15 @@
                 },
                 {
                     "id": "Quest_S20_BPUnlockableCharacter_q07",
-                    "name": "???",
+                    "name": "Colpisci avversari alla testa con un'arma termica",
                     "enabled": false,
                     "enabledDate": null,
                     "parentQuest": null,
-                    "progressTotal": 1,
+                    "progressTotal": 3,
                     "tandemCharacter": null,
-                    "tags": [],
+                    "tags": [
+                        "ChallengeCategory.Sienna"
+                    ],
                     "reward": {
                         "xp": 0,
                         "items": []
@@ -903,13 +1842,15 @@
                 },
                 {
                     "id": "Quest_S20_BPUnlockableCharacter_q08",
-                    "name": "???",
+                    "name": "Raccogli lingotti",
                     "enabled": false,
                     "enabledDate": null,
                     "parentQuest": null,
-                    "progressTotal": 1,
+                    "progressTotal": 300,
                     "tandemCharacter": null,
-                    "tags": [],
+                    "tags": [
+                        "ChallengeCategory.Sienna"
+                    ],
                     "reward": {
                         "xp": 0,
                         "items": []
@@ -918,13 +1859,63 @@
                 },
                 {
                     "id": "Quest_S20_BPUnlockableCharacter_q09",
-                    "name": "???",
+                    "name": "Modifica un veicolo, quindi guidalo per 500 metri in una partita singola",
                     "enabled": false,
                     "enabledDate": null,
                     "parentQuest": null,
-                    "progressTotal": 1,
+                    "progressTotal": 2,
                     "tandemCharacter": null,
-                    "tags": [],
+                    "tags": [
+                        "ChallengeCategory.Sienna"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                }
+            ]
+        },
+        {
+            "id": "QuestBundle_S20_BPUnlockableCharacter_Goals",
+            "name": "Prowler",
+            "unlockType": "EChallengeBundleQuestUnlockType::RequiresBattlePass",
+            "tags": [
+                "ChallengeCategory.Sienna"
+            ],
+            "apiTags": [],
+            "colors": null,
+            "images": null,
+            "bundleRewards": [],
+            "quests": [
+                {
+                    "id": "Quest_S20_BPUnlockableCharacter_q01",
+                    "name": "Completa incarichi Prowler",
+                    "enabled": false,
+                    "enabledDate": null,
+                    "parentQuest": null,
+                    "progressTotal": 7,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.Sienna"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                },
+                {
+                    "id": "Quest_S20_BPUnlockableCharacter_q05",
+                    "name": "Completa incarichi Prowler",
+                    "enabled": false,
+                    "enabledDate": null,
+                    "parentQuest": null,
+                    "progressTotal": 3,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.Sienna"
+                    ],
                     "reward": {
                         "xp": 0,
                         "items": []
@@ -950,6 +1941,792 @@
                     "enabledDate": "2022-04-05 09:03:03+00:00",
                     "parentQuest": null,
                     "progressTotal": 3,
+                    "tandemCharacter": null,
+                    "tags": [],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                }
+            ]
+        },
+        {
+            "id": "QuestBundle_S20_CovertOps_BonusGoal_Phase1",
+            "name": "Obiettivi bonus Operazioni celate",
+            "unlockType": "EChallengeBundleQuestUnlockType::GrantWithBundle",
+            "tags": [
+                "ChallengeCategory.Event.CovertOps"
+            ],
+            "apiTags": [],
+            "colors": null,
+            "images": null,
+            "bundleRewards": [],
+            "quests": [
+                {
+                    "id": "Quest_S20_CompleteCovertOps_Q01",
+                    "name": "Completa incarichi operazioni celate",
+                    "enabled": false,
+                    "enabledDate": "2022-04-22 13:30:04+00:00",
+                    "parentQuest": null,
+                    "progressTotal": 4,
+                    "tandemCharacter": null,
+                    "tags": [],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                }
+            ]
+        },
+        {
+            "id": "QuestBundle_S20_CovertOps_BonusGoal_Phase2",
+            "name": "Obiettivi bonus Operazioni celate",
+            "unlockType": "EChallengeBundleQuestUnlockType::GrantWithBundle",
+            "tags": [
+                "ChallengeCategory.Event.CovertOps"
+            ],
+            "apiTags": [],
+            "colors": null,
+            "images": null,
+            "bundleRewards": [],
+            "quests": [
+                {
+                    "id": "Quest_S20_CompleteCovertOps_Q02",
+                    "name": "Completa incarichi operazioni celate",
+                    "enabled": false,
+                    "enabledDate": null,
+                    "parentQuest": null,
+                    "progressTotal": 4,
+                    "tandemCharacter": null,
+                    "tags": [],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                }
+            ]
+        },
+        {
+            "id": "QuestBundle_S20_CovertOps_BonusGoal_Phase3",
+            "name": "Obiettivi bonus Operazioni celate",
+            "unlockType": "EChallengeBundleQuestUnlockType::GrantWithBundle",
+            "tags": [
+                "ChallengeCategory.Event.CovertOps"
+            ],
+            "apiTags": [],
+            "colors": null,
+            "images": null,
+            "bundleRewards": [],
+            "quests": [
+                {
+                    "id": "Quest_S20_CompleteCovertOps_Q03",
+                    "name": "Completa incarichi operazioni celate",
+                    "enabled": false,
+                    "enabledDate": null,
+                    "parentQuest": null,
+                    "progressTotal": 4,
+                    "tandemCharacter": null,
+                    "tags": [],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                }
+            ]
+        },
+        {
+            "id": "QuestBundle_S20_CovertOps_BonusGoal_Phase4",
+            "name": "Obiettivi bonus Operazioni celate",
+            "unlockType": "EChallengeBundleQuestUnlockType::GrantWithBundle",
+            "tags": [
+                "ChallengeCategory.Event.CovertOps"
+            ],
+            "apiTags": [],
+            "colors": null,
+            "images": null,
+            "bundleRewards": [],
+            "quests": [
+                {
+                    "id": "Quest_S20_CompleteCovertOps_Q04",
+                    "name": "Completa incarichi operazioni celate",
+                    "enabled": false,
+                    "enabledDate": null,
+                    "parentQuest": null,
+                    "progressTotal": 4,
+                    "tandemCharacter": null,
+                    "tags": [],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                }
+            ]
+        },
+        {
+            "id": "QuestBundle_S20_CovertOps_Phase1",
+            "name": "OPERAZIONI CELATE",
+            "unlockType": "EChallengeBundleQuestUnlockType::DaysFromEventStart",
+            "tags": [
+                "ChallengeCategory.Event.CovertOps"
+            ],
+            "apiTags": [],
+            "colors": null,
+            "images": null,
+            "bundleRewards": [],
+            "quests": [
+                {
+                    "id": "Quest_S20_CovertOps_Phase1_Q01",
+                    "name": "Interagisci con il segnale del dispositivo",
+                    "enabled": false,
+                    "enabledDate": "2022-04-22 13:30:04+00:00",
+                    "parentQuest": null,
+                    "progressTotal": 2,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.Event.CovertOps",
+                        "ChallengeCategory.XP"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                }
+            ]
+        },
+        {
+            "id": "QuestBundle_S20_CovertOps_Phase2",
+            "name": "OPERAZIONI CELATE",
+            "unlockType": "EChallengeBundleQuestUnlockType::DaysFromEventStart",
+            "tags": [
+                "ChallengeCategory.Event.CovertOps"
+            ],
+            "apiTags": [],
+            "colors": null,
+            "images": null,
+            "bundleRewards": [],
+            "quests": [
+                {
+                    "id": "Quest_S20_CovertOps_Phase2_Q02",
+                    "name": "Interagisci con il segnale del dispositivo",
+                    "enabled": false,
+                    "enabledDate": null,
+                    "parentQuest": null,
+                    "progressTotal": 3,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.Event.CovertOps",
+                        "ChallengeCategory.XP"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                }
+            ]
+        },
+        {
+            "id": "QuestBundle_S20_LevelUpPack_01",
+            "name": "Incarichi del pacchetto Scala-livelli Cavaliere Omega",
+            "unlockType": "EChallengeBundleQuestUnlockType::GrantWithBundle",
+            "tags": [
+                "ChallengeCategory.Style.LevelUpPack"
+            ],
+            "apiTags": [],
+            "colors": null,
+            "images": null,
+            "bundleRewards": [],
+            "quests": [
+                {
+                    "id": "Quest_S20_LevelUpPack_W01_01",
+                    "name": "Raccogli gettone Scala-livelli a nord-ovest di Deposito Truciolandia",
+                    "enabled": false,
+                    "enabledDate": null,
+                    "parentQuest": null,
+                    "progressTotal": 1,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.Style.LevelUpPack.W01"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                },
+                {
+                    "id": "Quest_S20_LevelUpPack_W01_02",
+                    "name": "Raccogli gettone Scala-livelli a nord-ovest di Campo Coccole",
+                    "enabled": false,
+                    "enabledDate": null,
+                    "parentQuest": null,
+                    "progressTotal": 1,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.Style.LevelUpPack.W01"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                },
+                {
+                    "id": "Quest_S20_LevelUpPack_W01_03",
+                    "name": "Raccogli gettone Scala-livelli a sud-ovest di Boschetto Bisunto",
+                    "enabled": false,
+                    "enabledDate": null,
+                    "parentQuest": null,
+                    "progressTotal": 1,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.Style.LevelUpPack.W01"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                },
+                {
+                    "id": "Quest_S20_LevelUpPack_W01_04",
+                    "name": "Raccogli gettone Scala-livelli vicino a Pinnacoli Pendenti",
+                    "enabled": false,
+                    "enabledDate": null,
+                    "parentQuest": null,
+                    "progressTotal": 1,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.Style.LevelUpPack.W01"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                },
+                {
+                    "id": "Quest_S20_LevelUpPack_W01_05",
+                    "name": "Raccogli gettone Scala-livelli a Crocevia Conici",
+                    "enabled": false,
+                    "enabledDate": null,
+                    "parentQuest": null,
+                    "progressTotal": 1,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.Style.LevelUpPack.W01"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                },
+                {
+                    "id": "Quest_S20_LevelUpPack_W01_06",
+                    "name": "Raccogli gettone Scala-livelli su un'isola a est del Santuario",
+                    "enabled": false,
+                    "enabledDate": null,
+                    "parentQuest": null,
+                    "progressTotal": 1,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.Style.LevelUpPack.W01"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                },
+                {
+                    "id": "Quest_S20_LevelUpPack_W01_07",
+                    "name": "Raccogli gettone Scala-livelli a ovest dei Jones",
+                    "enabled": false,
+                    "enabledDate": null,
+                    "parentQuest": null,
+                    "progressTotal": 1,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.Style.LevelUpPack.W01"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                }
+            ]
+        },
+        {
+            "id": "QuestBundle_S20_LevelUpPack_02",
+            "name": "Incarichi del pacchetto Scala-livelli Cavaliere Omega",
+            "unlockType": "EChallengeBundleQuestUnlockType::GrantWithBundle",
+            "tags": [
+                "ChallengeCategory.Style.LevelUpPack"
+            ],
+            "apiTags": [],
+            "colors": null,
+            "images": null,
+            "bundleRewards": [],
+            "quests": [
+                {
+                    "id": "Quest_S20_LevelUpPack_W02_01",
+                    "name": "Raccogli gettone Scala-livelli vicino a Stretto Sonnolento",
+                    "enabled": false,
+                    "enabledDate": null,
+                    "parentQuest": null,
+                    "progressTotal": 1,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.Style.LevelUpPack.W02"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                },
+                {
+                    "id": "Quest_S20_LevelUpPack_W02_02",
+                    "name": "Raccogli gettone Scala-livelli a sud-est del Santuario",
+                    "enabled": false,
+                    "enabledDate": null,
+                    "parentQuest": null,
+                    "progressTotal": 1,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.Style.LevelUpPack.W02"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                },
+                {
+                    "id": "Quest_S20_LevelUpPack_W02_03",
+                    "name": "Raccogli gettone Scala-livelli a nord di Canyon Condominiale",
+                    "enabled": false,
+                    "enabledDate": null,
+                    "parentQuest": null,
+                    "progressTotal": 1,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.Style.LevelUpPack.W02"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                },
+                {
+                    "id": "Quest_S20_LevelUpPack_W02_04",
+                    "name": "Raccogli gettone Scala-livelli a nord-est di Bobine Brulle",
+                    "enabled": false,
+                    "enabledDate": null,
+                    "parentQuest": null,
+                    "progressTotal": 1,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.Style.LevelUpPack.W02"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                },
+                {
+                    "id": "Quest_S20_LevelUpPack_W02_05",
+                    "name": "Raccogli gettone Scala-livelli a sud di Caverna di Comando",
+                    "enabled": false,
+                    "enabledDate": null,
+                    "parentQuest": null,
+                    "progressTotal": 1,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.Style.LevelUpPack.W02"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                },
+                {
+                    "id": "Quest_S20_LevelUpPack_W02_06",
+                    "name": "Raccogli gettone Scala-livelli a nord-ovest di Boschetto Bisunto",
+                    "enabled": false,
+                    "enabledDate": null,
+                    "parentQuest": null,
+                    "progressTotal": 1,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.Style.LevelUpPack.W02"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                },
+                {
+                    "id": "Quest_S20_LevelUpPack_W02_07",
+                    "name": "Raccogli gettone Scala-livelli su un'isola a sud di Boschetto Bisunto",
+                    "enabled": false,
+                    "enabledDate": null,
+                    "parentQuest": null,
+                    "progressTotal": 1,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.Style.LevelUpPack.W02"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                }
+            ]
+        },
+        {
+            "id": "QuestBundle_S20_LevelUpPack_03",
+            "name": "Incarichi del pacchetto Scala-livelli Cavaliere Omega",
+            "unlockType": "EChallengeBundleQuestUnlockType::GrantWithBundle",
+            "tags": [
+                "ChallengeCategory.Style.LevelUpPack"
+            ],
+            "apiTags": [],
+            "colors": null,
+            "images": null,
+            "bundleRewards": [],
+            "quests": [
+                {
+                    "id": "Quest_S20_LevelUpPack_W03_01",
+                    "name": "Raccogli gettone Scala-livelli a est del Daily Bugle",
+                    "enabled": false,
+                    "enabledDate": null,
+                    "parentQuest": null,
+                    "progressTotal": 1,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.Style.LevelUpPack.W03"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                },
+                {
+                    "id": "Quest_S20_LevelUpPack_W03_02",
+                    "name": "Raccogli gettone Scala-livelli su un'isola a nord-est del Santuario",
+                    "enabled": false,
+                    "enabledDate": null,
+                    "parentQuest": null,
+                    "progressTotal": 1,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.Style.LevelUpPack.W03"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                },
+                {
+                    "id": "Quest_S20_LevelUpPack_W03_03",
+                    "name": "Raccogli gettone Scala-livelli a est di Pinnacoli Pendenti",
+                    "enabled": false,
+                    "enabledDate": null,
+                    "parentQuest": null,
+                    "progressTotal": 1,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.Style.LevelUpPack.W03"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                },
+                {
+                    "id": "Quest_S20_LevelUpPack_W03_04",
+                    "name": "Raccogli gettone Scala-livelli a est di Stazione Sinapsy",
+                    "enabled": false,
+                    "enabledDate": null,
+                    "parentQuest": null,
+                    "progressTotal": 1,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.Style.LevelUpPack.W03"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                },
+                {
+                    "id": "Quest_S20_LevelUpPack_W03_05",
+                    "name": "Raccogli gettone Scala-livelli a est di Boschetto Bisunto",
+                    "enabled": false,
+                    "enabledDate": null,
+                    "parentQuest": null,
+                    "progressTotal": 1,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.Style.LevelUpPack.W03"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                },
+                {
+                    "id": "Quest_S20_LevelUpPack_W03_06",
+                    "name": "Raccogli gettone Scala-livelli a nord-ovest di Pinnacoli Pendenti",
+                    "enabled": false,
+                    "enabledDate": null,
+                    "parentQuest": null,
+                    "progressTotal": 1,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.Style.LevelUpPack.W03"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                },
+                {
+                    "id": "Quest_S20_LevelUpPack_W03_07",
+                    "name": "Raccogli gettone Scala-livelli vicino a Condotti Confusi",
+                    "enabled": false,
+                    "enabledDate": null,
+                    "parentQuest": null,
+                    "progressTotal": 1,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.Style.LevelUpPack.W03"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                }
+            ]
+        },
+        {
+            "id": "QuestBundle_S20_LevelUpPack_04",
+            "name": "Incarichi del pacchetto Scala-livelli Cavaliere Omega",
+            "unlockType": "EChallengeBundleQuestUnlockType::GrantWithBundle",
+            "tags": [
+                "ChallengeCategory.Style.LevelUpPack"
+            ],
+            "apiTags": [],
+            "colors": null,
+            "images": null,
+            "bundleRewards": [],
+            "quests": [
+                {
+                    "id": "Quest_S20_LevelUpPack_W04_01",
+                    "name": "Raccogli gettone Scala-livelli a nord-ovest del Daily Bugle",
+                    "enabled": false,
+                    "enabledDate": null,
+                    "parentQuest": null,
+                    "progressTotal": 1,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.Style.LevelUpPack.W04"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                },
+                {
+                    "id": "Quest_S20_LevelUpPack_W04_02",
+                    "name": "Raccogli gettone Scala-livelli a sud dei Jones",
+                    "enabled": false,
+                    "enabledDate": null,
+                    "parentQuest": null,
+                    "progressTotal": 1,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.Style.LevelUpPack.W04"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                },
+                {
+                    "id": "Quest_S20_LevelUpPack_W04_03",
+                    "name": "Raccogli gettone Scala-livelli a sud di Circuito Chonker",
+                    "enabled": false,
+                    "enabledDate": null,
+                    "parentQuest": null,
+                    "progressTotal": 1,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.Style.LevelUpPack.W04"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                },
+                {
+                    "id": "Quest_S20_LevelUpPack_W04_04",
+                    "name": "Raccogli gettone Scala-livelli a sud-ovest di Bobine Brulle",
+                    "enabled": false,
+                    "enabledDate": null,
+                    "parentQuest": null,
+                    "progressTotal": 1,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.Style.LevelUpPack.W04"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                },
+                {
+                    "id": "Quest_S20_LevelUpPack_W04_05",
+                    "name": "Raccogli gettone Scala-livelli vicino a Campo Coccole",
+                    "enabled": false,
+                    "enabledDate": null,
+                    "parentQuest": null,
+                    "progressTotal": 1,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.Style.LevelUpPack.W04"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                },
+                {
+                    "id": "Quest_S20_LevelUpPack_W04_06",
+                    "name": "Raccogli gettone Scala-livelli a nord di Caverna di Comando",
+                    "enabled": false,
+                    "enabledDate": null,
+                    "parentQuest": null,
+                    "progressTotal": 1,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.Style.LevelUpPack.W04"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                },
+                {
+                    "id": "Quest_S20_LevelUpPack_W04_07",
+                    "name": "Raccogli gettone Scala-livelli a nord di Condotti Confusi",
+                    "enabled": false,
+                    "enabledDate": null,
+                    "parentQuest": null,
+                    "progressTotal": 1,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.Style.LevelUpPack.W04"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                }
+            ]
+        },
+        {
+            "id": "QuestBundle_S20_LevelUpPack_PunchCard",
+            "name": "Incarichi del pacchetto Scala-livelli Cavaliere Omega",
+            "unlockType": "EChallengeBundleQuestUnlockType::GrantWithBundle",
+            "tags": [
+                "ChallengeCategory.Style.LevelUpPack"
+            ],
+            "apiTags": [],
+            "colors": null,
+            "images": null,
+            "bundleRewards": [],
+            "quests": [
+                {
+                    "id": "Quests_S20_LevelUpPack_PunchCard_01",
+                    "name": "Completa 7 incarichi scala-livelli Cavaliere Omega",
+                    "enabled": false,
+                    "enabledDate": null,
+                    "parentQuest": null,
+                    "progressTotal": 7,
+                    "tandemCharacter": null,
+                    "tags": [],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                },
+                {
+                    "id": "Quests_S20_LevelUpPack_PunchCard_02",
+                    "name": "Completa 14 incarichi scala-livelli Cavaliere Omega",
+                    "enabled": false,
+                    "enabledDate": null,
+                    "parentQuest": null,
+                    "progressTotal": 14,
+                    "tandemCharacter": null,
+                    "tags": [],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                },
+                {
+                    "id": "Quests_S20_LevelUpPack_PunchCard_03",
+                    "name": "Completa 21 incarichi scala-livelli Cavaliere Omega",
+                    "enabled": false,
+                    "enabledDate": null,
+                    "parentQuest": null,
+                    "progressTotal": 21,
+                    "tandemCharacter": null,
+                    "tags": [],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                },
+                {
+                    "id": "Quests_S20_LevelUpPack_PunchCard_04",
+                    "name": "Completa 28 incarichi scala-livelli Cavaliere Omega",
+                    "enabled": false,
+                    "enabledDate": null,
+                    "parentQuest": null,
+                    "progressTotal": 28,
                     "tandemCharacter": null,
                     "tags": [],
                     "reward": {
@@ -10139,6 +11916,209 @@
             ]
         },
         {
+            "id": "QuestBundle_S20_Noble",
+            "name": "4 maggio Star Wars",
+            "unlockType": "EChallengeBundleQuestUnlockType::GrantWithBundle",
+            "tags": [],
+            "apiTags": [],
+            "colors": null,
+            "images": null,
+            "bundleRewards": [],
+            "quests": [
+                {
+                    "id": "Quest_S20_Noble_Q01",
+                    "name": "Sopravvivi alle fasi della Tempesta mentre porti una spada laser",
+                    "enabled": true,
+                    "enabledDate": "2022-05-03 09:03:02+00:00",
+                    "parentQuest": null,
+                    "progressTotal": 5,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.XP",
+                        "ChallengeCategory.Noble"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                },
+                {
+                    "id": "Quest_S20_Noble_Q02",
+                    "name": "Infliggi danni agli avversari entro 30 metri usando un fucile blaster E-11",
+                    "enabled": true,
+                    "enabledDate": "2022-05-03 09:03:02+00:00",
+                    "parentQuest": null,
+                    "progressTotal": 1000,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.XP",
+                        "ChallengeCategory.Noble"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                },
+                {
+                    "id": "Quest_S20_Noble_Q03",
+                    "name": "Completa una taglia da un Assaltatore",
+                    "enabled": true,
+                    "enabledDate": "2022-05-03 09:03:02+00:00",
+                    "parentQuest": null,
+                    "progressTotal": 2,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.XP",
+                        "ChallengeCategory.Noble",
+                        "Athena.Location.Quest.MT4.CP.01",
+                        "Athena.Location.Quest.MT4.CP.02",
+                        "Athena.Location.Quest.MT4.CP.03",
+                        "Quest.ChallengeIcon.Elim",
+                        "Quest.Metadata.PartyAssist"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": [
+                        {
+                            "tag": "Athena.Location.Quest.MT4.CP.01",
+                            "location": null
+                        },
+                        {
+                            "tag": "Athena.Location.Quest.MT4.CP.02",
+                            "location": null
+                        },
+                        {
+                            "tag": "Athena.Location.Quest.MT4.CP.03",
+                            "location": null
+                        }
+                    ]
+                },
+                {
+                    "id": "Quest_S20_Noble_Q04",
+                    "name": "Guida un veicolo da Circuito Chonker o Deposito Truciolandia a un checkpoint degli Assaltatori",
+                    "enabled": true,
+                    "enabledDate": "2022-05-03 09:03:02+00:00",
+                    "parentQuest": null,
+                    "progressTotal": 1,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.XP",
+                        "ChallengeCategory.Noble",
+                        "Athena.Location.Quest.MT4.CP.01",
+                        "Athena.Location.Quest.MT4.CP.02",
+                        "Athena.Location.Quest.MT4.CP.03",
+                        "Quest.ChallengeIcon.Car"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": [
+                        {
+                            "tag": "Athena.Location.Quest.MT4.CP.01",
+                            "location": null
+                        },
+                        {
+                            "tag": "Athena.Location.Quest.MT4.CP.02",
+                            "location": null
+                        },
+                        {
+                            "tag": "Athena.Location.Quest.MT4.CP.03",
+                            "location": null
+                        }
+                    ]
+                },
+                {
+                    "id": "Quest_S20_Noble_Q05",
+                    "name": "Atterra in un checkpoint degli Assaltatori e piazzati fra i migliori 25",
+                    "enabled": true,
+                    "enabledDate": "2022-05-03 09:03:02+00:00",
+                    "parentQuest": null,
+                    "progressTotal": 2,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.XP",
+                        "ChallengeCategory.Noble",
+                        "Athena.Location.Quest.MT4.CP.01",
+                        "Athena.Location.Quest.MT4.CP.02",
+                        "Athena.Location.Quest.MT4.CP.03",
+                        "Quest.ChallengeIcon.Land"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": [
+                        {
+                            "tag": "Athena.Location.Quest.MT4.CP.01",
+                            "location": null
+                        },
+                        {
+                            "tag": "Athena.Location.Quest.MT4.CP.02",
+                            "location": null
+                        },
+                        {
+                            "tag": "Athena.Location.Quest.MT4.CP.03",
+                            "location": null
+                        }
+                    ]
+                },
+                {
+                    "id": "Quest_S20_Noble_Q07",
+                    "name": "Para i colpi con una spada laser",
+                    "enabled": true,
+                    "enabledDate": "2022-05-03 09:03:02+00:00",
+                    "parentQuest": null,
+                    "progressTotal": 10,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.XP",
+                        "ChallengeCategory.Noble"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                }
+            ]
+        },
+        {
+            "id": "QuestBundle_S20_Noble_BonusGoal",
+            "name": "Obiettivi bonus 4 maggio Star Wars",
+            "unlockType": "EChallengeBundleQuestUnlockType::GrantWithBundle",
+            "tags": [
+                "ChallengeCategory.Noble"
+            ],
+            "apiTags": [],
+            "colors": null,
+            "images": null,
+            "bundleRewards": [],
+            "quests": [
+                {
+                    "id": "Quest_S20_Noble_BonusGoal",
+                    "name": "Completa incarichi 4 maggio Star Wars",
+                    "enabled": true,
+                    "enabledDate": "2022-05-03 09:03:02+00:00",
+                    "parentQuest": null,
+                    "progressTotal": 5,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.Noble"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                }
+            ]
+        },
+        {
             "id": "QuestBundle_S20_NoPermit",
             "name": "Incarichi senza licenza",
             "unlockType": "EChallengeBundleQuestUnlockType::GrantWithBundle",
@@ -11244,6 +13224,134 @@
                     "tags": [
                         "ChallengeCategory.Style.PickaxeCollectible",
                         "Quest.HideWhenClaimed"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                }
+            ]
+        },
+        {
+            "id": "QuestBundle_S20_ShinnyGoldCreature",
+            "name": "Pacchetto incarichi Guardiana del Flagello dorato",
+            "unlockType": "EChallengeBundleQuestUnlockType::GrantWithBundle",
+            "tags": [],
+            "apiTags": [],
+            "colors": null,
+            "images": null,
+            "bundleRewards": [],
+            "quests": [
+                {
+                    "id": "Quest_BR_ShinnyGoldCreature_CompleteQuests_01",
+                    "name": "Completa gli obiettivi bonus giornalieri",
+                    "enabled": false,
+                    "enabledDate": null,
+                    "parentQuest": null,
+                    "progressTotal": 3,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "Quest.ChallengeStyle.ShinnyGoldCreature"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                },
+                {
+                    "id": "Quest_BR_ShinnyGoldCreature_CompleteQuests_02",
+                    "name": "Completa gli obiettivi bonus giornalieri",
+                    "enabled": false,
+                    "enabledDate": null,
+                    "parentQuest": null,
+                    "progressTotal": 5,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "Quest.ChallengeStyle.ShinnyGoldCreature"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                },
+                {
+                    "id": "Quest_BR_ShinnyGoldCreature_CompleteQuests_03",
+                    "name": "Completa gli obiettivi bonus giornalieri",
+                    "enabled": false,
+                    "enabledDate": null,
+                    "parentQuest": null,
+                    "progressTotal": 7,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "Quest.ChallengeStyle.ShinnyGoldCreature"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                },
+                {
+                    "id": "Quest_BR_ShinnyGoldCreature_CompleteQuests_04",
+                    "name": "Completa gli obiettivi bonus giornalieri",
+                    "enabled": false,
+                    "enabledDate": null,
+                    "parentQuest": null,
+                    "progressTotal": 10,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "Quest.ChallengeStyle.ShinnyGoldCreature"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                },
+                {
+                    "id": "Quest_BR_ShinnyGoldCreature_CompleteQuests_05",
+                    "name": "Completa gli obiettivi bonus giornalieri",
+                    "enabled": false,
+                    "enabledDate": null,
+                    "parentQuest": null,
+                    "progressTotal": 14,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "Quest.ChallengeStyle.ShinnyGoldCreature"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                }
+            ]
+        },
+        {
+            "id": "QuestBundle_S20_Soundwave",
+            "name": "Emicida",
+            "unlockType": "EChallengeBundleQuestUnlockType::GrantWithBundle",
+            "tags": [
+                "ChallengeCategory.Event.Soundwave"
+            ],
+            "apiTags": [],
+            "colors": null,
+            "images": null,
+            "bundleRewards": [],
+            "quests": [
+                {
+                    "id": "quest_s20_soundwave_q01",
+                    "name": "Raccogli moneta del concerto",
+                    "enabled": false,
+                    "enabledDate": "2022-04-29 22:30:04+00:00",
+                    "parentQuest": null,
+                    "progressTotal": 1,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.Event.Soundwave"
                     ],
                     "reward": {
                         "xp": 0,

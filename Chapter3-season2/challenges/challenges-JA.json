@@ -625,8 +625,8 @@
                 {
                     "id": "Quest_S20_Weekly_W04_Q01",
                     "name": "ジェットパックで飛行する",
-                    "enabled": false,
-                    "enabledDate": null,
+                    "enabled": true,
+                    "enabledDate": "2022-04-14 13:30:04+00:00",
                     "parentQuest": null,
                     "progressTotal": 100,
                     "tandemCharacter": null,
@@ -643,8 +643,8 @@
                 {
                     "id": "Quest_S20_Weekly_W04_Q02",
                     "name": "バスドライバーにお礼をしてトップ25でフィニッシュする",
-                    "enabled": false,
-                    "enabledDate": null,
+                    "enabled": true,
+                    "enabledDate": "2022-04-14 13:30:04+00:00",
                     "parentQuest": null,
                     "progressTotal": 2,
                     "tandemCharacter": null,
@@ -661,8 +661,8 @@
                 {
                     "id": "Quest_S20_Weekly_W04_Q03",
                     "name": "バトルバスでガソリンスタンドを訪れる",
-                    "enabled": false,
-                    "enabledDate": null,
+                    "enabled": true,
+                    "enabledDate": "2022-04-14 13:30:04+00:00",
                     "parentQuest": null,
                     "progressTotal": 3,
                     "tandemCharacter": null,
@@ -679,8 +679,8 @@
                 {
                     "id": "Quest_S20_Weekly_W04_Q04",
                     "name": "ショックウェーブグレネードを食らった後に数秒滞空する",
-                    "enabled": false,
-                    "enabledDate": null,
+                    "enabled": true,
+                    "enabledDate": "2022-04-14 13:30:04+00:00",
                     "parentQuest": null,
                     "progressTotal": 3,
                     "tandemCharacter": null,
@@ -697,8 +697,8 @@
                 {
                     "id": "Quest_S20_Weekly_W04_Q05",
                     "name": "1回のマッチでIOの構成員を撃破する",
-                    "enabled": false,
-                    "enabledDate": null,
+                    "enabled": true,
+                    "enabledDate": "2022-04-14 13:30:04+00:00",
                     "parentQuest": null,
                     "progressTotal": 3,
                     "tandemCharacter": null,
@@ -715,8 +715,8 @@
                 {
                     "id": "Quest_S20_Weekly_W04_Q06",
                     "name": "サーマルフィッシュを釣るか、収集する",
-                    "enabled": false,
-                    "enabledDate": null,
+                    "enabled": true,
+                    "enabledDate": "2022-04-14 13:30:04+00:00",
                     "parentQuest": null,
                     "progressTotal": 1,
                     "tandemCharacter": null,
@@ -733,8 +733,8 @@
                 {
                     "id": "Quest_S20_Weekly_W04_Q07",
                     "name": "着地してから30秒以内にバウンティボードからバウンティを受ける",
-                    "enabled": false,
-                    "enabledDate": null,
+                    "enabled": true,
+                    "enabledDate": "2022-04-14 13:30:04+00:00",
                     "parentQuest": null,
                     "progressTotal": 1,
                     "tandemCharacter": null,
@@ -751,8 +751,8 @@
                 {
                     "id": "Quest_S20_Weekly_W04_Q08",
                     "name": "収集ツールで敵にダメージを与える",
-                    "enabled": false,
-                    "enabledDate": null,
+                    "enabled": true,
+                    "enabledDate": "2022-04-14 13:30:04+00:00",
                     "parentQuest": null,
                     "progressTotal": 75,
                     "tandemCharacter": null,
@@ -769,8 +769,8 @@
                 {
                     "id": "Quest_S20_Weekly_W04_Q09",
                     "name": "シフティ・シャフトかキャンプ・カドルで弾薬箱を開ける",
-                    "enabled": false,
-                    "enabledDate": null,
+                    "enabled": true,
+                    "enabledDate": "2022-04-14 13:30:04+00:00",
                     "parentQuest": null,
                     "progressTotal": 3,
                     "tandemCharacter": null,
@@ -787,8 +787,937 @@
             ]
         },
         {
+            "id": "MissionBundle_S20_Week_05",
+            "name": "ウィーク5 シーズンクエスト",
+            "unlockType": "EChallengeBundleQuestUnlockType::GrantWithBundle",
+            "tags": [],
+            "apiTags": [],
+            "colors": null,
+            "images": null,
+            "bundleRewards": [],
+            "quests": [
+                {
+                    "id": "Quest_S20_Weekly_W05_Q01",
+                    "name": "コマンド・キャヴァーンまたは戦闘地点で、スナイパーライフルでIOの構成員をヘッドショットする",
+                    "enabled": true,
+                    "enabledDate": "2022-04-21 13:30:04+00:00",
+                    "parentQuest": null,
+                    "progressTotal": 3,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.Weekly.005",
+                        "ChallengeCategory.XP"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                },
+                {
+                    "id": "Quest_S20_Weekly_W05_Q02",
+                    "name": "ダメージを受けることなく、敵にレンジャーショットガンを2回命中させる",
+                    "enabled": true,
+                    "enabledDate": "2022-04-21 13:30:04+00:00",
+                    "parentQuest": null,
+                    "progressTotal": 1,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.Weekly.005",
+                        "ChallengeCategory.XP"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                },
+                {
+                    "id": "Quest_S20_Weekly_W05_Q03",
+                    "name": "アンヴィルロケットランチャーで敵の乗り物にロックオンしてダメージを与える",
+                    "enabled": true,
+                    "enabledDate": "2022-04-21 13:30:04+00:00",
+                    "parentQuest": null,
+                    "progressTotal": 2,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.Weekly.005",
+                        "ChallengeCategory.XP"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                },
+                {
+                    "id": "Quest_S20_Weekly_W05_Q04",
+                    "name": "戦闘地点で医療ミストを使ってセブンの構成員を回復する",
+                    "enabled": true,
+                    "enabledDate": "2022-04-21 13:30:04+00:00",
+                    "parentQuest": null,
+                    "progressTotal": 1,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.Weekly.005",
+                        "ChallengeCategory.XP"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                },
+                {
+                    "id": "Quest_S20_Weekly_W05_Q05",
+                    "name": "よじ登ってから10秒以内に敵にダメージを与える",
+                    "enabled": true,
+                    "enabledDate": "2022-04-21 13:30:04+00:00",
+                    "parentQuest": null,
+                    "progressTotal": 1,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.Weekly.005",
+                        "ChallengeCategory.XP"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                },
+                {
+                    "id": "Quest_S20_Weekly_W05_Q06",
+                    "name": "ダメージを受けずに10階以上の高さから落下する",
+                    "enabled": true,
+                    "enabledDate": "2022-04-21 13:30:04+00:00",
+                    "parentQuest": null,
+                    "progressTotal": 1,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.Weekly.005",
+                        "ChallengeCategory.XP"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                },
+                {
+                    "id": "Quest_S20_Weekly_W05_Q07",
+                    "name": "ヘビースナイパーで敵の乗り物にダメージを与える",
+                    "enabled": true,
+                    "enabledDate": "2022-04-21 13:30:04+00:00",
+                    "parentQuest": null,
+                    "progressTotal": 600,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.Weekly.005",
+                        "ChallengeCategory.XP"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                },
+                {
+                    "id": "Quest_S20_Weekly_W05_Q08",
+                    "name": "ライトマシンガンで建築物を破壊する",
+                    "enabled": true,
+                    "enabledDate": "2022-04-21 13:30:04+00:00",
+                    "parentQuest": null,
+                    "progressTotal": 10,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.Weekly.005",
+                        "ChallengeCategory.XP"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                },
+                {
+                    "id": "Quest_S20_Weekly_W05_Q09",
+                    "name": "1回のマッチで、ミニシールドポーションからシールドを得る",
+                    "enabled": true,
+                    "enabledDate": "2022-04-21 13:30:04+00:00",
+                    "parentQuest": null,
+                    "progressTotal": 75,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.Weekly.005",
+                        "ChallengeCategory.XP"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                }
+            ]
+        },
+        {
+            "id": "MissionBundle_S20_Week_06",
+            "name": "ウィーク6 シーズンクエスト",
+            "unlockType": "EChallengeBundleQuestUnlockType::GrantWithBundle",
+            "tags": [],
+            "apiTags": [],
+            "colors": null,
+            "images": null,
+            "bundleRewards": [],
+            "quests": [
+                {
+                    "id": "Quest_S20_Weekly_W06_Q01",
+                    "name": "1発の弾薬で敵に100以上のダメージを与える",
+                    "enabled": true,
+                    "enabledDate": "2022-04-28 13:30:03+00:00",
+                    "parentQuest": null,
+                    "progressTotal": 1,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.Weekly.006",
+                        "ChallengeCategory.XP"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                },
+                {
+                    "id": "Quest_S20_Weekly_W06_Q02",
+                    "name": "5秒間で5回よじ登りを行う",
+                    "enabled": true,
+                    "enabledDate": "2022-04-28 13:30:03+00:00",
+                    "parentQuest": null,
+                    "progressTotal": 1,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.Weekly.006",
+                        "ChallengeCategory.XP"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                },
+                {
+                    "id": "Quest_S20_Weekly_W06_Q03",
+                    "name": "しゃがんだ状態で敵のタンクにピストルを命中させる",
+                    "enabled": true,
+                    "enabledDate": "2022-04-28 13:30:03+00:00",
+                    "parentQuest": null,
+                    "progressTotal": 200,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.Weekly.006",
+                        "ChallengeCategory.XP"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                },
+                {
+                    "id": "Quest_S20_Weekly_W06_Q04",
+                    "name": "タンクで滞空する",
+                    "enabled": true,
+                    "enabledDate": "2022-04-28 13:30:03+00:00",
+                    "parentQuest": null,
+                    "progressTotal": 3,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.Weekly.006",
+                        "ChallengeCategory.XP"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                },
+                {
+                    "id": "Quest_S20_Weekly_W06_Q05",
+                    "name": "一度の投てきでキャベツを100メートル以上飛ばす",
+                    "enabled": true,
+                    "enabledDate": "2022-04-28 13:30:03+00:00",
+                    "parentQuest": null,
+                    "progressTotal": 1,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.Weekly.006",
+                        "ChallengeCategory.XP"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                },
+                {
+                    "id": "Quest_S20_Weekly_W06_Q06",
+                    "name": "自分が落下している間に敵にダメージを与える",
+                    "enabled": true,
+                    "enabledDate": "2022-04-28 13:30:03+00:00",
+                    "parentQuest": null,
+                    "progressTotal": 150,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.Weekly.006",
+                        "ChallengeCategory.XP"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                },
+                {
+                    "id": "Quest_S20_Weekly_W06_Q07",
+                    "name": "ストライカーバーストライフルでスコープを使用しながら、敵に攻撃を4連続で当てる",
+                    "enabled": true,
+                    "enabledDate": "2022-04-28 13:30:03+00:00",
+                    "parentQuest": null,
+                    "progressTotal": 1,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.Weekly.006",
+                        "ChallengeCategory.XP"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                },
+                {
+                    "id": "Quest_S20_Weekly_W06_Q08",
+                    "name": "アサルトライフルで30メートル以上離れた場所から敵にダメージを与える",
+                    "enabled": true,
+                    "enabledDate": "2022-04-28 13:30:03+00:00",
+                    "parentQuest": null,
+                    "progressTotal": 150,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.Weekly.006",
+                        "ChallengeCategory.XP"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                },
+                {
+                    "id": "Quest_S20_Weekly_W06_Q09",
+                    "name": "火で建築物を破壊する",
+                    "enabled": true,
+                    "enabledDate": "2022-04-28 13:30:03+00:00",
+                    "parentQuest": null,
+                    "progressTotal": 100,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.Weekly.006",
+                        "ChallengeCategory.XP"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                }
+            ]
+        },
+        {
+            "id": "MissionBundle_S20_Week_07",
+            "name": "ウィーク7 シーズンクエスト",
+            "unlockType": "EChallengeBundleQuestUnlockType::GrantWithBundle",
+            "tags": [],
+            "apiTags": [],
+            "colors": null,
+            "images": null,
+            "bundleRewards": [],
+            "quests": [
+                {
+                    "id": "Quest_S20_Weekly_W07_Q01",
+                    "name": "リモート爆弾を使ってタレットを破壊する",
+                    "enabled": true,
+                    "enabledDate": "2022-05-05 13:30:03+00:00",
+                    "parentQuest": null,
+                    "progressTotal": 1,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.Weekly.007",
+                        "ChallengeCategory.XP"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                },
+                {
+                    "id": "Quest_S20_Weekly_W07_Q02",
+                    "name": "1回のマッチで複数の名前付きのエリアを訪れる",
+                    "enabled": true,
+                    "enabledDate": "2022-05-05 13:30:03+00:00",
+                    "parentQuest": null,
+                    "progressTotal": 5,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.Weekly.007",
+                        "ChallengeCategory.XP",
+                        "Quest.ChallengeIcon.Visit"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                },
+                {
+                    "id": "Quest_S20_Weekly_W07_Q03",
+                    "name": "エンジンにダメージを与えてタンクを無力化する",
+                    "enabled": true,
+                    "enabledDate": "2022-05-05 13:30:03+00:00",
+                    "parentQuest": null,
+                    "progressTotal": 1,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.Weekly.007",
+                        "ChallengeCategory.XP"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                },
+                {
+                    "id": "Quest_S20_Weekly_W07_Q04",
+                    "name": "盗まれたセブンの補給物資をIOの領土から取り戻す",
+                    "enabled": true,
+                    "enabledDate": "2022-05-05 13:30:03+00:00",
+                    "parentQuest": null,
+                    "progressTotal": 3,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.Weekly.007",
+                        "ChallengeCategory.XP",
+                        "Quest.ChallengeIcon.AmmoBox"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                },
+                {
+                    "id": "Quest_S20_Weekly_W07_Q05",
+                    "name": "カウキャッチャーで建築物を破壊する",
+                    "enabled": true,
+                    "enabledDate": "2022-05-05 13:30:03+00:00",
+                    "parentQuest": null,
+                    "progressTotal": 200,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.Weekly.007",
+                        "ChallengeCategory.XP"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                },
+                {
+                    "id": "Quest_S20_Weekly_W07_Q06",
+                    "name": "ストライカーバーストライフルでヘッドショットダメージを与える",
+                    "enabled": true,
+                    "enabledDate": "2022-05-05 13:30:03+00:00",
+                    "parentQuest": null,
+                    "progressTotal": 200,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.Weekly.007",
+                        "ChallengeCategory.XP"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                },
+                {
+                    "id": "Quest_S20_Weekly_W07_Q07",
+                    "name": "修理用トーチで敵にダメージを与える",
+                    "enabled": true,
+                    "enabledDate": "2022-05-05 13:30:03+00:00",
+                    "parentQuest": null,
+                    "progressTotal": 5,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.Weekly.007",
+                        "ChallengeCategory.XP"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                },
+                {
+                    "id": "Quest_S20_Weekly_W07_Q08",
+                    "name": "バウンティボードのバウンティをクリアする",
+                    "enabled": true,
+                    "enabledDate": "2022-05-05 13:30:03+00:00",
+                    "parentQuest": null,
+                    "progressTotal": 1,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.Weekly.007",
+                        "ChallengeCategory.XP"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                },
+                {
+                    "id": "Quest_S20_Weekly_W07_Q09",
+                    "name": "乗り物にガソリンを入れる",
+                    "enabled": true,
+                    "enabledDate": "2022-05-05 13:30:03+00:00",
+                    "parentQuest": null,
+                    "progressTotal": 50,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.Weekly.007",
+                        "ChallengeCategory.XP"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                }
+            ]
+        },
+        {
+            "id": "MissionBundle_S20_Week_08",
+            "name": "ウィーク8 シーズンクエスト",
+            "unlockType": "EChallengeBundleQuestUnlockType::GrantWithBundle",
+            "tags": [],
+            "apiTags": [],
+            "colors": null,
+            "images": null,
+            "bundleRewards": [],
+            "quests": [
+                {
+                    "id": "Quest_S20_Weekly_W08_Q01",
+                    "name": "ドラムショットガンで10メートル以内の距離から敵にダメージを与える",
+                    "enabled": false,
+                    "enabledDate": null,
+                    "parentQuest": null,
+                    "progressTotal": 150,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.Weekly.008",
+                        "ChallengeCategory.XP"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                },
+                {
+                    "id": "Quest_S20_Weekly_W08_Q02",
+                    "name": "Choppaで1000メートル移動する",
+                    "enabled": false,
+                    "enabledDate": null,
+                    "parentQuest": null,
+                    "progressTotal": 1000,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.Weekly.008",
+                        "ChallengeCategory.XP"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                },
+                {
+                    "id": "Quest_S20_Weekly_W08_Q03",
+                    "name": "ボム・クレーター・クラスターで苗木を植える",
+                    "enabled": false,
+                    "enabledDate": null,
+                    "parentQuest": null,
+                    "progressTotal": 3,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.Weekly.008",
+                        "ChallengeCategory.XP",
+                        "Athena.Quests.Location.Crater.03b",
+                        "Athena.Quests.Location.Crater.02",
+                        "Athena.Quests.Location.Crater.01a",
+                        "Athena.Quests.Location.Crater.01b",
+                        "Athena.Quests.Location.Crater.03a"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                },
+                {
+                    "id": "Quest_S20_Weekly_W08_Q04",
+                    "name": "スライディング中にリモート爆弾を起爆させる",
+                    "enabled": false,
+                    "enabledDate": null,
+                    "parentQuest": null,
+                    "progressTotal": 2,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.Weekly.008",
+                        "ChallengeCategory.XP"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                },
+                {
+                    "id": "Quest_S20_Weekly_W08_Q05",
+                    "name": "タンクへの空爆を要請する",
+                    "enabled": false,
+                    "enabledDate": null,
+                    "parentQuest": null,
+                    "progressTotal": 1,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.XP",
+                        "ChallengeCategory.Weekly.008"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                },
+                {
+                    "id": "Quest_S20_Weekly_W08_Q06",
+                    "name": "ガソリンポンプで修理用トーチを補給する",
+                    "enabled": false,
+                    "enabledDate": null,
+                    "parentQuest": null,
+                    "progressTotal": 2,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.Weekly.008",
+                        "Quest.ChallengeIcon.Interact",
+                        "Athena.Location.Meta.GasStation.01",
+                        "Athena.Location.Meta.GasStation.02",
+                        "Athena.Location.Meta.GasStation.03",
+                        "Athena.Location.Meta.GasStation.04",
+                        "Athena.Location.Meta.GasStation.05",
+                        "Athena.Location.Meta.GasStation.06",
+                        "Athena.Location.Meta.GasStation.07",
+                        "Athena.Location.Meta.GasStation.08",
+                        "Athena.Location.Meta.GasStation.09",
+                        "Athena.Location.Meta.GasStation.10",
+                        "Athena.Location.Meta.GasStation.11",
+                        "Athena.Location.Meta.GasStation.12",
+                        "Athena.Location.Meta.GasStation.13",
+                        "ChallengeCategory.XP"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": [
+                        {
+                            "tag": "Athena.Location.Meta.GasStation.01",
+                            "location": null
+                        },
+                        {
+                            "tag": "Athena.Location.Meta.GasStation.02",
+                            "location": null
+                        },
+                        {
+                            "tag": "Athena.Location.Meta.GasStation.03",
+                            "location": null
+                        },
+                        {
+                            "tag": "Athena.Location.Meta.GasStation.04",
+                            "location": null
+                        },
+                        {
+                            "tag": "Athena.Location.Meta.GasStation.05",
+                            "location": null
+                        },
+                        {
+                            "tag": "Athena.Location.Meta.GasStation.06",
+                            "location": null
+                        },
+                        {
+                            "tag": "Athena.Location.Meta.GasStation.07",
+                            "location": null
+                        },
+                        {
+                            "tag": "Athena.Location.Meta.GasStation.08",
+                            "location": null
+                        },
+                        {
+                            "tag": "Athena.Location.Meta.GasStation.09",
+                            "location": null
+                        },
+                        {
+                            "tag": "Athena.Location.Meta.GasStation.10",
+                            "location": null
+                        },
+                        {
+                            "tag": "Athena.Location.Meta.GasStation.11",
+                            "location": null
+                        },
+                        {
+                            "tag": "Athena.Location.Meta.GasStation.12",
+                            "location": null
+                        },
+                        {
+                            "tag": "Athena.Location.Meta.GasStation.13",
+                            "location": null
+                        }
+                    ]
+                },
+                {
+                    "id": "Quest_S20_Weekly_W08_Q07",
+                    "name": "コンバットサブマシンガンで敵にダメージを与える",
+                    "enabled": false,
+                    "enabledDate": null,
+                    "parentQuest": null,
+                    "progressTotal": 500,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.Weekly.008",
+                        "ChallengeCategory.XP"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                },
+                {
+                    "id": "Quest_S20_Weekly_W08_Q08",
+                    "name": "レジを開く",
+                    "enabled": false,
+                    "enabledDate": null,
+                    "parentQuest": null,
+                    "progressTotal": 3,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "Athena.Location.Meta.GasStation.01",
+                        "Athena.Location.Meta.GasStation.02",
+                        "Athena.Location.Meta.GasStation.03",
+                        "Athena.Location.Meta.GasStation.04",
+                        "Athena.Location.Meta.GasStation.05",
+                        "Athena.Location.Meta.GasStation.06",
+                        "Athena.Location.Meta.GasStation.07",
+                        "Athena.Location.Meta.GasStation.08",
+                        "Athena.Location.Meta.GasStation.09",
+                        "Athena.Location.Meta.GasStation.10",
+                        "Athena.Location.Meta.GasStation.11",
+                        "Athena.Location.Meta.GasStation.12",
+                        "ChallengeCategory.Weekly.008",
+                        "ChallengeCategory.XP"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": [
+                        {
+                            "tag": "Athena.Location.Meta.GasStation.01",
+                            "location": null
+                        },
+                        {
+                            "tag": "Athena.Location.Meta.GasStation.02",
+                            "location": null
+                        },
+                        {
+                            "tag": "Athena.Location.Meta.GasStation.03",
+                            "location": null
+                        },
+                        {
+                            "tag": "Athena.Location.Meta.GasStation.04",
+                            "location": null
+                        },
+                        {
+                            "tag": "Athena.Location.Meta.GasStation.05",
+                            "location": null
+                        },
+                        {
+                            "tag": "Athena.Location.Meta.GasStation.06",
+                            "location": null
+                        },
+                        {
+                            "tag": "Athena.Location.Meta.GasStation.07",
+                            "location": null
+                        },
+                        {
+                            "tag": "Athena.Location.Meta.GasStation.08",
+                            "location": null
+                        },
+                        {
+                            "tag": "Athena.Location.Meta.GasStation.09",
+                            "location": null
+                        },
+                        {
+                            "tag": "Athena.Location.Meta.GasStation.10",
+                            "location": null
+                        },
+                        {
+                            "tag": "Athena.Location.Meta.GasStation.11",
+                            "location": null
+                        },
+                        {
+                            "tag": "Athena.Location.Meta.GasStation.12",
+                            "location": null
+                        }
+                    ]
+                },
+                {
+                    "id": "Quest_S20_Weekly_W08_Q09",
+                    "name": "ピストル、サブマシンガン、またはショットガンで撃破する",
+                    "enabled": false,
+                    "enabledDate": null,
+                    "parentQuest": null,
+                    "progressTotal": 1,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.Weekly.008",
+                        "ChallengeCategory.XP"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                }
+            ]
+        },
+        {
+            "id": "QuestBundle_S20_10_Buttercake",
+            "name": "lost and mound: snow",
+            "unlockType": "EChallengeBundleQuestUnlockType::GrantWithBundle",
+            "tags": [],
+            "apiTags": [],
+            "colors": null,
+            "images": null,
+            "bundleRewards": [],
+            "quests": [
+                {
+                    "id": "quest_s20_buttercake_discover_snowmounds",
+                    "name": "雪に消ゆ",
+                    "enabled": true,
+                    "enabledDate": "2022-04-19 09:03:05+00:00",
+                    "parentQuest": null,
+                    "progressTotal": 3,
+                    "tandemCharacter": null,
+                    "tags": [],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                }
+            ]
+        },
+        {
+            "id": "QuestBundle_S20_20_Buttercake",
+            "name": "klomberries are back",
+            "unlockType": "EChallengeBundleQuestUnlockType::GrantWithBundle",
+            "tags": [],
+            "apiTags": [],
+            "colors": null,
+            "images": null,
+            "bundleRewards": [],
+            "quests": [
+                {
+                    "id": "quest_s20_buttercake_gather_klomberries_simple",
+                    "name": "クロムベリーが戻ってきた",
+                    "enabled": true,
+                    "enabledDate": "2022-04-19 09:03:05+00:00",
+                    "parentQuest": null,
+                    "progressTotal": 10,
+                    "tandemCharacter": null,
+                    "tags": [],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                }
+            ]
+        },
+        {
+            "id": "QuestBundle_S20_30_Buttercake",
+            "name": "lost and mound: sand",
+            "unlockType": "EChallengeBundleQuestUnlockType::GrantWithBundle",
+            "tags": [],
+            "apiTags": [],
+            "colors": null,
+            "images": null,
+            "bundleRewards": [],
+            "quests": [
+                {
+                    "id": "quest_s20_buttercake_discover_sandmounds",
+                    "name": "小山に消ゆ: 砂",
+                    "enabled": true,
+                    "enabledDate": "2022-05-03 09:03:02+00:00",
+                    "parentQuest": null,
+                    "progressTotal": 3,
+                    "tandemCharacter": null,
+                    "tags": [],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                },
+                {
+                    "id": "quest_s20_buttercake_geyser",
+                    "name": "どこでも吹き出る間欠泉",
+                    "enabled": true,
+                    "enabledDate": "2022-05-03 09:03:02+00:00",
+                    "parentQuest": null,
+                    "progressTotal": 3,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.XP"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                }
+            ]
+        },
+        {
             "id": "QuestBundle_S20_BPUnlockableCharacter_01",
-            "name": "？？？",
+            "name": "プロウラー",
             "unlockType": "EChallengeBundleQuestUnlockType::RequiresBattlePass",
             "tags": [],
             "apiTags": [],
@@ -798,7 +1727,7 @@
             "quests": [
                 {
                     "id": "Quest_S20_BPUnlockableCharacter_q01",
-                    "name": "？？？",
+                    "name": "プロウラークエストをクリアする",
                     "enabled": false,
                     "enabledDate": null,
                     "parentQuest": null,
@@ -813,13 +1742,15 @@
                 },
                 {
                     "id": "Quest_S20_BPUnlockableCharacter_q02",
-                    "name": "？？？",
+                    "name": "スライディングをしている時、またはしゃがんでいる時に敵にダメージを与える",
                     "enabled": false,
                     "enabledDate": null,
                     "parentQuest": null,
-                    "progressTotal": 1,
+                    "progressTotal": 500,
                     "tandemCharacter": null,
-                    "tags": [],
+                    "tags": [
+                        "ChallengeCategory.Sienna"
+                    ],
                     "reward": {
                         "xp": 0,
                         "items": []
@@ -828,13 +1759,15 @@
                 },
                 {
                     "id": "Quest_S20_BPUnlockableCharacter_q03",
-                    "name": "？？？",
+                    "name": "1回のマッチで、レア度がエピック以上の武器を複数種類集める",
                     "enabled": false,
                     "enabledDate": null,
                     "parentQuest": null,
-                    "progressTotal": 1,
+                    "progressTotal": 3,
                     "tandemCharacter": null,
-                    "tags": [],
+                    "tags": [
+                        "ChallengeCategory.Sienna"
+                    ],
                     "reward": {
                         "xp": 0,
                         "items": []
@@ -843,13 +1776,15 @@
                 },
                 {
                     "id": "Quest_S20_BPUnlockableCharacter_q04",
-                    "name": "？？？",
+                    "name": "デイリー・ビューグルでスプレーを使用する",
                     "enabled": false,
                     "enabledDate": null,
                     "parentQuest": null,
                     "progressTotal": 1,
                     "tandemCharacter": null,
-                    "tags": [],
+                    "tags": [
+                        "ChallengeCategory.Sienna"
+                    ],
                     "reward": {
                         "xp": 0,
                         "items": []
@@ -858,7 +1793,7 @@
                 },
                 {
                     "id": "Quest_S20_BPUnlockableCharacter_q05",
-                    "name": "？？？",
+                    "name": "プロウラークエストをクリアする",
                     "enabled": false,
                     "enabledDate": null,
                     "parentQuest": null,
@@ -873,13 +1808,15 @@
                 },
                 {
                     "id": "Quest_S20_BPUnlockableCharacter_q06",
-                    "name": "？？？",
+                    "name": "1回のマッチで、ダメージを受ける前に宝箱を開ける",
                     "enabled": false,
                     "enabledDate": null,
                     "parentQuest": null,
-                    "progressTotal": 1,
+                    "progressTotal": 7,
                     "tandemCharacter": null,
-                    "tags": [],
+                    "tags": [
+                        "ChallengeCategory.Sienna"
+                    ],
                     "reward": {
                         "xp": 0,
                         "items": []
@@ -888,13 +1825,15 @@
                 },
                 {
                     "id": "Quest_S20_BPUnlockableCharacter_q07",
-                    "name": "？？？",
+                    "name": "サーマル武器で敵にヘッドショット決める",
                     "enabled": false,
                     "enabledDate": null,
                     "parentQuest": null,
-                    "progressTotal": 1,
+                    "progressTotal": 3,
                     "tandemCharacter": null,
-                    "tags": [],
+                    "tags": [
+                        "ChallengeCategory.Sienna"
+                    ],
                     "reward": {
                         "xp": 0,
                         "items": []
@@ -903,13 +1842,15 @@
                 },
                 {
                     "id": "Quest_S20_BPUnlockableCharacter_q08",
-                    "name": "？？？",
+                    "name": "インゴットを収集する",
                     "enabled": false,
                     "enabledDate": null,
                     "parentQuest": null,
-                    "progressTotal": 1,
+                    "progressTotal": 300,
                     "tandemCharacter": null,
-                    "tags": [],
+                    "tags": [
+                        "ChallengeCategory.Sienna"
+                    ],
                     "reward": {
                         "xp": 0,
                         "items": []
@@ -918,13 +1859,63 @@
                 },
                 {
                     "id": "Quest_S20_BPUnlockableCharacter_q09",
-                    "name": "？？？",
+                    "name": "1回のマッチで、乗り物を改造して500メートル運転する",
                     "enabled": false,
                     "enabledDate": null,
                     "parentQuest": null,
-                    "progressTotal": 1,
+                    "progressTotal": 2,
                     "tandemCharacter": null,
-                    "tags": [],
+                    "tags": [
+                        "ChallengeCategory.Sienna"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                }
+            ]
+        },
+        {
+            "id": "QuestBundle_S20_BPUnlockableCharacter_Goals",
+            "name": "プロウラー",
+            "unlockType": "EChallengeBundleQuestUnlockType::RequiresBattlePass",
+            "tags": [
+                "ChallengeCategory.Sienna"
+            ],
+            "apiTags": [],
+            "colors": null,
+            "images": null,
+            "bundleRewards": [],
+            "quests": [
+                {
+                    "id": "Quest_S20_BPUnlockableCharacter_q01",
+                    "name": "プロウラークエストをクリアする",
+                    "enabled": false,
+                    "enabledDate": null,
+                    "parentQuest": null,
+                    "progressTotal": 7,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.Sienna"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                },
+                {
+                    "id": "Quest_S20_BPUnlockableCharacter_q05",
+                    "name": "プロウラークエストをクリアする",
+                    "enabled": false,
+                    "enabledDate": null,
+                    "parentQuest": null,
+                    "progressTotal": 3,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.Sienna"
+                    ],
                     "reward": {
                         "xp": 0,
                         "items": []
@@ -950,6 +1941,792 @@
                     "enabledDate": "2022-04-05 09:03:03+00:00",
                     "parentQuest": null,
                     "progressTotal": 3,
+                    "tandemCharacter": null,
+                    "tags": [],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                }
+            ]
+        },
+        {
+            "id": "QuestBundle_S20_CovertOps_BonusGoal_Phase1",
+            "name": "隠密作戦 ボーナス目標",
+            "unlockType": "EChallengeBundleQuestUnlockType::GrantWithBundle",
+            "tags": [
+                "ChallengeCategory.Event.CovertOps"
+            ],
+            "apiTags": [],
+            "colors": null,
+            "images": null,
+            "bundleRewards": [],
+            "quests": [
+                {
+                    "id": "Quest_S20_CompleteCovertOps_Q01",
+                    "name": "隠密作戦クエストをクリアする",
+                    "enabled": false,
+                    "enabledDate": "2022-04-22 13:30:04+00:00",
+                    "parentQuest": null,
+                    "progressTotal": 4,
+                    "tandemCharacter": null,
+                    "tags": [],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                }
+            ]
+        },
+        {
+            "id": "QuestBundle_S20_CovertOps_BonusGoal_Phase2",
+            "name": "隠密作戦 ボーナス目標",
+            "unlockType": "EChallengeBundleQuestUnlockType::GrantWithBundle",
+            "tags": [
+                "ChallengeCategory.Event.CovertOps"
+            ],
+            "apiTags": [],
+            "colors": null,
+            "images": null,
+            "bundleRewards": [],
+            "quests": [
+                {
+                    "id": "Quest_S20_CompleteCovertOps_Q02",
+                    "name": "隠密作戦クエストをクリアする",
+                    "enabled": false,
+                    "enabledDate": null,
+                    "parentQuest": null,
+                    "progressTotal": 4,
+                    "tandemCharacter": null,
+                    "tags": [],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                }
+            ]
+        },
+        {
+            "id": "QuestBundle_S20_CovertOps_BonusGoal_Phase3",
+            "name": "隠密作戦 ボーナス目標",
+            "unlockType": "EChallengeBundleQuestUnlockType::GrantWithBundle",
+            "tags": [
+                "ChallengeCategory.Event.CovertOps"
+            ],
+            "apiTags": [],
+            "colors": null,
+            "images": null,
+            "bundleRewards": [],
+            "quests": [
+                {
+                    "id": "Quest_S20_CompleteCovertOps_Q03",
+                    "name": "隠密作戦クエストをクリアする",
+                    "enabled": false,
+                    "enabledDate": null,
+                    "parentQuest": null,
+                    "progressTotal": 4,
+                    "tandemCharacter": null,
+                    "tags": [],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                }
+            ]
+        },
+        {
+            "id": "QuestBundle_S20_CovertOps_BonusGoal_Phase4",
+            "name": "隠密作戦 ボーナス目標",
+            "unlockType": "EChallengeBundleQuestUnlockType::GrantWithBundle",
+            "tags": [
+                "ChallengeCategory.Event.CovertOps"
+            ],
+            "apiTags": [],
+            "colors": null,
+            "images": null,
+            "bundleRewards": [],
+            "quests": [
+                {
+                    "id": "Quest_S20_CompleteCovertOps_Q04",
+                    "name": "隠密作戦クエストをクリアする",
+                    "enabled": false,
+                    "enabledDate": null,
+                    "parentQuest": null,
+                    "progressTotal": 4,
+                    "tandemCharacter": null,
+                    "tags": [],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                }
+            ]
+        },
+        {
+            "id": "QuestBundle_S20_CovertOps_Phase1",
+            "name": "隠密作戦",
+            "unlockType": "EChallengeBundleQuestUnlockType::DaysFromEventStart",
+            "tags": [
+                "ChallengeCategory.Event.CovertOps"
+            ],
+            "apiTags": [],
+            "colors": null,
+            "images": null,
+            "bundleRewards": [],
+            "quests": [
+                {
+                    "id": "Quest_S20_CovertOps_Phase1_Q01",
+                    "name": "装置の信号とインタラクトする",
+                    "enabled": false,
+                    "enabledDate": "2022-04-22 13:30:04+00:00",
+                    "parentQuest": null,
+                    "progressTotal": 2,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.Event.CovertOps",
+                        "ChallengeCategory.XP"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                }
+            ]
+        },
+        {
+            "id": "QuestBundle_S20_CovertOps_Phase2",
+            "name": "隠密作戦",
+            "unlockType": "EChallengeBundleQuestUnlockType::DaysFromEventStart",
+            "tags": [
+                "ChallengeCategory.Event.CovertOps"
+            ],
+            "apiTags": [],
+            "colors": null,
+            "images": null,
+            "bundleRewards": [],
+            "quests": [
+                {
+                    "id": "Quest_S20_CovertOps_Phase2_Q02",
+                    "name": "装置の信号とインタラクトする",
+                    "enabled": false,
+                    "enabledDate": null,
+                    "parentQuest": null,
+                    "progressTotal": 3,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.Event.CovertOps",
+                        "ChallengeCategory.XP"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                }
+            ]
+        },
+        {
+            "id": "QuestBundle_S20_LevelUpPack_01",
+            "name": "オメガナイト レベルアップパッククエスト",
+            "unlockType": "EChallengeBundleQuestUnlockType::GrantWithBundle",
+            "tags": [
+                "ChallengeCategory.Style.LevelUpPack"
+            ],
+            "apiTags": [],
+            "colors": null,
+            "images": null,
+            "bundleRewards": [],
+            "quests": [
+                {
+                    "id": "Quest_S20_LevelUpPack_W01_01",
+                    "name": "ログジャム・ランバーヤードの北西でレベルアップトークンを収集する",
+                    "enabled": false,
+                    "enabledDate": null,
+                    "parentQuest": null,
+                    "progressTotal": 1,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.Style.LevelUpPack.W01"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                },
+                {
+                    "id": "Quest_S20_LevelUpPack_W01_02",
+                    "name": "キャンプ・カドルの北西でレベルアップトークンを収集する",
+                    "enabled": false,
+                    "enabledDate": null,
+                    "parentQuest": null,
+                    "progressTotal": 1,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.Style.LevelUpPack.W01"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                },
+                {
+                    "id": "Quest_S20_LevelUpPack_W01_03",
+                    "name": "グリーシー・グローブの南西でレベルアップトークンを収集する",
+                    "enabled": false,
+                    "enabledDate": null,
+                    "parentQuest": null,
+                    "progressTotal": 1,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.Style.LevelUpPack.W01"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                },
+                {
+                    "id": "Quest_S20_LevelUpPack_W01_04",
+                    "name": "ティルテッド・タワー付近でレベルアップトークンを収集する",
+                    "enabled": false,
+                    "enabledDate": null,
+                    "parentQuest": null,
+                    "progressTotal": 1,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.Style.LevelUpPack.W01"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                },
+                {
+                    "id": "Quest_S20_LevelUpPack_W01_05",
+                    "name": "コーニー・クロスロードでレベルアップトークンを収集する",
+                    "enabled": false,
+                    "enabledDate": null,
+                    "parentQuest": null,
+                    "progressTotal": 1,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.Style.LevelUpPack.W01"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                },
+                {
+                    "id": "Quest_S20_LevelUpPack_W01_06",
+                    "name": "サンクチュアリーの東にある島でレベルアップトークンを収集する",
+                    "enabled": false,
+                    "enabledDate": null,
+                    "parentQuest": null,
+                    "progressTotal": 1,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.Style.LevelUpPack.W01"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                },
+                {
+                    "id": "Quest_S20_LevelUpPack_W01_07",
+                    "name": "ジョーンジーズの西でレベルアップトークンを収集する",
+                    "enabled": false,
+                    "enabledDate": null,
+                    "parentQuest": null,
+                    "progressTotal": 1,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.Style.LevelUpPack.W01"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                }
+            ]
+        },
+        {
+            "id": "QuestBundle_S20_LevelUpPack_02",
+            "name": "オメガナイト レベルアップパッククエスト",
+            "unlockType": "EChallengeBundleQuestUnlockType::GrantWithBundle",
+            "tags": [
+                "ChallengeCategory.Style.LevelUpPack"
+            ],
+            "apiTags": [],
+            "colors": null,
+            "images": null,
+            "bundleRewards": [],
+            "quests": [
+                {
+                    "id": "Quest_S20_LevelUpPack_W02_01",
+                    "name": "スリーピー・サウンド周辺でレベルアップトークンを収集する",
+                    "enabled": false,
+                    "enabledDate": null,
+                    "parentQuest": null,
+                    "progressTotal": 1,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.Style.LevelUpPack.W02"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                },
+                {
+                    "id": "Quest_S20_LevelUpPack_W02_02",
+                    "name": "サンクチュアリーの南東でレベルアップトークンを収集する",
+                    "enabled": false,
+                    "enabledDate": null,
+                    "parentQuest": null,
+                    "progressTotal": 1,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.Style.LevelUpPack.W02"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                },
+                {
+                    "id": "Quest_S20_LevelUpPack_W02_03",
+                    "name": "コンドー・キャニオンの北でレベルアップトークンを収集する",
+                    "enabled": false,
+                    "enabledDate": null,
+                    "parentQuest": null,
+                    "progressTotal": 1,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.Style.LevelUpPack.W02"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                },
+                {
+                    "id": "Quest_S20_LevelUpPack_W02_04",
+                    "name": "ロッキー・リールズの北東でレベルアップトークンを収集する",
+                    "enabled": false,
+                    "enabledDate": null,
+                    "parentQuest": null,
+                    "progressTotal": 1,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.Style.LevelUpPack.W02"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                },
+                {
+                    "id": "Quest_S20_LevelUpPack_W02_05",
+                    "name": "コマンド・キャヴァーンの南でレベルアップトークンを収集する",
+                    "enabled": false,
+                    "enabledDate": null,
+                    "parentQuest": null,
+                    "progressTotal": 1,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.Style.LevelUpPack.W02"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                },
+                {
+                    "id": "Quest_S20_LevelUpPack_W02_06",
+                    "name": "グリーシー・グローブの北西でレベルアップトークンを収集する",
+                    "enabled": false,
+                    "enabledDate": null,
+                    "parentQuest": null,
+                    "progressTotal": 1,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.Style.LevelUpPack.W02"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                },
+                {
+                    "id": "Quest_S20_LevelUpPack_W02_07",
+                    "name": "グリーシー・グローブの南にある島でレベルアップトークンを収集する",
+                    "enabled": false,
+                    "enabledDate": null,
+                    "parentQuest": null,
+                    "progressTotal": 1,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.Style.LevelUpPack.W02"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                }
+            ]
+        },
+        {
+            "id": "QuestBundle_S20_LevelUpPack_03",
+            "name": "オメガナイト レベルアップパッククエスト",
+            "unlockType": "EChallengeBundleQuestUnlockType::GrantWithBundle",
+            "tags": [
+                "ChallengeCategory.Style.LevelUpPack"
+            ],
+            "apiTags": [],
+            "colors": null,
+            "images": null,
+            "bundleRewards": [],
+            "quests": [
+                {
+                    "id": "Quest_S20_LevelUpPack_W03_01",
+                    "name": "デイリー・ビューグルの東でレベルアップトークンを収集する",
+                    "enabled": false,
+                    "enabledDate": null,
+                    "parentQuest": null,
+                    "progressTotal": 1,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.Style.LevelUpPack.W03"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                },
+                {
+                    "id": "Quest_S20_LevelUpPack_W03_02",
+                    "name": "サンクチュアリーの北東にある島でレベルアップトークンを収集する",
+                    "enabled": false,
+                    "enabledDate": null,
+                    "parentQuest": null,
+                    "progressTotal": 1,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.Style.LevelUpPack.W03"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                },
+                {
+                    "id": "Quest_S20_LevelUpPack_W03_03",
+                    "name": "ティルテッド・タワーの東でレベルアップトークンを収集する",
+                    "enabled": false,
+                    "enabledDate": null,
+                    "parentQuest": null,
+                    "progressTotal": 1,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.Style.LevelUpPack.W03"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                },
+                {
+                    "id": "Quest_S20_LevelUpPack_W03_04",
+                    "name": "シナプス・ステーションの東でレベルアップトークンを収集する",
+                    "enabled": false,
+                    "enabledDate": null,
+                    "parentQuest": null,
+                    "progressTotal": 1,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.Style.LevelUpPack.W03"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                },
+                {
+                    "id": "Quest_S20_LevelUpPack_W03_05",
+                    "name": "グリーシー・グローブの東でレベルアップトークンを収集する",
+                    "enabled": false,
+                    "enabledDate": null,
+                    "parentQuest": null,
+                    "progressTotal": 1,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.Style.LevelUpPack.W03"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                },
+                {
+                    "id": "Quest_S20_LevelUpPack_W03_06",
+                    "name": "ティルテッド・タワーの北西でレベルアップトークンを収集する",
+                    "enabled": false,
+                    "enabledDate": null,
+                    "parentQuest": null,
+                    "progressTotal": 1,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.Style.LevelUpPack.W03"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                },
+                {
+                    "id": "Quest_S20_LevelUpPack_W03_07",
+                    "name": "シフティ・シャフト付近でレベルアップトークンを収集する",
+                    "enabled": false,
+                    "enabledDate": null,
+                    "parentQuest": null,
+                    "progressTotal": 1,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.Style.LevelUpPack.W03"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                }
+            ]
+        },
+        {
+            "id": "QuestBundle_S20_LevelUpPack_04",
+            "name": "オメガナイト レベルアップパッククエスト",
+            "unlockType": "EChallengeBundleQuestUnlockType::GrantWithBundle",
+            "tags": [
+                "ChallengeCategory.Style.LevelUpPack"
+            ],
+            "apiTags": [],
+            "colors": null,
+            "images": null,
+            "bundleRewards": [],
+            "quests": [
+                {
+                    "id": "Quest_S20_LevelUpPack_W04_01",
+                    "name": "デイリー・ビューグルの北西でレベルアップトークンを収集する",
+                    "enabled": false,
+                    "enabledDate": null,
+                    "parentQuest": null,
+                    "progressTotal": 1,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.Style.LevelUpPack.W04"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                },
+                {
+                    "id": "Quest_S20_LevelUpPack_W04_02",
+                    "name": "ジョーンジーズの南でレベルアップトークンを収集する",
+                    "enabled": false,
+                    "enabledDate": null,
+                    "parentQuest": null,
+                    "progressTotal": 1,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.Style.LevelUpPack.W04"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                },
+                {
+                    "id": "Quest_S20_LevelUpPack_W04_03",
+                    "name": "チョンカーズ・スピードウェイの南でレベルアップトークンを収集する",
+                    "enabled": false,
+                    "enabledDate": null,
+                    "parentQuest": null,
+                    "progressTotal": 1,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.Style.LevelUpPack.W04"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                },
+                {
+                    "id": "Quest_S20_LevelUpPack_W04_04",
+                    "name": "ロッキー・リールズの南西でレベルアップトークンを収集する",
+                    "enabled": false,
+                    "enabledDate": null,
+                    "parentQuest": null,
+                    "progressTotal": 1,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.Style.LevelUpPack.W04"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                },
+                {
+                    "id": "Quest_S20_LevelUpPack_W04_05",
+                    "name": "キャンプ・カドル付近でレベルアップトークンを収集する",
+                    "enabled": false,
+                    "enabledDate": null,
+                    "parentQuest": null,
+                    "progressTotal": 1,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.Style.LevelUpPack.W04"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                },
+                {
+                    "id": "Quest_S20_LevelUpPack_W04_06",
+                    "name": "コマンド・キャヴァーンの北でレベルアップトークンを収集する",
+                    "enabled": false,
+                    "enabledDate": null,
+                    "parentQuest": null,
+                    "progressTotal": 1,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.Style.LevelUpPack.W04"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                },
+                {
+                    "id": "Quest_S20_LevelUpPack_W04_07",
+                    "name": "シフティ・シャフトの北でレベルアップトークンを収集する",
+                    "enabled": false,
+                    "enabledDate": null,
+                    "parentQuest": null,
+                    "progressTotal": 1,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.Style.LevelUpPack.W04"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                }
+            ]
+        },
+        {
+            "id": "QuestBundle_S20_LevelUpPack_PunchCard",
+            "name": "オメガナイト レベルアップパッククエスト",
+            "unlockType": "EChallengeBundleQuestUnlockType::GrantWithBundle",
+            "tags": [
+                "ChallengeCategory.Style.LevelUpPack"
+            ],
+            "apiTags": [],
+            "colors": null,
+            "images": null,
+            "bundleRewards": [],
+            "quests": [
+                {
+                    "id": "Quests_S20_LevelUpPack_PunchCard_01",
+                    "name": "オメガナイト レベルアップクエストを7個完了する",
+                    "enabled": false,
+                    "enabledDate": null,
+                    "parentQuest": null,
+                    "progressTotal": 7,
+                    "tandemCharacter": null,
+                    "tags": [],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                },
+                {
+                    "id": "Quests_S20_LevelUpPack_PunchCard_02",
+                    "name": "オメガナイト レベルアップクエストを14個完了する",
+                    "enabled": false,
+                    "enabledDate": null,
+                    "parentQuest": null,
+                    "progressTotal": 14,
+                    "tandemCharacter": null,
+                    "tags": [],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                },
+                {
+                    "id": "Quests_S20_LevelUpPack_PunchCard_03",
+                    "name": "オメガナイト レベルアップクエストを21個完了する",
+                    "enabled": false,
+                    "enabledDate": null,
+                    "parentQuest": null,
+                    "progressTotal": 21,
+                    "tandemCharacter": null,
+                    "tags": [],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                },
+                {
+                    "id": "Quests_S20_LevelUpPack_PunchCard_04",
+                    "name": "オメガナイト レベルアップクエストを28個完了する",
+                    "enabled": false,
+                    "enabledDate": null,
+                    "parentQuest": null,
+                    "progressTotal": 28,
                     "tandemCharacter": null,
                     "tags": [],
                     "reward": {
@@ -10139,6 +11916,209 @@
             ]
         },
         {
+            "id": "QuestBundle_S20_Noble",
+            "name": "スター・ウォーズ  5月4日",
+            "unlockType": "EChallengeBundleQuestUnlockType::GrantWithBundle",
+            "tags": [],
+            "apiTags": [],
+            "colors": null,
+            "images": null,
+            "bundleRewards": [],
+            "quests": [
+                {
+                    "id": "Quest_S20_Noble_Q01",
+                    "name": "ライトセーバーを所持した状態でストームフェーズを生き延びる",
+                    "enabled": true,
+                    "enabledDate": "2022-05-03 09:03:02+00:00",
+                    "parentQuest": null,
+                    "progressTotal": 5,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.XP",
+                        "ChallengeCategory.Noble"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                },
+                {
+                    "id": "Quest_S20_Noble_Q02",
+                    "name": "E-11ブラスターライフルを使い30メートルの範囲内で敵にダメージを与える",
+                    "enabled": true,
+                    "enabledDate": "2022-05-03 09:03:02+00:00",
+                    "parentQuest": null,
+                    "progressTotal": 1000,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.XP",
+                        "ChallengeCategory.Noble"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                },
+                {
+                    "id": "Quest_S20_Noble_Q03",
+                    "name": "ストームトルーパーからのバウンティをクリアする",
+                    "enabled": true,
+                    "enabledDate": "2022-05-03 09:03:02+00:00",
+                    "parentQuest": null,
+                    "progressTotal": 2,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.XP",
+                        "ChallengeCategory.Noble",
+                        "Athena.Location.Quest.MT4.CP.01",
+                        "Athena.Location.Quest.MT4.CP.02",
+                        "Athena.Location.Quest.MT4.CP.03",
+                        "Quest.ChallengeIcon.Elim",
+                        "Quest.Metadata.PartyAssist"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": [
+                        {
+                            "tag": "Athena.Location.Quest.MT4.CP.01",
+                            "location": null
+                        },
+                        {
+                            "tag": "Athena.Location.Quest.MT4.CP.02",
+                            "location": null
+                        },
+                        {
+                            "tag": "Athena.Location.Quest.MT4.CP.03",
+                            "location": null
+                        }
+                    ]
+                },
+                {
+                    "id": "Quest_S20_Noble_Q04",
+                    "name": "チョンカーズ・スピードウェイまたはログジャム・ランバーヤードからストームトルーパーチェックポイントまで乗り物を運転する",
+                    "enabled": true,
+                    "enabledDate": "2022-05-03 09:03:02+00:00",
+                    "parentQuest": null,
+                    "progressTotal": 1,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.XP",
+                        "ChallengeCategory.Noble",
+                        "Athena.Location.Quest.MT4.CP.01",
+                        "Athena.Location.Quest.MT4.CP.02",
+                        "Athena.Location.Quest.MT4.CP.03",
+                        "Quest.ChallengeIcon.Car"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": [
+                        {
+                            "tag": "Athena.Location.Quest.MT4.CP.01",
+                            "location": null
+                        },
+                        {
+                            "tag": "Athena.Location.Quest.MT4.CP.02",
+                            "location": null
+                        },
+                        {
+                            "tag": "Athena.Location.Quest.MT4.CP.03",
+                            "location": null
+                        }
+                    ]
+                },
+                {
+                    "id": "Quest_S20_Noble_Q05",
+                    "name": "ストームトルーパーチェックポイントに着地してトップ25でフィニッシュする",
+                    "enabled": true,
+                    "enabledDate": "2022-05-03 09:03:02+00:00",
+                    "parentQuest": null,
+                    "progressTotal": 2,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.XP",
+                        "ChallengeCategory.Noble",
+                        "Athena.Location.Quest.MT4.CP.01",
+                        "Athena.Location.Quest.MT4.CP.02",
+                        "Athena.Location.Quest.MT4.CP.03",
+                        "Quest.ChallengeIcon.Land"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": [
+                        {
+                            "tag": "Athena.Location.Quest.MT4.CP.01",
+                            "location": null
+                        },
+                        {
+                            "tag": "Athena.Location.Quest.MT4.CP.02",
+                            "location": null
+                        },
+                        {
+                            "tag": "Athena.Location.Quest.MT4.CP.03",
+                            "location": null
+                        }
+                    ]
+                },
+                {
+                    "id": "Quest_S20_Noble_Q07",
+                    "name": "ライトセーバーで攻撃をブロックする",
+                    "enabled": true,
+                    "enabledDate": "2022-05-03 09:03:02+00:00",
+                    "parentQuest": null,
+                    "progressTotal": 10,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.XP",
+                        "ChallengeCategory.Noble"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                }
+            ]
+        },
+        {
+            "id": "QuestBundle_S20_Noble_BonusGoal",
+            "name": "スター・ウォーズ 5月4日 ボーナス目標",
+            "unlockType": "EChallengeBundleQuestUnlockType::GrantWithBundle",
+            "tags": [
+                "ChallengeCategory.Noble"
+            ],
+            "apiTags": [],
+            "colors": null,
+            "images": null,
+            "bundleRewards": [],
+            "quests": [
+                {
+                    "id": "Quest_S20_Noble_BonusGoal",
+                    "name": "スター・ウォーズ  5月4日クエストをクリアする",
+                    "enabled": true,
+                    "enabledDate": "2022-05-03 09:03:02+00:00",
+                    "parentQuest": null,
+                    "progressTotal": 5,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.Noble"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                }
+            ]
+        },
+        {
             "id": "QuestBundle_S20_NoPermit",
             "name": "ノーパーミットクエスト",
             "unlockType": "EChallengeBundleQuestUnlockType::GrantWithBundle",
@@ -11244,6 +13224,134 @@
                     "tags": [
                         "ChallengeCategory.Style.PickaxeCollectible",
                         "Quest.HideWhenClaimed"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                }
+            ]
+        },
+        {
+            "id": "QuestBundle_S20_ShinnyGoldCreature",
+            "name": "ゴールドベインガーディアン クエストパック",
+            "unlockType": "EChallengeBundleQuestUnlockType::GrantWithBundle",
+            "tags": [],
+            "apiTags": [],
+            "colors": null,
+            "images": null,
+            "bundleRewards": [],
+            "quests": [
+                {
+                    "id": "Quest_BR_ShinnyGoldCreature_CompleteQuests_01",
+                    "name": "デイリーボーナス目標をクリアする",
+                    "enabled": false,
+                    "enabledDate": null,
+                    "parentQuest": null,
+                    "progressTotal": 3,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "Quest.ChallengeStyle.ShinnyGoldCreature"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                },
+                {
+                    "id": "Quest_BR_ShinnyGoldCreature_CompleteQuests_02",
+                    "name": "デイリーボーナス目標をクリアする",
+                    "enabled": false,
+                    "enabledDate": null,
+                    "parentQuest": null,
+                    "progressTotal": 5,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "Quest.ChallengeStyle.ShinnyGoldCreature"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                },
+                {
+                    "id": "Quest_BR_ShinnyGoldCreature_CompleteQuests_03",
+                    "name": "デイリーボーナス目標をクリアする",
+                    "enabled": false,
+                    "enabledDate": null,
+                    "parentQuest": null,
+                    "progressTotal": 7,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "Quest.ChallengeStyle.ShinnyGoldCreature"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                },
+                {
+                    "id": "Quest_BR_ShinnyGoldCreature_CompleteQuests_04",
+                    "name": "デイリーボーナス目標をクリアする",
+                    "enabled": false,
+                    "enabledDate": null,
+                    "parentQuest": null,
+                    "progressTotal": 10,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "Quest.ChallengeStyle.ShinnyGoldCreature"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                },
+                {
+                    "id": "Quest_BR_ShinnyGoldCreature_CompleteQuests_05",
+                    "name": "デイリーボーナス目標をクリアする",
+                    "enabled": false,
+                    "enabledDate": null,
+                    "parentQuest": null,
+                    "progressTotal": 14,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "Quest.ChallengeStyle.ShinnyGoldCreature"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                }
+            ]
+        },
+        {
+            "id": "QuestBundle_S20_Soundwave",
+            "name": "エミシーダ",
+            "unlockType": "EChallengeBundleQuestUnlockType::GrantWithBundle",
+            "tags": [
+                "ChallengeCategory.Event.Soundwave"
+            ],
+            "apiTags": [],
+            "colors": null,
+            "images": null,
+            "bundleRewards": [],
+            "quests": [
+                {
+                    "id": "quest_s20_soundwave_q01",
+                    "name": "コンサートコインを収集する",
+                    "enabled": false,
+                    "enabledDate": "2022-04-29 22:30:04+00:00",
+                    "parentQuest": null,
+                    "progressTotal": 1,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.Event.Soundwave"
                     ],
                     "reward": {
                         "xp": 0,

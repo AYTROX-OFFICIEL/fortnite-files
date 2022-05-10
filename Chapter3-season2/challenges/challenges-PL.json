@@ -625,8 +625,8 @@
                 {
                     "id": "Quest_S20_Weekly_W04_Q01",
                     "name": "Lataj z plecakiem odrzutowym",
-                    "enabled": false,
-                    "enabledDate": null,
+                    "enabled": true,
+                    "enabledDate": "2022-04-14 13:30:04+00:00",
                     "parentQuest": null,
                     "progressTotal": 100,
                     "tandemCharacter": null,
@@ -643,8 +643,8 @@
                 {
                     "id": "Quest_S20_Weekly_W04_Q02",
                     "name": "Podziękuj kierowcy busa i skończ wśród 25 najlepszych",
-                    "enabled": false,
-                    "enabledDate": null,
+                    "enabled": true,
+                    "enabledDate": "2022-04-14 13:30:04+00:00",
                     "parentQuest": null,
                     "progressTotal": 2,
                     "tandemCharacter": null,
@@ -661,8 +661,8 @@
                 {
                     "id": "Quest_S20_Weekly_W04_Q03",
                     "name": "Odwiedź stacje benzynowe busem bojowym",
-                    "enabled": false,
-                    "enabledDate": null,
+                    "enabled": true,
+                    "enabledDate": "2022-04-14 13:30:04+00:00",
                     "parentQuest": null,
                     "progressTotal": 3,
                     "tandemCharacter": null,
@@ -679,8 +679,8 @@
                 {
                     "id": "Quest_S20_Weekly_W04_Q04",
                     "name": "Zalicz lot po trafieniu granatem uderzeniowym",
-                    "enabled": false,
-                    "enabledDate": null,
+                    "enabled": true,
+                    "enabledDate": "2022-04-14 13:30:04+00:00",
                     "parentQuest": null,
                     "progressTotal": 3,
                     "tandemCharacter": null,
@@ -697,8 +697,8 @@
                 {
                     "id": "Quest_S20_Weekly_W04_Q05",
                     "name": "Zlikwiduj siły UR w jednym meczu",
-                    "enabled": false,
-                    "enabledDate": null,
+                    "enabled": true,
+                    "enabledDate": "2022-04-14 13:30:04+00:00",
                     "parentQuest": null,
                     "progressTotal": 3,
                     "tandemCharacter": null,
@@ -715,8 +715,8 @@
                 {
                     "id": "Quest_S20_Weekly_W04_Q06",
                     "name": "Złap lub zbierz Rybę Termiczną",
-                    "enabled": false,
-                    "enabledDate": null,
+                    "enabled": true,
+                    "enabledDate": "2022-04-14 13:30:04+00:00",
                     "parentQuest": null,
                     "progressTotal": 1,
                     "tandemCharacter": null,
@@ -733,8 +733,8 @@
                 {
                     "id": "Quest_S20_Weekly_W04_Q07",
                     "name": "Przyjmij zlecenie z tablicy zleceń w ciągu 30 s od wylądowania",
-                    "enabled": false,
-                    "enabledDate": null,
+                    "enabled": true,
+                    "enabledDate": "2022-04-14 13:30:04+00:00",
                     "parentQuest": null,
                     "progressTotal": 1,
                     "tandemCharacter": null,
@@ -751,8 +751,8 @@
                 {
                     "id": "Quest_S20_Weekly_W04_Q08",
                     "name": "Zrań przeciwników zbierakiem",
-                    "enabled": false,
-                    "enabledDate": null,
+                    "enabled": true,
+                    "enabledDate": "2022-04-14 13:30:04+00:00",
                     "parentQuest": null,
                     "progressTotal": 75,
                     "tandemCharacter": null,
@@ -769,8 +769,8 @@
                 {
                     "id": "Quest_S20_Weekly_W04_Q09",
                     "name": "Przeszukaj pojemniki z amunicją w Szemranych Szybach lub Przytulnym Przylądku",
-                    "enabled": false,
-                    "enabledDate": null,
+                    "enabled": true,
+                    "enabledDate": "2022-04-14 13:30:04+00:00",
                     "parentQuest": null,
                     "progressTotal": 3,
                     "tandemCharacter": null,
@@ -787,8 +787,937 @@
             ]
         },
         {
+            "id": "MissionBundle_S20_Week_05",
+            "name": "Zadania sezonowe tygodnia 5",
+            "unlockType": "EChallengeBundleQuestUnlockType::GrantWithBundle",
+            "tags": [],
+            "apiTags": [],
+            "colors": null,
+            "images": null,
+            "bundleRewards": [],
+            "quests": [
+                {
+                    "id": "Quest_S20_Weekly_W05_Q01",
+                    "name": "Trafiaj w głowy siły UR z karabinu snajperskiego w Jaskini Dowództwa lub miejscu bitwy",
+                    "enabled": true,
+                    "enabledDate": "2022-04-21 13:30:04+00:00",
+                    "parentQuest": null,
+                    "progressTotal": 3,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.Weekly.005",
+                        "ChallengeCategory.XP"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                },
+                {
+                    "id": "Quest_S20_Weekly_W05_Q02",
+                    "name": "Traf przeciwnika dwukrotnie ze Strzelby Strażnika, nie odnosząc obrażeń",
+                    "enabled": true,
+                    "enabledDate": "2022-04-21 13:30:04+00:00",
+                    "parentQuest": null,
+                    "progressTotal": 1,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.Weekly.005",
+                        "ChallengeCategory.XP"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                },
+                {
+                    "id": "Quest_S20_Weekly_W05_Q03",
+                    "name": "Namierz pojazd przeciwnika i uszkodź go z wyrzutni rakiet Kowadło",
+                    "enabled": true,
+                    "enabledDate": "2022-04-21 13:30:04+00:00",
+                    "parentQuest": null,
+                    "progressTotal": 2,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.Weekly.005",
+                        "ChallengeCategory.XP"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                },
+                {
+                    "id": "Quest_S20_Weekly_W05_Q04",
+                    "name": "Wylecz siły Siódemki medyczną mgiełką w miejscu bitwy",
+                    "enabled": true,
+                    "enabledDate": "2022-04-21 13:30:04+00:00",
+                    "parentQuest": null,
+                    "progressTotal": 1,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.Weekly.005",
+                        "ChallengeCategory.XP"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                },
+                {
+                    "id": "Quest_S20_Weekly_W05_Q05",
+                    "name": "Zrań przeciwnika w ciągu 10 s od wspinaczki",
+                    "enabled": true,
+                    "enabledDate": "2022-04-21 13:30:04+00:00",
+                    "parentQuest": null,
+                    "progressTotal": 1,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.Weekly.005",
+                        "ChallengeCategory.XP"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                },
+                {
+                    "id": "Quest_S20_Weekly_W05_Q06",
+                    "name": "Spadnij z wysokości co najmniej 10 pięter, nie odnosząc obrażeń",
+                    "enabled": true,
+                    "enabledDate": "2022-04-21 13:30:04+00:00",
+                    "parentQuest": null,
+                    "progressTotal": 1,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.Weekly.005",
+                        "ChallengeCategory.XP"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                },
+                {
+                    "id": "Quest_S20_Weekly_W05_Q07",
+                    "name": "Uszkodź pojazdy przeciwnika z ciężkiego karabinu snajperskiego",
+                    "enabled": true,
+                    "enabledDate": "2022-04-21 13:30:04+00:00",
+                    "parentQuest": null,
+                    "progressTotal": 600,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.Weekly.005",
+                        "ChallengeCategory.XP"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                },
+                {
+                    "id": "Quest_S20_Weekly_W05_Q08",
+                    "name": "Zniszcz budowle z lekkiego karabinu maszynowego",
+                    "enabled": true,
+                    "enabledDate": "2022-04-21 13:30:04+00:00",
+                    "parentQuest": null,
+                    "progressTotal": 10,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.Weekly.005",
+                        "ChallengeCategory.XP"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                },
+                {
+                    "id": "Quest_S20_Weekly_W05_Q09",
+                    "name": "Zdobądź osłonę, używając małych mikstur osłony w jednym meczu",
+                    "enabled": true,
+                    "enabledDate": "2022-04-21 13:30:04+00:00",
+                    "parentQuest": null,
+                    "progressTotal": 75,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.Weekly.005",
+                        "ChallengeCategory.XP"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                }
+            ]
+        },
+        {
+            "id": "MissionBundle_S20_Week_06",
+            "name": "Zadania sezonowe tygodnia 6",
+            "unlockType": "EChallengeBundleQuestUnlockType::GrantWithBundle",
+            "tags": [],
+            "apiTags": [],
+            "colors": null,
+            "images": null,
+            "bundleRewards": [],
+            "quests": [
+                {
+                    "id": "Quest_S20_Weekly_W06_Q01",
+                    "name": "Zadaj przeciwnikowi jednym nabojem co najmniej 100 pkt. obrażeń",
+                    "enabled": true,
+                    "enabledDate": "2022-04-28 13:30:03+00:00",
+                    "parentQuest": null,
+                    "progressTotal": 1,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.Weekly.006",
+                        "ChallengeCategory.XP"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                },
+                {
+                    "id": "Quest_S20_Weekly_W06_Q02",
+                    "name": "Wespnij się 5 razy w ciągu 5 s",
+                    "enabled": true,
+                    "enabledDate": "2022-04-28 13:30:03+00:00",
+                    "parentQuest": null,
+                    "progressTotal": 1,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.Weekly.006",
+                        "ChallengeCategory.XP"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                },
+                {
+                    "id": "Quest_S20_Weekly_W06_Q03",
+                    "name": "Traf czołg przeciwnika z pistoletu, kucając",
+                    "enabled": true,
+                    "enabledDate": "2022-04-28 13:30:03+00:00",
+                    "parentQuest": null,
+                    "progressTotal": 200,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.Weekly.006",
+                        "ChallengeCategory.XP"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                },
+                {
+                    "id": "Quest_S20_Weekly_W06_Q04",
+                    "name": "Zalicz lot czołgiem",
+                    "enabled": true,
+                    "enabledDate": "2022-04-28 13:30:03+00:00",
+                    "parentQuest": null,
+                    "progressTotal": 3,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.Weekly.006",
+                        "ChallengeCategory.XP"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                },
+                {
+                    "id": "Quest_S20_Weekly_W06_Q05",
+                    "name": "Rzuć kapustą na odległość co najmniej 100 m w jednym rzucie",
+                    "enabled": true,
+                    "enabledDate": "2022-04-28 13:30:03+00:00",
+                    "parentQuest": null,
+                    "progressTotal": 1,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.Weekly.006",
+                        "ChallengeCategory.XP"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                },
+                {
+                    "id": "Quest_S20_Weekly_W06_Q06",
+                    "name": "Zadaj obrażenia przeciwnikom, spadając",
+                    "enabled": true,
+                    "enabledDate": "2022-04-28 13:30:03+00:00",
+                    "parentQuest": null,
+                    "progressTotal": 150,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.Weekly.006",
+                        "ChallengeCategory.XP"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                },
+                {
+                    "id": "Quest_S20_Weekly_W06_Q07",
+                    "name": "Używając karabinu Napastnik, traf przeciwnika 4 razy pod rząd, nie przestając korzystać z lunety",
+                    "enabled": true,
+                    "enabledDate": "2022-04-28 13:30:03+00:00",
+                    "parentQuest": null,
+                    "progressTotal": 1,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.Weekly.006",
+                        "ChallengeCategory.XP"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                },
+                {
+                    "id": "Quest_S20_Weekly_W06_Q08",
+                    "name": "Zadaj obrażenia przeciwnikom z odległości co najmniej 30 m z karabinu szturmowego",
+                    "enabled": true,
+                    "enabledDate": "2022-04-28 13:30:03+00:00",
+                    "parentQuest": null,
+                    "progressTotal": 150,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.Weekly.006",
+                        "ChallengeCategory.XP"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                },
+                {
+                    "id": "Quest_S20_Weekly_W06_Q09",
+                    "name": "Zniszcz budowle ogniem",
+                    "enabled": true,
+                    "enabledDate": "2022-04-28 13:30:03+00:00",
+                    "parentQuest": null,
+                    "progressTotal": 100,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.Weekly.006",
+                        "ChallengeCategory.XP"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                }
+            ]
+        },
+        {
+            "id": "MissionBundle_S20_Week_07",
+            "name": "Zadania sezonowe tygodnia 7",
+            "unlockType": "EChallengeBundleQuestUnlockType::GrantWithBundle",
+            "tags": [],
+            "apiTags": [],
+            "colors": null,
+            "images": null,
+            "bundleRewards": [],
+            "quests": [
+                {
+                    "id": "Quest_S20_Weekly_W07_Q01",
+                    "name": "Zniszcz wieżyczkę przy użyciu zdalnych ładunków wybuchowych",
+                    "enabled": true,
+                    "enabledDate": "2022-05-05 13:30:03+00:00",
+                    "parentQuest": null,
+                    "progressTotal": 1,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.Weekly.007",
+                        "ChallengeCategory.XP"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                },
+                {
+                    "id": "Quest_S20_Weekly_W07_Q02",
+                    "name": "Odwiedź różne nazwane lokacje w jednym meczu",
+                    "enabled": true,
+                    "enabledDate": "2022-05-05 13:30:03+00:00",
+                    "parentQuest": null,
+                    "progressTotal": 5,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.Weekly.007",
+                        "ChallengeCategory.XP",
+                        "Quest.ChallengeIcon.Visit"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                },
+                {
+                    "id": "Quest_S20_Weekly_W07_Q03",
+                    "name": "Unieszkodliw czołg, uszkadzając jego silnik",
+                    "enabled": true,
+                    "enabledDate": "2022-05-05 13:30:03+00:00",
+                    "parentQuest": null,
+                    "progressTotal": 1,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.Weekly.007",
+                        "ChallengeCategory.XP"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                },
+                {
+                    "id": "Quest_S20_Weekly_W07_Q04",
+                    "name": "Odzyskaj skradzione zapasy Siódemki w lokacjach UR",
+                    "enabled": true,
+                    "enabledDate": "2022-05-05 13:30:03+00:00",
+                    "parentQuest": null,
+                    "progressTotal": 3,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.Weekly.007",
+                        "ChallengeCategory.XP",
+                        "Quest.ChallengeIcon.AmmoBox"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                },
+                {
+                    "id": "Quest_S20_Weekly_W07_Q05",
+                    "name": "Zniszcz budowle przy użyciu pługa",
+                    "enabled": true,
+                    "enabledDate": "2022-05-05 13:30:03+00:00",
+                    "parentQuest": null,
+                    "progressTotal": 200,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.Weekly.007",
+                        "ChallengeCategory.XP"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                },
+                {
+                    "id": "Quest_S20_Weekly_W07_Q06",
+                    "name": "Zadaj obrażenia trafieniem w głowę z karabinu Napastnik",
+                    "enabled": true,
+                    "enabledDate": "2022-05-05 13:30:03+00:00",
+                    "parentQuest": null,
+                    "progressTotal": 200,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.Weekly.007",
+                        "ChallengeCategory.XP"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                },
+                {
+                    "id": "Quest_S20_Weekly_W07_Q07",
+                    "name": "Zrań przeciwników palnikiem naprawczym",
+                    "enabled": true,
+                    "enabledDate": "2022-05-05 13:30:03+00:00",
+                    "parentQuest": null,
+                    "progressTotal": 5,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.Weekly.007",
+                        "ChallengeCategory.XP"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                },
+                {
+                    "id": "Quest_S20_Weekly_W07_Q08",
+                    "name": "Wykonaj zlecenie z tablicy zleceń",
+                    "enabled": true,
+                    "enabledDate": "2022-05-05 13:30:03+00:00",
+                    "parentQuest": null,
+                    "progressTotal": 1,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.Weekly.007",
+                        "ChallengeCategory.XP"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                },
+                {
+                    "id": "Quest_S20_Weekly_W07_Q09",
+                    "name": "Zatankuj paliwo do pojazdu",
+                    "enabled": true,
+                    "enabledDate": "2022-05-05 13:30:03+00:00",
+                    "parentQuest": null,
+                    "progressTotal": 50,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.Weekly.007",
+                        "ChallengeCategory.XP"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                }
+            ]
+        },
+        {
+            "id": "MissionBundle_S20_Week_08",
+            "name": "Zadania sezonowe tygodnia 8",
+            "unlockType": "EChallengeBundleQuestUnlockType::GrantWithBundle",
+            "tags": [],
+            "apiTags": [],
+            "colors": null,
+            "images": null,
+            "bundleRewards": [],
+            "quests": [
+                {
+                    "id": "Quest_S20_Weekly_W08_Q01",
+                    "name": "Zadaj obrażenia przeciwnikom z odległości 10 m lub mniej ze strzelby z magazynkiem bębnowym",
+                    "enabled": false,
+                    "enabledDate": null,
+                    "parentQuest": null,
+                    "progressTotal": 150,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.Weekly.008",
+                        "ChallengeCategory.XP"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                },
+                {
+                    "id": "Quest_S20_Weekly_W08_Q02",
+                    "name": "Pokonaj 1000 m Choppą",
+                    "enabled": false,
+                    "enabledDate": null,
+                    "parentQuest": null,
+                    "progressTotal": 1000,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.Weekly.008",
+                        "ChallengeCategory.XP"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                },
+                {
+                    "id": "Quest_S20_Weekly_W08_Q03",
+                    "name": "Zasadź sadzonki w Lejach po Bombach",
+                    "enabled": false,
+                    "enabledDate": null,
+                    "parentQuest": null,
+                    "progressTotal": 3,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.Weekly.008",
+                        "ChallengeCategory.XP",
+                        "Athena.Quests.Location.Crater.03b",
+                        "Athena.Quests.Location.Crater.02",
+                        "Athena.Quests.Location.Crater.01a",
+                        "Athena.Quests.Location.Crater.01b",
+                        "Athena.Quests.Location.Crater.03a"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                },
+                {
+                    "id": "Quest_S20_Weekly_W08_Q04",
+                    "name": "Zdetonuj zdalne ładunki wybuchowe, ślizgając się",
+                    "enabled": false,
+                    "enabledDate": null,
+                    "parentQuest": null,
+                    "progressTotal": 2,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.Weekly.008",
+                        "ChallengeCategory.XP"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                },
+                {
+                    "id": "Quest_S20_Weekly_W08_Q05",
+                    "name": "Wezwij nalot na czołg",
+                    "enabled": false,
+                    "enabledDate": null,
+                    "parentQuest": null,
+                    "progressTotal": 1,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.XP",
+                        "ChallengeCategory.Weekly.008"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                },
+                {
+                    "id": "Quest_S20_Weekly_W08_Q06",
+                    "name": "Napełnij palnik naprawczy przy dystrybutorze",
+                    "enabled": false,
+                    "enabledDate": null,
+                    "parentQuest": null,
+                    "progressTotal": 2,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.Weekly.008",
+                        "Quest.ChallengeIcon.Interact",
+                        "Athena.Location.Meta.GasStation.01",
+                        "Athena.Location.Meta.GasStation.02",
+                        "Athena.Location.Meta.GasStation.03",
+                        "Athena.Location.Meta.GasStation.04",
+                        "Athena.Location.Meta.GasStation.05",
+                        "Athena.Location.Meta.GasStation.06",
+                        "Athena.Location.Meta.GasStation.07",
+                        "Athena.Location.Meta.GasStation.08",
+                        "Athena.Location.Meta.GasStation.09",
+                        "Athena.Location.Meta.GasStation.10",
+                        "Athena.Location.Meta.GasStation.11",
+                        "Athena.Location.Meta.GasStation.12",
+                        "Athena.Location.Meta.GasStation.13",
+                        "ChallengeCategory.XP"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": [
+                        {
+                            "tag": "Athena.Location.Meta.GasStation.01",
+                            "location": null
+                        },
+                        {
+                            "tag": "Athena.Location.Meta.GasStation.02",
+                            "location": null
+                        },
+                        {
+                            "tag": "Athena.Location.Meta.GasStation.03",
+                            "location": null
+                        },
+                        {
+                            "tag": "Athena.Location.Meta.GasStation.04",
+                            "location": null
+                        },
+                        {
+                            "tag": "Athena.Location.Meta.GasStation.05",
+                            "location": null
+                        },
+                        {
+                            "tag": "Athena.Location.Meta.GasStation.06",
+                            "location": null
+                        },
+                        {
+                            "tag": "Athena.Location.Meta.GasStation.07",
+                            "location": null
+                        },
+                        {
+                            "tag": "Athena.Location.Meta.GasStation.08",
+                            "location": null
+                        },
+                        {
+                            "tag": "Athena.Location.Meta.GasStation.09",
+                            "location": null
+                        },
+                        {
+                            "tag": "Athena.Location.Meta.GasStation.10",
+                            "location": null
+                        },
+                        {
+                            "tag": "Athena.Location.Meta.GasStation.11",
+                            "location": null
+                        },
+                        {
+                            "tag": "Athena.Location.Meta.GasStation.12",
+                            "location": null
+                        },
+                        {
+                            "tag": "Athena.Location.Meta.GasStation.13",
+                            "location": null
+                        }
+                    ]
+                },
+                {
+                    "id": "Quest_S20_Weekly_W08_Q07",
+                    "name": "Zadaj obrażenia wrogom z bojowego pistoletu maszynowego",
+                    "enabled": false,
+                    "enabledDate": null,
+                    "parentQuest": null,
+                    "progressTotal": 500,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.Weekly.008",
+                        "ChallengeCategory.XP"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                },
+                {
+                    "id": "Quest_S20_Weekly_W08_Q08",
+                    "name": "Otwórz kasy sklepowe",
+                    "enabled": false,
+                    "enabledDate": null,
+                    "parentQuest": null,
+                    "progressTotal": 3,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "Athena.Location.Meta.GasStation.01",
+                        "Athena.Location.Meta.GasStation.02",
+                        "Athena.Location.Meta.GasStation.03",
+                        "Athena.Location.Meta.GasStation.04",
+                        "Athena.Location.Meta.GasStation.05",
+                        "Athena.Location.Meta.GasStation.06",
+                        "Athena.Location.Meta.GasStation.07",
+                        "Athena.Location.Meta.GasStation.08",
+                        "Athena.Location.Meta.GasStation.09",
+                        "Athena.Location.Meta.GasStation.10",
+                        "Athena.Location.Meta.GasStation.11",
+                        "Athena.Location.Meta.GasStation.12",
+                        "ChallengeCategory.Weekly.008",
+                        "ChallengeCategory.XP"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": [
+                        {
+                            "tag": "Athena.Location.Meta.GasStation.01",
+                            "location": null
+                        },
+                        {
+                            "tag": "Athena.Location.Meta.GasStation.02",
+                            "location": null
+                        },
+                        {
+                            "tag": "Athena.Location.Meta.GasStation.03",
+                            "location": null
+                        },
+                        {
+                            "tag": "Athena.Location.Meta.GasStation.04",
+                            "location": null
+                        },
+                        {
+                            "tag": "Athena.Location.Meta.GasStation.05",
+                            "location": null
+                        },
+                        {
+                            "tag": "Athena.Location.Meta.GasStation.06",
+                            "location": null
+                        },
+                        {
+                            "tag": "Athena.Location.Meta.GasStation.07",
+                            "location": null
+                        },
+                        {
+                            "tag": "Athena.Location.Meta.GasStation.08",
+                            "location": null
+                        },
+                        {
+                            "tag": "Athena.Location.Meta.GasStation.09",
+                            "location": null
+                        },
+                        {
+                            "tag": "Athena.Location.Meta.GasStation.10",
+                            "location": null
+                        },
+                        {
+                            "tag": "Athena.Location.Meta.GasStation.11",
+                            "location": null
+                        },
+                        {
+                            "tag": "Athena.Location.Meta.GasStation.12",
+                            "location": null
+                        }
+                    ]
+                },
+                {
+                    "id": "Quest_S20_Weekly_W08_Q09",
+                    "name": "Zalicz likwidację gracza z pistoletu, pistoletu maszynowego lub strzelby",
+                    "enabled": false,
+                    "enabledDate": null,
+                    "parentQuest": null,
+                    "progressTotal": 1,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.Weekly.008",
+                        "ChallengeCategory.XP"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                }
+            ]
+        },
+        {
+            "id": "QuestBundle_S20_10_Buttercake",
+            "name": "lost and mound: snow",
+            "unlockType": "EChallengeBundleQuestUnlockType::GrantWithBundle",
+            "tags": [],
+            "apiTags": [],
+            "colors": null,
+            "images": null,
+            "bundleRewards": [],
+            "quests": [
+                {
+                    "id": "quest_s20_buttercake_discover_snowmounds",
+                    "name": "Zabawa w chowanego pod śniegiem",
+                    "enabled": true,
+                    "enabledDate": "2022-04-19 09:03:05+00:00",
+                    "parentQuest": null,
+                    "progressTotal": 3,
+                    "tandemCharacter": null,
+                    "tags": [],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                }
+            ]
+        },
+        {
+            "id": "QuestBundle_S20_20_Buttercake",
+            "name": "klomberries are back",
+            "unlockType": "EChallengeBundleQuestUnlockType::GrantWithBundle",
+            "tags": [],
+            "apiTags": [],
+            "colors": null,
+            "images": null,
+            "bundleRewards": [],
+            "quests": [
+                {
+                    "id": "quest_s20_buttercake_gather_klomberries_simple",
+                    "name": "Sezon na klombowoce",
+                    "enabled": true,
+                    "enabledDate": "2022-04-19 09:03:05+00:00",
+                    "parentQuest": null,
+                    "progressTotal": 10,
+                    "tandemCharacter": null,
+                    "tags": [],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                }
+            ]
+        },
+        {
+            "id": "QuestBundle_S20_30_Buttercake",
+            "name": "lost and mound: sand",
+            "unlockType": "EChallengeBundleQuestUnlockType::GrantWithBundle",
+            "tags": [],
+            "apiTags": [],
+            "colors": null,
+            "images": null,
+            "bundleRewards": [],
+            "quests": [
+                {
+                    "id": "quest_s20_buttercake_discover_sandmounds",
+                    "name": "Zabawa w chowanego pod piaskiem",
+                    "enabled": true,
+                    "enabledDate": "2022-05-03 09:03:02+00:00",
+                    "parentQuest": null,
+                    "progressTotal": 3,
+                    "tandemCharacter": null,
+                    "tags": [],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                },
+                {
+                    "id": "quest_s20_buttercake_geyser",
+                    "name": "Wszędzie kichnięcia gejzeru",
+                    "enabled": true,
+                    "enabledDate": "2022-05-03 09:03:02+00:00",
+                    "parentQuest": null,
+                    "progressTotal": 3,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.XP"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                }
+            ]
+        },
+        {
             "id": "QuestBundle_S20_BPUnlockableCharacter_01",
-            "name": "???",
+            "name": "PROWLER",
             "unlockType": "EChallengeBundleQuestUnlockType::RequiresBattlePass",
             "tags": [],
             "apiTags": [],
@@ -798,7 +1727,7 @@
             "quests": [
                 {
                     "id": "Quest_S20_BPUnlockableCharacter_q01",
-                    "name": "???",
+                    "name": "Ukończ zadania Prowlera",
                     "enabled": false,
                     "enabledDate": null,
                     "parentQuest": null,
@@ -813,13 +1742,15 @@
                 },
                 {
                     "id": "Quest_S20_BPUnlockableCharacter_q02",
-                    "name": "???",
+                    "name": "Zadaj obrażenia przeciwnikom, kucając lub robiąc ślizg",
                     "enabled": false,
                     "enabledDate": null,
                     "parentQuest": null,
-                    "progressTotal": 1,
+                    "progressTotal": 500,
                     "tandemCharacter": null,
-                    "tags": [],
+                    "tags": [
+                        "ChallengeCategory.Sienna"
+                    ],
                     "reward": {
                         "xp": 0,
                         "items": []
@@ -828,13 +1759,15 @@
                 },
                 {
                     "id": "Quest_S20_BPUnlockableCharacter_q03",
-                    "name": "???",
+                    "name": "Zbierz różne typy broni o klasie rzadkości epickiej lub lepszej w jednym meczu",
                     "enabled": false,
                     "enabledDate": null,
                     "parentQuest": null,
-                    "progressTotal": 1,
+                    "progressTotal": 3,
                     "tandemCharacter": null,
-                    "tags": [],
+                    "tags": [
+                        "ChallengeCategory.Sienna"
+                    ],
                     "reward": {
                         "xp": 0,
                         "items": []
@@ -843,13 +1776,15 @@
                 },
                 {
                     "id": "Quest_S20_BPUnlockableCharacter_q04",
-                    "name": "???",
+                    "name": "Namaluj graffiti w Daily Bugle",
                     "enabled": false,
                     "enabledDate": null,
                     "parentQuest": null,
                     "progressTotal": 1,
                     "tandemCharacter": null,
-                    "tags": [],
+                    "tags": [
+                        "ChallengeCategory.Sienna"
+                    ],
                     "reward": {
                         "xp": 0,
                         "items": []
@@ -858,7 +1793,7 @@
                 },
                 {
                     "id": "Quest_S20_BPUnlockableCharacter_q05",
-                    "name": "???",
+                    "name": "Ukończ zadania Prowlera",
                     "enabled": false,
                     "enabledDate": null,
                     "parentQuest": null,
@@ -873,13 +1808,15 @@
                 },
                 {
                     "id": "Quest_S20_BPUnlockableCharacter_q06",
-                    "name": "???",
+                    "name": "Przeszukaj skrzynie przed otrzymaniem obrażeń w meczu",
                     "enabled": false,
                     "enabledDate": null,
                     "parentQuest": null,
-                    "progressTotal": 1,
+                    "progressTotal": 7,
                     "tandemCharacter": null,
-                    "tags": [],
+                    "tags": [
+                        "ChallengeCategory.Sienna"
+                    ],
                     "reward": {
                         "xp": 0,
                         "items": []
@@ -888,13 +1825,15 @@
                 },
                 {
                     "id": "Quest_S20_BPUnlockableCharacter_q07",
-                    "name": "???",
+                    "name": "Trafiaj przeciwników w głowy z broni z celownikiem termowizyjnym",
                     "enabled": false,
                     "enabledDate": null,
                     "parentQuest": null,
-                    "progressTotal": 1,
+                    "progressTotal": 3,
                     "tandemCharacter": null,
-                    "tags": [],
+                    "tags": [
+                        "ChallengeCategory.Sienna"
+                    ],
                     "reward": {
                         "xp": 0,
                         "items": []
@@ -903,13 +1842,15 @@
                 },
                 {
                     "id": "Quest_S20_BPUnlockableCharacter_q08",
-                    "name": "???",
+                    "name": "Zbierz sztabki",
                     "enabled": false,
                     "enabledDate": null,
                     "parentQuest": null,
-                    "progressTotal": 1,
+                    "progressTotal": 300,
                     "tandemCharacter": null,
-                    "tags": [],
+                    "tags": [
+                        "ChallengeCategory.Sienna"
+                    ],
                     "reward": {
                         "xp": 0,
                         "items": []
@@ -918,13 +1859,63 @@
                 },
                 {
                     "id": "Quest_S20_BPUnlockableCharacter_q09",
-                    "name": "???",
+                    "name": "Zmodyfikuj pojazd i przejedź nim 500 m w jednym meczu",
                     "enabled": false,
                     "enabledDate": null,
                     "parentQuest": null,
-                    "progressTotal": 1,
+                    "progressTotal": 2,
                     "tandemCharacter": null,
-                    "tags": [],
+                    "tags": [
+                        "ChallengeCategory.Sienna"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                }
+            ]
+        },
+        {
+            "id": "QuestBundle_S20_BPUnlockableCharacter_Goals",
+            "name": "Prowler",
+            "unlockType": "EChallengeBundleQuestUnlockType::RequiresBattlePass",
+            "tags": [
+                "ChallengeCategory.Sienna"
+            ],
+            "apiTags": [],
+            "colors": null,
+            "images": null,
+            "bundleRewards": [],
+            "quests": [
+                {
+                    "id": "Quest_S20_BPUnlockableCharacter_q01",
+                    "name": "Ukończ zadania Prowlera",
+                    "enabled": false,
+                    "enabledDate": null,
+                    "parentQuest": null,
+                    "progressTotal": 7,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.Sienna"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                },
+                {
+                    "id": "Quest_S20_BPUnlockableCharacter_q05",
+                    "name": "Ukończ zadania Prowlera",
+                    "enabled": false,
+                    "enabledDate": null,
+                    "parentQuest": null,
+                    "progressTotal": 3,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.Sienna"
+                    ],
                     "reward": {
                         "xp": 0,
                         "items": []
@@ -950,6 +1941,792 @@
                     "enabledDate": "2022-04-05 09:03:03+00:00",
                     "parentQuest": null,
                     "progressTotal": 3,
+                    "tandemCharacter": null,
+                    "tags": [],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                }
+            ]
+        },
+        {
+            "id": "QuestBundle_S20_CovertOps_BonusGoal_Phase1",
+            "name": "Cel dodatkowy Tajnych Służb",
+            "unlockType": "EChallengeBundleQuestUnlockType::GrantWithBundle",
+            "tags": [
+                "ChallengeCategory.Event.CovertOps"
+            ],
+            "apiTags": [],
+            "colors": null,
+            "images": null,
+            "bundleRewards": [],
+            "quests": [
+                {
+                    "id": "Quest_S20_CompleteCovertOps_Q01",
+                    "name": "Ukończ zadania Tajnych Służb",
+                    "enabled": false,
+                    "enabledDate": "2022-04-22 13:30:04+00:00",
+                    "parentQuest": null,
+                    "progressTotal": 4,
+                    "tandemCharacter": null,
+                    "tags": [],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                }
+            ]
+        },
+        {
+            "id": "QuestBundle_S20_CovertOps_BonusGoal_Phase2",
+            "name": "Cel dodatkowy Tajnych Służb",
+            "unlockType": "EChallengeBundleQuestUnlockType::GrantWithBundle",
+            "tags": [
+                "ChallengeCategory.Event.CovertOps"
+            ],
+            "apiTags": [],
+            "colors": null,
+            "images": null,
+            "bundleRewards": [],
+            "quests": [
+                {
+                    "id": "Quest_S20_CompleteCovertOps_Q02",
+                    "name": "Ukończ zadania Tajnych Służb",
+                    "enabled": false,
+                    "enabledDate": null,
+                    "parentQuest": null,
+                    "progressTotal": 4,
+                    "tandemCharacter": null,
+                    "tags": [],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                }
+            ]
+        },
+        {
+            "id": "QuestBundle_S20_CovertOps_BonusGoal_Phase3",
+            "name": "Cel dodatkowy Tajnych Służb",
+            "unlockType": "EChallengeBundleQuestUnlockType::GrantWithBundle",
+            "tags": [
+                "ChallengeCategory.Event.CovertOps"
+            ],
+            "apiTags": [],
+            "colors": null,
+            "images": null,
+            "bundleRewards": [],
+            "quests": [
+                {
+                    "id": "Quest_S20_CompleteCovertOps_Q03",
+                    "name": "Ukończ zadania Tajnych Służb",
+                    "enabled": false,
+                    "enabledDate": null,
+                    "parentQuest": null,
+                    "progressTotal": 4,
+                    "tandemCharacter": null,
+                    "tags": [],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                }
+            ]
+        },
+        {
+            "id": "QuestBundle_S20_CovertOps_BonusGoal_Phase4",
+            "name": "Cel dodatkowy Tajnych Służb",
+            "unlockType": "EChallengeBundleQuestUnlockType::GrantWithBundle",
+            "tags": [
+                "ChallengeCategory.Event.CovertOps"
+            ],
+            "apiTags": [],
+            "colors": null,
+            "images": null,
+            "bundleRewards": [],
+            "quests": [
+                {
+                    "id": "Quest_S20_CompleteCovertOps_Q04",
+                    "name": "Ukończ zadania Tajnych Służb",
+                    "enabled": false,
+                    "enabledDate": null,
+                    "parentQuest": null,
+                    "progressTotal": 4,
+                    "tandemCharacter": null,
+                    "tags": [],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                }
+            ]
+        },
+        {
+            "id": "QuestBundle_S20_CovertOps_Phase1",
+            "name": "TAJNE SŁUŻBY",
+            "unlockType": "EChallengeBundleQuestUnlockType::DaysFromEventStart",
+            "tags": [
+                "ChallengeCategory.Event.CovertOps"
+            ],
+            "apiTags": [],
+            "colors": null,
+            "images": null,
+            "bundleRewards": [],
+            "quests": [
+                {
+                    "id": "Quest_S20_CovertOps_Phase1_Q01",
+                    "name": "Użyj sygnału urządzenia",
+                    "enabled": false,
+                    "enabledDate": "2022-04-22 13:30:04+00:00",
+                    "parentQuest": null,
+                    "progressTotal": 2,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.Event.CovertOps",
+                        "ChallengeCategory.XP"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                }
+            ]
+        },
+        {
+            "id": "QuestBundle_S20_CovertOps_Phase2",
+            "name": "TAJNE SŁUŻBY",
+            "unlockType": "EChallengeBundleQuestUnlockType::DaysFromEventStart",
+            "tags": [
+                "ChallengeCategory.Event.CovertOps"
+            ],
+            "apiTags": [],
+            "colors": null,
+            "images": null,
+            "bundleRewards": [],
+            "quests": [
+                {
+                    "id": "Quest_S20_CovertOps_Phase2_Q02",
+                    "name": "Użyj sygnału urządzenia",
+                    "enabled": false,
+                    "enabledDate": null,
+                    "parentQuest": null,
+                    "progressTotal": 3,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.Event.CovertOps",
+                        "ChallengeCategory.XP"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                }
+            ]
+        },
+        {
+            "id": "QuestBundle_S20_LevelUpPack_01",
+            "name": "Zadania z pakietu awansu Rycerza Omega",
+            "unlockType": "EChallengeBundleQuestUnlockType::GrantWithBundle",
+            "tags": [
+                "ChallengeCategory.Style.LevelUpPack"
+            ],
+            "apiTags": [],
+            "colors": null,
+            "images": null,
+            "bundleRewards": [],
+            "quests": [
+                {
+                    "id": "Quest_S20_LevelUpPack_W01_01",
+                    "name": "Zbierz żeton awansu na północny zachód od Trocinowego Tartaku",
+                    "enabled": false,
+                    "enabledDate": null,
+                    "parentQuest": null,
+                    "progressTotal": 1,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.Style.LevelUpPack.W01"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                },
+                {
+                    "id": "Quest_S20_LevelUpPack_W01_02",
+                    "name": "Zbierz żeton awansu na północny zachód od Przytulnego Przylądka",
+                    "enabled": false,
+                    "enabledDate": null,
+                    "parentQuest": null,
+                    "progressTotal": 1,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.Style.LevelUpPack.W01"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                },
+                {
+                    "id": "Quest_S20_LevelUpPack_W01_03",
+                    "name": "Zbierz żeton awansu na południowy zachód od Lepkiego Lasku",
+                    "enabled": false,
+                    "enabledDate": null,
+                    "parentQuest": null,
+                    "progressTotal": 1,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.Style.LevelUpPack.W01"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                },
+                {
+                    "id": "Quest_S20_LevelUpPack_W01_04",
+                    "name": "Zbierz żeton awansu przy Wykrzywionych Wieżach",
+                    "enabled": false,
+                    "enabledDate": null,
+                    "parentQuest": null,
+                    "progressTotal": 1,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.Style.LevelUpPack.W01"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                },
+                {
+                    "id": "Quest_S20_LevelUpPack_W01_05",
+                    "name": "Zbierz żeton awansu na Słodkim Skrzyżowaniu",
+                    "enabled": false,
+                    "enabledDate": null,
+                    "parentQuest": null,
+                    "progressTotal": 1,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.Style.LevelUpPack.W01"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                },
+                {
+                    "id": "Quest_S20_LevelUpPack_W01_06",
+                    "name": "Zbierz żeton awansu na wyspie na wschód od Schronienia",
+                    "enabled": false,
+                    "enabledDate": null,
+                    "parentQuest": null,
+                    "progressTotal": 1,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.Style.LevelUpPack.W01"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                },
+                {
+                    "id": "Quest_S20_LevelUpPack_W01_07",
+                    "name": "Zbierz żeton awansu na zachód od Jonesowiska",
+                    "enabled": false,
+                    "enabledDate": null,
+                    "parentQuest": null,
+                    "progressTotal": 1,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.Style.LevelUpPack.W01"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                }
+            ]
+        },
+        {
+            "id": "QuestBundle_S20_LevelUpPack_02",
+            "name": "Zadania z pakietu awansu Rycerza Omega",
+            "unlockType": "EChallengeBundleQuestUnlockType::GrantWithBundle",
+            "tags": [
+                "ChallengeCategory.Style.LevelUpPack"
+            ],
+            "apiTags": [],
+            "colors": null,
+            "images": null,
+            "bundleRewards": [],
+            "quests": [
+                {
+                    "id": "Quest_S20_LevelUpPack_W02_01",
+                    "name": "Zbierz żeton awansu przy Cichej Cieśninie",
+                    "enabled": false,
+                    "enabledDate": null,
+                    "parentQuest": null,
+                    "progressTotal": 1,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.Style.LevelUpPack.W02"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                },
+                {
+                    "id": "Quest_S20_LevelUpPack_W02_02",
+                    "name": "Zbierz żeton awansu na południowy wschód od Schronienia",
+                    "enabled": false,
+                    "enabledDate": null,
+                    "parentQuest": null,
+                    "progressTotal": 1,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.Style.LevelUpPack.W02"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                },
+                {
+                    "id": "Quest_S20_LevelUpPack_W02_03",
+                    "name": "Zbierz żeton awansu na północ od Kanionu Kamienic",
+                    "enabled": false,
+                    "enabledDate": null,
+                    "parentQuest": null,
+                    "progressTotal": 1,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.Style.LevelUpPack.W02"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                },
+                {
+                    "id": "Quest_S20_LevelUpPack_W02_04",
+                    "name": "Zbierz żeton awansu na północny wschód od Kamienistego Kina",
+                    "enabled": false,
+                    "enabledDate": null,
+                    "parentQuest": null,
+                    "progressTotal": 1,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.Style.LevelUpPack.W02"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                },
+                {
+                    "id": "Quest_S20_LevelUpPack_W02_05",
+                    "name": "Zbierz żeton awansu na południe od Jaskini Dowództwa",
+                    "enabled": false,
+                    "enabledDate": null,
+                    "parentQuest": null,
+                    "progressTotal": 1,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.Style.LevelUpPack.W02"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                },
+                {
+                    "id": "Quest_S20_LevelUpPack_W02_06",
+                    "name": "Zbierz żeton awansu na północny zachód od Lepkiego Lasku",
+                    "enabled": false,
+                    "enabledDate": null,
+                    "parentQuest": null,
+                    "progressTotal": 1,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.Style.LevelUpPack.W02"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                },
+                {
+                    "id": "Quest_S20_LevelUpPack_W02_07",
+                    "name": "Zbierz żeton awansu na wyspie na południe od Lepkiego Lasku",
+                    "enabled": false,
+                    "enabledDate": null,
+                    "parentQuest": null,
+                    "progressTotal": 1,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.Style.LevelUpPack.W02"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                }
+            ]
+        },
+        {
+            "id": "QuestBundle_S20_LevelUpPack_03",
+            "name": "Zadania z pakietu awansu Rycerza Omega",
+            "unlockType": "EChallengeBundleQuestUnlockType::GrantWithBundle",
+            "tags": [
+                "ChallengeCategory.Style.LevelUpPack"
+            ],
+            "apiTags": [],
+            "colors": null,
+            "images": null,
+            "bundleRewards": [],
+            "quests": [
+                {
+                    "id": "Quest_S20_LevelUpPack_W03_01",
+                    "name": "Zbierz żeton awansu na wschód od Daily Bugle",
+                    "enabled": false,
+                    "enabledDate": null,
+                    "parentQuest": null,
+                    "progressTotal": 1,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.Style.LevelUpPack.W03"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                },
+                {
+                    "id": "Quest_S20_LevelUpPack_W03_02",
+                    "name": "Zbierz żeton awansu na wyspie na północny wschód od Schronienia",
+                    "enabled": false,
+                    "enabledDate": null,
+                    "parentQuest": null,
+                    "progressTotal": 1,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.Style.LevelUpPack.W03"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                },
+                {
+                    "id": "Quest_S20_LevelUpPack_W03_03",
+                    "name": "Zbierz żeton awansu na wschód od Wykrzywionych Wież",
+                    "enabled": false,
+                    "enabledDate": null,
+                    "parentQuest": null,
+                    "progressTotal": 1,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.Style.LevelUpPack.W03"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                },
+                {
+                    "id": "Quest_S20_LevelUpPack_W03_04",
+                    "name": "Zbierz żeton awansu na wschód od Stacji Synaptycznej",
+                    "enabled": false,
+                    "enabledDate": null,
+                    "parentQuest": null,
+                    "progressTotal": 1,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.Style.LevelUpPack.W03"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                },
+                {
+                    "id": "Quest_S20_LevelUpPack_W03_05",
+                    "name": "Zbierz żeton awansu na wschód od Lepkiego Lasku",
+                    "enabled": false,
+                    "enabledDate": null,
+                    "parentQuest": null,
+                    "progressTotal": 1,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.Style.LevelUpPack.W03"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                },
+                {
+                    "id": "Quest_S20_LevelUpPack_W03_06",
+                    "name": "Zbierz żeton awansu na północny zachód od Wykrzywionych Wież",
+                    "enabled": false,
+                    "enabledDate": null,
+                    "parentQuest": null,
+                    "progressTotal": 1,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.Style.LevelUpPack.W03"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                },
+                {
+                    "id": "Quest_S20_LevelUpPack_W03_07",
+                    "name": "Zbierz żeton awansu przy Szemranych Szybach",
+                    "enabled": false,
+                    "enabledDate": null,
+                    "parentQuest": null,
+                    "progressTotal": 1,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.Style.LevelUpPack.W03"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                }
+            ]
+        },
+        {
+            "id": "QuestBundle_S20_LevelUpPack_04",
+            "name": "Zadania z pakietu awansu Rycerza Omega",
+            "unlockType": "EChallengeBundleQuestUnlockType::GrantWithBundle",
+            "tags": [
+                "ChallengeCategory.Style.LevelUpPack"
+            ],
+            "apiTags": [],
+            "colors": null,
+            "images": null,
+            "bundleRewards": [],
+            "quests": [
+                {
+                    "id": "Quest_S20_LevelUpPack_W04_01",
+                    "name": "Zbierz żeton awansu na północny zachód od Daily Bugle",
+                    "enabled": false,
+                    "enabledDate": null,
+                    "parentQuest": null,
+                    "progressTotal": 1,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.Style.LevelUpPack.W04"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                },
+                {
+                    "id": "Quest_S20_LevelUpPack_W04_02",
+                    "name": "Zbierz żeton awansu na południe od Jonesowiska",
+                    "enabled": false,
+                    "enabledDate": null,
+                    "parentQuest": null,
+                    "progressTotal": 1,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.Style.LevelUpPack.W04"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                },
+                {
+                    "id": "Quest_S20_LevelUpPack_W04_03",
+                    "name": "Zbierz żeton awansu na południe od Szosy Chonkersa",
+                    "enabled": false,
+                    "enabledDate": null,
+                    "parentQuest": null,
+                    "progressTotal": 1,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.Style.LevelUpPack.W04"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                },
+                {
+                    "id": "Quest_S20_LevelUpPack_W04_04",
+                    "name": "Zbierz żeton awansu na południowy zachód od Kamienistego Kina",
+                    "enabled": false,
+                    "enabledDate": null,
+                    "parentQuest": null,
+                    "progressTotal": 1,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.Style.LevelUpPack.W04"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                },
+                {
+                    "id": "Quest_S20_LevelUpPack_W04_05",
+                    "name": "Zbierz żeton awansu przy Przytulnym Przylądku",
+                    "enabled": false,
+                    "enabledDate": null,
+                    "parentQuest": null,
+                    "progressTotal": 1,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.Style.LevelUpPack.W04"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                },
+                {
+                    "id": "Quest_S20_LevelUpPack_W04_06",
+                    "name": "Zbierz żeton awansu na północ od Jaskini Dowództwa",
+                    "enabled": false,
+                    "enabledDate": null,
+                    "parentQuest": null,
+                    "progressTotal": 1,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.Style.LevelUpPack.W04"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                },
+                {
+                    "id": "Quest_S20_LevelUpPack_W04_07",
+                    "name": "Zbierz żeton awansu na północ od Szemranych Szybów",
+                    "enabled": false,
+                    "enabledDate": null,
+                    "parentQuest": null,
+                    "progressTotal": 1,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.Style.LevelUpPack.W04"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                }
+            ]
+        },
+        {
+            "id": "QuestBundle_S20_LevelUpPack_PunchCard",
+            "name": "Zadania z pakietu awansu Rycerza Omega",
+            "unlockType": "EChallengeBundleQuestUnlockType::GrantWithBundle",
+            "tags": [
+                "ChallengeCategory.Style.LevelUpPack"
+            ],
+            "apiTags": [],
+            "colors": null,
+            "images": null,
+            "bundleRewards": [],
+            "quests": [
+                {
+                    "id": "Quests_S20_LevelUpPack_PunchCard_01",
+                    "name": "Ukończ 7 zadań awansu Rycerza Omega",
+                    "enabled": false,
+                    "enabledDate": null,
+                    "parentQuest": null,
+                    "progressTotal": 7,
+                    "tandemCharacter": null,
+                    "tags": [],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                },
+                {
+                    "id": "Quests_S20_LevelUpPack_PunchCard_02",
+                    "name": "Ukończ 14 zadań awansu Rycerza Omega",
+                    "enabled": false,
+                    "enabledDate": null,
+                    "parentQuest": null,
+                    "progressTotal": 14,
+                    "tandemCharacter": null,
+                    "tags": [],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                },
+                {
+                    "id": "Quests_S20_LevelUpPack_PunchCard_03",
+                    "name": "Ukończ 21 zadań awansu Rycerza Omega",
+                    "enabled": false,
+                    "enabledDate": null,
+                    "parentQuest": null,
+                    "progressTotal": 21,
+                    "tandemCharacter": null,
+                    "tags": [],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                },
+                {
+                    "id": "Quests_S20_LevelUpPack_PunchCard_04",
+                    "name": "Ukończ 28 zadań awansu Rycerza Omega",
+                    "enabled": false,
+                    "enabledDate": null,
+                    "parentQuest": null,
+                    "progressTotal": 28,
                     "tandemCharacter": null,
                     "tags": [],
                     "reward": {
@@ -10139,6 +11916,209 @@
             ]
         },
         {
+            "id": "QuestBundle_S20_Noble",
+            "name": "Gwiezdne wojny 4 maja",
+            "unlockType": "EChallengeBundleQuestUnlockType::GrantWithBundle",
+            "tags": [],
+            "apiTags": [],
+            "colors": null,
+            "images": null,
+            "bundleRewards": [],
+            "quests": [
+                {
+                    "id": "Quest_S20_Noble_Q01",
+                    "name": "Przetrwaj fazy burzy, nosząc miecz świetlny",
+                    "enabled": true,
+                    "enabledDate": "2022-05-03 09:03:02+00:00",
+                    "parentQuest": null,
+                    "progressTotal": 5,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.XP",
+                        "ChallengeCategory.Noble"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                },
+                {
+                    "id": "Quest_S20_Noble_Q02",
+                    "name": "Zrań przeciwników w odległości do 30 m z karabinu blasterowego E-11",
+                    "enabled": true,
+                    "enabledDate": "2022-05-03 09:03:02+00:00",
+                    "parentQuest": null,
+                    "progressTotal": 1000,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.XP",
+                        "ChallengeCategory.Noble"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                },
+                {
+                    "id": "Quest_S20_Noble_Q03",
+                    "name": "Wykonaj zlecenie od Szturmowca",
+                    "enabled": true,
+                    "enabledDate": "2022-05-03 09:03:02+00:00",
+                    "parentQuest": null,
+                    "progressTotal": 2,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.XP",
+                        "ChallengeCategory.Noble",
+                        "Athena.Location.Quest.MT4.CP.01",
+                        "Athena.Location.Quest.MT4.CP.02",
+                        "Athena.Location.Quest.MT4.CP.03",
+                        "Quest.ChallengeIcon.Elim",
+                        "Quest.Metadata.PartyAssist"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": [
+                        {
+                            "tag": "Athena.Location.Quest.MT4.CP.01",
+                            "location": null
+                        },
+                        {
+                            "tag": "Athena.Location.Quest.MT4.CP.02",
+                            "location": null
+                        },
+                        {
+                            "tag": "Athena.Location.Quest.MT4.CP.03",
+                            "location": null
+                        }
+                    ]
+                },
+                {
+                    "id": "Quest_S20_Noble_Q04",
+                    "name": "Poprowadź pojazd z Szosy Chonkersa lub Trocinowego Tartaku do Posterunku Szturmowców",
+                    "enabled": true,
+                    "enabledDate": "2022-05-03 09:03:02+00:00",
+                    "parentQuest": null,
+                    "progressTotal": 1,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.XP",
+                        "ChallengeCategory.Noble",
+                        "Athena.Location.Quest.MT4.CP.01",
+                        "Athena.Location.Quest.MT4.CP.02",
+                        "Athena.Location.Quest.MT4.CP.03",
+                        "Quest.ChallengeIcon.Car"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": [
+                        {
+                            "tag": "Athena.Location.Quest.MT4.CP.01",
+                            "location": null
+                        },
+                        {
+                            "tag": "Athena.Location.Quest.MT4.CP.02",
+                            "location": null
+                        },
+                        {
+                            "tag": "Athena.Location.Quest.MT4.CP.03",
+                            "location": null
+                        }
+                    ]
+                },
+                {
+                    "id": "Quest_S20_Noble_Q05",
+                    "name": "Wyląduj w Posterunku Szturmowców i skończ wśród 25 najlepszych",
+                    "enabled": true,
+                    "enabledDate": "2022-05-03 09:03:02+00:00",
+                    "parentQuest": null,
+                    "progressTotal": 2,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.XP",
+                        "ChallengeCategory.Noble",
+                        "Athena.Location.Quest.MT4.CP.01",
+                        "Athena.Location.Quest.MT4.CP.02",
+                        "Athena.Location.Quest.MT4.CP.03",
+                        "Quest.ChallengeIcon.Land"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": [
+                        {
+                            "tag": "Athena.Location.Quest.MT4.CP.01",
+                            "location": null
+                        },
+                        {
+                            "tag": "Athena.Location.Quest.MT4.CP.02",
+                            "location": null
+                        },
+                        {
+                            "tag": "Athena.Location.Quest.MT4.CP.03",
+                            "location": null
+                        }
+                    ]
+                },
+                {
+                    "id": "Quest_S20_Noble_Q07",
+                    "name": "Zablokuj uderzenia mieczem świetlnym",
+                    "enabled": true,
+                    "enabledDate": "2022-05-03 09:03:02+00:00",
+                    "parentQuest": null,
+                    "progressTotal": 10,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.XP",
+                        "ChallengeCategory.Noble"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                }
+            ]
+        },
+        {
+            "id": "QuestBundle_S20_Noble_BonusGoal",
+            "name": "Zadania dodatkowe Gwiezdnych wojen 4 maja",
+            "unlockType": "EChallengeBundleQuestUnlockType::GrantWithBundle",
+            "tags": [
+                "ChallengeCategory.Noble"
+            ],
+            "apiTags": [],
+            "colors": null,
+            "images": null,
+            "bundleRewards": [],
+            "quests": [
+                {
+                    "id": "Quest_S20_Noble_BonusGoal",
+                    "name": "Ukończ zadania Gwiezdnych wojen 4 maja",
+                    "enabled": true,
+                    "enabledDate": "2022-05-03 09:03:02+00:00",
+                    "parentQuest": null,
+                    "progressTotal": 5,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.Noble"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                }
+            ]
+        },
+        {
             "id": "QuestBundle_S20_NoPermit",
             "name": "Zadania Bez prawka",
             "unlockType": "EChallengeBundleQuestUnlockType::GrantWithBundle",
@@ -11244,6 +13224,134 @@
                     "tags": [
                         "ChallengeCategory.Style.PickaxeCollectible",
                         "Quest.HideWhenClaimed"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                }
+            ]
+        },
+        {
+            "id": "QuestBundle_S20_ShinnyGoldCreature",
+            "name": "Pakiet zadań Strażniczki Złotozgubnego",
+            "unlockType": "EChallengeBundleQuestUnlockType::GrantWithBundle",
+            "tags": [],
+            "apiTags": [],
+            "colors": null,
+            "images": null,
+            "bundleRewards": [],
+            "quests": [
+                {
+                    "id": "Quest_BR_ShinnyGoldCreature_CompleteQuests_01",
+                    "name": "Ukończ cele dodatkowe dnia",
+                    "enabled": false,
+                    "enabledDate": null,
+                    "parentQuest": null,
+                    "progressTotal": 3,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "Quest.ChallengeStyle.ShinnyGoldCreature"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                },
+                {
+                    "id": "Quest_BR_ShinnyGoldCreature_CompleteQuests_02",
+                    "name": "Ukończ cele dodatkowe dnia",
+                    "enabled": false,
+                    "enabledDate": null,
+                    "parentQuest": null,
+                    "progressTotal": 5,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "Quest.ChallengeStyle.ShinnyGoldCreature"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                },
+                {
+                    "id": "Quest_BR_ShinnyGoldCreature_CompleteQuests_03",
+                    "name": "Ukończ cele dodatkowe dnia",
+                    "enabled": false,
+                    "enabledDate": null,
+                    "parentQuest": null,
+                    "progressTotal": 7,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "Quest.ChallengeStyle.ShinnyGoldCreature"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                },
+                {
+                    "id": "Quest_BR_ShinnyGoldCreature_CompleteQuests_04",
+                    "name": "Ukończ cele dodatkowe dnia",
+                    "enabled": false,
+                    "enabledDate": null,
+                    "parentQuest": null,
+                    "progressTotal": 10,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "Quest.ChallengeStyle.ShinnyGoldCreature"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                },
+                {
+                    "id": "Quest_BR_ShinnyGoldCreature_CompleteQuests_05",
+                    "name": "Ukończ cele dodatkowe dnia",
+                    "enabled": false,
+                    "enabledDate": null,
+                    "parentQuest": null,
+                    "progressTotal": 14,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "Quest.ChallengeStyle.ShinnyGoldCreature"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                }
+            ]
+        },
+        {
+            "id": "QuestBundle_S20_Soundwave",
+            "name": "Emicida",
+            "unlockType": "EChallengeBundleQuestUnlockType::GrantWithBundle",
+            "tags": [
+                "ChallengeCategory.Event.Soundwave"
+            ],
+            "apiTags": [],
+            "colors": null,
+            "images": null,
+            "bundleRewards": [],
+            "quests": [
+                {
+                    "id": "quest_s20_soundwave_q01",
+                    "name": "Zbierz monetę koncertową",
+                    "enabled": false,
+                    "enabledDate": "2022-04-29 22:30:04+00:00",
+                    "parentQuest": null,
+                    "progressTotal": 1,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.Event.Soundwave"
                     ],
                     "reward": {
                         "xp": 0,

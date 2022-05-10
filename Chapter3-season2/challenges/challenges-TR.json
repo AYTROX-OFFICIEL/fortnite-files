@@ -625,8 +625,8 @@
                 {
                     "id": "Quest_S20_Weekly_W04_Q01",
                     "name": "Sırt roketiyle havada gez",
-                    "enabled": false,
-                    "enabledDate": null,
+                    "enabled": true,
+                    "enabledDate": "2022-04-14 13:30:04+00:00",
                     "parentQuest": null,
                     "progressTotal": 100,
                     "tandemCharacter": null,
@@ -643,8 +643,8 @@
                 {
                     "id": "Quest_S20_Weekly_W04_Q02",
                     "name": "Otobüs Şoförü'ne teşekkür et ve ilk 25'e gir",
-                    "enabled": false,
-                    "enabledDate": null,
+                    "enabled": true,
+                    "enabledDate": "2022-04-14 13:30:04+00:00",
                     "parentQuest": null,
                     "progressTotal": 2,
                     "tandemCharacter": null,
@@ -661,8 +661,8 @@
                 {
                     "id": "Quest_S20_Weekly_W04_Q03",
                     "name": "Bir Savaş Otobüsü'nde benzin istasyonlarını ziyaret et",
-                    "enabled": false,
-                    "enabledDate": null,
+                    "enabled": true,
+                    "enabledDate": "2022-04-14 13:30:04+00:00",
                     "parentQuest": null,
                     "progressTotal": 3,
                     "tandemCharacter": null,
@@ -679,8 +679,8 @@
                 {
                     "id": "Quest_S20_Weekly_W04_Q04",
                     "name": "Şok Dalgası Bombası'yla vurulduktan sonra havada zaman geçir",
-                    "enabled": false,
-                    "enabledDate": null,
+                    "enabled": true,
+                    "enabledDate": "2022-04-14 13:30:04+00:00",
                     "parentQuest": null,
                     "progressTotal": 3,
                     "tandemCharacter": null,
@@ -697,8 +697,8 @@
                 {
                     "id": "Quest_S20_Weekly_W04_Q05",
                     "name": "Tek bir maçta Gizemli Örgüt kuvvetleri avla",
-                    "enabled": false,
-                    "enabledDate": null,
+                    "enabled": true,
+                    "enabledDate": "2022-04-14 13:30:04+00:00",
                     "parentQuest": null,
                     "progressTotal": 3,
                     "tandemCharacter": null,
@@ -715,8 +715,8 @@
                 {
                     "id": "Quest_S20_Weekly_W04_Q06",
                     "name": "Termal Balık tut veya topla",
-                    "enabled": false,
-                    "enabledDate": null,
+                    "enabled": true,
+                    "enabledDate": "2022-04-14 13:30:04+00:00",
                     "parentQuest": null,
                     "progressTotal": 1,
                     "tandemCharacter": null,
@@ -733,8 +733,8 @@
                 {
                     "id": "Quest_S20_Weekly_W04_Q07",
                     "name": "İndikten sonra 30 saniye içerisinde bir Av Panosu'ndan av al",
-                    "enabled": false,
-                    "enabledDate": null,
+                    "enabled": true,
+                    "enabledDate": "2022-04-14 13:30:04+00:00",
                     "parentQuest": null,
                     "progressTotal": 1,
                     "tandemCharacter": null,
@@ -751,8 +751,8 @@
                 {
                     "id": "Quest_S20_Weekly_W04_Q08",
                     "name": "Rakiplere toplama aletiyle hasar ver",
-                    "enabled": false,
-                    "enabledDate": null,
+                    "enabled": true,
+                    "enabledDate": "2022-04-14 13:30:04+00:00",
                     "parentQuest": null,
                     "progressTotal": 75,
                     "tandemCharacter": null,
@@ -769,8 +769,8 @@
                 {
                     "id": "Quest_S20_Weekly_W04_Q09",
                     "name": "Dolambaçlı Dehlizler'de veya Minnoş Mekân'da cephane kutusu aç",
-                    "enabled": false,
-                    "enabledDate": null,
+                    "enabled": true,
+                    "enabledDate": "2022-04-14 13:30:04+00:00",
                     "parentQuest": null,
                     "progressTotal": 3,
                     "tandemCharacter": null,
@@ -787,8 +787,937 @@
             ]
         },
         {
+            "id": "MissionBundle_S20_Week_05",
+            "name": "5. Hafta Mevsime Özel Görevleri",
+            "unlockType": "EChallengeBundleQuestUnlockType::GrantWithBundle",
+            "tags": [],
+            "apiTags": [],
+            "colors": null,
+            "images": null,
+            "bundleRewards": [],
+            "quests": [
+                {
+                    "id": "Quest_S20_Weekly_W05_Q01",
+                    "name": "Müdürlük Mağarası veya bir savaş konumunda bir keskin nişancı tüfeğiyle Gizemli Örgüt kuvvetlerine kafadan vuruş yap",
+                    "enabled": true,
+                    "enabledDate": "2022-04-21 13:30:04+00:00",
+                    "parentQuest": null,
+                    "progressTotal": 3,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.Weekly.005",
+                        "ChallengeCategory.XP"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                },
+                {
+                    "id": "Quest_S20_Weekly_W05_Q02",
+                    "name": "Korucu Pompalı Tüfeği ile hasar almadan bir rakibe iki kere vur",
+                    "enabled": true,
+                    "enabledDate": "2022-04-21 13:30:04+00:00",
+                    "parentQuest": null,
+                    "progressTotal": 1,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.Weekly.005",
+                        "ChallengeCategory.XP"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                },
+                {
+                    "id": "Quest_S20_Weekly_W05_Q03",
+                    "name": "Örs Roketatarı ile bir rakibin aracına kilitlen ve hasar ver",
+                    "enabled": true,
+                    "enabledDate": "2022-04-21 13:30:04+00:00",
+                    "parentQuest": null,
+                    "progressTotal": 2,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.Weekly.005",
+                        "ChallengeCategory.XP"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                },
+                {
+                    "id": "Quest_S20_Weekly_W05_Q04",
+                    "name": "Bir savaş konumunda Sağlık Spreyi ile Yedili kuvvetlerini iyileştir",
+                    "enabled": true,
+                    "enabledDate": "2022-04-21 13:30:04+00:00",
+                    "parentQuest": null,
+                    "progressTotal": 1,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.Weekly.005",
+                        "ChallengeCategory.XP"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                },
+                {
+                    "id": "Quest_S20_Weekly_W05_Q05",
+                    "name": "Tırmandıktan sonra 10 saniye içerisinde bir rakibe hasar ver",
+                    "enabled": true,
+                    "enabledDate": "2022-04-21 13:30:04+00:00",
+                    "parentQuest": null,
+                    "progressTotal": 1,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.Weekly.005",
+                        "ChallengeCategory.XP"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                },
+                {
+                    "id": "Quest_S20_Weekly_W05_Q06",
+                    "name": "Hasar almadan en az 10 kat düş",
+                    "enabled": true,
+                    "enabledDate": "2022-04-21 13:30:04+00:00",
+                    "parentQuest": null,
+                    "progressTotal": 1,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.Weekly.005",
+                        "ChallengeCategory.XP"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                },
+                {
+                    "id": "Quest_S20_Weekly_W05_Q07",
+                    "name": "Ağır Keskin Nişancı Tüfeği ile rakip araçlara hasar ver",
+                    "enabled": true,
+                    "enabledDate": "2022-04-21 13:30:04+00:00",
+                    "parentQuest": null,
+                    "progressTotal": 600,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.Weekly.005",
+                        "ChallengeCategory.XP"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                },
+                {
+                    "id": "Quest_S20_Weekly_W05_Q08",
+                    "name": "Seri Makineli Tüfek ile yapı yok et",
+                    "enabled": true,
+                    "enabledDate": "2022-04-21 13:30:04+00:00",
+                    "parentQuest": null,
+                    "progressTotal": 10,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.Weekly.005",
+                        "ChallengeCategory.XP"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                },
+                {
+                    "id": "Quest_S20_Weekly_W05_Q09",
+                    "name": "Tek bir maçta Küçük Kalkan İksirleri ile kalkan doldur",
+                    "enabled": true,
+                    "enabledDate": "2022-04-21 13:30:04+00:00",
+                    "parentQuest": null,
+                    "progressTotal": 75,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.Weekly.005",
+                        "ChallengeCategory.XP"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                }
+            ]
+        },
+        {
+            "id": "MissionBundle_S20_Week_06",
+            "name": "6. Hafta Mevsime Özel Görevleri",
+            "unlockType": "EChallengeBundleQuestUnlockType::GrantWithBundle",
+            "tags": [],
+            "apiTags": [],
+            "colors": null,
+            "images": null,
+            "bundleRewards": [],
+            "quests": [
+                {
+                    "id": "Quest_S20_Weekly_W06_Q01",
+                    "name": "Bir rakibine tek vuruşta en az 100 hasar ver",
+                    "enabled": true,
+                    "enabledDate": "2022-04-28 13:30:03+00:00",
+                    "parentQuest": null,
+                    "progressTotal": 1,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.Weekly.006",
+                        "ChallengeCategory.XP"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                },
+                {
+                    "id": "Quest_S20_Weekly_W06_Q02",
+                    "name": "5 saniye içinde 5 kere tırman",
+                    "enabled": true,
+                    "enabledDate": "2022-04-28 13:30:03+00:00",
+                    "parentQuest": null,
+                    "progressTotal": 1,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.Weekly.006",
+                        "ChallengeCategory.XP"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                },
+                {
+                    "id": "Quest_S20_Weekly_W06_Q03",
+                    "name": "Eğilirken tabanca ile bir rakibin tankını vur",
+                    "enabled": true,
+                    "enabledDate": "2022-04-28 13:30:03+00:00",
+                    "parentQuest": null,
+                    "progressTotal": 200,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.Weekly.006",
+                        "ChallengeCategory.XP"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                },
+                {
+                    "id": "Quest_S20_Weekly_W06_Q04",
+                    "name": "Bir tank ile havada kal",
+                    "enabled": true,
+                    "enabledDate": "2022-04-28 13:30:03+00:00",
+                    "parentQuest": null,
+                    "progressTotal": 3,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.Weekly.006",
+                        "ChallengeCategory.XP"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                },
+                {
+                    "id": "Quest_S20_Weekly_W06_Q05",
+                    "name": "Bir lahanayı tek seferde en az 100 metre uzağa fırlat",
+                    "enabled": true,
+                    "enabledDate": "2022-04-28 13:30:03+00:00",
+                    "parentQuest": null,
+                    "progressTotal": 1,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.Weekly.006",
+                        "ChallengeCategory.XP"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                },
+                {
+                    "id": "Quest_S20_Weekly_W06_Q06",
+                    "name": "Düşmekteyken rakiplerine hasar ver",
+                    "enabled": true,
+                    "enabledDate": "2022-04-28 13:30:03+00:00",
+                    "parentQuest": null,
+                    "progressTotal": 150,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.Weekly.006",
+                        "ChallengeCategory.XP"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                },
+                {
+                    "id": "Quest_S20_Weekly_W06_Q07",
+                    "name": "Darbeli Seri Atışlı Tüfek ile bir rakibi nişan almayı bırakmadan arka arkaya 4 kez vur",
+                    "enabled": true,
+                    "enabledDate": "2022-04-28 13:30:03+00:00",
+                    "parentQuest": null,
+                    "progressTotal": 1,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.Weekly.006",
+                        "ChallengeCategory.XP"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                },
+                {
+                    "id": "Quest_S20_Weekly_W06_Q08",
+                    "name": "Bir taarruz tüfeğiyle en az 30 metre mesafeden rakiplerine hasar ver",
+                    "enabled": true,
+                    "enabledDate": "2022-04-28 13:30:03+00:00",
+                    "parentQuest": null,
+                    "progressTotal": 150,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.Weekly.006",
+                        "ChallengeCategory.XP"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                },
+                {
+                    "id": "Quest_S20_Weekly_W06_Q09",
+                    "name": "Ateşle yapı yok et",
+                    "enabled": true,
+                    "enabledDate": "2022-04-28 13:30:03+00:00",
+                    "parentQuest": null,
+                    "progressTotal": 100,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.Weekly.006",
+                        "ChallengeCategory.XP"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                }
+            ]
+        },
+        {
+            "id": "MissionBundle_S20_Week_07",
+            "name": "7. Hafta Mevsime Özel Görevleri",
+            "unlockType": "EChallengeBundleQuestUnlockType::GrantWithBundle",
+            "tags": [],
+            "apiTags": [],
+            "colors": null,
+            "images": null,
+            "bundleRewards": [],
+            "quests": [
+                {
+                    "id": "Quest_S20_Weekly_W07_Q01",
+                    "name": "Uzaktan Kumandalı Patlayıcılar ile taret yok et",
+                    "enabled": true,
+                    "enabledDate": "2022-05-05 13:30:03+00:00",
+                    "parentQuest": null,
+                    "progressTotal": 1,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.Weekly.007",
+                        "ChallengeCategory.XP"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                },
+                {
+                    "id": "Quest_S20_Weekly_W07_Q02",
+                    "name": "Bir maçta farklı isimli konumları ziyaret et",
+                    "enabled": true,
+                    "enabledDate": "2022-05-05 13:30:03+00:00",
+                    "parentQuest": null,
+                    "progressTotal": 5,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.Weekly.007",
+                        "ChallengeCategory.XP",
+                        "Quest.ChallengeIcon.Visit"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                },
+                {
+                    "id": "Quest_S20_Weekly_W07_Q03",
+                    "name": "Bir tankın motoruna hasar vererek tankı devre dışı bırak",
+                    "enabled": true,
+                    "enabledDate": "2022-05-05 13:30:03+00:00",
+                    "parentQuest": null,
+                    "progressTotal": 1,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.Weekly.007",
+                        "ChallengeCategory.XP"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                },
+                {
+                    "id": "Quest_S20_Weekly_W07_Q04",
+                    "name": "Gizemli Örgüt konumlarında çalıntı Yedili malzemelerini topla",
+                    "enabled": true,
+                    "enabledDate": "2022-05-05 13:30:03+00:00",
+                    "parentQuest": null,
+                    "progressTotal": 3,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.Weekly.007",
+                        "ChallengeCategory.XP",
+                        "Quest.ChallengeIcon.AmmoBox"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                },
+                {
+                    "id": "Quest_S20_Weekly_W07_Q05",
+                    "name": "Tren Mahmuzu ile yapı yık",
+                    "enabled": true,
+                    "enabledDate": "2022-05-05 13:30:03+00:00",
+                    "parentQuest": null,
+                    "progressTotal": 200,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.Weekly.007",
+                        "ChallengeCategory.XP"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                },
+                {
+                    "id": "Quest_S20_Weekly_W07_Q06",
+                    "name": "Darbeli Seri Atışlı Tüfek ile kafadan vuruş hasarı ver",
+                    "enabled": true,
+                    "enabledDate": "2022-05-05 13:30:03+00:00",
+                    "parentQuest": null,
+                    "progressTotal": 200,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.Weekly.007",
+                        "ChallengeCategory.XP"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                },
+                {
+                    "id": "Quest_S20_Weekly_W07_Q07",
+                    "name": "Onarım Pürmüzü ile rakiplerine hasar ver",
+                    "enabled": true,
+                    "enabledDate": "2022-05-05 13:30:03+00:00",
+                    "parentQuest": null,
+                    "progressTotal": 5,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.Weekly.007",
+                        "ChallengeCategory.XP"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                },
+                {
+                    "id": "Quest_S20_Weekly_W07_Q08",
+                    "name": "Bir Av Panosu'ndan av tamamla",
+                    "enabled": true,
+                    "enabledDate": "2022-05-05 13:30:03+00:00",
+                    "parentQuest": null,
+                    "progressTotal": 1,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.Weekly.007",
+                        "ChallengeCategory.XP"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                },
+                {
+                    "id": "Quest_S20_Weekly_W07_Q09",
+                    "name": "Bir araca yakıt doldur",
+                    "enabled": true,
+                    "enabledDate": "2022-05-05 13:30:03+00:00",
+                    "parentQuest": null,
+                    "progressTotal": 50,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.Weekly.007",
+                        "ChallengeCategory.XP"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                }
+            ]
+        },
+        {
+            "id": "MissionBundle_S20_Week_08",
+            "name": "8. Hafta Mevsime Özel Görevleri",
+            "unlockType": "EChallengeBundleQuestUnlockType::GrantWithBundle",
+            "tags": [],
+            "apiTags": [],
+            "colors": null,
+            "images": null,
+            "bundleRewards": [],
+            "quests": [
+                {
+                    "id": "Quest_S20_Weekly_W08_Q01",
+                    "name": "Tambur Pompalı Tüfek ile 10 metre veya daha yakından rakiplerine hasar ver",
+                    "enabled": false,
+                    "enabledDate": null,
+                    "parentQuest": null,
+                    "progressTotal": 150,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.Weekly.008",
+                        "ChallengeCategory.XP"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                },
+                {
+                    "id": "Quest_S20_Weekly_W08_Q02",
+                    "name": "Choppa ile 1000 metre yol katet",
+                    "enabled": false,
+                    "enabledDate": null,
+                    "parentQuest": null,
+                    "progressTotal": 1000,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.Weekly.008",
+                        "ChallengeCategory.XP"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                },
+                {
+                    "id": "Quest_S20_Weekly_W08_Q03",
+                    "name": "Bomba Kraterleri'ne fidan ek",
+                    "enabled": false,
+                    "enabledDate": null,
+                    "parentQuest": null,
+                    "progressTotal": 3,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.Weekly.008",
+                        "ChallengeCategory.XP",
+                        "Athena.Quests.Location.Crater.03b",
+                        "Athena.Quests.Location.Crater.02",
+                        "Athena.Quests.Location.Crater.01a",
+                        "Athena.Quests.Location.Crater.01b",
+                        "Athena.Quests.Location.Crater.03a"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                },
+                {
+                    "id": "Quest_S20_Weekly_W08_Q04",
+                    "name": "Kayarken Uzaktan Kumandalı Patlayıcı patlat",
+                    "enabled": false,
+                    "enabledDate": null,
+                    "parentQuest": null,
+                    "progressTotal": 2,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.Weekly.008",
+                        "ChallengeCategory.XP"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                },
+                {
+                    "id": "Quest_S20_Weekly_W08_Q05",
+                    "name": "Bir tankın üzerine Hava Saldırısı çağır",
+                    "enabled": false,
+                    "enabledDate": null,
+                    "parentQuest": null,
+                    "progressTotal": 1,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.XP",
+                        "ChallengeCategory.Weekly.008"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                },
+                {
+                    "id": "Quest_S20_Weekly_W08_Q06",
+                    "name": "Bir benzin istasyonunda Onarım Pürmüzü'ne yakıt doldur",
+                    "enabled": false,
+                    "enabledDate": null,
+                    "parentQuest": null,
+                    "progressTotal": 2,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.Weekly.008",
+                        "Quest.ChallengeIcon.Interact",
+                        "Athena.Location.Meta.GasStation.01",
+                        "Athena.Location.Meta.GasStation.02",
+                        "Athena.Location.Meta.GasStation.03",
+                        "Athena.Location.Meta.GasStation.04",
+                        "Athena.Location.Meta.GasStation.05",
+                        "Athena.Location.Meta.GasStation.06",
+                        "Athena.Location.Meta.GasStation.07",
+                        "Athena.Location.Meta.GasStation.08",
+                        "Athena.Location.Meta.GasStation.09",
+                        "Athena.Location.Meta.GasStation.10",
+                        "Athena.Location.Meta.GasStation.11",
+                        "Athena.Location.Meta.GasStation.12",
+                        "Athena.Location.Meta.GasStation.13",
+                        "ChallengeCategory.XP"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": [
+                        {
+                            "tag": "Athena.Location.Meta.GasStation.01",
+                            "location": null
+                        },
+                        {
+                            "tag": "Athena.Location.Meta.GasStation.02",
+                            "location": null
+                        },
+                        {
+                            "tag": "Athena.Location.Meta.GasStation.03",
+                            "location": null
+                        },
+                        {
+                            "tag": "Athena.Location.Meta.GasStation.04",
+                            "location": null
+                        },
+                        {
+                            "tag": "Athena.Location.Meta.GasStation.05",
+                            "location": null
+                        },
+                        {
+                            "tag": "Athena.Location.Meta.GasStation.06",
+                            "location": null
+                        },
+                        {
+                            "tag": "Athena.Location.Meta.GasStation.07",
+                            "location": null
+                        },
+                        {
+                            "tag": "Athena.Location.Meta.GasStation.08",
+                            "location": null
+                        },
+                        {
+                            "tag": "Athena.Location.Meta.GasStation.09",
+                            "location": null
+                        },
+                        {
+                            "tag": "Athena.Location.Meta.GasStation.10",
+                            "location": null
+                        },
+                        {
+                            "tag": "Athena.Location.Meta.GasStation.11",
+                            "location": null
+                        },
+                        {
+                            "tag": "Athena.Location.Meta.GasStation.12",
+                            "location": null
+                        },
+                        {
+                            "tag": "Athena.Location.Meta.GasStation.13",
+                            "location": null
+                        }
+                    ]
+                },
+                {
+                    "id": "Quest_S20_Weekly_W08_Q07",
+                    "name": "Hafif Makineli Çatışma Tüfeği ile rakiplerine hasar ver",
+                    "enabled": false,
+                    "enabledDate": null,
+                    "parentQuest": null,
+                    "progressTotal": 500,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.Weekly.008",
+                        "ChallengeCategory.XP"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                },
+                {
+                    "id": "Quest_S20_Weekly_W08_Q08",
+                    "name": "Yazarkasa aç",
+                    "enabled": false,
+                    "enabledDate": null,
+                    "parentQuest": null,
+                    "progressTotal": 3,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "Athena.Location.Meta.GasStation.01",
+                        "Athena.Location.Meta.GasStation.02",
+                        "Athena.Location.Meta.GasStation.03",
+                        "Athena.Location.Meta.GasStation.04",
+                        "Athena.Location.Meta.GasStation.05",
+                        "Athena.Location.Meta.GasStation.06",
+                        "Athena.Location.Meta.GasStation.07",
+                        "Athena.Location.Meta.GasStation.08",
+                        "Athena.Location.Meta.GasStation.09",
+                        "Athena.Location.Meta.GasStation.10",
+                        "Athena.Location.Meta.GasStation.11",
+                        "Athena.Location.Meta.GasStation.12",
+                        "ChallengeCategory.Weekly.008",
+                        "ChallengeCategory.XP"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": [
+                        {
+                            "tag": "Athena.Location.Meta.GasStation.01",
+                            "location": null
+                        },
+                        {
+                            "tag": "Athena.Location.Meta.GasStation.02",
+                            "location": null
+                        },
+                        {
+                            "tag": "Athena.Location.Meta.GasStation.03",
+                            "location": null
+                        },
+                        {
+                            "tag": "Athena.Location.Meta.GasStation.04",
+                            "location": null
+                        },
+                        {
+                            "tag": "Athena.Location.Meta.GasStation.05",
+                            "location": null
+                        },
+                        {
+                            "tag": "Athena.Location.Meta.GasStation.06",
+                            "location": null
+                        },
+                        {
+                            "tag": "Athena.Location.Meta.GasStation.07",
+                            "location": null
+                        },
+                        {
+                            "tag": "Athena.Location.Meta.GasStation.08",
+                            "location": null
+                        },
+                        {
+                            "tag": "Athena.Location.Meta.GasStation.09",
+                            "location": null
+                        },
+                        {
+                            "tag": "Athena.Location.Meta.GasStation.10",
+                            "location": null
+                        },
+                        {
+                            "tag": "Athena.Location.Meta.GasStation.11",
+                            "location": null
+                        },
+                        {
+                            "tag": "Athena.Location.Meta.GasStation.12",
+                            "location": null
+                        }
+                    ]
+                },
+                {
+                    "id": "Quest_S20_Weekly_W08_Q09",
+                    "name": "Tabanca, hafif makineli tüfek veya pompalı tüfekle avlama yap",
+                    "enabled": false,
+                    "enabledDate": null,
+                    "parentQuest": null,
+                    "progressTotal": 1,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.Weekly.008",
+                        "ChallengeCategory.XP"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                }
+            ]
+        },
+        {
+            "id": "QuestBundle_S20_10_Buttercake",
+            "name": "lost and mound: snow",
+            "unlockType": "EChallengeBundleQuestUnlockType::GrantWithBundle",
+            "tags": [],
+            "apiTags": [],
+            "colors": null,
+            "images": null,
+            "bundleRewards": [],
+            "quests": [
+                {
+                    "id": "quest_s20_buttercake_discover_snowmounds",
+                    "name": "Karda Saklambaç",
+                    "enabled": true,
+                    "enabledDate": "2022-04-19 09:03:05+00:00",
+                    "parentQuest": null,
+                    "progressTotal": 3,
+                    "tandemCharacter": null,
+                    "tags": [],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                }
+            ]
+        },
+        {
+            "id": "QuestBundle_S20_20_Buttercake",
+            "name": "klomberries are back",
+            "unlockType": "EChallengeBundleQuestUnlockType::GrantWithBundle",
+            "tags": [],
+            "apiTags": [],
+            "colors": null,
+            "images": null,
+            "bundleRewards": [],
+            "quests": [
+                {
+                    "id": "quest_s20_buttercake_gather_klomberries_simple",
+                    "name": "Tontiş Dutu geri döndü",
+                    "enabled": true,
+                    "enabledDate": "2022-04-19 09:03:05+00:00",
+                    "parentQuest": null,
+                    "progressTotal": 10,
+                    "tandemCharacter": null,
+                    "tags": [],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                }
+            ]
+        },
+        {
+            "id": "QuestBundle_S20_30_Buttercake",
+            "name": "lost and mound: sand",
+            "unlockType": "EChallengeBundleQuestUnlockType::GrantWithBundle",
+            "tags": [],
+            "apiTags": [],
+            "colors": null,
+            "images": null,
+            "bundleRewards": [],
+            "quests": [
+                {
+                    "id": "quest_s20_buttercake_discover_sandmounds",
+                    "name": "Kumda Saklambaç",
+                    "enabled": true,
+                    "enabledDate": "2022-05-03 09:03:02+00:00",
+                    "parentQuest": null,
+                    "progressTotal": 3,
+                    "tandemCharacter": null,
+                    "tags": [],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                },
+                {
+                    "id": "quest_s20_buttercake_geyser",
+                    "name": "Gayzer Hapşırığı",
+                    "enabled": true,
+                    "enabledDate": "2022-05-03 09:03:02+00:00",
+                    "parentQuest": null,
+                    "progressTotal": 3,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.XP"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                }
+            ]
+        },
+        {
             "id": "QuestBundle_S20_BPUnlockableCharacter_01",
-            "name": "???",
+            "name": "PROWLER",
             "unlockType": "EChallengeBundleQuestUnlockType::RequiresBattlePass",
             "tags": [],
             "apiTags": [],
@@ -798,7 +1727,7 @@
             "quests": [
                 {
                     "id": "Quest_S20_BPUnlockableCharacter_q01",
-                    "name": "???",
+                    "name": "Prowler görevlerini tamamla",
                     "enabled": false,
                     "enabledDate": null,
                     "parentQuest": null,
@@ -813,13 +1742,15 @@
                 },
                 {
                     "id": "Quest_S20_BPUnlockableCharacter_q02",
-                    "name": "???",
+                    "name": "Eğilirken veya kayarken rakiplerine hasar ver",
                     "enabled": false,
                     "enabledDate": null,
                     "parentQuest": null,
-                    "progressTotal": 1,
+                    "progressTotal": 500,
                     "tandemCharacter": null,
-                    "tags": [],
+                    "tags": [
+                        "ChallengeCategory.Sienna"
+                    ],
                     "reward": {
                         "xp": 0,
                         "items": []
@@ -828,13 +1759,15 @@
                 },
                 {
                     "id": "Quest_S20_BPUnlockableCharacter_q03",
-                    "name": "???",
+                    "name": "Tek bir maçta en az Destansı nadirlikte farklı silah türleri topla",
                     "enabled": false,
                     "enabledDate": null,
                     "parentQuest": null,
-                    "progressTotal": 1,
+                    "progressTotal": 3,
                     "tandemCharacter": null,
-                    "tags": [],
+                    "tags": [
+                        "ChallengeCategory.Sienna"
+                    ],
                     "reward": {
                         "xp": 0,
                         "items": []
@@ -843,13 +1776,15 @@
                 },
                 {
                     "id": "Quest_S20_BPUnlockableCharacter_q04",
-                    "name": "???",
+                    "name": "Daily Bugle'da bir sprey kullan",
                     "enabled": false,
                     "enabledDate": null,
                     "parentQuest": null,
                     "progressTotal": 1,
                     "tandemCharacter": null,
-                    "tags": [],
+                    "tags": [
+                        "ChallengeCategory.Sienna"
+                    ],
                     "reward": {
                         "xp": 0,
                         "items": []
@@ -858,7 +1793,7 @@
                 },
                 {
                     "id": "Quest_S20_BPUnlockableCharacter_q05",
-                    "name": "???",
+                    "name": "Prowler görevlerini tamamla",
                     "enabled": false,
                     "enabledDate": null,
                     "parentQuest": null,
@@ -873,13 +1808,15 @@
                 },
                 {
                     "id": "Quest_S20_BPUnlockableCharacter_q06",
-                    "name": "???",
+                    "name": "Bir maçta hasar almadan önce sandık aç",
                     "enabled": false,
                     "enabledDate": null,
                     "parentQuest": null,
-                    "progressTotal": 1,
+                    "progressTotal": 7,
                     "tandemCharacter": null,
-                    "tags": [],
+                    "tags": [
+                        "ChallengeCategory.Sienna"
+                    ],
                     "reward": {
                         "xp": 0,
                         "items": []
@@ -888,13 +1825,15 @@
                 },
                 {
                     "id": "Quest_S20_BPUnlockableCharacter_q07",
-                    "name": "???",
+                    "name": "Bir termal silah ile rakiplerine kafadan vuruş yap",
                     "enabled": false,
                     "enabledDate": null,
                     "parentQuest": null,
-                    "progressTotal": 1,
+                    "progressTotal": 3,
                     "tandemCharacter": null,
-                    "tags": [],
+                    "tags": [
+                        "ChallengeCategory.Sienna"
+                    ],
                     "reward": {
                         "xp": 0,
                         "items": []
@@ -903,13 +1842,15 @@
                 },
                 {
                     "id": "Quest_S20_BPUnlockableCharacter_q08",
-                    "name": "???",
+                    "name": "Külçe topla",
                     "enabled": false,
                     "enabledDate": null,
                     "parentQuest": null,
-                    "progressTotal": 1,
+                    "progressTotal": 300,
                     "tandemCharacter": null,
-                    "tags": [],
+                    "tags": [
+                        "ChallengeCategory.Sienna"
+                    ],
                     "reward": {
                         "xp": 0,
                         "items": []
@@ -918,13 +1859,63 @@
                 },
                 {
                     "id": "Quest_S20_BPUnlockableCharacter_q09",
-                    "name": "???",
+                    "name": "Tek bir maçta bir araç modifiye et ve o aracı 500 metre sür",
                     "enabled": false,
                     "enabledDate": null,
                     "parentQuest": null,
-                    "progressTotal": 1,
+                    "progressTotal": 2,
                     "tandemCharacter": null,
-                    "tags": [],
+                    "tags": [
+                        "ChallengeCategory.Sienna"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                }
+            ]
+        },
+        {
+            "id": "QuestBundle_S20_BPUnlockableCharacter_Goals",
+            "name": "Prowler",
+            "unlockType": "EChallengeBundleQuestUnlockType::RequiresBattlePass",
+            "tags": [
+                "ChallengeCategory.Sienna"
+            ],
+            "apiTags": [],
+            "colors": null,
+            "images": null,
+            "bundleRewards": [],
+            "quests": [
+                {
+                    "id": "Quest_S20_BPUnlockableCharacter_q01",
+                    "name": "Prowler görevlerini tamamla",
+                    "enabled": false,
+                    "enabledDate": null,
+                    "parentQuest": null,
+                    "progressTotal": 7,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.Sienna"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                },
+                {
+                    "id": "Quest_S20_BPUnlockableCharacter_q05",
+                    "name": "Prowler görevlerini tamamla",
+                    "enabled": false,
+                    "enabledDate": null,
+                    "parentQuest": null,
+                    "progressTotal": 3,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.Sienna"
+                    ],
                     "reward": {
                         "xp": 0,
                         "items": []
@@ -950,6 +1941,792 @@
                     "enabledDate": "2022-04-05 09:03:03+00:00",
                     "parentQuest": null,
                     "progressTotal": 3,
+                    "tandemCharacter": null,
+                    "tags": [],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                }
+            ]
+        },
+        {
+            "id": "QuestBundle_S20_CovertOps_BonusGoal_Phase1",
+            "name": "Özel Tim Bonus Hedefi",
+            "unlockType": "EChallengeBundleQuestUnlockType::GrantWithBundle",
+            "tags": [
+                "ChallengeCategory.Event.CovertOps"
+            ],
+            "apiTags": [],
+            "colors": null,
+            "images": null,
+            "bundleRewards": [],
+            "quests": [
+                {
+                    "id": "Quest_S20_CompleteCovertOps_Q01",
+                    "name": "Özel Tim görevlerini tamamla",
+                    "enabled": false,
+                    "enabledDate": "2022-04-22 13:30:04+00:00",
+                    "parentQuest": null,
+                    "progressTotal": 4,
+                    "tandemCharacter": null,
+                    "tags": [],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                }
+            ]
+        },
+        {
+            "id": "QuestBundle_S20_CovertOps_BonusGoal_Phase2",
+            "name": "Özel Tim Bonus Hedefi",
+            "unlockType": "EChallengeBundleQuestUnlockType::GrantWithBundle",
+            "tags": [
+                "ChallengeCategory.Event.CovertOps"
+            ],
+            "apiTags": [],
+            "colors": null,
+            "images": null,
+            "bundleRewards": [],
+            "quests": [
+                {
+                    "id": "Quest_S20_CompleteCovertOps_Q02",
+                    "name": "Özel Tim görevlerini tamamla",
+                    "enabled": false,
+                    "enabledDate": null,
+                    "parentQuest": null,
+                    "progressTotal": 4,
+                    "tandemCharacter": null,
+                    "tags": [],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                }
+            ]
+        },
+        {
+            "id": "QuestBundle_S20_CovertOps_BonusGoal_Phase3",
+            "name": "Özel Tim Bonus Hedefi",
+            "unlockType": "EChallengeBundleQuestUnlockType::GrantWithBundle",
+            "tags": [
+                "ChallengeCategory.Event.CovertOps"
+            ],
+            "apiTags": [],
+            "colors": null,
+            "images": null,
+            "bundleRewards": [],
+            "quests": [
+                {
+                    "id": "Quest_S20_CompleteCovertOps_Q03",
+                    "name": "Özel Tim görevlerini tamamla",
+                    "enabled": false,
+                    "enabledDate": null,
+                    "parentQuest": null,
+                    "progressTotal": 4,
+                    "tandemCharacter": null,
+                    "tags": [],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                }
+            ]
+        },
+        {
+            "id": "QuestBundle_S20_CovertOps_BonusGoal_Phase4",
+            "name": "Özel Tim Bonus Hedefi",
+            "unlockType": "EChallengeBundleQuestUnlockType::GrantWithBundle",
+            "tags": [
+                "ChallengeCategory.Event.CovertOps"
+            ],
+            "apiTags": [],
+            "colors": null,
+            "images": null,
+            "bundleRewards": [],
+            "quests": [
+                {
+                    "id": "Quest_S20_CompleteCovertOps_Q04",
+                    "name": "Özel Tim görevlerini tamamla",
+                    "enabled": false,
+                    "enabledDate": null,
+                    "parentQuest": null,
+                    "progressTotal": 4,
+                    "tandemCharacter": null,
+                    "tags": [],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                }
+            ]
+        },
+        {
+            "id": "QuestBundle_S20_CovertOps_Phase1",
+            "name": "ÖZEL TİM",
+            "unlockType": "EChallengeBundleQuestUnlockType::DaysFromEventStart",
+            "tags": [
+                "ChallengeCategory.Event.CovertOps"
+            ],
+            "apiTags": [],
+            "colors": null,
+            "images": null,
+            "bundleRewards": [],
+            "quests": [
+                {
+                    "id": "Quest_S20_CovertOps_Phase1_Q01",
+                    "name": "Cihaz sinyali ile etkileşime geç",
+                    "enabled": false,
+                    "enabledDate": "2022-04-22 13:30:04+00:00",
+                    "parentQuest": null,
+                    "progressTotal": 2,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.Event.CovertOps",
+                        "ChallengeCategory.XP"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                }
+            ]
+        },
+        {
+            "id": "QuestBundle_S20_CovertOps_Phase2",
+            "name": "ÖZEL TİM",
+            "unlockType": "EChallengeBundleQuestUnlockType::DaysFromEventStart",
+            "tags": [
+                "ChallengeCategory.Event.CovertOps"
+            ],
+            "apiTags": [],
+            "colors": null,
+            "images": null,
+            "bundleRewards": [],
+            "quests": [
+                {
+                    "id": "Quest_S20_CovertOps_Phase2_Q02",
+                    "name": "Cihaz sinyali ile etkileşime geç",
+                    "enabled": false,
+                    "enabledDate": null,
+                    "parentQuest": null,
+                    "progressTotal": 3,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.Event.CovertOps",
+                        "ChallengeCategory.XP"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                }
+            ]
+        },
+        {
+            "id": "QuestBundle_S20_LevelUpPack_01",
+            "name": "Omega Şövalye Aşama Atlama Paketi",
+            "unlockType": "EChallengeBundleQuestUnlockType::GrantWithBundle",
+            "tags": [
+                "ChallengeCategory.Style.LevelUpPack"
+            ],
+            "apiTags": [],
+            "colors": null,
+            "images": null,
+            "bundleRewards": [],
+            "quests": [
+                {
+                    "id": "Quest_S20_LevelUpPack_W01_01",
+                    "name": "Kütükoğlu Kerestecilik'in kuzeybatısından Aşama Atlama Jetonu al",
+                    "enabled": false,
+                    "enabledDate": null,
+                    "parentQuest": null,
+                    "progressTotal": 1,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.Style.LevelUpPack.W01"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                },
+                {
+                    "id": "Quest_S20_LevelUpPack_W01_02",
+                    "name": "Minnoş Mekân'ın kuzeybatısından Aşama Atlama Jetonu al",
+                    "enabled": false,
+                    "enabledDate": null,
+                    "parentQuest": null,
+                    "progressTotal": 1,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.Style.LevelUpPack.W01"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                },
+                {
+                    "id": "Quest_S20_LevelUpPack_W01_03",
+                    "name": "Kaygan Koru'nun güneybatısından Aşama Atlama Jetonu al",
+                    "enabled": false,
+                    "enabledDate": null,
+                    "parentQuest": null,
+                    "progressTotal": 1,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.Style.LevelUpPack.W01"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                },
+                {
+                    "id": "Quest_S20_LevelUpPack_W01_04",
+                    "name": "Eğik Evler'in yakınlarından Aşama Atlama Jetonu al",
+                    "enabled": false,
+                    "enabledDate": null,
+                    "parentQuest": null,
+                    "progressTotal": 1,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.Style.LevelUpPack.W01"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                },
+                {
+                    "id": "Quest_S20_LevelUpPack_W01_05",
+                    "name": "Kalorili Kavşak'tan Aşama Atlama Jetonu al",
+                    "enabled": false,
+                    "enabledDate": null,
+                    "parentQuest": null,
+                    "progressTotal": 1,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.Style.LevelUpPack.W01"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                },
+                {
+                    "id": "Quest_S20_LevelUpPack_W01_06",
+                    "name": "Sığınak'ın doğusundaki bir adadan Aşama Atlama Jetonu al",
+                    "enabled": false,
+                    "enabledDate": null,
+                    "parentQuest": null,
+                    "progressTotal": 1,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.Style.LevelUpPack.W01"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                },
+                {
+                    "id": "Quest_S20_LevelUpPack_W01_07",
+                    "name": "Jonesy'ler konumunun batısından Aşama Atlama Jetonu al",
+                    "enabled": false,
+                    "enabledDate": null,
+                    "parentQuest": null,
+                    "progressTotal": 1,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.Style.LevelUpPack.W01"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                }
+            ]
+        },
+        {
+            "id": "QuestBundle_S20_LevelUpPack_02",
+            "name": "Omega Şövalye Aşama Atlama Paketi",
+            "unlockType": "EChallengeBundleQuestUnlockType::GrantWithBundle",
+            "tags": [
+                "ChallengeCategory.Style.LevelUpPack"
+            ],
+            "apiTags": [],
+            "colors": null,
+            "images": null,
+            "bundleRewards": [],
+            "quests": [
+                {
+                    "id": "Quest_S20_LevelUpPack_W02_01",
+                    "name": "Şekerleme Şehri'nin yakınlarından Aşama Atlama Jetonu al",
+                    "enabled": false,
+                    "enabledDate": null,
+                    "parentQuest": null,
+                    "progressTotal": 1,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.Style.LevelUpPack.W02"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                },
+                {
+                    "id": "Quest_S20_LevelUpPack_W02_02",
+                    "name": "Sığınak'ın güneydoğusundan Aşama Atlama Jetonu al",
+                    "enabled": false,
+                    "enabledDate": null,
+                    "parentQuest": null,
+                    "progressTotal": 1,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.Style.LevelUpPack.W02"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                },
+                {
+                    "id": "Quest_S20_LevelUpPack_W02_03",
+                    "name": "Katlı Kanyon'un kuzeyinden Aşama Atlama Jetonu al",
+                    "enabled": false,
+                    "enabledDate": null,
+                    "parentQuest": null,
+                    "progressTotal": 1,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.Style.LevelUpPack.W02"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                },
+                {
+                    "id": "Quest_S20_LevelUpPack_W02_04",
+                    "name": "Sert Sinema'nın kuzeydoğusundan Aşama Atlama Jetonu al",
+                    "enabled": false,
+                    "enabledDate": null,
+                    "parentQuest": null,
+                    "progressTotal": 1,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.Style.LevelUpPack.W02"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                },
+                {
+                    "id": "Quest_S20_LevelUpPack_W02_05",
+                    "name": "Müdürlük Mağarası'nın güneyinden Aşama Atlama Jetonu al",
+                    "enabled": false,
+                    "enabledDate": null,
+                    "parentQuest": null,
+                    "progressTotal": 1,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.Style.LevelUpPack.W02"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                },
+                {
+                    "id": "Quest_S20_LevelUpPack_W02_06",
+                    "name": "Kaygan Koru'nun kuzeybatısından Aşama Atlama Jetonu al",
+                    "enabled": false,
+                    "enabledDate": null,
+                    "parentQuest": null,
+                    "progressTotal": 1,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.Style.LevelUpPack.W02"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                },
+                {
+                    "id": "Quest_S20_LevelUpPack_W02_07",
+                    "name": "Kaygan Koru'nun güneyindeki bir adadan Aşama Atlama Jetonu al",
+                    "enabled": false,
+                    "enabledDate": null,
+                    "parentQuest": null,
+                    "progressTotal": 1,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.Style.LevelUpPack.W02"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                }
+            ]
+        },
+        {
+            "id": "QuestBundle_S20_LevelUpPack_03",
+            "name": "Omega Şövalye Aşama Atlama Paketi",
+            "unlockType": "EChallengeBundleQuestUnlockType::GrantWithBundle",
+            "tags": [
+                "ChallengeCategory.Style.LevelUpPack"
+            ],
+            "apiTags": [],
+            "colors": null,
+            "images": null,
+            "bundleRewards": [],
+            "quests": [
+                {
+                    "id": "Quest_S20_LevelUpPack_W03_01",
+                    "name": "Daily Bugle'ın doğusundan Aşama Atlama Jetonu al",
+                    "enabled": false,
+                    "enabledDate": null,
+                    "parentQuest": null,
+                    "progressTotal": 1,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.Style.LevelUpPack.W03"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                },
+                {
+                    "id": "Quest_S20_LevelUpPack_W03_02",
+                    "name": "Sığınak'ın kuzeydoğusundaki bir adadan Aşama Atlama Jetonu al",
+                    "enabled": false,
+                    "enabledDate": null,
+                    "parentQuest": null,
+                    "progressTotal": 1,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.Style.LevelUpPack.W03"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                },
+                {
+                    "id": "Quest_S20_LevelUpPack_W03_03",
+                    "name": "Eğik Evler'in doğusundan Aşama Atlama Jetonu al",
+                    "enabled": false,
+                    "enabledDate": null,
+                    "parentQuest": null,
+                    "progressTotal": 1,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.Style.LevelUpPack.W03"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                },
+                {
+                    "id": "Quest_S20_LevelUpPack_W03_04",
+                    "name": "Sinaps Santrali'nin doğusundan Aşama Atlama Jetonu al",
+                    "enabled": false,
+                    "enabledDate": null,
+                    "parentQuest": null,
+                    "progressTotal": 1,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.Style.LevelUpPack.W03"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                },
+                {
+                    "id": "Quest_S20_LevelUpPack_W03_05",
+                    "name": "Kaygan Koru'nun doğusundan Aşama Atlama Jetonu al",
+                    "enabled": false,
+                    "enabledDate": null,
+                    "parentQuest": null,
+                    "progressTotal": 1,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.Style.LevelUpPack.W03"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                },
+                {
+                    "id": "Quest_S20_LevelUpPack_W03_06",
+                    "name": "Eğik Evler'in kuzeybatısından Aşama Atlama Jetonu al",
+                    "enabled": false,
+                    "enabledDate": null,
+                    "parentQuest": null,
+                    "progressTotal": 1,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.Style.LevelUpPack.W03"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                },
+                {
+                    "id": "Quest_S20_LevelUpPack_W03_07",
+                    "name": "Dolambaçlı Dehlizler'in yakınlarından Aşama Atlama Jetonu al",
+                    "enabled": false,
+                    "enabledDate": null,
+                    "parentQuest": null,
+                    "progressTotal": 1,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.Style.LevelUpPack.W03"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                }
+            ]
+        },
+        {
+            "id": "QuestBundle_S20_LevelUpPack_04",
+            "name": "Omega Şövalye Aşama Atlama Paketi",
+            "unlockType": "EChallengeBundleQuestUnlockType::GrantWithBundle",
+            "tags": [
+                "ChallengeCategory.Style.LevelUpPack"
+            ],
+            "apiTags": [],
+            "colors": null,
+            "images": null,
+            "bundleRewards": [],
+            "quests": [
+                {
+                    "id": "Quest_S20_LevelUpPack_W04_01",
+                    "name": "Daily Bugle'ın kuzeybatısından Aşama Atlama Jetonu al",
+                    "enabled": false,
+                    "enabledDate": null,
+                    "parentQuest": null,
+                    "progressTotal": 1,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.Style.LevelUpPack.W04"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                },
+                {
+                    "id": "Quest_S20_LevelUpPack_W04_02",
+                    "name": "Jonesy'ler konumunun güneyinden Aşama Atlama Jetonu al",
+                    "enabled": false,
+                    "enabledDate": null,
+                    "parentQuest": null,
+                    "progressTotal": 1,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.Style.LevelUpPack.W04"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                },
+                {
+                    "id": "Quest_S20_LevelUpPack_W04_03",
+                    "name": "Chonkers Pisti'nin güneyinden Aşama Atlama Jetonu al",
+                    "enabled": false,
+                    "enabledDate": null,
+                    "parentQuest": null,
+                    "progressTotal": 1,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.Style.LevelUpPack.W04"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                },
+                {
+                    "id": "Quest_S20_LevelUpPack_W04_04",
+                    "name": "Sert Sinema'nın güneybatısından Aşama Atlama Jetonu al",
+                    "enabled": false,
+                    "enabledDate": null,
+                    "parentQuest": null,
+                    "progressTotal": 1,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.Style.LevelUpPack.W04"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                },
+                {
+                    "id": "Quest_S20_LevelUpPack_W04_05",
+                    "name": "Minnoş Mekân'ın yakınlarından Aşama Atlama Jetonu al",
+                    "enabled": false,
+                    "enabledDate": null,
+                    "parentQuest": null,
+                    "progressTotal": 1,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.Style.LevelUpPack.W04"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                },
+                {
+                    "id": "Quest_S20_LevelUpPack_W04_06",
+                    "name": "Müdürlük Mağarası'nın kuzeyinden Aşama Atlama Jetonu al",
+                    "enabled": false,
+                    "enabledDate": null,
+                    "parentQuest": null,
+                    "progressTotal": 1,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.Style.LevelUpPack.W04"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                },
+                {
+                    "id": "Quest_S20_LevelUpPack_W04_07",
+                    "name": "Dolambaçlı Dehlizler'in kuzeyinden Aşama Atlama Jetonu al",
+                    "enabled": false,
+                    "enabledDate": null,
+                    "parentQuest": null,
+                    "progressTotal": 1,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.Style.LevelUpPack.W04"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                }
+            ]
+        },
+        {
+            "id": "QuestBundle_S20_LevelUpPack_PunchCard",
+            "name": "Omega Şövalye Aşama Atlama Paketi",
+            "unlockType": "EChallengeBundleQuestUnlockType::GrantWithBundle",
+            "tags": [
+                "ChallengeCategory.Style.LevelUpPack"
+            ],
+            "apiTags": [],
+            "colors": null,
+            "images": null,
+            "bundleRewards": [],
+            "quests": [
+                {
+                    "id": "Quests_S20_LevelUpPack_PunchCard_01",
+                    "name": "7 Omega Şövalye Aşama Atlama Görevi tamamla",
+                    "enabled": false,
+                    "enabledDate": null,
+                    "parentQuest": null,
+                    "progressTotal": 7,
+                    "tandemCharacter": null,
+                    "tags": [],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                },
+                {
+                    "id": "Quests_S20_LevelUpPack_PunchCard_02",
+                    "name": "14 Omega Şövalye Aşama Atlama Görevi tamamla",
+                    "enabled": false,
+                    "enabledDate": null,
+                    "parentQuest": null,
+                    "progressTotal": 14,
+                    "tandemCharacter": null,
+                    "tags": [],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                },
+                {
+                    "id": "Quests_S20_LevelUpPack_PunchCard_03",
+                    "name": "21 Omega Şövalye Aşama Atlama Görevi tamamla",
+                    "enabled": false,
+                    "enabledDate": null,
+                    "parentQuest": null,
+                    "progressTotal": 21,
+                    "tandemCharacter": null,
+                    "tags": [],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                },
+                {
+                    "id": "Quests_S20_LevelUpPack_PunchCard_04",
+                    "name": "28 Omega Şövalye Aşama Atlama Görevi tamamla",
+                    "enabled": false,
+                    "enabledDate": null,
+                    "parentQuest": null,
+                    "progressTotal": 28,
                     "tandemCharacter": null,
                     "tags": [],
                     "reward": {
@@ -10139,6 +11916,209 @@
             ]
         },
         {
+            "id": "QuestBundle_S20_Noble",
+            "name": "Star Wars 4 Mayıs",
+            "unlockType": "EChallengeBundleQuestUnlockType::GrantWithBundle",
+            "tags": [],
+            "apiTags": [],
+            "colors": null,
+            "images": null,
+            "bundleRewards": [],
+            "quests": [
+                {
+                    "id": "Quest_S20_Noble_Q01",
+                    "name": "Işınkılıcı taşırken fırtına aşamalarını atlat",
+                    "enabled": true,
+                    "enabledDate": "2022-05-03 09:03:02+00:00",
+                    "parentQuest": null,
+                    "progressTotal": 5,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.XP",
+                        "ChallengeCategory.Noble"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                },
+                {
+                    "id": "Quest_S20_Noble_Q02",
+                    "name": "E-11 Blaster Tüfeği ile en fazla 30 metre uzaklıktan rakiplerine hasar ver",
+                    "enabled": true,
+                    "enabledDate": "2022-05-03 09:03:02+00:00",
+                    "parentQuest": null,
+                    "progressTotal": 1000,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.XP",
+                        "ChallengeCategory.Noble"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                },
+                {
+                    "id": "Quest_S20_Noble_Q03",
+                    "name": "Bir Stormtrooper'dan av tamamla",
+                    "enabled": true,
+                    "enabledDate": "2022-05-03 09:03:02+00:00",
+                    "parentQuest": null,
+                    "progressTotal": 2,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.XP",
+                        "ChallengeCategory.Noble",
+                        "Athena.Location.Quest.MT4.CP.01",
+                        "Athena.Location.Quest.MT4.CP.02",
+                        "Athena.Location.Quest.MT4.CP.03",
+                        "Quest.ChallengeIcon.Elim",
+                        "Quest.Metadata.PartyAssist"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": [
+                        {
+                            "tag": "Athena.Location.Quest.MT4.CP.01",
+                            "location": null
+                        },
+                        {
+                            "tag": "Athena.Location.Quest.MT4.CP.02",
+                            "location": null
+                        },
+                        {
+                            "tag": "Athena.Location.Quest.MT4.CP.03",
+                            "location": null
+                        }
+                    ]
+                },
+                {
+                    "id": "Quest_S20_Noble_Q04",
+                    "name": "Chonkers Pisti veya Kütükoğlu Kerestecilik'ten bir Stormtrooper Kontrol Noktası'na araç sür",
+                    "enabled": true,
+                    "enabledDate": "2022-05-03 09:03:02+00:00",
+                    "parentQuest": null,
+                    "progressTotal": 1,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.XP",
+                        "ChallengeCategory.Noble",
+                        "Athena.Location.Quest.MT4.CP.01",
+                        "Athena.Location.Quest.MT4.CP.02",
+                        "Athena.Location.Quest.MT4.CP.03",
+                        "Quest.ChallengeIcon.Car"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": [
+                        {
+                            "tag": "Athena.Location.Quest.MT4.CP.01",
+                            "location": null
+                        },
+                        {
+                            "tag": "Athena.Location.Quest.MT4.CP.02",
+                            "location": null
+                        },
+                        {
+                            "tag": "Athena.Location.Quest.MT4.CP.03",
+                            "location": null
+                        }
+                    ]
+                },
+                {
+                    "id": "Quest_S20_Noble_Q05",
+                    "name": "Bir Stormtrooper Kontrol Noktası'na iniş yap ve ilk 25'e gir",
+                    "enabled": true,
+                    "enabledDate": "2022-05-03 09:03:02+00:00",
+                    "parentQuest": null,
+                    "progressTotal": 2,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.XP",
+                        "ChallengeCategory.Noble",
+                        "Athena.Location.Quest.MT4.CP.01",
+                        "Athena.Location.Quest.MT4.CP.02",
+                        "Athena.Location.Quest.MT4.CP.03",
+                        "Quest.ChallengeIcon.Land"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": [
+                        {
+                            "tag": "Athena.Location.Quest.MT4.CP.01",
+                            "location": null
+                        },
+                        {
+                            "tag": "Athena.Location.Quest.MT4.CP.02",
+                            "location": null
+                        },
+                        {
+                            "tag": "Athena.Location.Quest.MT4.CP.03",
+                            "location": null
+                        }
+                    ]
+                },
+                {
+                    "id": "Quest_S20_Noble_Q07",
+                    "name": "Işınkılıcı'yla saldırıları blokla",
+                    "enabled": true,
+                    "enabledDate": "2022-05-03 09:03:02+00:00",
+                    "parentQuest": null,
+                    "progressTotal": 10,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.XP",
+                        "ChallengeCategory.Noble"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                }
+            ]
+        },
+        {
+            "id": "QuestBundle_S20_Noble_BonusGoal",
+            "name": "Star Wars 4 Mayıs Bonus Hedefleri",
+            "unlockType": "EChallengeBundleQuestUnlockType::GrantWithBundle",
+            "tags": [
+                "ChallengeCategory.Noble"
+            ],
+            "apiTags": [],
+            "colors": null,
+            "images": null,
+            "bundleRewards": [],
+            "quests": [
+                {
+                    "id": "Quest_S20_Noble_BonusGoal",
+                    "name": "Star Wars 4 Mayıs görevlerini tamamla",
+                    "enabled": true,
+                    "enabledDate": "2022-05-03 09:03:02+00:00",
+                    "parentQuest": null,
+                    "progressTotal": 5,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.Noble"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                }
+            ]
+        },
+        {
             "id": "QuestBundle_S20_NoPermit",
             "name": "İnşaya Ket Görevleri",
             "unlockType": "EChallengeBundleQuestUnlockType::GrantWithBundle",
@@ -11254,6 +13234,134 @@
             ]
         },
         {
+            "id": "QuestBundle_S20_ShinnyGoldCreature",
+            "name": "Altınboğan Muhafız Görev Paketi",
+            "unlockType": "EChallengeBundleQuestUnlockType::GrantWithBundle",
+            "tags": [],
+            "apiTags": [],
+            "colors": null,
+            "images": null,
+            "bundleRewards": [],
+            "quests": [
+                {
+                    "id": "Quest_BR_ShinnyGoldCreature_CompleteQuests_01",
+                    "name": "Günlük bonus hedefleri tamamla",
+                    "enabled": false,
+                    "enabledDate": null,
+                    "parentQuest": null,
+                    "progressTotal": 3,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "Quest.ChallengeStyle.ShinnyGoldCreature"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                },
+                {
+                    "id": "Quest_BR_ShinnyGoldCreature_CompleteQuests_02",
+                    "name": "Günlük bonus hedefleri tamamla",
+                    "enabled": false,
+                    "enabledDate": null,
+                    "parentQuest": null,
+                    "progressTotal": 5,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "Quest.ChallengeStyle.ShinnyGoldCreature"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                },
+                {
+                    "id": "Quest_BR_ShinnyGoldCreature_CompleteQuests_03",
+                    "name": "Günlük bonus hedefleri tamamla",
+                    "enabled": false,
+                    "enabledDate": null,
+                    "parentQuest": null,
+                    "progressTotal": 7,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "Quest.ChallengeStyle.ShinnyGoldCreature"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                },
+                {
+                    "id": "Quest_BR_ShinnyGoldCreature_CompleteQuests_04",
+                    "name": "Günlük bonus hedefleri tamamla",
+                    "enabled": false,
+                    "enabledDate": null,
+                    "parentQuest": null,
+                    "progressTotal": 10,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "Quest.ChallengeStyle.ShinnyGoldCreature"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                },
+                {
+                    "id": "Quest_BR_ShinnyGoldCreature_CompleteQuests_05",
+                    "name": "Günlük bonus hedefleri tamamla",
+                    "enabled": false,
+                    "enabledDate": null,
+                    "parentQuest": null,
+                    "progressTotal": 14,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "Quest.ChallengeStyle.ShinnyGoldCreature"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                }
+            ]
+        },
+        {
+            "id": "QuestBundle_S20_Soundwave",
+            "name": "EMICIDA",
+            "unlockType": "EChallengeBundleQuestUnlockType::GrantWithBundle",
+            "tags": [
+                "ChallengeCategory.Event.Soundwave"
+            ],
+            "apiTags": [],
+            "colors": null,
+            "images": null,
+            "bundleRewards": [],
+            "quests": [
+                {
+                    "id": "quest_s20_soundwave_q01",
+                    "name": "Konser Parası topla",
+                    "enabled": false,
+                    "enabledDate": "2022-04-29 22:30:04+00:00",
+                    "parentQuest": null,
+                    "progressTotal": 1,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.Event.Soundwave"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                }
+            ]
+        },
+        {
             "id": "QuestBundle_S20_Superlevel_01",
             "name": "???",
             "unlockType": "EChallengeBundleQuestUnlockType::RequiresBattlePass",
@@ -11295,7 +13403,7 @@
             "quests": [
                 {
                     "id": "Quest_S20_Weekly_CompleteSeason_W01_Q01",
-                    "name": "2 sezon görevi tamamla",
+                    "name": "2 Sezon Görevi tamamla",
                     "enabled": true,
                     "enabledDate": "2022-03-20 21:03:04+00:00",
                     "parentQuest": null,
@@ -11312,7 +13420,7 @@
                 },
                 {
                     "id": "Quest_S20_Weekly_CompleteSeason_W01_Q02",
-                    "name": "4 sezon görevi tamamla",
+                    "name": "4 Sezon Görevi tamamla",
                     "enabled": true,
                     "enabledDate": "2022-03-20 21:03:04+00:00",
                     "parentQuest": null,
@@ -11329,7 +13437,7 @@
                 },
                 {
                     "id": "Quest_S20_Weekly_CompleteSeason_W01_Q03",
-                    "name": "7 sezon görevi tamamla",
+                    "name": "7 Sezon Görevi tamamla",
                     "enabled": true,
                     "enabledDate": "2022-03-20 21:03:04+00:00",
                     "parentQuest": null,
@@ -11395,7 +13503,7 @@
                 },
                 {
                     "id": "Quest_S20_Weekly_CompleteSeason_W02_Q03",
-                    "name": "14 sezon görevi tamamla",
+                    "name": "14 Sezon Görevi tamamla",
                     "enabled": true,
                     "enabledDate": "2022-03-20 21:03:04+00:00",
                     "parentQuest": null,
@@ -11427,7 +13535,7 @@
             "quests": [
                 {
                     "id": "Quest_S20_Weekly_CompleteSeason_W03_Q01",
-                    "name": "16 sezon görevi tamamla",
+                    "name": "16 Sezon Görevi tamamla",
                     "enabled": true,
                     "enabledDate": "2022-03-20 21:03:04+00:00",
                     "parentQuest": null,
@@ -11444,7 +13552,7 @@
                 },
                 {
                     "id": "Quest_S20_Weekly_CompleteSeason_W03_Q02",
-                    "name": "18 sezon görevi tamamla",
+                    "name": "18 Sezon Görevi tamamla",
                     "enabled": true,
                     "enabledDate": "2022-03-20 21:03:04+00:00",
                     "parentQuest": null,
@@ -11461,7 +13569,7 @@
                 },
                 {
                     "id": "Quest_S20_Weekly_CompleteSeason_W03_Q03",
-                    "name": "21 sezon görevi tamamla",
+                    "name": "21 Sezon Görevi tamamla",
                     "enabled": true,
                     "enabledDate": "2022-03-20 21:03:04+00:00",
                     "parentQuest": null,
@@ -11493,7 +13601,7 @@
             "quests": [
                 {
                     "id": "Quest_S20_Weekly_CompleteSeason_W04_Q01",
-                    "name": "23 sezon görevi tamamla",
+                    "name": "23 Sezon Görevi tamamla",
                     "enabled": true,
                     "enabledDate": "2022-03-20 21:03:04+00:00",
                     "parentQuest": null,
@@ -11510,7 +13618,7 @@
                 },
                 {
                     "id": "Quest_S20_Weekly_CompleteSeason_W04_Q02",
-                    "name": "25 sezon görevi tamamla",
+                    "name": "25 Sezon Görevi tamamla",
                     "enabled": true,
                     "enabledDate": "2022-03-20 21:03:04+00:00",
                     "parentQuest": null,
@@ -11527,7 +13635,7 @@
                 },
                 {
                     "id": "Quest_S20_Weekly_CompleteSeason_W04_Q03",
-                    "name": "28 sezon görevi tamamla",
+                    "name": "28 Sezon Görevi tamamla",
                     "enabled": true,
                     "enabledDate": "2022-03-20 21:03:04+00:00",
                     "parentQuest": null,
@@ -11559,7 +13667,7 @@
             "quests": [
                 {
                     "id": "Quest_S20_Weekly_CompleteSeason_W05_Q01",
-                    "name": "30 sezon görevi tamamla",
+                    "name": "30 Sezon Görevi tamamla",
                     "enabled": true,
                     "enabledDate": "2022-03-20 21:03:04+00:00",
                     "parentQuest": null,
@@ -11576,7 +13684,7 @@
                 },
                 {
                     "id": "Quest_S20_Weekly_CompleteSeason_W05_Q02",
-                    "name": "32 sezon görevi tamamla",
+                    "name": "32 Sezon Görevi tamamla",
                     "enabled": true,
                     "enabledDate": "2022-03-20 21:03:04+00:00",
                     "parentQuest": null,
@@ -11593,7 +13701,7 @@
                 },
                 {
                     "id": "Quest_S20_Weekly_CompleteSeason_W05_Q03",
-                    "name": "35 sezon görevi tamamla",
+                    "name": "35 Sezon Görevi tamamla",
                     "enabled": true,
                     "enabledDate": "2022-03-20 21:03:04+00:00",
                     "parentQuest": null,
@@ -11625,7 +13733,7 @@
             "quests": [
                 {
                     "id": "Quest_S20_Weekly_CompleteSeason_W06_Q01",
-                    "name": "37 sezon görevi tamamla",
+                    "name": "37 Sezon Görevi tamamla",
                     "enabled": true,
                     "enabledDate": "2022-03-20 21:03:04+00:00",
                     "parentQuest": null,
@@ -11642,7 +13750,7 @@
                 },
                 {
                     "id": "Quest_S20_Weekly_CompleteSeason_W06_Q02",
-                    "name": "39 sezon görevi tamamla",
+                    "name": "39 Sezon Görevi tamamla",
                     "enabled": true,
                     "enabledDate": "2022-03-20 21:03:04+00:00",
                     "parentQuest": null,
@@ -11659,7 +13767,7 @@
                 },
                 {
                     "id": "Quest_S20_Weekly_CompleteSeason_W06_Q03",
-                    "name": "42 sezon görevi tamamla",
+                    "name": "42 Sezon Görevi tamamla",
                     "enabled": true,
                     "enabledDate": "2022-03-20 21:03:04+00:00",
                     "parentQuest": null,
@@ -11691,7 +13799,7 @@
             "quests": [
                 {
                     "id": "Quest_S20_Weekly_CompleteSeason_W07_Q01",
-                    "name": "44 sezon görevi tamamla",
+                    "name": "44 Sezon Görevi tamamla",
                     "enabled": true,
                     "enabledDate": "2022-03-20 21:03:04+00:00",
                     "parentQuest": null,
@@ -11708,7 +13816,7 @@
                 },
                 {
                     "id": "Quest_S20_Weekly_CompleteSeason_W07_Q02",
-                    "name": "46 sezon görevi tamamla",
+                    "name": "46 Sezon Görevi tamamla",
                     "enabled": true,
                     "enabledDate": "2022-03-20 21:03:04+00:00",
                     "parentQuest": null,
@@ -11725,7 +13833,7 @@
                 },
                 {
                     "id": "Quest_S20_Weekly_CompleteSeason_W07_Q03",
-                    "name": "49 sezon görevi tamamla",
+                    "name": "49 Sezon Görevi tamamla",
                     "enabled": true,
                     "enabledDate": "2022-03-20 21:03:04+00:00",
                     "parentQuest": null,
@@ -11757,7 +13865,7 @@
             "quests": [
                 {
                     "id": "Quest_S20_Weekly_CompleteSeason_W08_Q01",
-                    "name": "51 sezon görevi tamamla",
+                    "name": "51 Sezon Görevi tamamla",
                     "enabled": true,
                     "enabledDate": "2022-03-20 21:03:04+00:00",
                     "parentQuest": null,
@@ -11774,7 +13882,7 @@
                 },
                 {
                     "id": "Quest_S20_Weekly_CompleteSeason_W08_Q02",
-                    "name": "53 sezon görevi tamamla",
+                    "name": "53 Sezon Görevi tamamla",
                     "enabled": true,
                     "enabledDate": "2022-03-20 21:03:04+00:00",
                     "parentQuest": null,
@@ -11791,7 +13899,7 @@
                 },
                 {
                     "id": "Quest_S20_Weekly_CompleteSeason_W08_Q03",
-                    "name": "56 sezon görevi tamamla",
+                    "name": "56 Sezon Görevi tamamla",
                     "enabled": true,
                     "enabledDate": "2022-03-20 21:03:04+00:00",
                     "parentQuest": null,
@@ -11823,7 +13931,7 @@
             "quests": [
                 {
                     "id": "Quest_S20_Weekly_CompleteSeason_W09_Q01",
-                    "name": "58 sezon görevi tamamla",
+                    "name": "58 Sezon Görevi tamamla",
                     "enabled": true,
                     "enabledDate": "2022-03-20 21:03:04+00:00",
                     "parentQuest": null,
@@ -11840,7 +13948,7 @@
                 },
                 {
                     "id": "Quest_S20_Weekly_CompleteSeason_W09_Q02",
-                    "name": "60 sezon görevi tamamla",
+                    "name": "60 Sezon Görevi tamamla",
                     "enabled": true,
                     "enabledDate": "2022-03-20 21:03:04+00:00",
                     "parentQuest": null,
@@ -11857,7 +13965,7 @@
                 },
                 {
                     "id": "Quest_S20_Weekly_CompleteSeason_W09_Q03",
-                    "name": "63 sezon görevi tamamla",
+                    "name": "63 Sezon Görevi tamamla",
                     "enabled": true,
                     "enabledDate": "2022-03-20 21:03:04+00:00",
                     "parentQuest": null,
@@ -11889,7 +13997,7 @@
             "quests": [
                 {
                     "id": "Quest_S20_Weekly_CompleteSeason_W10_Q01",
-                    "name": "65 sezon görevi tamamla",
+                    "name": "65 Sezon Görevi tamamla",
                     "enabled": true,
                     "enabledDate": "2022-03-20 21:03:04+00:00",
                     "parentQuest": null,
@@ -11906,7 +14014,7 @@
                 },
                 {
                     "id": "Quest_S20_Weekly_CompleteSeason_W10_Q02",
-                    "name": "67 sezon görevi tamamla",
+                    "name": "67 Sezon Görevi tamamla",
                     "enabled": true,
                     "enabledDate": "2022-03-20 21:03:04+00:00",
                     "parentQuest": null,
@@ -11923,7 +14031,7 @@
                 },
                 {
                     "id": "Quest_S20_Weekly_CompleteSeason_W10_Q03",
-                    "name": "70 sezon görevi tamamla",
+                    "name": "70 Sezon Görevi tamamla",
                     "enabled": true,
                     "enabledDate": "2022-03-20 21:03:04+00:00",
                     "parentQuest": null,

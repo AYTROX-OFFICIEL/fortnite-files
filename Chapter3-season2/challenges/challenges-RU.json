@@ -625,8 +625,8 @@
                 {
                     "id": "Quest_S20_Weekly_W04_Q01",
                     "name": "Пролетите с помощью реактивного ранца",
-                    "enabled": false,
-                    "enabledDate": null,
+                    "enabled": true,
+                    "enabledDate": "2022-04-14 13:30:04+00:00",
                     "parentQuest": null,
                     "progressTotal": 100,
                     "tandemCharacter": null,
@@ -643,8 +643,8 @@
                 {
                     "id": "Quest_S20_Weekly_W04_Q02",
                     "name": "Поблагодарите водителя автобуса, а потом попадите в число 25 лучших игроков",
-                    "enabled": false,
-                    "enabledDate": null,
+                    "enabled": true,
+                    "enabledDate": "2022-04-14 13:30:04+00:00",
                     "parentQuest": null,
                     "progressTotal": 2,
                     "tandemCharacter": null,
@@ -661,8 +661,8 @@
                 {
                     "id": "Quest_S20_Weekly_W04_Q03",
                     "name": "Посетите заправки на боевом автобусе",
-                    "enabled": false,
-                    "enabledDate": null,
+                    "enabled": true,
+                    "enabledDate": "2022-04-14 13:30:04+00:00",
                     "parentQuest": null,
                     "progressTotal": 3,
                     "tandemCharacter": null,
@@ -679,8 +679,8 @@
                 {
                     "id": "Quest_S20_Weekly_W04_Q04",
                     "name": "Подлетите в воздух на несколько секунд после воздействия импульса ударной гранаты",
-                    "enabled": false,
-                    "enabledDate": null,
+                    "enabled": true,
+                    "enabledDate": "2022-04-14 13:30:04+00:00",
                     "parentQuest": null,
                     "progressTotal": 3,
                     "tandemCharacter": null,
@@ -697,8 +697,8 @@
                 {
                     "id": "Quest_S20_Weekly_W04_Q05",
                     "name": "Устраните бойцов ОП в ходе одного матча",
-                    "enabled": false,
-                    "enabledDate": null,
+                    "enabled": true,
+                    "enabledDate": "2022-04-14 13:30:04+00:00",
                     "parentQuest": null,
                     "progressTotal": 3,
                     "tandemCharacter": null,
@@ -715,8 +715,8 @@
                 {
                     "id": "Quest_S20_Weekly_W04_Q06",
                     "name": "Поймайте или найдите тепловую рыбу",
-                    "enabled": false,
-                    "enabledDate": null,
+                    "enabled": true,
+                    "enabledDate": "2022-04-14 13:30:04+00:00",
                     "parentQuest": null,
                     "progressTotal": 1,
                     "tandemCharacter": null,
@@ -733,8 +733,8 @@
                 {
                     "id": "Quest_S20_Weekly_W04_Q07",
                     "name": "Возьмите заказ с доски «Разыскиваются» в течение 30 сек. после приземления",
-                    "enabled": false,
-                    "enabledDate": null,
+                    "enabled": true,
+                    "enabledDate": "2022-04-14 13:30:04+00:00",
                     "parentQuest": null,
                     "progressTotal": 1,
                     "tandemCharacter": null,
@@ -751,8 +751,8 @@
                 {
                     "id": "Quest_S20_Weekly_W04_Q08",
                     "name": "Нанесите противникам урон инструментом",
-                    "enabled": false,
-                    "enabledDate": null,
+                    "enabled": true,
+                    "enabledDate": "2022-04-14 13:30:04+00:00",
                     "parentQuest": null,
                     "progressTotal": 75,
                     "tandemCharacter": null,
@@ -769,8 +769,8 @@
                 {
                     "id": "Quest_S20_Weekly_W04_Q09",
                     "name": "Обыщите ящики с боеприпасами в Шатких шахтах или Летнем лагере",
-                    "enabled": false,
-                    "enabledDate": null,
+                    "enabled": true,
+                    "enabledDate": "2022-04-14 13:30:04+00:00",
                     "parentQuest": null,
                     "progressTotal": 3,
                     "tandemCharacter": null,
@@ -787,8 +787,937 @@
             ]
         },
         {
+            "id": "MissionBundle_S20_Week_05",
+            "name": "Сезонные задания 5-й недели",
+            "unlockType": "EChallengeBundleQuestUnlockType::GrantWithBundle",
+            "tags": [],
+            "apiTags": [],
+            "colors": null,
+            "images": null,
+            "bundleRewards": [],
+            "quests": [
+                {
+                    "id": "Quest_S20_Weekly_W05_Q01",
+                    "name": "Попадите в голову бойцам ОП из снайперской винтовки в пещере Петли или на поле боя",
+                    "enabled": true,
+                    "enabledDate": "2022-04-21 13:30:04+00:00",
+                    "parentQuest": null,
+                    "progressTotal": 3,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.Weekly.005",
+                        "ChallengeCategory.XP"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                },
+                {
+                    "id": "Quest_S20_Weekly_W05_Q02",
+                    "name": "Дважды нанесите противнику урон из дробовика «Рейнджер», не получив урона",
+                    "enabled": true,
+                    "enabledDate": "2022-04-21 13:30:04+00:00",
+                    "parentQuest": null,
+                    "progressTotal": 1,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.Weekly.005",
+                        "ChallengeCategory.XP"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                },
+                {
+                    "id": "Quest_S20_Weekly_W05_Q03",
+                    "name": "Захватите вражеское транспортное средство на прицел и нанесите ему урон из ракетницы «Сто пудов»",
+                    "enabled": true,
+                    "enabledDate": "2022-04-21 13:30:04+00:00",
+                    "parentQuest": null,
+                    "progressTotal": 2,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.Weekly.005",
+                        "ChallengeCategory.XP"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                },
+                {
+                    "id": "Quest_S20_Weekly_W05_Q04",
+                    "name": "Подлечите бойцов Семерых на поле боя с помощью мед-спрея",
+                    "enabled": true,
+                    "enabledDate": "2022-04-21 13:30:04+00:00",
+                    "parentQuest": null,
+                    "progressTotal": 1,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.Weekly.005",
+                        "ChallengeCategory.XP"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                },
+                {
+                    "id": "Quest_S20_Weekly_W05_Q05",
+                    "name": "Нанесите урон противнику в течение 10 сек. после лазанья",
+                    "enabled": true,
+                    "enabledDate": "2022-04-21 13:30:04+00:00",
+                    "parentQuest": null,
+                    "progressTotal": 1,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.Weekly.005",
+                        "ChallengeCategory.XP"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                },
+                {
+                    "id": "Quest_S20_Weekly_W05_Q06",
+                    "name": "Упадите с высоты не менее 10 ярусов, не получив урона",
+                    "enabled": true,
+                    "enabledDate": "2022-04-21 13:30:04+00:00",
+                    "parentQuest": null,
+                    "progressTotal": 1,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.Weekly.005",
+                        "ChallengeCategory.XP"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                },
+                {
+                    "id": "Quest_S20_Weekly_W05_Q07",
+                    "name": "Нанесите урон вражескому транспорту из тяжёлой снайперской винтовки",
+                    "enabled": true,
+                    "enabledDate": "2022-04-21 13:30:04+00:00",
+                    "parentQuest": null,
+                    "progressTotal": 600,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.Weekly.005",
+                        "ChallengeCategory.XP"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                },
+                {
+                    "id": "Quest_S20_Weekly_W05_Q08",
+                    "name": "Уничтожьте постройки с помощью лёгкого пулемёта",
+                    "enabled": true,
+                    "enabledDate": "2022-04-21 13:30:04+00:00",
+                    "parentQuest": null,
+                    "progressTotal": 10,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.Weekly.005",
+                        "ChallengeCategory.XP"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                },
+                {
+                    "id": "Quest_S20_Weekly_W05_Q09",
+                    "name": "Зарядите щит, выпив малые защитные зелья, в ходе одного матча",
+                    "enabled": true,
+                    "enabledDate": "2022-04-21 13:30:04+00:00",
+                    "parentQuest": null,
+                    "progressTotal": 75,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.Weekly.005",
+                        "ChallengeCategory.XP"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                }
+            ]
+        },
+        {
+            "id": "MissionBundle_S20_Week_06",
+            "name": "Сезонные задания 6-й недели",
+            "unlockType": "EChallengeBundleQuestUnlockType::GrantWithBundle",
+            "tags": [],
+            "apiTags": [],
+            "colors": null,
+            "images": null,
+            "bundleRewards": [],
+            "quests": [
+                {
+                    "id": "Quest_S20_Weekly_W06_Q01",
+                    "name": "Нанесите не менее 100 ед. урона противнику за один выстрел",
+                    "enabled": true,
+                    "enabledDate": "2022-04-28 13:30:03+00:00",
+                    "parentQuest": null,
+                    "progressTotal": 1,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.Weekly.006",
+                        "ChallengeCategory.XP"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                },
+                {
+                    "id": "Quest_S20_Weekly_W06_Q02",
+                    "name": "Взберитесь на уступы 5 раз за 5 сек.",
+                    "enabled": true,
+                    "enabledDate": "2022-04-28 13:30:03+00:00",
+                    "parentQuest": null,
+                    "progressTotal": 1,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.Weekly.006",
+                        "ChallengeCategory.XP"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                },
+                {
+                    "id": "Quest_S20_Weekly_W06_Q03",
+                    "name": "Нанесите урон вражескому танку из пистолета в положении сидя",
+                    "enabled": true,
+                    "enabledDate": "2022-04-28 13:30:03+00:00",
+                    "parentQuest": null,
+                    "progressTotal": 200,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.Weekly.006",
+                        "ChallengeCategory.XP"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                },
+                {
+                    "id": "Quest_S20_Weekly_W06_Q04",
+                    "name": "Подлетите в воздух, находясь в танке",
+                    "enabled": true,
+                    "enabledDate": "2022-04-28 13:30:03+00:00",
+                    "parentQuest": null,
+                    "progressTotal": 3,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.Weekly.006",
+                        "ChallengeCategory.XP"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                },
+                {
+                    "id": "Quest_S20_Weekly_W06_Q05",
+                    "name": "Бросьте капусту на расстояние не менее 100 м за один бросок",
+                    "enabled": true,
+                    "enabledDate": "2022-04-28 13:30:03+00:00",
+                    "parentQuest": null,
+                    "progressTotal": 1,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.Weekly.006",
+                        "ChallengeCategory.XP"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                },
+                {
+                    "id": "Quest_S20_Weekly_W06_Q06",
+                    "name": "Нанесите урон противникам во время падения",
+                    "enabled": true,
+                    "enabledDate": "2022-04-28 13:30:03+00:00",
+                    "parentQuest": null,
+                    "progressTotal": 150,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.Weekly.006",
+                        "ChallengeCategory.XP"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                },
+                {
+                    "id": "Quest_S20_Weekly_W06_Q07",
+                    "name": "Попадите 4 раза подряд в противника, не покидая режим прицеливания из автоматической винтовки «Ударник»",
+                    "enabled": true,
+                    "enabledDate": "2022-04-28 13:30:03+00:00",
+                    "parentQuest": null,
+                    "progressTotal": 1,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.Weekly.006",
+                        "ChallengeCategory.XP"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                },
+                {
+                    "id": "Quest_S20_Weekly_W06_Q08",
+                    "name": "Нанесите противникам урон стрельбой из автомата с расстояния не менее 30 м",
+                    "enabled": true,
+                    "enabledDate": "2022-04-28 13:30:03+00:00",
+                    "parentQuest": null,
+                    "progressTotal": 150,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.Weekly.006",
+                        "ChallengeCategory.XP"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                },
+                {
+                    "id": "Quest_S20_Weekly_W06_Q09",
+                    "name": "Уничтожьте постройки огнём",
+                    "enabled": true,
+                    "enabledDate": "2022-04-28 13:30:03+00:00",
+                    "parentQuest": null,
+                    "progressTotal": 100,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.Weekly.006",
+                        "ChallengeCategory.XP"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                }
+            ]
+        },
+        {
+            "id": "MissionBundle_S20_Week_07",
+            "name": "Сезонные задания 7-й недели",
+            "unlockType": "EChallengeBundleQuestUnlockType::GrantWithBundle",
+            "tags": [],
+            "apiTags": [],
+            "colors": null,
+            "images": null,
+            "bundleRewards": [],
+            "quests": [
+                {
+                    "id": "Quest_S20_Weekly_W07_Q01",
+                    "name": "Уничтожьте турель с помощью управляемой взрывчатки",
+                    "enabled": true,
+                    "enabledDate": "2022-05-05 13:30:03+00:00",
+                    "parentQuest": null,
+                    "progressTotal": 1,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.Weekly.007",
+                        "ChallengeCategory.XP"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                },
+                {
+                    "id": "Quest_S20_Weekly_W07_Q02",
+                    "name": "Побывайте в нескольких районах с разными названиями за один матч",
+                    "enabled": true,
+                    "enabledDate": "2022-05-05 13:30:03+00:00",
+                    "parentQuest": null,
+                    "progressTotal": 5,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.Weekly.007",
+                        "ChallengeCategory.XP",
+                        "Quest.ChallengeIcon.Visit"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                },
+                {
+                    "id": "Quest_S20_Weekly_W07_Q03",
+                    "name": "Выведите из строя танк, повредив двигатель",
+                    "enabled": true,
+                    "enabledDate": "2022-05-05 13:30:03+00:00",
+                    "parentQuest": null,
+                    "progressTotal": 1,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.Weekly.007",
+                        "ChallengeCategory.XP"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                },
+                {
+                    "id": "Quest_S20_Weekly_W07_Q04",
+                    "name": "Заберите украденные у Семерых припасы у ОП",
+                    "enabled": true,
+                    "enabledDate": "2022-05-05 13:30:03+00:00",
+                    "parentQuest": null,
+                    "progressTotal": 3,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.Weekly.007",
+                        "ChallengeCategory.XP",
+                        "Quest.ChallengeIcon.AmmoBox"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                },
+                {
+                    "id": "Quest_S20_Weekly_W07_Q05",
+                    "name": "Уничтожьте постройки с помощью отвала",
+                    "enabled": true,
+                    "enabledDate": "2022-05-05 13:30:03+00:00",
+                    "parentQuest": null,
+                    "progressTotal": 200,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.Weekly.007",
+                        "ChallengeCategory.XP"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                },
+                {
+                    "id": "Quest_S20_Weekly_W07_Q06",
+                    "name": "Нанесите урон попаданиями в голову из автоматической винтовки «Ударник»",
+                    "enabled": true,
+                    "enabledDate": "2022-05-05 13:30:03+00:00",
+                    "parentQuest": null,
+                    "progressTotal": 200,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.Weekly.007",
+                        "ChallengeCategory.XP"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                },
+                {
+                    "id": "Quest_S20_Weekly_W07_Q07",
+                    "name": "Нанесите противникам урон паяльной лампой",
+                    "enabled": true,
+                    "enabledDate": "2022-05-05 13:30:03+00:00",
+                    "parentQuest": null,
+                    "progressTotal": 5,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.Weekly.007",
+                        "ChallengeCategory.XP"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                },
+                {
+                    "id": "Quest_S20_Weekly_W07_Q08",
+                    "name": "Выполните заказ с доски «Разыскиваются»",
+                    "enabled": true,
+                    "enabledDate": "2022-05-05 13:30:03+00:00",
+                    "parentQuest": null,
+                    "progressTotal": 1,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.Weekly.007",
+                        "ChallengeCategory.XP"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                },
+                {
+                    "id": "Quest_S20_Weekly_W07_Q09",
+                    "name": "Заправьте транспортное средство бензином",
+                    "enabled": true,
+                    "enabledDate": "2022-05-05 13:30:03+00:00",
+                    "parentQuest": null,
+                    "progressTotal": 50,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.Weekly.007",
+                        "ChallengeCategory.XP"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                }
+            ]
+        },
+        {
+            "id": "MissionBundle_S20_Week_08",
+            "name": "Сезонные задания 8-й недели",
+            "unlockType": "EChallengeBundleQuestUnlockType::GrantWithBundle",
+            "tags": [],
+            "apiTags": [],
+            "colors": null,
+            "images": null,
+            "bundleRewards": [],
+            "quests": [
+                {
+                    "id": "Quest_S20_Weekly_W08_Q01",
+                    "name": "Нанесите противникам урон из скорострельного дробовика с расстояния не более 10 м",
+                    "enabled": false,
+                    "enabledDate": null,
+                    "parentQuest": null,
+                    "progressTotal": 150,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.Weekly.008",
+                        "ChallengeCategory.XP"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                },
+                {
+                    "id": "Quest_S20_Weekly_W08_Q02",
+                    "name": "Пролетите 1000 м на вертолёте Choppa",
+                    "enabled": false,
+                    "enabledDate": null,
+                    "parentQuest": null,
+                    "progressTotal": 1000,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.Weekly.008",
+                        "ChallengeCategory.XP"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                },
+                {
+                    "id": "Quest_S20_Weekly_W08_Q03",
+                    "name": "Посадите саженцы в воронках от бомб",
+                    "enabled": false,
+                    "enabledDate": null,
+                    "parentQuest": null,
+                    "progressTotal": 3,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.Weekly.008",
+                        "ChallengeCategory.XP",
+                        "Athena.Quests.Location.Crater.03b",
+                        "Athena.Quests.Location.Crater.02",
+                        "Athena.Quests.Location.Crater.01a",
+                        "Athena.Quests.Location.Crater.01b",
+                        "Athena.Quests.Location.Crater.03a"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                },
+                {
+                    "id": "Quest_S20_Weekly_W08_Q04",
+                    "name": "Взорвите управляемую взрывчатку во время скольжения",
+                    "enabled": false,
+                    "enabledDate": null,
+                    "parentQuest": null,
+                    "progressTotal": 2,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.Weekly.008",
+                        "ChallengeCategory.XP"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                },
+                {
+                    "id": "Quest_S20_Weekly_W08_Q05",
+                    "name": "Наведите авиаудар на танк",
+                    "enabled": false,
+                    "enabledDate": null,
+                    "parentQuest": null,
+                    "progressTotal": 1,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.XP",
+                        "ChallengeCategory.Weekly.008"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                },
+                {
+                    "id": "Quest_S20_Weekly_W08_Q06",
+                    "name": "Заправьте паяльную лампу на бензоколонке",
+                    "enabled": false,
+                    "enabledDate": null,
+                    "parentQuest": null,
+                    "progressTotal": 2,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.Weekly.008",
+                        "Quest.ChallengeIcon.Interact",
+                        "Athena.Location.Meta.GasStation.01",
+                        "Athena.Location.Meta.GasStation.02",
+                        "Athena.Location.Meta.GasStation.03",
+                        "Athena.Location.Meta.GasStation.04",
+                        "Athena.Location.Meta.GasStation.05",
+                        "Athena.Location.Meta.GasStation.06",
+                        "Athena.Location.Meta.GasStation.07",
+                        "Athena.Location.Meta.GasStation.08",
+                        "Athena.Location.Meta.GasStation.09",
+                        "Athena.Location.Meta.GasStation.10",
+                        "Athena.Location.Meta.GasStation.11",
+                        "Athena.Location.Meta.GasStation.12",
+                        "Athena.Location.Meta.GasStation.13",
+                        "ChallengeCategory.XP"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": [
+                        {
+                            "tag": "Athena.Location.Meta.GasStation.01",
+                            "location": null
+                        },
+                        {
+                            "tag": "Athena.Location.Meta.GasStation.02",
+                            "location": null
+                        },
+                        {
+                            "tag": "Athena.Location.Meta.GasStation.03",
+                            "location": null
+                        },
+                        {
+                            "tag": "Athena.Location.Meta.GasStation.04",
+                            "location": null
+                        },
+                        {
+                            "tag": "Athena.Location.Meta.GasStation.05",
+                            "location": null
+                        },
+                        {
+                            "tag": "Athena.Location.Meta.GasStation.06",
+                            "location": null
+                        },
+                        {
+                            "tag": "Athena.Location.Meta.GasStation.07",
+                            "location": null
+                        },
+                        {
+                            "tag": "Athena.Location.Meta.GasStation.08",
+                            "location": null
+                        },
+                        {
+                            "tag": "Athena.Location.Meta.GasStation.09",
+                            "location": null
+                        },
+                        {
+                            "tag": "Athena.Location.Meta.GasStation.10",
+                            "location": null
+                        },
+                        {
+                            "tag": "Athena.Location.Meta.GasStation.11",
+                            "location": null
+                        },
+                        {
+                            "tag": "Athena.Location.Meta.GasStation.12",
+                            "location": null
+                        },
+                        {
+                            "tag": "Athena.Location.Meta.GasStation.13",
+                            "location": null
+                        }
+                    ]
+                },
+                {
+                    "id": "Quest_S20_Weekly_W08_Q07",
+                    "name": "Нанесите урон врагам из боевого пистолета-пулемёта",
+                    "enabled": false,
+                    "enabledDate": null,
+                    "parentQuest": null,
+                    "progressTotal": 500,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.Weekly.008",
+                        "ChallengeCategory.XP"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                },
+                {
+                    "id": "Quest_S20_Weekly_W08_Q08",
+                    "name": "Откройте кассовые аппараты",
+                    "enabled": false,
+                    "enabledDate": null,
+                    "parentQuest": null,
+                    "progressTotal": 3,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "Athena.Location.Meta.GasStation.01",
+                        "Athena.Location.Meta.GasStation.02",
+                        "Athena.Location.Meta.GasStation.03",
+                        "Athena.Location.Meta.GasStation.04",
+                        "Athena.Location.Meta.GasStation.05",
+                        "Athena.Location.Meta.GasStation.06",
+                        "Athena.Location.Meta.GasStation.07",
+                        "Athena.Location.Meta.GasStation.08",
+                        "Athena.Location.Meta.GasStation.09",
+                        "Athena.Location.Meta.GasStation.10",
+                        "Athena.Location.Meta.GasStation.11",
+                        "Athena.Location.Meta.GasStation.12",
+                        "ChallengeCategory.Weekly.008",
+                        "ChallengeCategory.XP"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": [
+                        {
+                            "tag": "Athena.Location.Meta.GasStation.01",
+                            "location": null
+                        },
+                        {
+                            "tag": "Athena.Location.Meta.GasStation.02",
+                            "location": null
+                        },
+                        {
+                            "tag": "Athena.Location.Meta.GasStation.03",
+                            "location": null
+                        },
+                        {
+                            "tag": "Athena.Location.Meta.GasStation.04",
+                            "location": null
+                        },
+                        {
+                            "tag": "Athena.Location.Meta.GasStation.05",
+                            "location": null
+                        },
+                        {
+                            "tag": "Athena.Location.Meta.GasStation.06",
+                            "location": null
+                        },
+                        {
+                            "tag": "Athena.Location.Meta.GasStation.07",
+                            "location": null
+                        },
+                        {
+                            "tag": "Athena.Location.Meta.GasStation.08",
+                            "location": null
+                        },
+                        {
+                            "tag": "Athena.Location.Meta.GasStation.09",
+                            "location": null
+                        },
+                        {
+                            "tag": "Athena.Location.Meta.GasStation.10",
+                            "location": null
+                        },
+                        {
+                            "tag": "Athena.Location.Meta.GasStation.11",
+                            "location": null
+                        },
+                        {
+                            "tag": "Athena.Location.Meta.GasStation.12",
+                            "location": null
+                        }
+                    ]
+                },
+                {
+                    "id": "Quest_S20_Weekly_W08_Q09",
+                    "name": "Устраните противника из пистолета, пистолета-пулемёта или дробовика",
+                    "enabled": false,
+                    "enabledDate": null,
+                    "parentQuest": null,
+                    "progressTotal": 1,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.Weekly.008",
+                        "ChallengeCategory.XP"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                }
+            ]
+        },
+        {
+            "id": "QuestBundle_S20_10_Buttercake",
+            "name": "lost and mound: snow",
+            "unlockType": "EChallengeBundleQuestUnlockType::GrantWithBundle",
+            "tags": [],
+            "apiTags": [],
+            "colors": null,
+            "images": null,
+            "bundleRewards": [],
+            "quests": [
+                {
+                    "id": "quest_s20_buttercake_discover_snowmounds",
+                    "name": "Снежный ком",
+                    "enabled": true,
+                    "enabledDate": "2022-04-19 09:03:05+00:00",
+                    "parentQuest": null,
+                    "progressTotal": 3,
+                    "tandemCharacter": null,
+                    "tags": [],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                }
+            ]
+        },
+        {
+            "id": "QuestBundle_S20_20_Buttercake",
+            "name": "klomberries are back",
+            "unlockType": "EChallengeBundleQuestUnlockType::GrantWithBundle",
+            "tags": [],
+            "apiTags": [],
+            "colors": null,
+            "images": null,
+            "bundleRewards": [],
+            "quests": [
+                {
+                    "id": "quest_s20_buttercake_gather_klomberries_simple",
+                    "name": "А вот и кломбника",
+                    "enabled": true,
+                    "enabledDate": "2022-04-19 09:03:05+00:00",
+                    "parentQuest": null,
+                    "progressTotal": 10,
+                    "tandemCharacter": null,
+                    "tags": [],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                }
+            ]
+        },
+        {
+            "id": "QuestBundle_S20_30_Buttercake",
+            "name": "lost and mound: sand",
+            "unlockType": "EChallengeBundleQuestUnlockType::GrantWithBundle",
+            "tags": [],
+            "apiTags": [],
+            "colors": null,
+            "images": null,
+            "bundleRewards": [],
+            "quests": [
+                {
+                    "id": "quest_s20_buttercake_discover_sandmounds",
+                    "name": "Песчаный холмик",
+                    "enabled": true,
+                    "enabledDate": "2022-05-03 09:03:02+00:00",
+                    "parentQuest": null,
+                    "progressTotal": 3,
+                    "tandemCharacter": null,
+                    "tags": [],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                },
+                {
+                    "id": "quest_s20_buttercake_geyser",
+                    "name": "Чихающий гейзер",
+                    "enabled": true,
+                    "enabledDate": "2022-05-03 09:03:02+00:00",
+                    "parentQuest": null,
+                    "progressTotal": 3,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.XP"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                }
+            ]
+        },
+        {
             "id": "QuestBundle_S20_BPUnlockableCharacter_01",
-            "name": "???",
+            "name": "БРОДЯГА",
             "unlockType": "EChallengeBundleQuestUnlockType::RequiresBattlePass",
             "tags": [],
             "apiTags": [],
@@ -798,7 +1727,7 @@
             "quests": [
                 {
                     "id": "Quest_S20_BPUnlockableCharacter_q01",
-                    "name": "???",
+                    "name": "Выполните задания Бродяги",
                     "enabled": false,
                     "enabledDate": null,
                     "parentQuest": null,
@@ -813,13 +1742,15 @@
                 },
                 {
                     "id": "Quest_S20_BPUnlockableCharacter_q02",
-                    "name": "???",
+                    "name": "Нанесите урон противникам во время скольжения или в положении сидя",
                     "enabled": false,
                     "enabledDate": null,
                     "parentQuest": null,
-                    "progressTotal": 1,
+                    "progressTotal": 500,
                     "tandemCharacter": null,
-                    "tags": [],
+                    "tags": [
+                        "ChallengeCategory.Sienna"
+                    ],
                     "reward": {
                         "xp": 0,
                         "items": []
@@ -828,13 +1759,15 @@
                 },
                 {
                     "id": "Quest_S20_BPUnlockableCharacter_q03",
-                    "name": "???",
+                    "name": "Добудьте разные виды эпического или более ценного оружия в ходе одного матча",
                     "enabled": false,
                     "enabledDate": null,
                     "parentQuest": null,
-                    "progressTotal": 1,
+                    "progressTotal": 3,
                     "tandemCharacter": null,
-                    "tags": [],
+                    "tags": [
+                        "ChallengeCategory.Sienna"
+                    ],
                     "reward": {
                         "xp": 0,
                         "items": []
@@ -843,13 +1776,15 @@
                 },
                 {
                     "id": "Quest_S20_BPUnlockableCharacter_q04",
-                    "name": "???",
+                    "name": "Нарисуйте граффити в «Daily Bugle»",
                     "enabled": false,
                     "enabledDate": null,
                     "parentQuest": null,
                     "progressTotal": 1,
                     "tandemCharacter": null,
-                    "tags": [],
+                    "tags": [
+                        "ChallengeCategory.Sienna"
+                    ],
                     "reward": {
                         "xp": 0,
                         "items": []
@@ -858,7 +1793,7 @@
                 },
                 {
                     "id": "Quest_S20_BPUnlockableCharacter_q05",
-                    "name": "???",
+                    "name": "Выполните задания Бродяги",
                     "enabled": false,
                     "enabledDate": null,
                     "parentQuest": null,
@@ -873,13 +1808,15 @@
                 },
                 {
                     "id": "Quest_S20_BPUnlockableCharacter_q06",
-                    "name": "???",
+                    "name": "Обыщите сундуки до того, как получите урон в ходе матча",
                     "enabled": false,
                     "enabledDate": null,
                     "parentQuest": null,
-                    "progressTotal": 1,
+                    "progressTotal": 7,
                     "tandemCharacter": null,
-                    "tags": [],
+                    "tags": [
+                        "ChallengeCategory.Sienna"
+                    ],
                     "reward": {
                         "xp": 0,
                         "items": []
@@ -888,13 +1825,15 @@
                 },
                 {
                     "id": "Quest_S20_BPUnlockableCharacter_q07",
-                    "name": "???",
+                    "name": "Попадите в голову противникам из оружия с тепловизором",
                     "enabled": false,
                     "enabledDate": null,
                     "parentQuest": null,
-                    "progressTotal": 1,
+                    "progressTotal": 3,
                     "tandemCharacter": null,
-                    "tags": [],
+                    "tags": [
+                        "ChallengeCategory.Sienna"
+                    ],
                     "reward": {
                         "xp": 0,
                         "items": []
@@ -903,13 +1842,15 @@
                 },
                 {
                     "id": "Quest_S20_BPUnlockableCharacter_q08",
-                    "name": "???",
+                    "name": "Соберите слитки",
                     "enabled": false,
                     "enabledDate": null,
                     "parentQuest": null,
-                    "progressTotal": 1,
+                    "progressTotal": 300,
                     "tandemCharacter": null,
-                    "tags": [],
+                    "tags": [
+                        "ChallengeCategory.Sienna"
+                    ],
                     "reward": {
                         "xp": 0,
                         "items": []
@@ -918,13 +1859,63 @@
                 },
                 {
                     "id": "Quest_S20_BPUnlockableCharacter_q09",
-                    "name": "???",
+                    "name": "Модифицируйте транспорт, а затем преодолейте на нём 500 м в ходе одного матча",
                     "enabled": false,
                     "enabledDate": null,
                     "parentQuest": null,
-                    "progressTotal": 1,
+                    "progressTotal": 2,
                     "tandemCharacter": null,
-                    "tags": [],
+                    "tags": [
+                        "ChallengeCategory.Sienna"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                }
+            ]
+        },
+        {
+            "id": "QuestBundle_S20_BPUnlockableCharacter_Goals",
+            "name": "Бродяга",
+            "unlockType": "EChallengeBundleQuestUnlockType::RequiresBattlePass",
+            "tags": [
+                "ChallengeCategory.Sienna"
+            ],
+            "apiTags": [],
+            "colors": null,
+            "images": null,
+            "bundleRewards": [],
+            "quests": [
+                {
+                    "id": "Quest_S20_BPUnlockableCharacter_q01",
+                    "name": "Выполните задания Бродяги",
+                    "enabled": false,
+                    "enabledDate": null,
+                    "parentQuest": null,
+                    "progressTotal": 7,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.Sienna"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                },
+                {
+                    "id": "Quest_S20_BPUnlockableCharacter_q05",
+                    "name": "Выполните задания Бродяги",
+                    "enabled": false,
+                    "enabledDate": null,
+                    "parentQuest": null,
+                    "progressTotal": 3,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.Sienna"
+                    ],
                     "reward": {
                         "xp": 0,
                         "items": []
@@ -950,6 +1941,792 @@
                     "enabledDate": "2022-04-05 09:03:03+00:00",
                     "parentQuest": null,
                     "progressTotal": 3,
+                    "tandemCharacter": null,
+                    "tags": [],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                }
+            ]
+        },
+        {
+            "id": "QuestBundle_S20_CovertOps_BonusGoal_Phase1",
+            "name": "Дополнительная цель тайного агента",
+            "unlockType": "EChallengeBundleQuestUnlockType::GrantWithBundle",
+            "tags": [
+                "ChallengeCategory.Event.CovertOps"
+            ],
+            "apiTags": [],
+            "colors": null,
+            "images": null,
+            "bundleRewards": [],
+            "quests": [
+                {
+                    "id": "Quest_S20_CompleteCovertOps_Q01",
+                    "name": "Выполните задания тайного агента",
+                    "enabled": false,
+                    "enabledDate": "2022-04-22 13:30:04+00:00",
+                    "parentQuest": null,
+                    "progressTotal": 4,
+                    "tandemCharacter": null,
+                    "tags": [],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                }
+            ]
+        },
+        {
+            "id": "QuestBundle_S20_CovertOps_BonusGoal_Phase2",
+            "name": "Дополнительная цель тайного агента",
+            "unlockType": "EChallengeBundleQuestUnlockType::GrantWithBundle",
+            "tags": [
+                "ChallengeCategory.Event.CovertOps"
+            ],
+            "apiTags": [],
+            "colors": null,
+            "images": null,
+            "bundleRewards": [],
+            "quests": [
+                {
+                    "id": "Quest_S20_CompleteCovertOps_Q02",
+                    "name": "Выполните задания тайного агента",
+                    "enabled": false,
+                    "enabledDate": null,
+                    "parentQuest": null,
+                    "progressTotal": 4,
+                    "tandemCharacter": null,
+                    "tags": [],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                }
+            ]
+        },
+        {
+            "id": "QuestBundle_S20_CovertOps_BonusGoal_Phase3",
+            "name": "Дополнительная цель тайного агента",
+            "unlockType": "EChallengeBundleQuestUnlockType::GrantWithBundle",
+            "tags": [
+                "ChallengeCategory.Event.CovertOps"
+            ],
+            "apiTags": [],
+            "colors": null,
+            "images": null,
+            "bundleRewards": [],
+            "quests": [
+                {
+                    "id": "Quest_S20_CompleteCovertOps_Q03",
+                    "name": "Выполните задания тайного агента",
+                    "enabled": false,
+                    "enabledDate": null,
+                    "parentQuest": null,
+                    "progressTotal": 4,
+                    "tandemCharacter": null,
+                    "tags": [],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                }
+            ]
+        },
+        {
+            "id": "QuestBundle_S20_CovertOps_BonusGoal_Phase4",
+            "name": "Дополнительная цель тайного агента",
+            "unlockType": "EChallengeBundleQuestUnlockType::GrantWithBundle",
+            "tags": [
+                "ChallengeCategory.Event.CovertOps"
+            ],
+            "apiTags": [],
+            "colors": null,
+            "images": null,
+            "bundleRewards": [],
+            "quests": [
+                {
+                    "id": "Quest_S20_CompleteCovertOps_Q04",
+                    "name": "Выполните задания тайного агента",
+                    "enabled": false,
+                    "enabledDate": null,
+                    "parentQuest": null,
+                    "progressTotal": 4,
+                    "tandemCharacter": null,
+                    "tags": [],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                }
+            ]
+        },
+        {
+            "id": "QuestBundle_S20_CovertOps_Phase1",
+            "name": "ТАЙНЫЙ АГЕНТ",
+            "unlockType": "EChallengeBundleQuestUnlockType::DaysFromEventStart",
+            "tags": [
+                "ChallengeCategory.Event.CovertOps"
+            ],
+            "apiTags": [],
+            "colors": null,
+            "images": null,
+            "bundleRewards": [],
+            "quests": [
+                {
+                    "id": "Quest_S20_CovertOps_Phase1_Q01",
+                    "name": "Взаимодействуйте с сигналом устройства",
+                    "enabled": false,
+                    "enabledDate": "2022-04-22 13:30:04+00:00",
+                    "parentQuest": null,
+                    "progressTotal": 2,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.Event.CovertOps",
+                        "ChallengeCategory.XP"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                }
+            ]
+        },
+        {
+            "id": "QuestBundle_S20_CovertOps_Phase2",
+            "name": "ТАЙНЫЙ АГЕНТ",
+            "unlockType": "EChallengeBundleQuestUnlockType::DaysFromEventStart",
+            "tags": [
+                "ChallengeCategory.Event.CovertOps"
+            ],
+            "apiTags": [],
+            "colors": null,
+            "images": null,
+            "bundleRewards": [],
+            "quests": [
+                {
+                    "id": "Quest_S20_CovertOps_Phase2_Q02",
+                    "name": "Взаимодействуйте с сигналом устройства",
+                    "enabled": false,
+                    "enabledDate": null,
+                    "parentQuest": null,
+                    "progressTotal": 3,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.Event.CovertOps",
+                        "ChallengeCategory.XP"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                }
+            ]
+        },
+        {
+            "id": "QuestBundle_S20_LevelUpPack_01",
+            "name": "Задания из набора повышения уровня Рыцаря Омеги",
+            "unlockType": "EChallengeBundleQuestUnlockType::GrantWithBundle",
+            "tags": [
+                "ChallengeCategory.Style.LevelUpPack"
+            ],
+            "apiTags": [],
+            "colors": null,
+            "images": null,
+            "bundleRewards": [],
+            "quests": [
+                {
+                    "id": "Quest_S20_LevelUpPack_W01_01",
+                    "name": "Найдите жетон повышения уровня к северо-западу от Ладной лесопилки",
+                    "enabled": false,
+                    "enabledDate": null,
+                    "parentQuest": null,
+                    "progressTotal": 1,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.Style.LevelUpPack.W01"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                },
+                {
+                    "id": "Quest_S20_LevelUpPack_W01_02",
+                    "name": "Найдите жетон повышения уровня к северо-западу от Летнего лагеря",
+                    "enabled": false,
+                    "enabledDate": null,
+                    "parentQuest": null,
+                    "progressTotal": 1,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.Style.LevelUpPack.W01"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                },
+                {
+                    "id": "Quest_S20_LevelUpPack_W01_03",
+                    "name": "Найдите жетон повышения уровня к юго-западу от Засаленной закусочной",
+                    "enabled": false,
+                    "enabledDate": null,
+                    "parentQuest": null,
+                    "progressTotal": 1,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.Style.LevelUpPack.W01"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                },
+                {
+                    "id": "Quest_S20_LevelUpPack_W01_04",
+                    "name": "Найдите жетон повышения уровня возле Брошенных башен",
+                    "enabled": false,
+                    "enabledDate": null,
+                    "parentQuest": null,
+                    "progressTotal": 1,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.Style.LevelUpPack.W01"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                },
+                {
+                    "id": "Quest_S20_LevelUpPack_W01_05",
+                    "name": "Найдите жетон повышения уровня на Пломбирном перекрёстке",
+                    "enabled": false,
+                    "enabledDate": null,
+                    "parentQuest": null,
+                    "progressTotal": 1,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.Style.LevelUpPack.W01"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                },
+                {
+                    "id": "Quest_S20_LevelUpPack_W01_06",
+                    "name": "Найдите жетон повышения уровня на острове к востоку от Убежища",
+                    "enabled": false,
+                    "enabledDate": null,
+                    "parentQuest": null,
+                    "progressTotal": 1,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.Style.LevelUpPack.W01"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                },
+                {
+                    "id": "Quest_S20_LevelUpPack_W01_07",
+                    "name": "Найдите жетон повышения уровня к западу от Деревушки Джоунсов",
+                    "enabled": false,
+                    "enabledDate": null,
+                    "parentQuest": null,
+                    "progressTotal": 1,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.Style.LevelUpPack.W01"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                }
+            ]
+        },
+        {
+            "id": "QuestBundle_S20_LevelUpPack_02",
+            "name": "Задания из набора повышения уровня Рыцаря Омеги",
+            "unlockType": "EChallengeBundleQuestUnlockType::GrantWithBundle",
+            "tags": [
+                "ChallengeCategory.Style.LevelUpPack"
+            ],
+            "apiTags": [],
+            "colors": null,
+            "images": null,
+            "bundleRewards": [],
+            "quests": [
+                {
+                    "id": "Quest_S20_LevelUpPack_W02_01",
+                    "name": "Найдите жетон повышения уровня возле Сонного селения",
+                    "enabled": false,
+                    "enabledDate": null,
+                    "parentQuest": null,
+                    "progressTotal": 1,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.Style.LevelUpPack.W02"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                },
+                {
+                    "id": "Quest_S20_LevelUpPack_W02_02",
+                    "name": "Найдите жетон повышения уровня к югу-востоку от Убежища",
+                    "enabled": false,
+                    "enabledDate": null,
+                    "parentQuest": null,
+                    "progressTotal": 1,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.Style.LevelUpPack.W02"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                },
+                {
+                    "id": "Quest_S20_LevelUpPack_W02_03",
+                    "name": "Найдите жетон повышения уровня к северу от Коварного каньона",
+                    "enabled": false,
+                    "enabledDate": null,
+                    "parentQuest": null,
+                    "progressTotal": 1,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.Style.LevelUpPack.W02"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                },
+                {
+                    "id": "Quest_S20_LevelUpPack_W02_04",
+                    "name": "Найдите жетон повышения уровня к северо-востоку от Каменистого кинотеатра",
+                    "enabled": false,
+                    "enabledDate": null,
+                    "parentQuest": null,
+                    "progressTotal": 1,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.Style.LevelUpPack.W02"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                },
+                {
+                    "id": "Quest_S20_LevelUpPack_W02_05",
+                    "name": "Найдите жетон повышения уровня к югу от пещеры Петли",
+                    "enabled": false,
+                    "enabledDate": null,
+                    "parentQuest": null,
+                    "progressTotal": 1,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.Style.LevelUpPack.W02"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                },
+                {
+                    "id": "Quest_S20_LevelUpPack_W02_06",
+                    "name": "Найдите жетон повышения уровня к северо-западу от Засаленной закусочной",
+                    "enabled": false,
+                    "enabledDate": null,
+                    "parentQuest": null,
+                    "progressTotal": 1,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.Style.LevelUpPack.W02"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                },
+                {
+                    "id": "Quest_S20_LevelUpPack_W02_07",
+                    "name": "Найдите жетон повышения уровня на острове к югу от Засаленной закусочной",
+                    "enabled": false,
+                    "enabledDate": null,
+                    "parentQuest": null,
+                    "progressTotal": 1,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.Style.LevelUpPack.W02"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                }
+            ]
+        },
+        {
+            "id": "QuestBundle_S20_LevelUpPack_03",
+            "name": "Задания из набора повышения уровня Рыцаря Омеги",
+            "unlockType": "EChallengeBundleQuestUnlockType::GrantWithBundle",
+            "tags": [
+                "ChallengeCategory.Style.LevelUpPack"
+            ],
+            "apiTags": [],
+            "colors": null,
+            "images": null,
+            "bundleRewards": [],
+            "quests": [
+                {
+                    "id": "Quest_S20_LevelUpPack_W03_01",
+                    "name": "Найдите жетон повышения уровня к востоку от «Daily Bugle»",
+                    "enabled": false,
+                    "enabledDate": null,
+                    "parentQuest": null,
+                    "progressTotal": 1,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.Style.LevelUpPack.W03"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                },
+                {
+                    "id": "Quest_S20_LevelUpPack_W03_02",
+                    "name": "Найдите жетон повышения уровня на острове к северо-востоку от Убежища",
+                    "enabled": false,
+                    "enabledDate": null,
+                    "parentQuest": null,
+                    "progressTotal": 1,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.Style.LevelUpPack.W03"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                },
+                {
+                    "id": "Quest_S20_LevelUpPack_W03_03",
+                    "name": "Найдите жетон повышения уровня к востоку от Брошенных башен",
+                    "enabled": false,
+                    "enabledDate": null,
+                    "parentQuest": null,
+                    "progressTotal": 1,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.Style.LevelUpPack.W03"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                },
+                {
+                    "id": "Quest_S20_LevelUpPack_W03_04",
+                    "name": "Найдите жетон повышения уровня к востоку от Синаптической станции",
+                    "enabled": false,
+                    "enabledDate": null,
+                    "parentQuest": null,
+                    "progressTotal": 1,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.Style.LevelUpPack.W03"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                },
+                {
+                    "id": "Quest_S20_LevelUpPack_W03_05",
+                    "name": "Найдите жетон повышения уровня к востоку от Засаленной закусочной",
+                    "enabled": false,
+                    "enabledDate": null,
+                    "parentQuest": null,
+                    "progressTotal": 1,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.Style.LevelUpPack.W03"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                },
+                {
+                    "id": "Quest_S20_LevelUpPack_W03_06",
+                    "name": "Найдите жетон повышения уровня к северо-западу от Брошенных башен",
+                    "enabled": false,
+                    "enabledDate": null,
+                    "parentQuest": null,
+                    "progressTotal": 1,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.Style.LevelUpPack.W03"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                },
+                {
+                    "id": "Quest_S20_LevelUpPack_W03_07",
+                    "name": "Найдите жетон повышения уровня возле Шатких шахт",
+                    "enabled": false,
+                    "enabledDate": null,
+                    "parentQuest": null,
+                    "progressTotal": 1,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.Style.LevelUpPack.W03"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                }
+            ]
+        },
+        {
+            "id": "QuestBundle_S20_LevelUpPack_04",
+            "name": "Задания из набора повышения уровня Рыцаря Омеги",
+            "unlockType": "EChallengeBundleQuestUnlockType::GrantWithBundle",
+            "tags": [
+                "ChallengeCategory.Style.LevelUpPack"
+            ],
+            "apiTags": [],
+            "colors": null,
+            "images": null,
+            "bundleRewards": [],
+            "quests": [
+                {
+                    "id": "Quest_S20_LevelUpPack_W04_01",
+                    "name": "Найдите жетон повышения уровня к северо-западу от «Daily Bugle»",
+                    "enabled": false,
+                    "enabledDate": null,
+                    "parentQuest": null,
+                    "progressTotal": 1,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.Style.LevelUpPack.W04"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                },
+                {
+                    "id": "Quest_S20_LevelUpPack_W04_02",
+                    "name": "Найдите жетон повышения уровня к югу от Деревушки Джоунсов",
+                    "enabled": false,
+                    "enabledDate": null,
+                    "parentQuest": null,
+                    "progressTotal": 1,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.Style.LevelUpPack.W04"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                },
+                {
+                    "id": "Quest_S20_LevelUpPack_W04_03",
+                    "name": "Найдите жетон повышения уровня к югу от трассы Chonker's",
+                    "enabled": false,
+                    "enabledDate": null,
+                    "parentQuest": null,
+                    "progressTotal": 1,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.Style.LevelUpPack.W04"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                },
+                {
+                    "id": "Quest_S20_LevelUpPack_W04_04",
+                    "name": "Найдите жетон повышения уровня к юго-западу от Каменистого кинотеатра",
+                    "enabled": false,
+                    "enabledDate": null,
+                    "parentQuest": null,
+                    "progressTotal": 1,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.Style.LevelUpPack.W04"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                },
+                {
+                    "id": "Quest_S20_LevelUpPack_W04_05",
+                    "name": "Найдите жетон повышения уровня возле Летнего лагеря",
+                    "enabled": false,
+                    "enabledDate": null,
+                    "parentQuest": null,
+                    "progressTotal": 1,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.Style.LevelUpPack.W04"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                },
+                {
+                    "id": "Quest_S20_LevelUpPack_W04_06",
+                    "name": "Найдите жетон повышения уровня к северу от пещеры Петли",
+                    "enabled": false,
+                    "enabledDate": null,
+                    "parentQuest": null,
+                    "progressTotal": 1,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.Style.LevelUpPack.W04"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                },
+                {
+                    "id": "Quest_S20_LevelUpPack_W04_07",
+                    "name": "Найдите жетон повышения уровня к северу от Шатких шахт",
+                    "enabled": false,
+                    "enabledDate": null,
+                    "parentQuest": null,
+                    "progressTotal": 1,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.Style.LevelUpPack.W04"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                }
+            ]
+        },
+        {
+            "id": "QuestBundle_S20_LevelUpPack_PunchCard",
+            "name": "Задания из набора повышения уровня Рыцаря Омеги",
+            "unlockType": "EChallengeBundleQuestUnlockType::GrantWithBundle",
+            "tags": [
+                "ChallengeCategory.Style.LevelUpPack"
+            ],
+            "apiTags": [],
+            "colors": null,
+            "images": null,
+            "bundleRewards": [],
+            "quests": [
+                {
+                    "id": "Quests_S20_LevelUpPack_PunchCard_01",
+                    "name": "Выполните 7 заданий Рыцаря Омеги для повышения уровня",
+                    "enabled": false,
+                    "enabledDate": null,
+                    "parentQuest": null,
+                    "progressTotal": 7,
+                    "tandemCharacter": null,
+                    "tags": [],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                },
+                {
+                    "id": "Quests_S20_LevelUpPack_PunchCard_02",
+                    "name": "Выполните 14 заданий Рыцаря Омеги для повышения уровня",
+                    "enabled": false,
+                    "enabledDate": null,
+                    "parentQuest": null,
+                    "progressTotal": 14,
+                    "tandemCharacter": null,
+                    "tags": [],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                },
+                {
+                    "id": "Quests_S20_LevelUpPack_PunchCard_03",
+                    "name": "Выполните 21 задание Рыцаря Омеги для повышения уровня",
+                    "enabled": false,
+                    "enabledDate": null,
+                    "parentQuest": null,
+                    "progressTotal": 21,
+                    "tandemCharacter": null,
+                    "tags": [],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                },
+                {
+                    "id": "Quests_S20_LevelUpPack_PunchCard_04",
+                    "name": "Выполните 28 заданий Рыцаря Омеги для повышения уровня",
+                    "enabled": false,
+                    "enabledDate": null,
+                    "parentQuest": null,
+                    "progressTotal": 28,
                     "tandemCharacter": null,
                     "tags": [],
                     "reward": {
@@ -10139,6 +11916,209 @@
             ]
         },
         {
+            "id": "QuestBundle_S20_Noble",
+            "name": "Звёздные войны",
+            "unlockType": "EChallengeBundleQuestUnlockType::GrantWithBundle",
+            "tags": [],
+            "apiTags": [],
+            "colors": null,
+            "images": null,
+            "bundleRewards": [],
+            "quests": [
+                {
+                    "id": "Quest_S20_Noble_Q01",
+                    "name": "Продержитесь несколько фаз Бури со световым мечом в руках",
+                    "enabled": true,
+                    "enabledDate": "2022-05-03 09:03:02+00:00",
+                    "parentQuest": null,
+                    "progressTotal": 5,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.XP",
+                        "ChallengeCategory.Noble"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                },
+                {
+                    "id": "Quest_S20_Noble_Q02",
+                    "name": "Нанесите противникам урон из винтовки-бластера E-11 на расстоянии не более 30 м",
+                    "enabled": true,
+                    "enabledDate": "2022-05-03 09:03:02+00:00",
+                    "parentQuest": null,
+                    "progressTotal": 1000,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.XP",
+                        "ChallengeCategory.Noble"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                },
+                {
+                    "id": "Quest_S20_Noble_Q03",
+                    "name": "Выполните заказ штурмовика",
+                    "enabled": true,
+                    "enabledDate": "2022-05-03 09:03:02+00:00",
+                    "parentQuest": null,
+                    "progressTotal": 2,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.XP",
+                        "ChallengeCategory.Noble",
+                        "Athena.Location.Quest.MT4.CP.01",
+                        "Athena.Location.Quest.MT4.CP.02",
+                        "Athena.Location.Quest.MT4.CP.03",
+                        "Quest.ChallengeIcon.Elim",
+                        "Quest.Metadata.PartyAssist"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": [
+                        {
+                            "tag": "Athena.Location.Quest.MT4.CP.01",
+                            "location": null
+                        },
+                        {
+                            "tag": "Athena.Location.Quest.MT4.CP.02",
+                            "location": null
+                        },
+                        {
+                            "tag": "Athena.Location.Quest.MT4.CP.03",
+                            "location": null
+                        }
+                    ]
+                },
+                {
+                    "id": "Quest_S20_Noble_Q04",
+                    "name": "Доберитесь на транспортном средстве от трассы Chonker's или Ладной лесопилки до блокпоста штурмовиков",
+                    "enabled": true,
+                    "enabledDate": "2022-05-03 09:03:02+00:00",
+                    "parentQuest": null,
+                    "progressTotal": 1,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.XP",
+                        "ChallengeCategory.Noble",
+                        "Athena.Location.Quest.MT4.CP.01",
+                        "Athena.Location.Quest.MT4.CP.02",
+                        "Athena.Location.Quest.MT4.CP.03",
+                        "Quest.ChallengeIcon.Car"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": [
+                        {
+                            "tag": "Athena.Location.Quest.MT4.CP.01",
+                            "location": null
+                        },
+                        {
+                            "tag": "Athena.Location.Quest.MT4.CP.02",
+                            "location": null
+                        },
+                        {
+                            "tag": "Athena.Location.Quest.MT4.CP.03",
+                            "location": null
+                        }
+                    ]
+                },
+                {
+                    "id": "Quest_S20_Noble_Q05",
+                    "name": "Приземлитесь у блокпоста штурмовиков, а затем попадите в число 25 лучших игроков",
+                    "enabled": true,
+                    "enabledDate": "2022-05-03 09:03:02+00:00",
+                    "parentQuest": null,
+                    "progressTotal": 2,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.XP",
+                        "ChallengeCategory.Noble",
+                        "Athena.Location.Quest.MT4.CP.01",
+                        "Athena.Location.Quest.MT4.CP.02",
+                        "Athena.Location.Quest.MT4.CP.03",
+                        "Quest.ChallengeIcon.Land"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": [
+                        {
+                            "tag": "Athena.Location.Quest.MT4.CP.01",
+                            "location": null
+                        },
+                        {
+                            "tag": "Athena.Location.Quest.MT4.CP.02",
+                            "location": null
+                        },
+                        {
+                            "tag": "Athena.Location.Quest.MT4.CP.03",
+                            "location": null
+                        }
+                    ]
+                },
+                {
+                    "id": "Quest_S20_Noble_Q07",
+                    "name": "Блокируйте удары световым мечом",
+                    "enabled": true,
+                    "enabledDate": "2022-05-03 09:03:02+00:00",
+                    "parentQuest": null,
+                    "progressTotal": 10,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.XP",
+                        "ChallengeCategory.Noble"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                }
+            ]
+        },
+        {
+            "id": "QuestBundle_S20_Noble_BonusGoal",
+            "name": "Дополнительные цели «Звёздные войны»",
+            "unlockType": "EChallengeBundleQuestUnlockType::GrantWithBundle",
+            "tags": [
+                "ChallengeCategory.Noble"
+            ],
+            "apiTags": [],
+            "colors": null,
+            "images": null,
+            "bundleRewards": [],
+            "quests": [
+                {
+                    "id": "Quest_S20_Noble_BonusGoal",
+                    "name": "Выполните задания «Звёздные войны»",
+                    "enabled": true,
+                    "enabledDate": "2022-05-03 09:03:02+00:00",
+                    "parentQuest": null,
+                    "progressTotal": 5,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.Noble"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                }
+            ]
+        },
+        {
             "id": "QuestBundle_S20_NoPermit",
             "name": "Задания без разрешения",
             "unlockType": "EChallengeBundleQuestUnlockType::GrantWithBundle",
@@ -11254,6 +13234,134 @@
             ]
         },
         {
+            "id": "QuestBundle_S20_ShinnyGoldCreature",
+            "name": "Набор заданий «Тайны хранителя»",
+            "unlockType": "EChallengeBundleQuestUnlockType::GrantWithBundle",
+            "tags": [],
+            "apiTags": [],
+            "colors": null,
+            "images": null,
+            "bundleRewards": [],
+            "quests": [
+                {
+                    "id": "Quest_BR_ShinnyGoldCreature_CompleteQuests_01",
+                    "name": "Выполните ежедневные дополнительные цели",
+                    "enabled": false,
+                    "enabledDate": null,
+                    "parentQuest": null,
+                    "progressTotal": 3,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "Quest.ChallengeStyle.ShinnyGoldCreature"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                },
+                {
+                    "id": "Quest_BR_ShinnyGoldCreature_CompleteQuests_02",
+                    "name": "Выполните ежедневные дополнительные цели",
+                    "enabled": false,
+                    "enabledDate": null,
+                    "parentQuest": null,
+                    "progressTotal": 5,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "Quest.ChallengeStyle.ShinnyGoldCreature"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                },
+                {
+                    "id": "Quest_BR_ShinnyGoldCreature_CompleteQuests_03",
+                    "name": "Выполните ежедневные дополнительные цели",
+                    "enabled": false,
+                    "enabledDate": null,
+                    "parentQuest": null,
+                    "progressTotal": 7,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "Quest.ChallengeStyle.ShinnyGoldCreature"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                },
+                {
+                    "id": "Quest_BR_ShinnyGoldCreature_CompleteQuests_04",
+                    "name": "Выполните ежедневные дополнительные цели",
+                    "enabled": false,
+                    "enabledDate": null,
+                    "parentQuest": null,
+                    "progressTotal": 10,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "Quest.ChallengeStyle.ShinnyGoldCreature"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                },
+                {
+                    "id": "Quest_BR_ShinnyGoldCreature_CompleteQuests_05",
+                    "name": "Выполните ежедневные дополнительные цели",
+                    "enabled": false,
+                    "enabledDate": null,
+                    "parentQuest": null,
+                    "progressTotal": 14,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "Quest.ChallengeStyle.ShinnyGoldCreature"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                }
+            ]
+        },
+        {
+            "id": "QuestBundle_S20_Soundwave",
+            "name": "Emicida",
+            "unlockType": "EChallengeBundleQuestUnlockType::GrantWithBundle",
+            "tags": [
+                "ChallengeCategory.Event.Soundwave"
+            ],
+            "apiTags": [],
+            "colors": null,
+            "images": null,
+            "bundleRewards": [],
+            "quests": [
+                {
+                    "id": "quest_s20_soundwave_q01",
+                    "name": "Найдите концертную монету",
+                    "enabled": false,
+                    "enabledDate": "2022-04-29 22:30:04+00:00",
+                    "parentQuest": null,
+                    "progressTotal": 1,
+                    "tandemCharacter": null,
+                    "tags": [
+                        "ChallengeCategory.Event.Soundwave"
+                    ],
+                    "reward": {
+                        "xp": 0,
+                        "items": []
+                    },
+                    "locations": []
+                }
+            ]
+        },
+        {
             "id": "QuestBundle_S20_Superlevel_01",
             "name": "???",
             "unlockType": "EChallengeBundleQuestUnlockType::RequiresBattlePass",
@@ -11757,7 +13865,7 @@
             "quests": [
                 {
                     "id": "Quest_S20_Weekly_CompleteSeason_W08_Q01",
-                    "name": "Выполните 51 сезонное задания",
+                    "name": "Выполните 51 сезонное задание",
                     "enabled": true,
                     "enabledDate": "2022-03-20 21:03:04+00:00",
                     "parentQuest": null,
