@@ -3,7 +3,7 @@
     "scale": 2048,
     "type": "poi",
     "lang": "en",
-    "gameVersion": "20.30",
+    "gameVersion": "20.40",
     "list": [
         {
             "id": "Athena.Location.POI.CampCuddles",
@@ -186,9 +186,16 @@
             ]
         },
         {
+            "id": "Athena.Location.POI.TheTower",
+            "name": "THE COLLIDER",
+            "x": 914.42,
+            "y": 874.8,
+            "images": []
+        },
+        {
             "id": "Athena.Location.POI.TiltedTowers",
             "name": "TILTED TOWERS",
-            "x": 799.01,
+            "x": 799.25,
             "y": 1075.31,
             "images": [
                 {
