@@ -793,6 +793,12 @@
             "releaseDate": "2022-05-03",
             "url": "https://media.fortniteapi.io/images/maps/map-20.30.png",
             "urlPOI": "https://media.fortniteapi.io/images/maps/poi/en/map-20.30.png"
+        },
+        {
+            "patchVersion": "20.40",
+            "releaseDate": "2022-05-17",
+            "url": "https://media.fortniteapi.io/images/maps/map-20.40.png",
+            "urlPOI": "https://media.fortniteapi.io/images/maps/poi/en/map-20.40.png"
         }
     ]
 }
