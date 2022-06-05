@@ -18133,7 +18133,7 @@
         },
         {
             "id": "WID_Sniper_ReactorGrade_Athena_R_Ore_T03",
-            "enabled": true,
+            "enabled": false,
             "name": "Rail Gun",
             "description": "A high tech rifle; charge it up to aim and fire a single powerful shot, great for dealing with enemies behind walls.",
             "rarity": "rare",
@@ -18168,7 +18168,7 @@
         },
         {
             "id": "WID_Sniper_ReactorGrade_Athena_SR_Ore_T03",
-            "enabled": true,
+            "enabled": false,
             "name": "Rail Gun",
             "description": "A high tech rifle; charge it up to aim and fire a single powerful shot, great for dealing with enemies behind walls.",
             "rarity": "legendary",
@@ -18203,7 +18203,7 @@
         },
         {
             "id": "WID_Sniper_ReactorGrade_Athena_VR_Ore_T03",
-            "enabled": true,
+            "enabled": false,
             "name": "Rail Gun",
             "description": "A high tech rifle; charge it up to aim and fire a single powerful shot, great for dealing with enemies behind walls.",
             "rarity": "epic",
@@ -18238,7 +18238,7 @@
         },
         {
             "id": "WID_Athena_Mother_Scooter",
-            "enabled": true,
+            "enabled": false,
             "name": "Recon Scanner",
             "description": "Launches a recon bolt that marks nearby enemies and chests.",
             "rarity": "rare",
