@@ -3,7 +3,9 @@
 <!--  PROJECT LOGO -->
 
 <p align="center">
+  <a href="https://aytrox.com/fortnite/images/Logo_White.png">
   <img align="center" src="https://aytrox.com/fortnite/images/Logo_White.png" alt="Logo" width="315" height="90">
+  </a>
   <p>
   <p align="center">All Fortnite files by AYTROX</p>
   <p align="center">App used: fortniteapi.io</p>
