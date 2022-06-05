@@ -11,8 +11,29 @@
   <a href="https://fortniteapi.io">Fortniteapi.io</a> | 
   <a href="https://aytrox.com">aytrox.com</a> | 
   <a href="https://dashboard.fortniteapi.io/">Dashboard</a>: fortniteapi.io
+  <br>
+  <br>
+  <a href="https://dsc.gg/AYTROX">
+  <img align="center" src="https://raw.githubusercontent.com/AYTROX-OFFICIEL/fortnite-files/main/Chapter3-season3/images/21BR_KeyArt_Twitch_Twitch_Profile.jpg" alt="Logo" width="80" height="80"
+       </a>
   </p>
 
+  
+  <!--  Chapter3  -->
+  <!--  Season3  -->
+  ## Chapter3-Season3
+  
+  <a href="https://github.com/AYTROX-OFFICIEL/fortnite-files/tree/main/Chapter3-season3">GO</a>
+  <p align="center">
+    <a href="https://github.com/AYTROX-OFFICIEL/fortnite-files/tree/main/Chapter3-season3">
+    <img src="https://raw.githubusercontent.com/AYTROX-OFFICIEL/fortnite-files/main/Chapter3-season3/images/21BR_KeyArt_Twitch_Game_Page_Cover_1200x180.jpg">
+      <br>
+      <br>
+      <img src="https://raw.githubusercontent.com/AYTROX-OFFICIEL/fortnite-files/main/Chapter3-season3/images/21BR_KeyArt_Twitch_Game_Page_Profile.jpg" width="150" height="190">
+      <br>
+      <br>
+      <img src="https://raw.githubusercontent.com/AYTROX-OFFICIEL/fortnite-files/main/Chapter3-season3/images/21BR_Vibing_KeyArtSocial_Social.jpg">
+    </a>
 
   <!--  LICENSE  -->
   ## License
