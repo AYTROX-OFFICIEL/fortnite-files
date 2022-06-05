@@ -858,7 +858,7 @@
             "seasonInChapter": 2,
             "displayName": "Chapter 3, Season 2",
             "startDate": "2022-03-20 07:00:00+00:00",
-            "endDate": "2022-06-04 06:59:59+00:00",
+            "endDate": "2022-06-05 06:59:59+00:00",
             "patchList": [
                 {
                     "version": "20.00",
@@ -887,7 +887,21 @@
             "chapter": 3,
             "seasonInChapter": 3,
             "displayName": "Chapter 3, Season 3",
-            "startDate": "2022-06-04 07:00:00+00:00",
+            "startDate": "2022-06-05 07:00:00+00:00",
+            "endDate": "2022-10-02 06:59:59+00:00",
+            "patchList": [
+                {
+                    "version": "21.00",
+                    "date": "2022-06-04"
+                }
+            ]
+        },
+        {
+            "season": 22,
+            "chapter": 3,
+            "seasonInChapter": 4,
+            "displayName": "Chapter 3, Season 4",
+            "startDate": "2022-10-02 07:00:00+00:00",
             "endDate": null,
             "patchList": []
         }
