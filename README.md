@@ -8,6 +8,11 @@
   <p align="center">All Fortnite files by AYTROX</p>
   <p align="center">App used: fortniteapi.io</p>
   <p align="center">
+  <a href="#map">
+    <p align="center">Map
+  </a>
+  <br>
+  <br>
   <a href="https://fortniteapi.io">Fortniteapi.io</a> | 
   <a href="https://aytrox.com">aytrox.com</a> | 
   <a href="https://dashboard.fortniteapi.io/">Dashboard</a>: fortniteapi.io
