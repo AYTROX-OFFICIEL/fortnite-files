@@ -799,6 +799,12 @@
             "releaseDate": "2022-05-17",
             "url": "https://media.fortniteapi.io/images/maps/map-20.40.png",
             "urlPOI": "https://media.fortniteapi.io/images/maps/poi/en/map-20.40.png"
+        },
+        {
+            "patchVersion": "21.00",
+            "releaseDate": "2022-06-04",
+            "url": "https://github.com/AYTROX-OFFICIEL/fortnite-files/blob/main/Chapter3-season3/map/Apollo_Terrain_Minimap_21.png?raw=true",
+            "urlPOI": "https://github.com/AYTROX-OFFICIEL/fortnite-files/blob/main/Chapter3-season3/map/map-Poi.png?raw=true"
         }
     ]
 }
