@@ -29,11 +29,17 @@
     <img src="https://raw.githubusercontent.com/AYTROX-OFFICIEL/fortnite-files/main/Chapter3-season3/images/21BR_KeyArt_Twitch_Game_Page_Cover_1200x180.jpg">
       <br>
       <br>
-      <img src="https://raw.githubusercontent.com/AYTROX-OFFICIEL/fortnite-files/main/Chapter3-season3/images/21BR_KeyArt_Twitch_Game_Page_Profile.jpg" width="150" height="190">
-      <br>
-      <br>
       <img src="https://raw.githubusercontent.com/AYTROX-OFFICIEL/fortnite-files/main/Chapter3-season3/images/21BR_Vibing_KeyArtSocial_Social.jpg">
     </a>
+    </p>
+    
+  <!--  Map  -->
+    
+   ## Map
+    
+   <a href="https://raw.githubusercontent.com/AYTROX-OFFICIEL/fortnite-files/main/Chapter3-season3/map/map-Poi.png" target="_blank">
+      <img src="https://github.com/AYTROX-OFFICIEL/fortnite-files/blob/main/Chapter3-season3/map/Apollo_Terrain_Minimap_21.png?raw=true">
+  </a>
 
   <!--  LICENSE  -->
   ## License
