@@ -1,0 +1,283 @@
+{
+    "result": true,
+    "type": "br",
+    "lang": "en",
+    "show": 25,
+    "news": [
+        {
+            "id": "b59977a3-ad38-4a36-991c-99748e72d3dc",
+            "title": "Gen Hoshino",
+            "tabTitle": "New Soundwave Series",
+            "date": "2022-06-05T12:03:02+00:00",
+            "body": "The next installment of the Soundwave Series kicks off on June 9 at 8 AM ET featuring the Japanese artist, Gen Hoshino!",
+            "adspace": "",
+            "image": "https://cdn-live.prm.ol.epicgames.com/prod/e8d4b56ed09a31c1da7b11dba3a4369c34ece10f2b02f228d4b591bdce67dc4129bae39d5cbb6c548cf220f03ee03740-2ae04e98-9337-4688-8ac7-82cd7fb70f47.jpeg?width=1920",
+            "live": true,
+            "video": null
+        },
+        {
+            "id": "ba5498d2-d397-465d-901c-24b5e857293e",
+            "title": "Let's Get Social",
+            "tabTitle": "Let's Get Social",
+            "date": "2022-06-05T12:03:02+00:00",
+            "body": "Adding new friends? Find suggested friends and recent players with the new Sidebar. Adjust your profile and privacy settings to show your friends what you’re playing!",
+            "adspace": "",
+            "image": "https://cdn-live.prm.ol.epicgames.com/prod/17b55de1562b80fd4969691a187100787ecef1e8402a91e07652479a0e4b350ea7762065231a49a170a9e90c80e18c48-f719a9df-eff4-485f-a2e1-09f4b48b9697.jpeg?width=1920",
+            "live": true,
+            "video": null
+        },
+        {
+            "id": "0194ef83-8e1c-45d1-adc7-aa980d52d59e",
+            "title": "Sprint, Slide, Mantle",
+            "tabTitle": "Sprint to Victory",
+            "date": "2022-06-05T12:03:02+00:00",
+            "body": "Break into a rapid sprint or slide to evade incoming fire and use mantling to take the high ground!",
+            "adspace": "",
+            "image": "https://cdn-live.prm.ol.epicgames.com/prod/a85708bc411ee6b095207d06c56346c8d35b2e53bd0375c9c7a5d6212ddac1c61b9b5412c3584329165aee07b7e0c37cbe188e57301b2706584859aa32c38697-fa019e05-b376-4da6-aa15-011749489989.jpeg?width=1920",
+            "live": true,
+            "video": null
+        },
+        {
+            "id": "f09cdeb3-7217-4d57-88ca-a41f46066275",
+            "title": "Preferred Item Slots",
+            "tabTitle": "Preferred Item Slots",
+            "date": "2022-06-05T12:03:02+00:00",
+            "body": "Looting in the heat of battle? Have no fear, Preferred Item Slots are here. Use this setting to assign each inventory slot to a Weapon or Item type!",
+            "adspace": "",
+            "image": "https://cdn-live.prm.ol.epicgames.com/prod/dbcf26ce997b10a6381ab60a5160e5018eb4e1a39ac3a4b86e6a9e1bd3da0910bb1ada3157fbb4a6b354b7b20a677269-ee5281f7-0b54-49dc-aea5-88931088a865.jpeg?width=1920",
+            "live": true,
+            "video": null
+        },
+        {
+            "id": "7d39fc31-45b1-47eb-af5f-160521609ff6",
+            "title": "Mecha Weapons Team",
+            "tabTitle": "New Outfits",
+            "date": "2022-06-05T00:01:02+00:00",
+            "body": "Gather your gear and suit up for Collision!",
+            "adspace": "",
+            "image": "https://cdn-live.prm.ol.epicgames.com/prod/df91647bb9d2789aed221a0051e4c1d870f1fbe5aeefcb09da84bdf1187c5dfaf4d4b147eb5dbed6306eb821b8433e00-532b9106-23fd-4cdc-86ff-d4ad00f5f184.jpeg?width=1920",
+            "live": false,
+            "video": null
+        },
+        {
+            "id": "882b0285-504c-4cd6-98ba-301e6f846cbb",
+            "title": "Collision",
+            "tabTitle": "Season End Event",
+            "date": "2022-06-04T22:03:02+00:00",
+            "body": "Jump in now as the fate of the Zero Point will be decided. Gather your squad and suit up for a thrilling season finale!",
+            "adspace": "",
+            "image": "https://cdn-live.prm.ol.epicgames.com/prod/06efec6f3f9c629f275118f5109f646d6c1a80e9c3bacf8ba03d6d8011d217b349e6efb86f7aef295a8fab5a7be1ee65-72e76405-9a39-4a48-bd7c-fa57f9ae029d.jpeg?width=1920",
+            "live": false,
+            "video": null
+        },
+        {
+            "id": "7797cdb5-67d8-46f1-ade3-8a61b757bcce",
+            "title": "Collision",
+            "tabTitle": "Season End Event",
+            "date": "2022-06-04T19:31:02+00:00",
+            "body": "The fate of the Zero Point will be decided. Suit up for a thrilling one-time season finale on June 4 at 4 PM ET. Learn more at fn.gg/Collision",
+            "adspace": "",
+            "image": "https://cdn-live.prm.ol.epicgames.com/prod/06efec6f3f9c629f275118f5109f646d6c1a80e9c3bacf8ba03d6d8011d217b3b71877a03b84e29dd8536d91e632dbb7-5aec49dd-c151-40b1-b976-846d6acd84a6.jpeg?width=1920",
+            "live": false,
+            "video": "https://media.fortniteapi.io/videos/epic/en/GkXIRUnWcFKDsRQFOB.mp4"
+        },
+        {
+            "id": "a4a355e9-1cdd-4c74-bc4a-e1fbde8419a7",
+            "title": "Unlock Prowler",
+            "tabTitle": "Unlock Prowler",
+            "date": "2022-06-04T19:03:02+00:00",
+            "body": "There’s nowhere left to run when Prowler is on the chase. Complete Quests to unlock the Prowler Outfit, alternate styles and more! ",
+            "adspace": "",
+            "image": "https://cdn-live.prm.ol.epicgames.com/prod/cb4a9b9e1f15abda6cc16d006feec2b0dbe71c3dd5ec31b8a2dc161eab576099b4523200d1ef54225c8659b8e96b2b7c-e7542719-8e08-46b2-830c-a82f05574556.jpeg?width=1920",
+            "live": false,
+            "video": null
+        },
+        {
+            "id": "b0f4a1a1-8b2c-4e7f-a74f-b3f4c767c295",
+            "title": "Battle Pass Ending Soon",
+            "tabTitle": "Battle Pass Ending Soon",
+            "date": "2022-06-04T19:03:02+00:00",
+            "body": "The season is ending soon! Make sure to use your Battle Stars and Omni Chips before June 4.",
+            "adspace": "",
+            "image": "https://cdn-live.prm.ol.epicgames.com/prod/ec556bdee6b549a85816b05a29b748c2dfba9a6fa7bba75060a12cd282c7c87292eaf6f2881efffd0a74a1f8879352e8-5c5d6337-ce72-440f-b0da-256eaf5a32fb.jpeg?width=1920",
+            "live": false,
+            "video": null
+        },
+        {
+            "id": "4cdedbfa-8699-4235-ac20-c55e9cb23033",
+            "title": "Pac-Man",
+            "tabTitle": "Pac-Man",
+            "date": "2022-06-02T14:31:02+00:00",
+            "body": "Waka Waka. Won’t get ghosted this time. Waka Waka. ",
+            "adspace": "",
+            "image": "https://cdn-live.prm.ol.epicgames.com/prod/39541532e6bd7bb086e50d98ec48a3cbb8c4bf60ebdd78633116ba6db99959be21308008afab3541cc7d0c1ff795a287-2914ea0e-e4cd-4a03-aecc-f81543e28b9c.jpeg?width=1920",
+            "live": false,
+            "video": null
+        },
+        {
+            "id": "753b2fed-a492-4e11-a34f-9741cc739d47",
+            "title": "Collision",
+            "tabTitle": "Season End Event",
+            "date": "2022-06-02T14:03:02+00:00",
+            "body": "The fate of the Zero Point will be decided. Suit up for a thrilling one-time season finale on June 4 at 4 PM ET. Learn more at fn.gg/Collision",
+            "adspace": "",
+            "image": "https://cdn-live.prm.ol.epicgames.com/prod/06efec6f3f9c629f275118f5109f646d6c1a80e9c3bacf8ba03d6d8011d217b3b71877a03b84e29dd8536d91e632dbb7-0e125e12-0805-4ea4-a0af-40394db88e51.jpeg?width=1920",
+            "live": false,
+            "video": null
+        },
+        {
+            "id": "2d7fca67-0754-40ed-8bb7-feab93206f03",
+            "title": "Mecha Strike Commander",
+            "tabTitle": "June Crew Pack",
+            "date": "2022-06-02T00:01:02+00:00",
+            "body": "Rise from the ashes and set your heart for battle! As a Crew member, you’ve unlocked the June Crew Pack and 1,000 V-Bucks on your next payment date.",
+            "adspace": "",
+            "image": "https://cdn-live.prm.ol.epicgames.com/prod/24c2a220bafd44e15a559cd35e709b1c724a986e338926aa40eb516e7770715ac2ab4504035841f5bd5bbef884943ec7-4fa47acc-ad4e-43c3-ba29-f9e4c6267033.jpeg?width=1920",
+            "live": false,
+            "video": null
+        },
+        {
+            "id": "0d6dcae7-7da0-4f66-8bdf-14ba01d1ce48",
+            "title": "Collision Incoming",
+            "tabTitle": "Resistance Week 11",
+            "date": "2022-06-01T00:01:01+00:00",
+            "body": "It’s time to prepare for the final battle. Collect fuel cells for the Mech and set your sights for some last minute target practice!",
+            "adspace": "",
+            "image": "https://cdn-live.prm.ol.epicgames.com/prod/b8b2372fac5b17139444d5d6478154124f6e07a4d1231a5b18640d9432d0fb570e92d0ab90ddc4bd26251df93cc51e4f-b3941b36-da2a-4ca3-9baa-e767875a9c4c.jpeg?width=1920",
+            "live": false,
+            "video": null
+        },
+        {
+            "id": "194e2a59-77c7-4033-9b33-c3123dfce962",
+            "title": "Console Champions Cup",
+            "tabTitle": "Console Champions Cup",
+            "date": "2022-05-31T20:03:01+00:00",
+            "body": "Party up with a friend and compete in the Battle Royale Duos Console Champions Cup. The top performing Duos will advance to the next stage!",
+            "adspace": "",
+            "image": "https://cdn-live.prm.ol.epicgames.com/prod/4ee0027246f977e161eb178a812d73da4e8d48b502202dd1d0a4273de60bf0d94c47160fe055c30380a4fa1f57294eb637f3221172b958855d1f32245a11475c-748d084f-ff59-4031-b80e-c5a1191c0a6d.jpeg?width=1920",
+            "live": false,
+            "video": null
+        },
+        {
+            "id": "4048b270-2dab-4100-b774-f1c3d2857f0b",
+            "title": "Rail Gun Recon Week",
+            "tabTitle": "Rail Gun Recon Week",
+            "date": "2022-05-31T13:03:02+00:00",
+            "body": "Line them up and knock them down with the Recon Scanner and the Rail Gun to complete limited time Quests.",
+            "adspace": "",
+            "image": "https://cdn-live.prm.ol.epicgames.com/prod/56970d6b9057cf18420093499168191e56d667a1fbef001a044550c389001e9446fd8860787795562c53169590cd96cb-e9931a06-442a-4f28-b409-d392e6dc5213.jpeg?width=1920",
+            "live": false,
+            "video": null
+        },
+        {
+            "id": "2ce67635-b3c7-4acf-9eb8-66d530453f4a",
+            "title": "Level Up Quest Pack",
+            "tabTitle": "Leaving Soon",
+            "date": "2022-05-31T13:03:02+00:00",
+            "body": "Pick up the Level Up Quest Pack to get Omega Knight and unlock Quests! Complete Quests to earn additional styles and up to 28 Battle Pass levels before the season ends on June 4.",
+            "adspace": "",
+            "image": "https://cdn-live.prm.ol.epicgames.com/prod/32086d70fc062b981941af853ea1857712031921a328757445cee6d62bc180d116028b258275bfd46511c197091c241b-3343e74d-4640-429e-9e38-960e6b1e3161.jpeg?width=1920",
+            "live": false,
+            "video": null
+        },
+        {
+            "id": "23684c2b-2462-452d-aeeb-cbba53ae1c22",
+            "title": "FNCS Champion Seeker",
+            "tabTitle": "Leaving Soon",
+            "date": "2022-05-31T00:01:02+00:00",
+            "body": "Reach new heights and stand among the champions.",
+            "adspace": "",
+            "image": "https://cdn-live.prm.ol.epicgames.com/prod/4778f7828b3a4292c9ed2f1dfa72337c5c8bf245f4231dbe448689f8dda2b2b75ce323998cf5217a3f2d119bcbd396ed-b1aef953-8bec-4bb0-9c29-8cb5d1806a61.jpeg?width=1920",
+            "live": false,
+            "video": "https://media.fortniteapi.io/videos/epic/en/BuQSkbMGqZDCUJCBTm.mp4"
+        },
+        {
+            "id": "1099fcce-084f-41ec-a2ef-1a6442fe2705",
+            "title": "FNCS Finals",
+            "tabTitle": "FNCS Finals Live Now",
+            "date": "2022-05-30T17:03:02+00:00",
+            "body": "Tune into the FNCS Finals at Legends Landing for at least 15 minutes to receive a free Spray and Loading Screen! These items will be granted before the end of next week.",
+            "adspace": "",
+            "image": "https://cdn-live.prm.ol.epicgames.com/prod/22c2e8c3fcc9b29c0c198828f83830d91f99e6176fe688acc78ff346269e5f2a354477045ed1a99cbe10b9a4e6e2227702eb2661fae6f3e02004ae5c609b0802-9cf2c533-55dc-46ba-b8c6-59fc08e37b69.jpeg?width=1920",
+            "live": false,
+            "video": null
+        },
+        {
+            "id": "938bd7a5-52ad-4173-950f-6dcc7f7a4019",
+            "title": "FNCS Finals",
+            "tabTitle": "FNCS Finals Live Now",
+            "date": "2022-05-29T17:03:02+00:00",
+            "body": "Tune into the FNCS Finals at Legends Landing for at least 15 minutes to receive a free Spray and Loading Screen! These items will be granted before the end of next week.",
+            "adspace": "",
+            "image": "https://cdn-live.prm.ol.epicgames.com/prod/22c2e8c3fcc9b29c0c198828f83830d91f99e6176fe688acc78ff346269e5f2a354477045ed1a99cbe10b9a4e6e2227702eb2661fae6f3e02004ae5c609b0802-9cf2c533-55dc-46ba-b8c6-59fc08e37b69.jpeg?width=1920",
+            "live": false,
+            "video": null
+        },
+        {
+            "id": "096b4cda-680c-4779-972d-be7370a86e1d",
+            "title": "Obi-Wan Kenobi",
+            "tabTitle": "New Outfit",
+            "date": "2022-05-28T17:03:02+00:00",
+            "body": "Hunted and on the run. Hope will survive.",
+            "adspace": "",
+            "image": "https://cdn-live.prm.ol.epicgames.com/prod/cfa6bcbe0ff2b32b932335fec526330360864bd27b28407f6375459e3f54bf91123e776653608af57cdf4eaae9132b8b-21ca3fcf-5bf7-42dd-916b-4283a1898837.jpeg?width=1920",
+            "live": false,
+            "video": "https://media.fortniteapi.io/videos/epic/en/FZuUSGGbtuqZGRqsAP.mp4"
+        },
+        {
+            "id": "85b96447-251c-477a-8d3b-7047f0e88579",
+            "title": "GEFORCE NOW",
+            "tabTitle": "GEFORCE NOW",
+            "date": "2022-05-27T00:01:01+00:00",
+            "body": "GeForce NOW with touch controls for mobile has left beta! Head to fn.gg/GeForceNOW to learn more about playing Fortnite on GeForce NOW.",
+            "adspace": "",
+            "image": "https://cdn-live.prm.ol.epicgames.com/prod/c056b7ba30528f6cfe2a7acc31c7ec68e507707fe9eb6c9b57c76abd826ba0fa379844a9c45899049694a650611a42fc-23c890ff-d3c9-427e-8e35-b230b3104f19.png?width=1920",
+            "live": false,
+            "video": null
+        },
+        {
+            "id": "dcfd27fb-e2a0-42d2-98f3-95ebda9650d9",
+            "title": "Volcanic Assassin Pack",
+            "tabTitle": "Free Outfit",
+            "date": "2022-05-26T16:03:02+00:00",
+            "body": "Claim the Volcanic Assassin Pack for free in the Item Shop. Complete Quests in order to unlock the Tectonic Komplex Outfit and more!",
+            "adspace": "",
+            "image": "https://cdn-live.prm.ol.epicgames.com/prod/fa1658059603707bbe5737d9d82cc8e7d30998445497e8d0e3a5cba097eee3285fed258ee682ea30a584fb025f480591-6289b3dc-eb00-4bb6-84d2-5557049c7677.jpeg?width=1920",
+            "live": false,
+            "video": null
+        },
+        {
+            "id": "276de229-4113-4d8a-9a30-3d18fde195de",
+            "title": "Sideways Showdown Week",
+            "tabTitle": "Sideways Showdown Week",
+            "date": "2022-05-24T13:03:02+00:00",
+            "body": "Take charge with the Sideways Rifle and Sideways Minigun. Use them on the battlefield to complete Quests before May 24 at 9 AM ET.",
+            "adspace": "",
+            "image": "https://cdn-live.prm.ol.epicgames.com/prod/7eb3ad2fc7e41d428b37953abe2975dd4784bbaa62ed9d59f5a480b5ecbc0284ac97c4b975a4de6bd90b06a7f91b3471-37760f02-8cfc-43b3-99ae-bd76ba69bf7a.jpeg?width=1920",
+            "live": false,
+            "video": null
+        },
+        {
+            "id": "7f8a7cd2-d6b5-44df-bc76-29f1d0b9e284",
+            "title": "FNCS Community Cup",
+            "tabTitle": "Community Cup Soon",
+            "date": "2022-05-24T04:03:02+00:00",
+            "body": "Partner up with a duo for the FNCS Community Cup! Top performers will earn the FNCS Champion Seeker Outfit before it hits the Item Shop.",
+            "adspace": "",
+            "image": "https://cdn-live.prm.ol.epicgames.com/prod/4778f7828b3a4292c9ed2f1dfa72337c5c8bf245f4231dbe448689f8dda2b2b793bb703ec2be8cc2f35fd6d027641219-0a74052e-8a60-443c-87c8-09ee849c51b1.jpeg?width=1920",
+            "live": false,
+            "video": null
+        },
+        {
+            "id": "8dd62a36-09b7-43ef-9f53-e0d51ab2c015",
+            "title": "FNCS Semi-Finals",
+            "tabTitle": "FNCS Semi-Finals Live Now",
+            "date": "2022-05-23T05:03:02+00:00",
+            "body": "Jump in now at Legends Landing and watch the FNCS Semi-Finals! Tune in for at least 15 minutes to receive the Champion's Shield Back Bling before the end of next week.",
+            "adspace": "",
+            "image": "https://cdn-live.prm.ol.epicgames.com/prod/22c2e8c3fcc9b29c0c198828f83830d91f99e6176fe688acc78ff346269e5f2aef8473f56a77869a939162055800cd4ce08bb2aebac1c66b0f471e2735057d9c-12215afe-f234-4e60-880b-350969997a2b.jpeg?width=1920",
+            "live": false,
+            "video": null
+        }
+    ]
+}
