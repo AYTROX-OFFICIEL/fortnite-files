@@ -581,6 +581,29 @@
                 }
             }
         ]
+    },
+    "season21": {
+        "displayInfo": {
+            "chapter": "Chapter 3",
+            "season": "Season 3",
+            "chapterSeason": "Chapter 3 - Season 3"
+        },
+        "video": [
+            {
+                "type": "bp",
+                "lang-url": {
+                    "EN": "https://www.youtube.com/watch?v=jexE8vm8q8E",
+                    "FR": "https://www.youtube.com/watch?v=CK8cv-5k1tk"
+                }
+            },
+            {
+                "type": "trailer",
+                "lang-url": {
+                    "EN": "https://www.youtube.com/watch?v=H5EfrMzg9JA",
+                    "FR": "https://www.youtube.com/watch?v=x1h3UIf4Zqw"
+                }
+            }
+        ]
     }
   }
 }
