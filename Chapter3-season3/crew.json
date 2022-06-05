@@ -1,0 +1,211 @@
+{
+    "result": true,
+    "currentCrew": {
+        "type": "current",
+        "date": "2022-06-01",
+        "colors": {
+            "A": "0f25b7",
+            "B": "61cdfc",
+            "C": "61cdfc"
+        },
+        "video": null,
+        "skinImageTakeOver": false,
+        "descriptions": {
+            "title": "Crew Pack",
+            "battlepass": "Battle Pass",
+            "vbucksTitle": "1,000 V-Bucks"
+        },
+        "images": {
+            "battlepass": null,
+            "battlepassTile": null,
+            "itemShopTile": "https://cdn2.unrealengine.com/20br-subs-armadillo-ingame-shoptile-02-2048x1124-9fbd2484434e.jpg",
+            "skin": "https://cdn2.unrealengine.com/20br-subs-armadillo-ingame-crewtile-1024x1024-251310b2f030.png",
+            "apiRender": "https://media.fortniteapi.io/images/crew/2022-06/presentation.en.png"
+        },
+        "rewards": [
+            {
+                "quantity": 1,
+                "item": {
+                    "id": "CID_A_418_Athena_Commando_M_ArmadilloRobot",
+                    "type": {
+                        "id": "outfit",
+                        "name": "Outfit"
+                    },
+                    "name": "Mecha Strike Commander",
+                    "description": "Legendary battle mech reborn.",
+                    "rarity": {
+                        "id": "Epic",
+                        "name": "Epic"
+                    },
+                    "series": null,
+                    "images": {
+                        "icon": "https://media.fortniteapi.io/images/a6c650e0ffafaefb8757984bae35f648/transparent.png",
+                        "featured": null,
+                        "background": "https://media.fortniteapi.io/images/cosmetics/a6c650e0ffafaefb8757984bae35f648/v2/background.png",
+                        "icon_background": "https://media.fortniteapi.io/images/cosmetics/a6c650e0ffafaefb8757984bae35f648/v2/icon_background.png",
+                        "full_background": "https://media.fortniteapi.io/images/cosmetics/a6c650e0ffafaefb8757984bae35f648/v2/info.en.png"
+                    },
+                    "video": null,
+                    "gameplayTags": [
+                        "SoundLibrary.ID.StepType.ShoesSneakers",
+                        "SoundLibrary.ID.ClothingType.Generic",
+                        "SoundLibrary.ID.HandType.Glove",
+                        "Cosmetics.Filter.Season.20",
+                        "Cosmetics.Source.CrewPack.June2022",
+                        "Cosmetics.Set.CrashContact"
+                    ],
+                    "introduction": {
+                        "chapter": "Chapter 3",
+                        "season": "Season 2",
+                        "text": "Introduced in Chapter 3 - Season 2."
+                    }
+                }
+            },
+            {
+                "quantity": 1,
+                "item": {
+                    "id": "BID_A_018_ArmadilloMale",
+                    "type": {
+                        "id": "backpack",
+                        "name": "BackBling"
+                    },
+                    "name": "Mecha Light Capacitor",
+                    "description": "Extended power storage for Mecha Strike Commander.",
+                    "rarity": {
+                        "id": "Epic",
+                        "name": "Epic"
+                    },
+                    "series": null,
+                    "images": {
+                        "icon": "https://media.fortniteapi.io/images/b6b4d6b7a14dee3f45c5d08631b4f564/transparent.png",
+                        "featured": null,
+                        "background": "https://media.fortniteapi.io/images/cosmetics/b6b4d6b7a14dee3f45c5d08631b4f564/v2/background.png",
+                        "icon_background": "https://media.fortniteapi.io/images/cosmetics/b6b4d6b7a14dee3f45c5d08631b4f564/v2/icon_background.png",
+                        "full_background": "https://media.fortniteapi.io/images/cosmetics/b6b4d6b7a14dee3f45c5d08631b4f564/v2/info.en.png"
+                    },
+                    "video": null,
+                    "gameplayTags": [
+                        "Cosmetics.Source.ItemShop",
+                        "Cosmetics.Filter.Season.20",
+                        "Cosmetics.Set.CrashContact",
+                        "Cosmetics.Source.CrewPack.June2022"
+                    ],
+                    "introduction": {
+                        "chapter": "Chapter 3",
+                        "season": "Season 2",
+                        "text": "Introduced in Chapter 3 - Season 2."
+                    }
+                }
+            },
+            {
+                "quantity": 1,
+                "item": {
+                    "id": "Wrap_479_Armadillo",
+                    "type": {
+                        "id": "wrap",
+                        "name": "Wrap"
+                    },
+                    "name": "Mecha Reborn",
+                    "description": "Show your style.",
+                    "rarity": {
+                        "id": "Uncommon",
+                        "name": "UNCOMMON"
+                    },
+                    "series": null,
+                    "images": {
+                        "icon": "https://media.fortniteapi.io/images/fa8664787a4ea24ac537df236a1c3d63/transparent.png",
+                        "featured": null,
+                        "background": "https://media.fortniteapi.io/images/cosmetics/fa8664787a4ea24ac537df236a1c3d63/v2/background.png",
+                        "icon_background": "https://media.fortniteapi.io/images/cosmetics/fa8664787a4ea24ac537df236a1c3d63/v2/icon_background.png",
+                        "full_background": "https://media.fortniteapi.io/images/cosmetics/fa8664787a4ea24ac537df236a1c3d63/v2/info.en.png"
+                    },
+                    "video": null,
+                    "gameplayTags": [
+                        "Cosmetics.Filter.Season.20",
+                        "Cosmetics.Set.CrashContact",
+                        "Cosmetics.Source.ItemShop"
+                    ],
+                    "introduction": {
+                        "chapter": "Chapter 3",
+                        "season": "Season 2",
+                        "text": "Introduced in Chapter 3 - Season 2."
+                    }
+                }
+            }
+        ]
+    },
+    "prices": [
+        {
+            "paymentCurrencyCode": "EUR",
+            "paymentCurrencySymbol": "€",
+            "paymentCurrencyAmount": 1199,
+            "paymentCurrencyAmountNatural": 11.99
+        },
+        {
+            "paymentCurrencyCode": "USD",
+            "paymentCurrencySymbol": "$",
+            "paymentCurrencyAmount": 1199,
+            "paymentCurrencyAmountNatural": 11.99
+        },
+        {
+            "paymentCurrencyCode": "GBP",
+            "paymentCurrencySymbol": "£",
+            "paymentCurrencyAmount": 999,
+            "paymentCurrencyAmountNatural": 9.99
+        },
+        {
+            "paymentCurrencyCode": "CAD",
+            "paymentCurrencySymbol": "$",
+            "paymentCurrencyAmount": 1599,
+            "paymentCurrencyAmountNatural": 15.99
+        },
+        {
+            "paymentCurrencyCode": "RUB",
+            "paymentCurrencySymbol": "₽",
+            "paymentCurrencyAmount": 74900,
+            "paymentCurrencyAmountNatural": 749
+        },
+        {
+            "paymentCurrencyCode": "DKK",
+            "paymentCurrencySymbol": "kr.",
+            "paymentCurrencyAmount": 7300,
+            "paymentCurrencyAmountNatural": 73
+        },
+        {
+            "paymentCurrencyCode": "JPY",
+            "paymentCurrencySymbol": "¥",
+            "paymentCurrencyAmount": 1320,
+            "paymentCurrencyAmountNatural": 1320
+        },
+        {
+            "paymentCurrencyCode": "SEK",
+            "paymentCurrencySymbol": "kr",
+            "paymentCurrencyAmount": 11379,
+            "paymentCurrencyAmountNatural": 113.79
+        },
+        {
+            "paymentCurrencyCode": "BRL",
+            "paymentCurrencySymbol": "R$",
+            "paymentCurrencyAmount": 3800,
+            "paymentCurrencyAmountNatural": 38
+        },
+        {
+            "paymentCurrencyCode": "NOK",
+            "paymentCurrencySymbol": "kr",
+            "paymentCurrencyAmount": 11900,
+            "paymentCurrencyAmountNatural": 119
+        },
+        {
+            "paymentCurrencyCode": "SAR",
+            "paymentCurrencySymbol": "ر.س",
+            "paymentCurrencyAmount": 4500,
+            "paymentCurrencyAmountNatural": 45
+        },
+        {
+            "paymentCurrencyCode": "AUD",
+            "paymentCurrencySymbol": "$",
+            "paymentCurrencyAmount": 1755,
+            "paymentCurrencyAmountNatural": 17.55
+        }
+    ]
+}
