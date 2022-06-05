@@ -16561,18 +16561,20 @@
             "long_description": "This event has Hype prizes and is only available for Open League players. This tournament occurs across two rounds, with the top 50 duos from Round 1 advancing to Round 2. Full details are available at www.epicgames.com/fortnite/competitive/news.",
             "schedule": "Mondays and Wednesdays",
             "beginTime": "2022-04-04T08:00:00+00:00",
-            "endTime": "2022-06-01T11:00:00+00:00",
+            "endTime": "2022-05-31T11:00:00+00:00",
             "cumulative": false,
             "platforms": [
                 "XboxOneGDK",
                 "PS4",
+                "Helios",
                 "XboxOne",
                 "XSX",
                 "Android",
                 "PS5",
+                "HeliosMobile",
                 "GFN",
                 "Switch",
-                "GFNMOBILE",
+                "GFNMobile",
                 "Windows"
             ],
             "renderData": {
@@ -16665,8 +16667,8 @@
                 },
                 {
                     "windowId": "S20_DuosHypeCup_Open_OCE_Event8_Round2",
-                    "beginTime": "2022-06-01T08:00:00+00:00",
-                    "endTime": "2022-06-01T11:00:00+00:00"
+                    "beginTime": "2022-05-31T08:00:00+00:00",
+                    "endTime": "2022-05-31T11:00:00+00:00"
                 }
             ]
         },
@@ -16684,18 +16686,20 @@
             "long_description": "This event has cash prizes and is only available for Champion League players. This tournament occurs across two rounds, with the top 50 duos from Round 1 advancing to Round 2. Full details are available at www.epicgames.com/fortnite/competitive/news.",
             "schedule": "Mondays and Wednesdays",
             "beginTime": "2022-04-04T08:00:00+00:00",
-            "endTime": "2022-06-01T11:00:00+00:00",
+            "endTime": "2022-05-31T11:00:00+00:00",
             "cumulative": false,
             "platforms": [
                 "XboxOneGDK",
                 "PS4",
+                "Helios",
                 "XboxOne",
                 "XSX",
                 "Android",
                 "PS5",
+                "HeliosMobile",
                 "GFN",
                 "Switch",
-                "GFNMOBILE",
+                "GFNMobile",
                 "Windows"
             ],
             "renderData": {
@@ -16788,8 +16792,8 @@
                 },
                 {
                     "windowId": "S20_DuosCashCup_OCE_Event8_Round2",
-                    "beginTime": "2022-06-01T08:00:00+00:00",
-                    "endTime": "2022-06-01T11:00:00+00:00"
+                    "beginTime": "2022-05-31T08:00:00+00:00",
+                    "endTime": "2022-05-31T11:00:00+00:00"
                 },
                 {
                     "windowId": "S20_DuosCashCup_OCE_Event4_Round2_Encore",
@@ -16812,18 +16816,20 @@
             "long_description": "This event has Hype prizes and is only available for Contender League players. This tournament occurs across two rounds, with the top 50 duos from Round 1 advancing to Round 2. Full details are available at www.epicgames.com/fortnite/competitive/news.",
             "schedule": "Mondays and Wednesdays",
             "beginTime": "2022-04-04T08:00:00+00:00",
-            "endTime": "2022-06-01T11:00:00+00:00",
+            "endTime": "2022-05-31T11:00:00+00:00",
             "cumulative": false,
             "platforms": [
                 "XboxOneGDK",
                 "PS4",
+                "Helios",
                 "XboxOne",
                 "XSX",
                 "Android",
                 "PS5",
+                "HeliosMobile",
                 "GFN",
                 "Switch",
-                "GFNMOBILE",
+                "GFNMobile",
                 "Windows"
             ],
             "renderData": {
@@ -16916,8 +16922,8 @@
                 },
                 {
                     "windowId": "S20_DuosHypeCup_Contender_OCE_Event8_Round2",
-                    "beginTime": "2022-06-01T08:00:00+00:00",
-                    "endTime": "2022-06-01T11:00:00+00:00"
+                    "beginTime": "2022-05-31T08:00:00+00:00",
+                    "endTime": "2022-05-31T11:00:00+00:00"
                 }
             ]
         },
@@ -17079,13 +17085,15 @@
             "platforms": [
                 "XboxOneGDK",
                 "PS4",
+                "Helios",
                 "XboxOne",
                 "XSX",
                 "Android",
                 "PS5",
+                "HeliosMobile",
                 "GFN",
                 "Switch",
-                "GFNMOBILE",
+                "GFNMobile",
                 "Windows"
             ],
             "renderData": {
@@ -17152,13 +17160,15 @@
             "platforms": [
                 "XboxOneGDK",
                 "PS4",
+                "Helios",
                 "XboxOne",
                 "XSX",
                 "Android",
                 "PS5",
+                "HeliosMobile",
                 "GFN",
                 "Switch",
-                "GFNMOBILE",
+                "GFNMobile",
                 "Windows"
             ],
             "renderData": {
@@ -17225,13 +17235,15 @@
             "platforms": [
                 "XboxOneGDK",
                 "PS4",
+                "Helios",
                 "XboxOne",
                 "XSX",
                 "Android",
                 "PS5",
+                "HeliosMobile",
                 "GFN",
                 "Switch",
-                "GFNMOBILE",
+                "GFNMobile",
                 "Windows"
             ],
             "renderData": {
@@ -17293,7 +17305,7 @@
             "long_description": "This event has cash prizes and is only available for Champion League players. This tournament occurs across two rounds, with the top 100 from Round 1 advancing to Round 2. Full details are available at www.epicgames.com/fortnite/competitive/news.",
             "schedule": "Saturdays and Sundays",
             "beginTime": "2022-04-09T04:00:00+00:00",
-            "endTime": "2022-05-22T07:00:00+00:00",
+            "endTime": "2022-05-22T07:30:00+00:00",
             "cumulative": false,
             "platforms": [
                 "XboxOneGDK",
@@ -17304,7 +17316,7 @@
                 "PS5",
                 "GFN",
                 "Switch",
-                "GFNMOBILE",
+                "GFNMobile",
                 "Windows"
             ],
             "renderData": {
@@ -17368,7 +17380,7 @@
                 {
                     "windowId": "S20_SoloCashCup_OCE_Event5_Round2",
                     "beginTime": "2022-05-22T04:00:00+00:00",
-                    "endTime": "2022-05-22T07:00:00+00:00"
+                    "endTime": "2022-05-22T07:30:00+00:00"
                 }
             ]
         },
@@ -17397,7 +17409,7 @@
                 "PS5",
                 "GFN",
                 "Switch",
-                "GFNMOBILE",
+                "GFNMobile",
                 "Windows"
             ],
             "renderData": {
@@ -17490,7 +17502,7 @@
                 "PS5",
                 "GFN",
                 "Switch",
-                "GFNMOBILE",
+                "GFNMobile",
                 "Windows"
             ],
             "renderData": {
@@ -17671,54 +17683,6 @@
                     "windowId": "S20_LCElimOnlyHighScoreDuos_OCE_Round3",
                     "beginTime": "2022-04-14T08:00:00+00:00",
                     "endTime": "2022-04-14T10:00:00+00:00"
-                }
-            ]
-        },
-        {
-            "id": "epicgames_S20_LCArchitectDuos_OCE",
-            "displayId": "s20_lc_architectduos",
-            "region": "OCE",
-            "name_line1": "\"Architect - Duos\"",
-            "name_line2": "Lightning Cup",
-            "poster": "https://cdn2.unrealengine.com/20comp-lightningcup-poster-front-750x1080-1634c7d2f3de.jpg",
-            "posterBack": "https://cdn2.unrealengine.com/20comp-lightningcup-poster-back-750x1080-8b6ed46acbea.jpg",
-            "loadingScreen": "https://cdn2.unrealengine.com/20comp-lightningcup-tile-1920x1080-1920x1080-9f2e90db5f7d.jpg",
-            "tileImage": "https://cdn2.unrealengine.com/20comp-lightningcup-tile-1920x1080-1920x1080-9f2e90db5f7d.jpg",
-            "short_description": "Share the love (and your builds) in the Architect Cup!",
-            "long_description": "This Lightning Cup will utilize \"Architect\" game rules, where players can edit not only their own builds, but everyone else's too!  Full rules and details here: https://www.epicgames.com/fortnite/competitive/en-US/rules-library",
-            "schedule": "April 19th",
-            "beginTime": "2022-04-19T10:00:00+00:00",
-            "endTime": "2022-04-19T12:00:00+00:00",
-            "cumulative": false,
-            "platforms": [
-                "XboxOneGDK",
-                "PS4",
-                "XboxOne",
-                "XSX",
-                "Android",
-                "PS5",
-                "GFN",
-                "Switch",
-                "GFNMOBILE",
-                "Windows"
-            ],
-            "renderData": {
-                "title_color": "FFFFFF",
-                "background_text_color": "FFFFFF",
-                "background_right_color": "38025A",
-                "highlight_color": "F7FF00",
-                "primary_color": "F83D47",
-                "shadow_color": "24003A",
-                "background_left_color": "590191",
-                "poster_fade_color": "2E014B",
-                "secondary_color": "38025A",
-                "base_color": "FFFFFF"
-            },
-            "windows": [
-                {
-                    "windowId": "S20_LCArchitectDuos_OCE",
-                    "beginTime": "2022-04-19T10:00:00+00:00",
-                    "endTime": "2022-04-19T12:00:00+00:00"
                 }
             ]
         },
@@ -18099,7 +18063,7 @@
                 "PS5",
                 "GFN",
                 "Switch",
-                "GFNMOBILE",
+                "GFNMobile",
                 "Windows"
             ],
             "renderData": {
@@ -18124,6 +18088,59 @@
                     "windowId": "S20_LCElegantWeaponsDuos_Event2_OCE",
                     "beginTime": "2022-05-11T10:00:00+00:00",
                     "endTime": "2022-05-11T12:00:00+00:00"
+                },
+                {
+                    "windowId": "S20_LCElegantWeaponsDuos_Event3_OCE",
+                    "beginTime": "2022-05-11T10:00:00+00:00",
+                    "endTime": "2022-05-11T12:00:00+00:00"
+                }
+            ]
+        },
+        {
+            "id": "epicgames_S20_ChicaCup_OCE",
+            "displayId": "s20_chicacup",
+            "region": "OCE",
+            "name_line1": "Chica",
+            "name_line2": "Cup",
+            "poster": "https://cdn2.unrealengine.com/20br-littleegg-ingame-poster-front-750x1080-d2d28da242e7.jpg",
+            "posterBack": "https://cdn2.unrealengine.com/20br-littleegg-ingame-poster-back-750x1080-ebc9ca8c64c9.jpg",
+            "loadingScreen": "https://cdn2.unrealengine.com/20br-littleegg-discovery-tile-1920x1080-1920x1080-7f8641eb179b.jpg",
+            "tileImage": "https://cdn2.unrealengine.com/20br-littleegg-discovery-tile-1920x1080-1920x1080-7f8641eb179b.jpg",
+            "short_description": "Are you ready, Pollos?",
+            "long_description": "Compete in the Chica Cup now for a chance to unlock the Chica Outfit before it comes to the Item Shop and earn at least eight points to unlock the Chica Was Here Spray! Full rules and details here: fn.gg/ChicaCup",
+            "schedule": "May 5th",
+            "beginTime": "2022-05-05T08:00:00+00:00",
+            "endTime": "2022-05-05T11:00:00+00:00",
+            "cumulative": false,
+            "platforms": [
+                "XboxOneGDK",
+                "PS4",
+                "XboxOne",
+                "XSX",
+                "Android",
+                "PS5",
+                "GFN",
+                "Switch",
+                "GFNMOBILE",
+                "Windows"
+            ],
+            "renderData": {
+                "title_color": "FFFFFF",
+                "background_text_color": "FFFFFF",
+                "background_right_color": "0068FD",
+                "highlight_color": "F7FF00",
+                "primary_color": "00D0DD",
+                "shadow_color": "000F4A",
+                "background_left_color": "00FE6A",
+                "poster_fade_color": "000D3C",
+                "secondary_color": "000F4A",
+                "base_color": "FFFFFF"
+            },
+            "windows": [
+                {
+                    "windowId": "S20_ChicaCup_OCE",
+                    "beginTime": "2022-05-05T08:00:00+00:00",
+                    "endTime": "2022-05-05T11:00:00+00:00"
                 }
             ]
         },
@@ -18215,7 +18232,7 @@
                 "PS5",
                 "GFN",
                 "Switch",
-                "GFNMOBILE",
+                "GFNMobile",
                 "Windows"
             ],
             "renderData": {
@@ -18254,6 +18271,263 @@
             ]
         },
         {
+            "id": "epicgames_s20_LCArchitectSolos_OCE",
+            "displayId": "s20_lc_architectsolos",
+            "region": "OCE",
+            "name_line1": "\"Architect - Solos\"",
+            "name_line2": "Lightning Cup",
+            "poster": "https://cdn2.unrealengine.com/20comp-lightningcup-poster-front-750x1080-1634c7d2f3de.jpg",
+            "posterBack": "https://cdn2.unrealengine.com/20comp-lightningcup-poster-back-750x1080-8b6ed46acbea.jpg",
+            "loadingScreen": "https://cdn2.unrealengine.com/20comp-lightningcup-tile-1920x1080-1920x1080-9f2e90db5f7d.jpg",
+            "tileImage": "https://cdn2.unrealengine.com/20comp-lightningcup-tile-1920x1080-1920x1080-9f2e90db5f7d.jpg",
+            "short_description": "Share the love (and your builds) in the Architect Cup!",
+            "long_description": "This Lightning Cup will utilize \"Architect\" game rules, where players can edit not only their own builds, but everyone else's too!  Full rules and details here: https://www.epicgames.com/fortnite/competitive/en-US/rules-library",
+            "schedule": "May 12th",
+            "beginTime": "2022-05-14T02:00:00+00:00",
+            "endTime": "2022-05-14T04:00:00+00:00",
+            "cumulative": false,
+            "platforms": [
+                "XboxOneGDK",
+                "PS4",
+                "XboxOne",
+                "XSX",
+                "Android",
+                "PS5",
+                "GFN",
+                "Switch",
+                "GFNMobile",
+                "Windows"
+            ],
+            "renderData": {
+                "title_color": "FFFFFF",
+                "background_text_color": "FFFFFF",
+                "background_right_color": "38025A",
+                "highlight_color": "F7FF00",
+                "primary_color": "F83D47",
+                "shadow_color": "24003A",
+                "background_left_color": "590191",
+                "poster_fade_color": "2E014B",
+                "secondary_color": "38025A",
+                "base_color": "FFFFFF"
+            },
+            "windows": [
+                {
+                    "windowId": "S20_LCArchitectSolos_OCE",
+                    "beginTime": "2022-05-14T02:00:00+00:00",
+                    "endTime": "2022-05-14T04:00:00+00:00"
+                }
+            ]
+        },
+        {
+            "id": "epicgames_S20_LCArchitectDuos_OCE",
+            "displayId": "s20_lc_architectduos",
+            "region": "OCE",
+            "name_line1": "\"Architect - Duos\"",
+            "name_line2": "Lightning Cup",
+            "poster": "https://cdn2.unrealengine.com/20comp-lightningcup-poster-front-750x1080-1634c7d2f3de.jpg",
+            "posterBack": "https://cdn2.unrealengine.com/20comp-lightningcup-poster-back-750x1080-8b6ed46acbea.jpg",
+            "loadingScreen": "https://cdn2.unrealengine.com/20comp-lightningcup-tile-1920x1080-1920x1080-9f2e90db5f7d.jpg",
+            "tileImage": "https://cdn2.unrealengine.com/20comp-lightningcup-tile-1920x1080-1920x1080-9f2e90db5f7d.jpg",
+            "short_description": "Share the love (and your builds) in the Architect Cup!",
+            "long_description": "This Lightning Cup will utilize \"Architect\" game rules, where players can edit not only their own builds, but everyone else's too!  Full rules and details here: https://www.epicgames.com/fortnite/competitive/en-US/rules-library",
+            "schedule": "April 19th, May 15th",
+            "beginTime": "2022-05-15T10:00:00+00:00",
+            "endTime": "2022-05-15T12:00:00+00:00",
+            "cumulative": false,
+            "platforms": [
+                "XboxOneGDK",
+                "PS4",
+                "XboxOne",
+                "XSX",
+                "Android",
+                "PS5",
+                "GFN",
+                "Switch",
+                "GFNMobile",
+                "Windows"
+            ],
+            "renderData": {
+                "title_color": "FFFFFF",
+                "background_text_color": "FFFFFF",
+                "background_right_color": "38025A",
+                "highlight_color": "F7FF00",
+                "primary_color": "F83D47",
+                "shadow_color": "24003A",
+                "background_left_color": "590191",
+                "poster_fade_color": "2E014B",
+                "secondary_color": "38025A",
+                "base_color": "FFFFFF"
+            },
+            "windows": [
+                {
+                    "windowId": "S20_LCArchitectDuos_OCE",
+                    "beginTime": "2022-04-19T10:00:00+00:00",
+                    "endTime": "2022-04-19T12:00:00+00:00"
+                },
+                {
+                    "windowId": "S20_LCArchitectDuos_Event2_OCE",
+                    "beginTime": "2022-05-15T10:00:00+00:00",
+                    "endTime": "2022-05-15T12:00:00+00:00"
+                }
+            ]
+        },
+        {
+            "id": "epicgames_S20_LCStartingLoadoutDuos_OCE",
+            "displayId": "s20_lc_startingloadoutduos",
+            "region": "OCE",
+            "name_line1": "\"Starting Loadout - Duos\"",
+            "name_line2": "Lightning Cup",
+            "poster": "https://cdn2.unrealengine.com/20comp-lightningcup-poster-front-750x1080-1634c7d2f3de.jpg",
+            "posterBack": "https://cdn2.unrealengine.com/20comp-lightningcup-poster-back-750x1080-8b6ed46acbea.jpg",
+            "loadingScreen": "https://cdn2.unrealengine.com/20comp-lightningcup-tile-1920x1080-1920x1080-9f2e90db5f7d.jpg",
+            "tileImage": "https://cdn2.unrealengine.com/20comp-lightningcup-tile-1920x1080-1920x1080-9f2e90db5f7d.jpg",
+            "short_description": "Bring your best and we'll provide the rest!",
+            "long_description": "This Lightning Cup will utilize the \"Starting Loadout\" game rule. Each player will start with a \"Striker Burst Assault Rifle\", \"Striker Pump Shotgun\", \"Stinger SMG\", a pair of \"Floppers\", and a stack of \"Small Shield Potions\"!  Full rules and details here: https://www.epicgames.com/fortnite/competitive/en-US/rules-library",
+            "schedule": "May 17th, 25th / June 2nd",
+            "beginTime": "2022-05-17T10:00:00+00:00",
+            "endTime": "2022-05-25T08:00:00+00:00",
+            "cumulative": false,
+            "platforms": [
+                "XboxOneGDK",
+                "PS4",
+                "XboxOne",
+                "XSX",
+                "Android",
+                "PS5",
+                "GFN",
+                "Switch",
+                "GFNMobile",
+                "Windows"
+            ],
+            "renderData": {
+                "title_color": "FFFFFF",
+                "background_text_color": "FFFFFF",
+                "background_right_color": "38025A",
+                "highlight_color": "F7FF00",
+                "primary_color": "F83D47",
+                "shadow_color": "24003A",
+                "background_left_color": "590191",
+                "poster_fade_color": "2E014B",
+                "secondary_color": "38025A",
+                "base_color": "FFFFFF"
+            },
+            "windows": [
+                {
+                    "windowId": "S20_LCStartingLoadoutDuos_Event1_OCE",
+                    "beginTime": "2022-05-17T10:00:00+00:00",
+                    "endTime": "2022-05-17T12:30:00+00:00"
+                },
+                {
+                    "windowId": "S20_LCStartingLoadoutDuos_Event2_OCE",
+                    "beginTime": "2022-05-25T06:00:00+00:00",
+                    "endTime": "2022-05-25T08:00:00+00:00"
+                },
+                {
+                    "windowId": "S20_LCStartingLoadoutDuos_Event3_OCE",
+                    "beginTime": "2022-05-18T06:00:00+00:00",
+                    "endTime": "2022-05-18T08:00:00+00:00"
+                }
+            ]
+        },
+        {
+            "id": "epicgames_S20_AliaACup_OCE",
+            "displayId": "s20_AliACup",
+            "region": "OCE",
+            "name_line1": "Ali-A",
+            "name_line2": "Cup",
+            "poster": "https://cdn2.unrealengine.com/20comp-in-game-alfredocup-poster-front-750x1080-408c09f540c4.jpg",
+            "posterBack": "https://cdn2.unrealengine.com/20comp-in-game-alfredocup-poster-back-750x1080-a84339ab7529.jpg",
+            "loadingScreen": "https://cdn2.unrealengine.com/20comp-in-game-alfredocup-tile-1920x1080-1920x1080-25af52962df1.jpg",
+            "tileImage": "https://cdn2.unrealengine.com/20comp-in-game-alfredocup-tile-1920x1080-1920x1080-25af52962df1.jpg",
+            "short_description": "Pair up for this Zero Build tournament!",
+            "long_description": "Top teams at the conclusion of the event will win the Ali-A Icon Series outfit and backbling before it hits the item shop! Full rules and details here: fn.gg/AliACup",
+            "schedule": "May 18th",
+            "beginTime": "2022-05-18T08:00:00+00:00",
+            "endTime": "2022-05-18T11:00:00+00:00",
+            "cumulative": false,
+            "platforms": [
+                "XboxOneGDK",
+                "PS4",
+                "Helios",
+                "XboxOne",
+                "XSX",
+                "Android",
+                "PS5",
+                "HeliosMobile",
+                "GFN",
+                "Switch",
+                "GFNMobile",
+                "Windows"
+            ],
+            "renderData": {
+                "title_color": "FFFFFF",
+                "background_text_color": "03036D",
+                "background_right_color": "009AEA",
+                "highlight_color": "F7FF00",
+                "primary_color": "FFFFFF",
+                "shadow_color": "03036D",
+                "background_left_color": "02004B",
+                "poster_fade_color": "020250",
+                "secondary_color": "03036D",
+                "base_color": "FFFFFF"
+            },
+            "windows": [
+                {
+                    "windowId": "S20_AliACup_OCE_Event1",
+                    "beginTime": "2022-05-18T08:00:00+00:00",
+                    "endTime": "2022-05-18T11:00:00+00:00"
+                }
+            ]
+        },
+        {
+            "id": "epicgames_S20_LCStartingLoadoutSolos_OCE",
+            "displayId": "s20_lc_startingloadoutsolos",
+            "region": "OCE",
+            "name_line1": "\"Starting Loadout - Solo\"",
+            "name_line2": "Lightning Cup",
+            "poster": "https://cdn2.unrealengine.com/20comp-lightningcup-poster-front-750x1080-1634c7d2f3de.jpg",
+            "posterBack": "https://cdn2.unrealengine.com/20comp-lightningcup-poster-back-750x1080-8b6ed46acbea.jpg",
+            "loadingScreen": "https://cdn2.unrealengine.com/20comp-lightningcup-tile-1920x1080-1920x1080-9f2e90db5f7d.jpg",
+            "tileImage": "https://cdn2.unrealengine.com/20comp-lightningcup-tile-1920x1080-1920x1080-9f2e90db5f7d.jpg",
+            "short_description": "Bring your best and we'll provide the rest!",
+            "long_description": "This Lightning Cup will utilize the \"Starting Loadout\" game rule. Each player will start with a \"Striker Burst Assault Rifle\", \"Striker Pump Shotgun\", \"Stinger SMG\", a pair of \"Floppers\", and a stack of \"Small Shield Potions\"!  Full rules and details here: https://www.epicgames.com/fortnite/competitive/en-US/rules-library",
+            "schedule": "May 19th",
+            "beginTime": "2022-05-19T10:00:00+00:00",
+            "endTime": "2022-05-19T12:00:00+00:00",
+            "cumulative": false,
+            "platforms": [
+                "XboxOneGDK",
+                "PS4",
+                "XboxOne",
+                "XSX",
+                "Android",
+                "PS5",
+                "GFN",
+                "Switch",
+                "GFNMobile",
+                "Windows"
+            ],
+            "renderData": {
+                "title_color": "FFFFFF",
+                "background_text_color": "FFFFFF",
+                "background_right_color": "38025A",
+                "highlight_color": "F7FF00",
+                "primary_color": "F83D47",
+                "shadow_color": "24003A",
+                "background_left_color": "590191",
+                "poster_fade_color": "2E014B",
+                "secondary_color": "38025A",
+                "base_color": "FFFFFF"
+            },
+            "windows": [
+                {
+                    "windowId": "S20_LCStartingLoadout_Solos_OCE",
+                    "beginTime": "2022-05-19T10:00:00+00:00",
+                    "endTime": "2022-05-19T12:00:00+00:00"
+                }
+            ]
+        },
+        {
             "id": "epicgames_S20_FNCS_SemiFinals_OCE",
             "displayId": "s20_fncs_semi",
             "region": "OCE",
@@ -18278,7 +18552,7 @@
                 "PS5",
                 "GFN",
                 "Switch",
-                "GFNMOBILE",
+                "GFNMobile",
                 "Windows"
             ],
             "renderData": {
@@ -18312,6 +18586,284 @@
             ]
         },
         {
+            "id": "epicgames_S20_ObiWanCup_OCE",
+            "displayId": "s20_obiwan_cup",
+            "region": "OCE",
+            "name_line1": "Obi-Wan",
+            "name_line2": "Kenobi Cup",
+            "poster": "https://cdn2.unrealengine.com/20comp-social-obi-wankenobicup-poster-front-750x1080-88247bb1d16a.jpg",
+            "posterBack": "https://cdn2.unrealengine.com/20comp-social-obi-wankenobicup-poster-back-750x1080-e6dd33b63b92.jpg",
+            "loadingScreen": "https://cdn2.unrealengine.com/20comp-social-obi-wankenobicup-tile-1920x1080-1920x1080-2c388d52bedf.jpg",
+            "tileImage": "https://cdn2.unrealengine.com/20comp-social-obi-wankenobicup-tile-1920x1080-1920x1080-2c388d52bedf.jpg",
+            "short_description": "Hello there.",
+            "long_description": "Pair up for the Obi-Wan Kenobi Cup! Top Duos at the end of this tournament will win early access to the Obi-Wan Kenobi outfit before it appears in the item shop. Full rules and details here: fn.gg/Obi-Wan",
+            "schedule": "May 22nd",
+            "beginTime": "2022-05-22T04:00:00+00:00",
+            "endTime": "2022-05-22T07:45:00+00:00",
+            "cumulative": false,
+            "platforms": [
+                "XboxOneGDK",
+                "PS4",
+                "XboxOne",
+                "XSX",
+                "Android",
+                "PS5",
+                "GFN",
+                "Switch",
+                "GFNMobile",
+                "Windows"
+            ],
+            "renderData": {
+                "background_text_color": "161616",
+                "poster_fade_color": "400208",
+                "secondary_color": "161616",
+                "title_color": "FFFFFF",
+                "background_right_color": "C04400",
+                "highlight_color": "F7FF00",
+                "primary_color": "FFFFFF",
+                "shadow_color": "161616",
+                "background_left_color": "FF5900",
+                "base_color": "FFFFFF"
+            },
+            "windows": [
+                {
+                    "windowId": "S20_ObiWanCup_OCE_Event1",
+                    "beginTime": "2022-05-22T04:00:00+00:00",
+                    "endTime": "2022-05-22T07:45:00+00:00"
+                }
+            ]
+        },
+        {
+            "id": "epicgames_S20_FNCSCommunityCup_OCE",
+            "displayId": "s20_fncscommunitycup",
+            "region": "OCE",
+            "name_line1": "FNCS",
+            "name_line2": "Community Cup",
+            "poster": "https://cdn2.unrealengine.com/20comp-fncs-in-game-communitycup-poster-front-qual1-750x1080-b2dbe897f50c.jpg",
+            "posterBack": "https://cdn2.unrealengine.com/20comp-fncs-in-game-communitycup-poster-back-750x1080-66b41c78b67a.jpg",
+            "loadingScreen": "https://cdn2.unrealengine.com/20comp-fncs-in-game-communitycup-discoverytile-1920x1080-1920x1080-d0cf6817c5c2.jpg",
+            "tileImage": "https://cdn2.unrealengine.com/20comp-fncs-in-game-communitycup-discoverytile-1920x1080-1920x1080-d0cf6817c5c2.jpg",
+            "short_description": "Hop in this celebratory tournament for an opportunity to win the new FNCS in-game outfit early!",
+            "long_description": "This event is open to all eligible players. Form a duo and play in this single-round tournament to win early access to the new FNCS outfit before it hits the item shop! Full rules and details can be found at https://www.epicgames.com/fortnite/competitive/rules-library",
+            "schedule": "May 24, 25",
+            "beginTime": "2022-05-25T07:00:00+00:00",
+            "endTime": "2022-05-25T10:00:00+00:00",
+            "cumulative": false,
+            "platforms": [
+                "XboxOneGDK",
+                "PS4",
+                "Helios",
+                "XboxOne",
+                "XSX",
+                "Android",
+                "PS5",
+                "HeliosMobile",
+                "GFN",
+                "Switch",
+                "GFNMobile",
+                "Windows"
+            ],
+            "renderData": {
+                "background_text_color": "FFFFFF",
+                "poster_fade_color": "EEEDFB",
+                "secondary_color": "161616",
+                "title_color": "FFFFFF",
+                "background_right_color": "AAACBB",
+                "highlight_color": "F7FF00",
+                "primary_color": "F20033",
+                "shadow_color": "161616",
+                "background_left_color": "AAACBB",
+                "base_color": "FFFFFF"
+            },
+            "windows": [
+                {
+                    "windowId": "S20_FNCSCommunityCup_OCE_Event1",
+                    "beginTime": "2022-05-25T07:00:00+00:00",
+                    "endTime": "2022-05-25T10:00:00+00:00"
+                }
+            ]
+        },
+        {
+            "id": "epicgames_S20_LCMicroSessionsDuos_OCE",
+            "displayId": "s20_lc_microsessions_duos",
+            "region": "OCE",
+            "name_line1": "\"Quick\"",
+            "name_line2": "Lightning Cup",
+            "poster": "https://cdn2.unrealengine.com/20comp-lightningcup-poster-front-750x1080-1634c7d2f3de.jpg",
+            "posterBack": "https://cdn2.unrealengine.com/20comp-lightningcup-poster-back-750x1080-8b6ed46acbea.jpg",
+            "loadingScreen": "https://cdn2.unrealengine.com/20comp-lightningcup-tile-1920x1080-1920x1080-9f2e90db5f7d.jpg",
+            "tileImage": "https://cdn2.unrealengine.com/20comp-lightningcup-tile-1920x1080-1920x1080-9f2e90db5f7d.jpg",
+            "short_description": "3 micro sessions throughout the day!",
+            "long_description": "You and your partner only have an hour in each of today's Quick Lightning Cups. You can play in multiple of the three available tournament micro sessions. For full rules see: https://www.epicgames.com/fortnite/competitive/en-US/rules-library",
+            "schedule": "May 26th",
+            "beginTime": "2022-05-26T02:00:00+00:00",
+            "endTime": "2022-05-26T13:00:00+00:00",
+            "cumulative": false,
+            "platforms": [
+                "XboxOneGDK",
+                "PS4",
+                "Helios",
+                "XboxOne",
+                "XSX",
+                "Android",
+                "PS5",
+                "HeliosMobile",
+                "GFN",
+                "Switch",
+                "GFNMobile",
+                "Windows"
+            ],
+            "renderData": {
+                "title_color": "FFFFFF",
+                "background_text_color": "FFFFFF",
+                "background_right_color": "38025A",
+                "highlight_color": "F7FF00",
+                "primary_color": "F83D47",
+                "shadow_color": "24003A",
+                "background_left_color": "590191",
+                "poster_fade_color": "2E014B",
+                "secondary_color": "38025A",
+                "base_color": "FFFFFF"
+            },
+            "windows": [
+                {
+                    "windowId": "S20_LCMicroSessionsDuos_OCE_Round1",
+                    "beginTime": "2022-05-26T02:00:00+00:00",
+                    "endTime": "2022-05-26T03:00:00+00:00"
+                },
+                {
+                    "windowId": "S20_LCMicroSessionsDuos_OCE_Round2",
+                    "beginTime": "2022-05-26T08:00:00+00:00",
+                    "endTime": "2022-05-26T09:00:00+00:00"
+                },
+                {
+                    "windowId": "S20_LCMicroSessionsDuos_OCE_Round3",
+                    "beginTime": "2022-05-26T12:00:00+00:00",
+                    "endTime": "2022-05-26T13:00:00+00:00"
+                }
+            ]
+        },
+        {
+            "id": "epicgames_S20_PlaystationCupMay_OCE_Round1",
+            "displayId": "s20_playstation_may",
+            "region": "OCE",
+            "name_line1": "PlayStation",
+            "name_line2": "Cup",
+            "poster": "https://cdn2.unrealengine.com/20comp-in-game-pscup-may-poster-front-750x1080-01e6d86f6679.jpg",
+            "posterBack": "https://cdn2.unrealengine.com/20comp-in-game-pscup-may-poster-back-750x1080-8e924c666aab.jpg",
+            "loadingScreen": "https://cdn2.unrealengine.com/20comp-in-game-pscup-may-tile-1920x1080-1920x1080-42214a76a398.jpg",
+            "tileImage": "https://cdn2.unrealengine.com/20comp-in-game-pscup-may-tile-1920x1080-1920x1080-42214a76a398.jpg",
+            "short_description": "Compete against other PlayStation players for an opportunity to earn a cash prize and the Blue Striker spray!",
+            "long_description": "This event will occur over three rounds. In Round 1, the top 500 teams will advance to Round 2. In Round 2, the top 50 teams will advance to Round 3. For more details and official rules, visit: https://www.epicgames.com/fortnite/competitive/en-US/rules-library",
+            "schedule": "May 26th - 27th",
+            "beginTime": "2022-05-26T07:00:00+00:00",
+            "endTime": "2022-05-26T10:00:00+00:00",
+            "cumulative": false,
+            "platforms": [
+                "PS4",
+                "PS5"
+            ],
+            "renderData": {
+                "background_text_color": "000F4A",
+                "poster_fade_color": "000D3C",
+                "secondary_color": "000F4A",
+                "title_color": "FFFFFF",
+                "background_right_color": "000410",
+                "highlight_color": "F7FF00",
+                "primary_color": "FFFFFF",
+                "shadow_color": "000F4A",
+                "background_left_color": "0126B7",
+                "base_color": "FFFFFF"
+            },
+            "windows": [
+                {
+                    "windowId": "S20_PlaystationCupMay_OCE_Round1",
+                    "beginTime": "2022-05-26T07:00:00+00:00",
+                    "endTime": "2022-05-26T10:00:00+00:00"
+                }
+            ]
+        },
+        {
+            "id": "epicgames_S20_PlaystationCupMay_OCE_Round2",
+            "displayId": "s20_playstation_may",
+            "region": "OCE",
+            "name_line1": "PlayStation",
+            "name_line2": "Cup",
+            "poster": "https://cdn2.unrealengine.com/20comp-in-game-pscup-may-poster-front-750x1080-01e6d86f6679.jpg",
+            "posterBack": "https://cdn2.unrealengine.com/20comp-in-game-pscup-may-poster-back-750x1080-8e924c666aab.jpg",
+            "loadingScreen": "https://cdn2.unrealengine.com/20comp-in-game-pscup-may-tile-1920x1080-1920x1080-42214a76a398.jpg",
+            "tileImage": "https://cdn2.unrealengine.com/20comp-in-game-pscup-may-tile-1920x1080-1920x1080-42214a76a398.jpg",
+            "short_description": "Compete against other PlayStation players for an opportunity to earn a cash prize and the Blue Striker spray!",
+            "long_description": "This event will occur over three rounds. In Round 1, the top 500 teams will advance to Round 2. In Round 2, the top 50 teams will advance to Round 3. For more details and official rules, visit: https://www.epicgames.com/fortnite/competitive/en-US/rules-library",
+            "schedule": "May 26th - 27th",
+            "beginTime": "2022-05-27T07:00:00+00:00",
+            "endTime": "2022-05-27T10:00:00+00:00",
+            "cumulative": false,
+            "platforms": [
+                "PS4",
+                "PS5"
+            ],
+            "renderData": {
+                "background_text_color": "000F4A",
+                "poster_fade_color": "000D3C",
+                "secondary_color": "000F4A",
+                "title_color": "FFFFFF",
+                "background_right_color": "000410",
+                "highlight_color": "F7FF00",
+                "primary_color": "FFFFFF",
+                "shadow_color": "000F4A",
+                "background_left_color": "0126B7",
+                "base_color": "FFFFFF"
+            },
+            "windows": [
+                {
+                    "windowId": "S20_PlaystationCupMay_OCE_Round2",
+                    "beginTime": "2022-05-27T07:00:00+00:00",
+                    "endTime": "2022-05-27T10:00:00+00:00"
+                }
+            ]
+        },
+        {
+            "id": "epicgames_S20_PlaystationCupMay_OCE_Round3",
+            "displayId": "s20_playstation_may_r3",
+            "region": "OCE",
+            "name_line1": "PlayStation",
+            "name_line2": "Cup",
+            "poster": "https://cdn2.unrealengine.com/20comp-in-game-pscup-may-poster-front-750x1080-01e6d86f6679.jpg",
+            "posterBack": "https://cdn2.unrealengine.com/20comp-in-game-pscup-may-poster-back-750x1080-8e924c666aab.jpg",
+            "loadingScreen": "https://cdn2.unrealengine.com/20comp-in-game-pscup-may-tile-1920x1080-1920x1080-42214a76a398.jpg",
+            "tileImage": "https://cdn2.unrealengine.com/20comp-in-game-pscup-may-tile-1920x1080-1920x1080-42214a76a398.jpg",
+            "short_description": "Compete against other PlayStation players for an opportunity to earn a cash prize and the Blue Striker spray!",
+            "long_description": "This event will occur over three rounds. In Round 1, the top 500 teams will advance to Round 2. In Round 2, the top 50 teams will advance to Round 3. For more details and official rules, visit: https://www.epicgames.com/fortnite/competitive/en-US/rules-library",
+            "schedule": "May 28th",
+            "beginTime": "2022-05-28T07:00:00+00:00",
+            "endTime": "2022-05-28T10:00:00+00:00",
+            "cumulative": false,
+            "platforms": [
+                "PS4",
+                "PS5"
+            ],
+            "renderData": {
+                "background_text_color": "000F4A",
+                "poster_fade_color": "000D3C",
+                "secondary_color": "000F4A",
+                "title_color": "FFFFFF",
+                "background_right_color": "000410",
+                "highlight_color": "F7FF00",
+                "primary_color": "FFFFFF",
+                "shadow_color": "000F4A",
+                "background_left_color": "0126B7",
+                "base_color": "FFFFFF"
+            },
+            "windows": [
+                {
+                    "windowId": "S20_PlaystationCupMay_OCE_Round3",
+                    "beginTime": "2022-05-28T07:00:00+00:00",
+                    "endTime": "2022-05-28T10:00:00+00:00"
+                }
+            ]
+        },
+        {
             "id": "epicgames_S20_FNCS_Finals_OCE",
             "displayId": "s20_fncs_final",
             "region": "OCE",
@@ -18336,7 +18888,7 @@
                 "PS5",
                 "GFN",
                 "Switch",
-                "GFNMOBILE",
+                "GFNMobile",
                 "Windows"
             ],
             "renderData": {
@@ -18361,6 +18913,1531 @@
                     "windowId": "S20_FNCS_Finals_OCE_Round2",
                     "beginTime": "2022-05-29T08:00:00+00:00",
                     "endTime": "2022-05-29T11:00:00+00:00"
+                }
+            ]
+        },
+        {
+            "id": "epicgames_S20_LCMicroSessionsTriosZBM_OCE",
+            "displayId": "s20_lc_microsessions_trios_zbm",
+            "region": "OCE",
+            "name_line1": "\"Quick Zero Build\"",
+            "name_line2": "Lightning Cup",
+            "poster": "https://cdn2.unrealengine.com/20comp-lightningcup-poster-front-750x1080-1634c7d2f3de.jpg",
+            "posterBack": "https://cdn2.unrealengine.com/20comp-lightningcup-poster-back-750x1080-8b6ed46acbea.jpg",
+            "loadingScreen": "https://cdn2.unrealengine.com/20comp-lightningcup-tile-1920x1080-1920x1080-9f2e90db5f7d.jpg",
+            "tileImage": "https://cdn2.unrealengine.com/20comp-lightningcup-tile-1920x1080-1920x1080-9f2e90db5f7d.jpg",
+            "short_description": "3 Zero Build micro sessions throughout the day!",
+            "long_description": "You and your team only have an hour in each of today's Quick Lightning Cups. You can play in multiple of the three available tournament micro sessions. For full rules see: https://www.epicgames.com/fortnite/competitive/en-US/rules-library",
+            "schedule": "May 29th",
+            "beginTime": "2022-05-29T02:00:00+00:00",
+            "endTime": "2022-05-29T13:00:00+00:00",
+            "cumulative": false,
+            "platforms": [
+                "XboxOneGDK",
+                "PS4",
+                "Helios",
+                "XboxOne",
+                "XSX",
+                "Android",
+                "PS5",
+                "HeliosMobile",
+                "GFN",
+                "Switch",
+                "GFNMobile",
+                "Windows"
+            ],
+            "renderData": {
+                "title_color": "FFFFFF",
+                "background_text_color": "FFFFFF",
+                "background_right_color": "38025A",
+                "highlight_color": "F7FF00",
+                "primary_color": "F83D47",
+                "shadow_color": "24003A",
+                "background_left_color": "590191",
+                "poster_fade_color": "2E014B",
+                "secondary_color": "38025A",
+                "base_color": "FFFFFF"
+            },
+            "windows": [
+                {
+                    "windowId": "S20_LCMicroSessionsTriosZBM_OCE_Round1",
+                    "beginTime": "2022-05-29T02:00:00+00:00",
+                    "endTime": "2022-05-29T03:00:00+00:00"
+                },
+                {
+                    "windowId": "S20_LCMicroSessionsTriosZBM_OCE_Round2",
+                    "beginTime": "2022-05-29T08:00:00+00:00",
+                    "endTime": "2022-05-29T09:00:00+00:00"
+                },
+                {
+                    "windowId": "S20_LCMicroSessionsTriosZBM_OCE_Round3",
+                    "beginTime": "2022-05-29T12:00:00+00:00",
+                    "endTime": "2022-05-29T13:00:00+00:00"
+                }
+            ]
+        },
+        {
+            "id": "epicgames_S20_LCElimOnlyDuos_OCE",
+            "displayId": "s20_lc_elimonly_duos",
+            "region": "OCE",
+            "name_line1": "\"Elim Only - Duos\"",
+            "name_line2": "Lightning Cup",
+            "poster": "https://cdn2.unrealengine.com/20comp-lightningcup-poster-front-750x1080-1634c7d2f3de.jpg",
+            "posterBack": "https://cdn2.unrealengine.com/20comp-lightningcup-poster-back-750x1080-8b6ed46acbea.jpg",
+            "loadingScreen": "https://cdn2.unrealengine.com/20comp-lightningcup-tile-1920x1080-1920x1080-9f2e90db5f7d.jpg",
+            "tileImage": "https://cdn2.unrealengine.com/20comp-lightningcup-tile-1920x1080-1920x1080-9f2e90db5f7d.jpg",
+            "short_description": "It's an all-out brawl!",
+            "long_description": "Only eliminations will count towards scoring in this Lightning Cup. For full rules see: https://www.epicgames.com/fortnite/competitive/en-US/rules-library",
+            "schedule": "May 31st",
+            "beginTime": "2022-05-31T07:00:00+00:00",
+            "endTime": "2022-05-31T09:00:00+00:00",
+            "cumulative": false,
+            "platforms": [
+                "XboxOneGDK",
+                "PS4",
+                "Helios",
+                "XboxOne",
+                "XSX",
+                "Android",
+                "PS5",
+                "HeliosMobile",
+                "GFN",
+                "Switch",
+                "GFNMobile",
+                "Windows"
+            ],
+            "renderData": {
+                "title_color": "FFFFFF",
+                "background_text_color": "FFFFFF",
+                "background_right_color": "38025A",
+                "highlight_color": "F7FF00",
+                "primary_color": "F83D47",
+                "shadow_color": "24003A",
+                "background_left_color": "590191",
+                "poster_fade_color": "2E014B",
+                "secondary_color": "38025A",
+                "base_color": "FFFFFF"
+            },
+            "windows": [
+                {
+                    "windowId": "S20_LCElimOnly_Duos_OCE_Event1",
+                    "beginTime": "2022-05-31T07:00:00+00:00",
+                    "endTime": "2022-05-31T09:00:00+00:00"
+                }
+            ]
+        },
+        {
+            "id": "epicgames_S20_ConsoleChampionsCup_OCE",
+            "displayId": "s20_consolechampionscup",
+            "region": "OCE",
+            "name_line1": "Console Champions",
+            "name_line2": "Cup",
+            "poster": "https://cdn2.unrealengine.com/20comp-consolechampionscup-in-game-poster-front-750x1080-88d55d0f1e03.jpg",
+            "posterBack": "https://cdn2.unrealengine.com/20comp-consolechampionscup-in-game-poster-back-750x1080-710a0a6a732d.jpg",
+            "loadingScreen": "https://cdn2.unrealengine.com/20comp-consolechampionscup-in-game-tile-1920x1080-1920x1080-fe755f5dbec8.jpg",
+            "tileImage": "https://cdn2.unrealengine.com/20comp-consolechampionscup-in-game-tile-1920x1080-1920x1080-fe755f5dbec8.jpg",
+            "short_description": "CONSOLE DUOS! ",
+            "long_description": "Compete for an opportunity to earn a share of the $250,000 prize pool. This tournament will be played over 4 rounds with the top teams advancing each round. Full rules and details: http://fn.gg/C3S2ConsoleCup",
+            "schedule": "May 31 - June 3rd",
+            "beginTime": "2022-05-31T08:00:00+00:00",
+            "endTime": "2022-06-03T11:00:00+00:00",
+            "cumulative": false,
+            "platforms": [
+                "XboxOneGDK",
+                "PS4",
+                "XboxOne",
+                "XSX",
+                "Android",
+                "PS5",
+                "Switch"
+            ],
+            "renderData": {
+                "title_color": "FFFFFF",
+                "background_text_color": "FFFFFF",
+                "background_right_color": "7802f3",
+                "highlight_color": "F7FF00",
+                "primary_color": "F20033",
+                "shadow_color": "161616",
+                "background_left_color": "5801b3",
+                "poster_fade_color": "400208",
+                "secondary_color": "161616",
+                "base_color": "FFFFFF"
+            },
+            "windows": [
+                {
+                    "windowId": "S20_ConsoleChampionsCup_OCE_Round1",
+                    "beginTime": "2022-05-31T08:00:00+00:00",
+                    "endTime": "2022-05-31T11:00:00+00:00"
+                },
+                {
+                    "windowId": "S20_ConsoleChampionsCup_OCE_Round2",
+                    "beginTime": "2022-06-01T08:00:00+00:00",
+                    "endTime": "2022-06-01T11:00:00+00:00"
+                },
+                {
+                    "windowId": "S20_ConsoleChampionsCup_OCE_Round3",
+                    "beginTime": "2022-06-02T08:00:00+00:00",
+                    "endTime": "2022-06-02T11:00:00+00:00"
+                },
+                {
+                    "windowId": "S20_ConsoleChampionsCup_OCE_Round4",
+                    "beginTime": "2022-06-03T08:00:00+00:00",
+                    "endTime": "2022-06-03T11:00:00+00:00"
+                }
+            ]
+        },
+        {
+            "id": "epicgames_S20_LCElimOnlySolo_OCE",
+            "displayId": "s20_lc_elimonly_solo",
+            "region": "OCE",
+            "name_line1": "\"Elim Only - Solo\"",
+            "name_line2": "Lightning Cup",
+            "poster": "https://cdn2.unrealengine.com/20comp-lightningcup-poster-front-750x1080-1634c7d2f3de.jpg",
+            "posterBack": "https://cdn2.unrealengine.com/20comp-lightningcup-poster-back-750x1080-8b6ed46acbea.jpg",
+            "loadingScreen": "https://cdn2.unrealengine.com/20comp-lightningcup-tile-1920x1080-1920x1080-9f2e90db5f7d.jpg",
+            "tileImage": "https://cdn2.unrealengine.com/20comp-lightningcup-tile-1920x1080-1920x1080-9f2e90db5f7d.jpg",
+            "short_description": "It's an all-out brawl!",
+            "long_description": "Only eliminations will count towards scoring in this Lightning Cup. For full rules see: https://www.epicgames.com/fortnite/competitive/en-US/rules-library",
+            "schedule": "June 1st",
+            "beginTime": "2022-06-01T07:00:00+00:00",
+            "endTime": "2022-06-01T09:00:00+00:00",
+            "cumulative": false,
+            "platforms": [
+                "XboxOneGDK",
+                "PS4",
+                "Helios",
+                "XboxOne",
+                "XSX",
+                "Android",
+                "PS5",
+                "HeliosMobile",
+                "GFN",
+                "Switch",
+                "GFNMobile",
+                "Windows"
+            ],
+            "renderData": {
+                "title_color": "FFFFFF",
+                "background_text_color": "FFFFFF",
+                "background_right_color": "38025A",
+                "highlight_color": "F7FF00",
+                "primary_color": "F83D47",
+                "shadow_color": "24003A",
+                "background_left_color": "590191",
+                "poster_fade_color": "2E014B",
+                "secondary_color": "38025A",
+                "base_color": "FFFFFF"
+            },
+            "windows": [
+                {
+                    "windowId": "S20_LCElimOnly_Solo_OCE_Event1",
+                    "beginTime": "2022-06-01T07:00:00+00:00",
+                    "endTime": "2022-06-01T09:00:00+00:00"
+                }
+            ]
+        },
+        {
+            "id": "epicgames_S21_LCQuickCup_OCE",
+            "displayId": "s21_lcquickcup",
+            "region": "OCE",
+            "name_line1": "\"Quick\"",
+            "name_line2": "Lightning Cup",
+            "poster": "https://cdn2.unrealengine.com/20comp-lightningcup-poster-front-750x1080-f7695b656aa3.jpg",
+            "posterBack": "https://cdn2.unrealengine.com/20comp-lightningcup-poster-back-750x1080-317b5e43652b.jpg",
+            "loadingScreen": "https://cdn2.unrealengine.com/20comp-lightningcup-tile-1920x1080-1920x1080-05f15cdc4851.jpg",
+            "tileImage": "https://cdn2.unrealengine.com/20comp-lightningcup-tile-1920x1080-1920x1080-05f15cdc4851.jpg",
+            "short_description": "Compete in a quick tournament to help us test performance and competitive gameplay in the new season.",
+            "long_description": "You and your partner only have an hour and a half to compete in Round 1 and climb the leaderboard. The top 50 duos from Round 1 will advance to Round 2 on the same day, to play 3 matches in a set lobby. For full rules see: https://www.epicgames.com/fortnite/competitive/en-US/rules-library",
+            "schedule": "June 6th - 9th, 13th - 16th",
+            "beginTime": "2022-06-06T08:00:00+00:00",
+            "endTime": "2022-06-16T11:30:00+00:00",
+            "cumulative": false,
+            "platforms": [
+                "XboxOneGDK",
+                "PS4",
+                "XCloud",
+                "XCloudMobile",
+                "XboxOne",
+                "XSX",
+                "Android",
+                "PS5",
+                "GFN",
+                "Switch",
+                "GFNMobile",
+                "Windows"
+            ],
+            "renderData": {
+                "title_color": "FFFFFF",
+                "background_text_color": "FFFFFF",
+                "background_right_color": "38025A",
+                "highlight_color": "F7FF00",
+                "primary_color": "F83D47",
+                "shadow_color": "24003A",
+                "background_left_color": "590191",
+                "poster_fade_color": "2E014B",
+                "secondary_color": "38025A",
+                "base_color": "FFFFFF"
+            },
+            "windows": [
+                {
+                    "windowId": "S21_LCQuickCup_OCE_Event1_Round1",
+                    "beginTime": "2022-06-06T08:00:00+00:00",
+                    "endTime": "2022-06-06T09:30:00+00:00"
+                },
+                {
+                    "windowId": "S21_LCQuickCup_OCE_Event1_Round2",
+                    "beginTime": "2022-06-06T10:00:00+00:00",
+                    "endTime": "2022-06-06T11:30:00+00:00"
+                },
+                {
+                    "windowId": "S21_LCQuickCup_OCE_Event2_Round1",
+                    "beginTime": "2022-06-07T08:00:00+00:00",
+                    "endTime": "2022-06-07T09:30:00+00:00"
+                },
+                {
+                    "windowId": "S21_LCQuickCup_OCE_Event2_Round2",
+                    "beginTime": "2022-06-07T10:00:00+00:00",
+                    "endTime": "2022-06-07T11:30:00+00:00"
+                },
+                {
+                    "windowId": "S21_LCQuickCup_OCE_Event3_Round1",
+                    "beginTime": "2022-06-08T08:00:00+00:00",
+                    "endTime": "2022-06-08T09:30:00+00:00"
+                },
+                {
+                    "windowId": "S21_LCQuickCup_OCE_Event3_Round2",
+                    "beginTime": "2022-06-08T10:00:00+00:00",
+                    "endTime": "2022-06-08T11:30:00+00:00"
+                },
+                {
+                    "windowId": "S21_LCQuickCup_OCE_Event4_Round1",
+                    "beginTime": "2022-06-09T08:00:00+00:00",
+                    "endTime": "2022-06-09T09:30:00+00:00"
+                },
+                {
+                    "windowId": "S21_LCQuickCup_OCE_Event4_Round2",
+                    "beginTime": "2022-06-09T10:00:00+00:00",
+                    "endTime": "2022-06-09T11:30:00+00:00"
+                },
+                {
+                    "windowId": "S21_LCQuickCup_OCE_Event5_Round1",
+                    "beginTime": "2022-06-13T08:00:00+00:00",
+                    "endTime": "2022-06-13T09:30:00+00:00"
+                },
+                {
+                    "windowId": "S21_LCQuickCup_OCE_Event5_Round2",
+                    "beginTime": "2022-06-13T10:00:00+00:00",
+                    "endTime": "2022-06-13T11:30:00+00:00"
+                },
+                {
+                    "windowId": "S21_LCQuickCup_OCE_Event6_Round1",
+                    "beginTime": "2022-06-14T08:00:00+00:00",
+                    "endTime": "2022-06-14T09:30:00+00:00"
+                },
+                {
+                    "windowId": "S21_LCQuickCup_OCE_Event6_Round2",
+                    "beginTime": "2022-06-14T10:00:00+00:00",
+                    "endTime": "2022-06-14T11:30:00+00:00"
+                },
+                {
+                    "windowId": "S21_LCQuickCup_OCE_Event7_Round1",
+                    "beginTime": "2022-06-15T08:00:00+00:00",
+                    "endTime": "2022-06-15T09:30:00+00:00"
+                },
+                {
+                    "windowId": "S21_LCQuickCup_OCE_Event7_Round2",
+                    "beginTime": "2022-06-15T10:00:00+00:00",
+                    "endTime": "2022-06-15T11:30:00+00:00"
+                },
+                {
+                    "windowId": "S21_LCQuickCup_OCE_Event8_Round1",
+                    "beginTime": "2022-06-16T08:00:00+00:00",
+                    "endTime": "2022-06-16T09:30:00+00:00"
+                },
+                {
+                    "windowId": "S21_LCQuickCup_OCE_Event8_Round2",
+                    "beginTime": "2022-06-16T10:00:00+00:00",
+                    "endTime": "2022-06-16T11:30:00+00:00"
+                }
+            ]
+        },
+        {
+            "id": "epicgames_S21_LCQuickCupTriosZBM_OCE",
+            "displayId": "s21_lcquickcuptrioszmb",
+            "region": "OCE",
+            "name_line1": "\"Quick Zero Build\"",
+            "name_line2": "Lightning Cup",
+            "poster": "https://cdn2.unrealengine.com/20comp-lightningcup-poster-front-750x1080-f7695b656aa3.jpg",
+            "posterBack": "https://cdn2.unrealengine.com/20comp-lightningcup-poster-back-750x1080-317b5e43652b.jpg",
+            "loadingScreen": "https://cdn2.unrealengine.com/20comp-lightningcup-tile-1920x1080-1920x1080-05f15cdc4851.jpg",
+            "tileImage": "https://cdn2.unrealengine.com/20comp-lightningcup-tile-1920x1080-1920x1080-05f15cdc4851.jpg",
+            "short_description": "Compete in a quick Zero Build tournament to help us test performance and competitive gameplay in the new season.",
+            "long_description": "You and your team only have an hour and a half to compete in Round 1 and climb the leaderboard. The top 33 trios from Round 1 will advance to Round 2 on the same day, to play 3 matches in a set lobby. For full rules see: https://www.epicgames.com/fortnite/competitive/en-US/rules-library",
+            "schedule": "June 10th - 12th, 17th",
+            "beginTime": "2022-06-10T08:00:00+00:00",
+            "endTime": "2022-06-17T11:30:00+00:00",
+            "cumulative": false,
+            "platforms": [
+                "XboxOneGDK",
+                "PS4",
+                "XCloud",
+                "XCloudMobile",
+                "XboxOne",
+                "XSX",
+                "Android",
+                "PS5",
+                "GFN",
+                "Switch",
+                "GFNMobile",
+                "Windows"
+            ],
+            "renderData": {
+                "title_color": "FFFFFF",
+                "background_text_color": "FFFFFF",
+                "background_right_color": "38025A",
+                "highlight_color": "F7FF00",
+                "primary_color": "F83D47",
+                "shadow_color": "24003A",
+                "background_left_color": "590191",
+                "poster_fade_color": "2E014B",
+                "secondary_color": "38025A",
+                "base_color": "FFFFFF"
+            },
+            "windows": [
+                {
+                    "windowId": "S21_LCQuickCupTriosZBM_OCE_Event1_Round1",
+                    "beginTime": "2022-06-10T08:00:00+00:00",
+                    "endTime": "2022-06-10T09:30:00+00:00"
+                },
+                {
+                    "windowId": "S21_LCQuickCupTriosZBM_OCE_Event1_Round2",
+                    "beginTime": "2022-06-10T10:00:00+00:00",
+                    "endTime": "2022-06-10T11:30:00+00:00"
+                },
+                {
+                    "windowId": "S21_LCQuickCupTriosZBM_OCE_Event2_Round1",
+                    "beginTime": "2022-06-11T08:00:00+00:00",
+                    "endTime": "2022-06-11T09:30:00+00:00"
+                },
+                {
+                    "windowId": "S21_LCQuickCupTriosZBM_OCE_Event2_Round2",
+                    "beginTime": "2022-06-11T10:00:00+00:00",
+                    "endTime": "2022-06-11T11:30:00+00:00"
+                },
+                {
+                    "windowId": "S21_LCQuickCupTriosZBM_OCE_Event3_Round1",
+                    "beginTime": "2022-06-12T08:00:00+00:00",
+                    "endTime": "2022-06-12T09:30:00+00:00"
+                },
+                {
+                    "windowId": "S21_LCQuickCupTriosZBM_OCE_Event3_Round2",
+                    "beginTime": "2022-06-12T10:00:00+00:00",
+                    "endTime": "2022-06-12T11:30:00+00:00"
+                },
+                {
+                    "windowId": "S21_LCQuickCupTriosZBM_OCE_Event4_Round1",
+                    "beginTime": "2022-06-17T08:00:00+00:00",
+                    "endTime": "2022-06-17T09:30:00+00:00"
+                },
+                {
+                    "windowId": "S21_LCQuickCupTriosZBM_OCE_Event4_Round2",
+                    "beginTime": "2022-06-17T10:00:00+00:00",
+                    "endTime": "2022-06-17T11:30:00+00:00"
+                }
+            ]
+        },
+        {
+            "id": "epicgames_S21_SuperHypeCup_OCE",
+            "displayId": "s21_superhypecup",
+            "region": "OCE",
+            "name_line1": "Super",
+            "name_line2": "Hype Cup",
+            "poster": "https://cdn2.unrealengine.com/21comp-hypecup-in-game-poster-front-750x1080-9993b70bf18c.jpg",
+            "posterBack": "https://cdn2.unrealengine.com/21comp-hypecup-in-game-poster-back-750x1080-e35130c19ead.jpg",
+            "loadingScreen": "https://cdn2.unrealengine.com/21comp-hypecup-in-game-tile-1920x1080-1920x1080-cb1f335cc4e9.jpg",
+            "tileImage": "https://cdn2.unrealengine.com/21comp-hypecup-in-game-tile-1920x1080-1920x1080-cb1f335cc4e9.jpg",
+            "short_description": "Skip the Arena grind; there's a lot of Hype here!",
+            "long_description": "This event has Hype prizes and is exclusively available for Contender and Open League players. The top 50 duos from Round 1 will advance to Round 2. Full details are available at www.epicgames.com/fortnite/competitive/news.",
+            "schedule": "June 18th - 19th",
+            "beginTime": "2022-06-18T05:00:00+00:00",
+            "endTime": "2022-06-19T11:00:00+00:00",
+            "cumulative": false,
+            "platforms": [
+                "XboxOneGDK",
+                "PS4",
+                "Helios",
+                "XboxOne",
+                "XSX",
+                "Android",
+                "PS5",
+                "HeliosMobile",
+                "GFN",
+                "Switch",
+                "GFNMobile",
+                "Windows"
+            ],
+            "renderData": {
+                "title_color": "FFFFFF",
+                "background_text_color": "161616",
+                "background_right_color": "2E0578",
+                "highlight_color": "F7FF00",
+                "primary_color": "FFFFFF",
+                "shadow_color": "161616",
+                "background_left_color": "870FF9",
+                "poster_fade_color": "870FF9",
+                "secondary_color": "161616",
+                "base_color": "FFFFFF"
+            },
+            "windows": [
+                {
+                    "windowId": "S21_SuperHypeCup_OCE_Event1_Round1",
+                    "beginTime": "2022-06-18T05:00:00+00:00",
+                    "endTime": "2022-06-18T07:00:00+00:00"
+                },
+                {
+                    "windowId": "S21_SuperHypeCup_OCE_Event1_Round2",
+                    "beginTime": "2022-06-18T08:00:00+00:00",
+                    "endTime": "2022-06-18T11:00:00+00:00"
+                },
+                {
+                    "windowId": "S21_SuperHypeCup_OCE_Event2_Round1",
+                    "beginTime": "2022-06-19T05:00:00+00:00",
+                    "endTime": "2022-06-19T07:00:00+00:00"
+                },
+                {
+                    "windowId": "S21_SuperHypeCup_OCE_Event2_Round2",
+                    "beginTime": "2022-06-19T08:00:00+00:00",
+                    "endTime": "2022-06-19T11:00:00+00:00"
+                }
+            ]
+        },
+        {
+            "id": "epicgames_S21_TriosQuickCashCup_OCE",
+            "displayId": "s21_cashcup_quick_trios",
+            "region": "OCE",
+            "name_line1": "QUICK TRIOS",
+            "name_line2": "CASH CUP",
+            "poster": "https://cdn2.unrealengine.com/20comp-in-game-evergreen-pink-poster-front-2-750x1080-976216d249fd.jpg",
+            "posterBack": "https://cdn2.unrealengine.com/20comp-in-game-evergreen-pink-poster-back-750x1080-0033c96d67f5.jpg",
+            "loadingScreen": "https://cdn2.unrealengine.com/20comp-in-game-evergreen-pink-tile-1920x1080-1920x1080-15929e9b3592.jpg",
+            "tileImage": "https://cdn2.unrealengine.com/20comp-in-game-evergreen-pink-tile-1920x1080-1920x1080-15929e9b3592.jpg",
+            "short_description": "Gather your trio and compete for cash prizes!",
+            "long_description": "This event has cash prizes and is available for Champion ranked players. This tournament occurs across one rounds, so make it count! Full details are available at www.epicgames.com/fortnite/competitive/news.",
+            "schedule": "",
+            "beginTime": "2022-06-24T08:00:00+00:00",
+            "endTime": "2022-09-09T09:30:00+00:00",
+            "cumulative": false,
+            "platforms": [
+                "XboxOneGDK",
+                "PS4",
+                "XCloud",
+                "XCloudMobile",
+                "XboxOne",
+                "XSX",
+                "Android",
+                "PS5",
+                "GFN",
+                "Switch",
+                "GFNMobile",
+                "Windows"
+            ],
+            "renderData": {
+                "background_text_color": "161616",
+                "poster_fade_color": "DC0168",
+                "secondary_color": "161616",
+                "title_color": "FFFFFF",
+                "background_right_color": "DC0168",
+                "highlight_color": "F7FF00",
+                "primary_color": "FFFFFF",
+                "shadow_color": "161616",
+                "background_left_color": "9802C9",
+                "base_color": "FFFFFF"
+            },
+            "windows": [
+                {
+                    "windowId": "S21_TriosQuickCashCup_OCE_Event1",
+                    "beginTime": "2022-06-24T08:00:00+00:00",
+                    "endTime": "2022-06-24T09:30:00+00:00"
+                },
+                {
+                    "windowId": "S21_TriosQuickCashCup_OCE_Event2",
+                    "beginTime": "2022-07-01T08:00:00+00:00",
+                    "endTime": "2022-07-01T09:30:00+00:00"
+                },
+                {
+                    "windowId": "S21_TriosQuickCashCup_OCE_Event3",
+                    "beginTime": "2022-07-22T08:00:00+00:00",
+                    "endTime": "2022-07-22T09:30:00+00:00"
+                },
+                {
+                    "windowId": "S21_TriosQuickCashCup_OCE_Event4",
+                    "beginTime": "2022-08-12T08:00:00+00:00",
+                    "endTime": "2022-08-12T09:30:00+00:00"
+                },
+                {
+                    "windowId": "S21_TriosQuickCashCup_OCE_Event5",
+                    "beginTime": "2022-08-19T08:00:00+00:00",
+                    "endTime": "2022-08-19T09:30:00+00:00"
+                },
+                {
+                    "windowId": "S21_TriosQuickCashCup_OCE_Event6",
+                    "beginTime": "2022-08-26T08:00:00+00:00",
+                    "endTime": "2022-08-26T09:30:00+00:00"
+                },
+                {
+                    "windowId": "S21_TriosQuickCashCup_OCE_Event7",
+                    "beginTime": "2022-09-02T08:00:00+00:00",
+                    "endTime": "2022-09-02T09:30:00+00:00"
+                },
+                {
+                    "windowId": "S21_TriosQuickCashCup_OCE_Event8",
+                    "beginTime": "2022-09-09T08:00:00+00:00",
+                    "endTime": "2022-09-09T09:30:00+00:00"
+                }
+            ]
+        },
+        {
+            "id": "epicgames_S21_TriosCashCupZBM_OCE",
+            "displayId": "s21_trioscashcupzbm",
+            "region": "OCE",
+            "name_line1": "TRIOS ZERO BUILD",
+            "name_line2": "CASH CUP",
+            "poster": "https://cdn2.unrealengine.com/20comp-in-game-evergreen-orange-poster-front-2-750x1080-bd69fd5eabb6.jpg",
+            "posterBack": "https://cdn2.unrealengine.com/20comp-in-game-evergreen-orange-poster-back-750x1080-64300d61c5bb.jpg",
+            "loadingScreen": "https://cdn2.unrealengine.com/20comp-in-game-evergreen-orange-tile-1920x1080-1920x1080-23bdccd99bb9.jpg",
+            "tileImage": "https://cdn2.unrealengine.com/20comp-in-game-evergreen-orange-tile-1920x1080-1920x1080-23bdccd99bb9.jpg",
+            "short_description": "Throw away your blueprints and compete with your trio for cash prizes!",
+            "long_description": "This event has cash prizes and is available for all eligible players. This tournament occurs across two rounds, with the top 33 trios from Round 1 advancing to Round 2. Full details are available at www.epicgames.com/fortnite/competitive/news.",
+            "schedule": "",
+            "beginTime": "2022-06-24T10:00:00+00:00",
+            "endTime": "2022-09-09T14:00:00+00:00",
+            "cumulative": false,
+            "platforms": [
+                "XboxOneGDK",
+                "PS4",
+                "XCloud",
+                "XCloudMobile",
+                "XboxOne",
+                "XSX",
+                "Android",
+                "PS5",
+                "GFN",
+                "Switch",
+                "GFNMobile",
+                "Windows"
+            ],
+            "renderData": {
+                "background_text_color": "161616",
+                "poster_fade_color": "792F68",
+                "secondary_color": "161616",
+                "title_color": "FFFFFF",
+                "background_right_color": "680652",
+                "highlight_color": "F7FF00",
+                "primary_color": "FFFFFF",
+                "shadow_color": "161616",
+                "background_left_color": "E82CBE",
+                "base_color": "FFFFFF"
+            },
+            "windows": [
+                {
+                    "windowId": "S21_TriosCashCupZBM_OCE_Event1_Round1",
+                    "beginTime": "2022-06-24T10:00:00+00:00",
+                    "endTime": "2022-06-24T11:30:00+00:00"
+                },
+                {
+                    "windowId": "S21_TriosCashCupZBM_OCE_Event1_Round2",
+                    "beginTime": "2022-06-24T12:30:00+00:00",
+                    "endTime": "2022-06-24T14:00:00+00:00"
+                },
+                {
+                    "windowId": "S21_TriosCashCupZBM_OCE_Event2_Round1",
+                    "beginTime": "2022-07-01T10:00:00+00:00",
+                    "endTime": "2022-07-01T11:30:00+00:00"
+                },
+                {
+                    "windowId": "S21_TriosCashCupZBM_OCE_Event2_Round2",
+                    "beginTime": "2022-07-01T12:30:00+00:00",
+                    "endTime": "2022-07-01T14:00:00+00:00"
+                },
+                {
+                    "windowId": "S21_TriosCashCupZBM_OCE_Event3_Round1",
+                    "beginTime": "2022-07-22T10:00:00+00:00",
+                    "endTime": "2022-07-22T11:30:00+00:00"
+                },
+                {
+                    "windowId": "S21_TriosCashCupZBM_OCE_Event3_Round2",
+                    "beginTime": "2022-07-22T12:30:00+00:00",
+                    "endTime": "2022-07-22T14:00:00+00:00"
+                },
+                {
+                    "windowId": "S21_TriosCashCupZBM_OCE_Event4_Round1",
+                    "beginTime": "2022-08-12T10:00:00+00:00",
+                    "endTime": "2022-08-12T11:30:00+00:00"
+                },
+                {
+                    "windowId": "S21_TriosCashCupZBM_OCE_Event4_Round2",
+                    "beginTime": "2022-08-12T12:30:00+00:00",
+                    "endTime": "2022-08-12T14:00:00+00:00"
+                },
+                {
+                    "windowId": "S21_TriosCashCupZBM_OCE_Event5_Round1",
+                    "beginTime": "2022-08-19T10:00:00+00:00",
+                    "endTime": "2022-08-19T11:30:00+00:00"
+                },
+                {
+                    "windowId": "S21_TriosCashCupZBM_OCE_Event5_Round2",
+                    "beginTime": "2022-08-19T12:30:00+00:00",
+                    "endTime": "2022-08-19T14:00:00+00:00"
+                },
+                {
+                    "windowId": "S21_TriosCashCupZBM_OCE_Event6_Round1",
+                    "beginTime": "2022-08-26T10:00:00+00:00",
+                    "endTime": "2022-08-26T11:30:00+00:00"
+                },
+                {
+                    "windowId": "S21_TriosCashCupZBM_OCE_Event6_Round2",
+                    "beginTime": "2022-08-26T12:30:00+00:00",
+                    "endTime": "2022-08-26T14:00:00+00:00"
+                },
+                {
+                    "windowId": "S21_TriosCashCupZBM_OCE_Event7_Round1",
+                    "beginTime": "2022-09-02T10:00:00+00:00",
+                    "endTime": "2022-09-02T11:30:00+00:00"
+                },
+                {
+                    "windowId": "S21_TriosCashCupZBM_OCE_Event7_Round2",
+                    "beginTime": "2022-09-02T12:30:00+00:00",
+                    "endTime": "2022-09-02T14:00:00+00:00"
+                },
+                {
+                    "windowId": "S21_TriosCashCupZBM_OCE_Event8_Round1",
+                    "beginTime": "2022-09-09T10:00:00+00:00",
+                    "endTime": "2022-09-09T11:30:00+00:00"
+                },
+                {
+                    "windowId": "S21_TriosCashCupZBM_OCE_Event8_Round2",
+                    "beginTime": "2022-09-09T12:30:00+00:00",
+                    "endTime": "2022-09-09T14:00:00+00:00"
+                }
+            ]
+        },
+        {
+            "id": "epicgames_S21_DuosCashCup_OCE",
+            "displayId": "s21_cashcup_duos",
+            "region": "OCE",
+            "name_line1": "DUOS",
+            "name_line2": "CASH CUP",
+            "poster": "https://cdn2.unrealengine.com/21comp-duocashcup-in-game-poster-front-750x1080-8a891d95bd9a.jpg",
+            "posterBack": "https://cdn2.unrealengine.com/21comp-duocashcup-in-game-poster-back-750x1080-54f00e568364.jpg",
+            "loadingScreen": "https://cdn2.unrealengine.com/21comp-duocashcup-in-game-tile-1920x1080-1920x1080-33134e195c61.jpg",
+            "tileImage": "https://cdn2.unrealengine.com/21comp-duocashcup-in-game-tile-1920x1080-1920x1080-33134e195c61.jpg",
+            "short_description": "Compete among the best in Fortnite for cash prizes!",
+            "long_description": "This event has cash prizes and is only available for Champion League players. This tournament occurs across two rounds, with the top 50 duos from Round 1 advancing to Round 2. Full details are available at www.epicgames.com/fortnite/competitive/news.",
+            "schedule": "",
+            "beginTime": "2022-06-25T04:00:00+00:00",
+            "endTime": "2022-09-11T07:00:00+00:00",
+            "cumulative": false,
+            "platforms": [
+                "XboxOneGDK",
+                "PS4",
+                "XCloud",
+                "XCloudMobile",
+                "XboxOne",
+                "XSX",
+                "Android",
+                "PS5",
+                "GFN",
+                "Switch",
+                "GFNMobile",
+                "Windows"
+            ],
+            "renderData": {
+                "background_text_color": "161616",
+                "poster_fade_color": "9E2073",
+                "secondary_color": "161616",
+                "title_color": "FFFFFF",
+                "background_right_color": "0085D9",
+                "highlight_color": "F7FF00",
+                "primary_color": "FFFFFF",
+                "shadow_color": "161616",
+                "background_left_color": "BC1A84",
+                "base_color": "FFFFFF"
+            },
+            "windows": [
+                {
+                    "windowId": "S21_DuosCashCup_OCE_Event1_Round1",
+                    "beginTime": "2022-06-25T04:00:00+00:00",
+                    "endTime": "2022-06-25T07:00:00+00:00"
+                },
+                {
+                    "windowId": "S21_DuosCashCup_OCE_Event1_Round2",
+                    "beginTime": "2022-06-26T04:00:00+00:00",
+                    "endTime": "2022-06-26T07:00:00+00:00"
+                },
+                {
+                    "windowId": "S21_DuosCashCup_OCE_Event2_Round1",
+                    "beginTime": "2022-07-02T04:00:00+00:00",
+                    "endTime": "2022-07-02T07:00:00+00:00"
+                },
+                {
+                    "windowId": "S21_DuosCashCup_OCE_Event2_Round2",
+                    "beginTime": "2022-07-03T04:00:00+00:00",
+                    "endTime": "2022-07-03T07:00:00+00:00"
+                },
+                {
+                    "windowId": "S21_DuosCashCup_OCE_Event3_Round1",
+                    "beginTime": "2022-07-04T08:00:00+00:00",
+                    "endTime": "2022-07-04T11:00:00+00:00"
+                },
+                {
+                    "windowId": "S21_DuosCashCup_OCE_Event3_Round2",
+                    "beginTime": "2022-07-06T08:00:00+00:00",
+                    "endTime": "2022-07-06T11:00:00+00:00"
+                },
+                {
+                    "windowId": "S21_DuosCashCup_OCE_Event4_Round1",
+                    "beginTime": "2022-07-18T08:00:00+00:00",
+                    "endTime": "2022-07-18T11:00:00+00:00"
+                },
+                {
+                    "windowId": "S21_DuosCashCup_OCE_Event4_Round2",
+                    "beginTime": "2022-07-20T08:00:00+00:00",
+                    "endTime": "2022-07-20T11:00:00+00:00"
+                },
+                {
+                    "windowId": "S21_DuosCashCup_OCE_Event5_Round1",
+                    "beginTime": "2022-08-08T08:00:00+00:00",
+                    "endTime": "2022-08-08T11:00:00+00:00"
+                },
+                {
+                    "windowId": "S21_DuosCashCup_OCE_Event5_Round2",
+                    "beginTime": "2022-08-10T08:00:00+00:00",
+                    "endTime": "2022-08-10T11:00:00+00:00"
+                },
+                {
+                    "windowId": "S21_DuosCashCup_OCE_Event6_Round1",
+                    "beginTime": "2022-08-20T04:00:00+00:00",
+                    "endTime": "2022-08-20T07:00:00+00:00"
+                },
+                {
+                    "windowId": "S21_DuosCashCup_OCE_Event6_Round2",
+                    "beginTime": "2022-08-21T04:00:00+00:00",
+                    "endTime": "2022-08-21T07:00:00+00:00"
+                },
+                {
+                    "windowId": "S21_DuosCashCup_OCE_Event7_Round1",
+                    "beginTime": "2022-08-27T04:00:00+00:00",
+                    "endTime": "2022-08-27T07:00:00+00:00"
+                },
+                {
+                    "windowId": "S21_DuosCashCup_OCE_Event7_Round2",
+                    "beginTime": "2022-08-28T04:00:00+00:00",
+                    "endTime": "2022-08-28T07:00:00+00:00"
+                },
+                {
+                    "windowId": "S21_DuosCashCup_OCE_Event8_Round1",
+                    "beginTime": "2022-09-03T04:00:00+00:00",
+                    "endTime": "2022-09-03T07:00:00+00:00"
+                },
+                {
+                    "windowId": "S21_DuosCashCup_OCE_Event8_Round2",
+                    "beginTime": "2022-09-04T04:00:00+00:00",
+                    "endTime": "2022-09-04T07:00:00+00:00"
+                },
+                {
+                    "windowId": "S21_DuosCashCup_OCE_Event9_Round1",
+                    "beginTime": "2022-09-10T04:00:00+00:00",
+                    "endTime": "2022-09-10T07:00:00+00:00"
+                },
+                {
+                    "windowId": "S21_DuosCashCup_OCE_Event9_Round2",
+                    "beginTime": "2022-09-11T04:00:00+00:00",
+                    "endTime": "2022-09-11T07:00:00+00:00"
+                }
+            ]
+        },
+        {
+            "id": "epicgames_S21_SoloCashCupConsole_OCE",
+            "displayId": "s21_cashcup_console_solo",
+            "region": "OCE",
+            "name_line1": "CONSOLE SOLO",
+            "name_line2": "CASH CUP",
+            "poster": "https://cdn2.unrealengine.com/21comp-solocashcup-in-game-poster-front-750x1080-487c48d703a1.jpg",
+            "posterBack": "https://cdn2.unrealengine.com/21comp-solocashcup-in-game-poster-back-750x1080-495c46a8fde1.jpg",
+            "loadingScreen": "https://cdn2.unrealengine.com/21comp-solocashcup-in-game-tile-1920x1080-1920x1080-6f2d3ca3c907.jpg",
+            "tileImage": "https://cdn2.unrealengine.com/21comp-solocashcup-in-game-tile-1920x1080-1920x1080-6f2d3ca3c907.jpg",
+            "short_description": "Are you the best console player?",
+            "long_description": "This event has cash prizes, and to enter, you must play from a console only. You also must rank in the Champion League in Arena. This tournament occurs across two rounds, with the top 100 players from Round 1 advancing to Round 2. Full details are available at www.epicgames.com/fortnite/competitive/news.",
+            "schedule": "",
+            "beginTime": "2022-06-27T08:00:00+00:00",
+            "endTime": "2022-09-15T11:00:00+00:00",
+            "cumulative": false,
+            "platforms": [
+                "XboxOneGDK",
+                "PS4",
+                "XboxOne",
+                "XSX",
+                "Android",
+                "PS5",
+                "Switch"
+            ],
+            "renderData": {
+                "background_text_color": "161616",
+                "poster_fade_color": "CE774B",
+                "secondary_color": "161616",
+                "title_color": "FFFFFF",
+                "background_right_color": "C12A9F",
+                "highlight_color": "F7FF00",
+                "primary_color": "FFFFFF",
+                "shadow_color": "161616",
+                "background_left_color": "D87D4F",
+                "base_color": "FFFFFF"
+            },
+            "windows": [
+                {
+                    "windowId": "S21_SoloCashCupConsole_OCE_Event1_Round1",
+                    "beginTime": "2022-06-27T08:00:00+00:00",
+                    "endTime": "2022-06-27T11:00:00+00:00"
+                },
+                {
+                    "windowId": "S21_SoloCashCupConsole_OCE_Event1_Round2",
+                    "beginTime": "2022-06-29T08:00:00+00:00",
+                    "endTime": "2022-06-29T11:00:00+00:00"
+                },
+                {
+                    "windowId": "S21_SoloCashCupConsole_OCE_Event2_Round1",
+                    "beginTime": "2022-08-15T08:00:00+00:00",
+                    "endTime": "2022-08-15T11:00:00+00:00"
+                },
+                {
+                    "windowId": "S21_SoloCashCupConsole_OCE_Event2_Round2",
+                    "beginTime": "2022-08-17T08:00:00+00:00",
+                    "endTime": "2022-08-17T11:00:00+00:00"
+                },
+                {
+                    "windowId": "S21_SoloCashCupConsole_OCE_Event3_Round1",
+                    "beginTime": "2022-08-22T08:00:00+00:00",
+                    "endTime": "2022-08-22T11:00:00+00:00"
+                },
+                {
+                    "windowId": "S21_SoloCashCupConsole_OCE_Event3_Round2",
+                    "beginTime": "2022-08-24T08:00:00+00:00",
+                    "endTime": "2022-08-24T11:00:00+00:00"
+                },
+                {
+                    "windowId": "S21_SoloCashCupConsole_OCE_Event4_Round1",
+                    "beginTime": "2022-08-29T08:00:00+00:00",
+                    "endTime": "2022-08-29T11:00:00+00:00"
+                },
+                {
+                    "windowId": "S21_SoloCashCupConsole_OCE_Event4_Round2",
+                    "beginTime": "2022-08-31T08:00:00+00:00",
+                    "endTime": "2022-08-31T11:00:00+00:00"
+                },
+                {
+                    "windowId": "S21_SoloCashCupConsole_OCE_Event5_Round1",
+                    "beginTime": "2022-09-05T08:00:00+00:00",
+                    "endTime": "2022-09-05T11:00:00+00:00"
+                },
+                {
+                    "windowId": "S21_SoloCashCupConsole_OCE_Event5_Round2",
+                    "beginTime": "2022-09-07T08:00:00+00:00",
+                    "endTime": "2022-09-07T11:00:00+00:00"
+                },
+                {
+                    "windowId": "S21_SoloCashCupConsole_OCE_Event6_Round1",
+                    "beginTime": "2022-09-12T08:00:00+00:00",
+                    "endTime": "2022-09-12T11:00:00+00:00"
+                },
+                {
+                    "windowId": "S21_SoloCashCupConsole_OCE_Event6_Round2",
+                    "beginTime": "2022-09-15T08:00:00+00:00",
+                    "endTime": "2022-09-15T11:00:00+00:00"
+                }
+            ]
+        },
+        {
+            "id": "epicgames_S21_SoloCashCup_OCE",
+            "displayId": "s21_cashcup_solo",
+            "region": "OCE",
+            "name_line1": "SOLO",
+            "name_line2": "CASH CUP",
+            "poster": "https://cdn2.unrealengine.com/21comp-solocashcup-in-game-poster-front-750x1080-a5a9cb004ef2.jpg",
+            "posterBack": "https://cdn2.unrealengine.com/21comp-solocashcup-in-game-poster-back-750x1080-93ffffa0c379.jpg",
+            "loadingScreen": "https://cdn2.unrealengine.com/21comp-solocashcup-in-game-tile-1920x1080-1920x1080-cde0fe105271.jpg",
+            "tileImage": "https://cdn2.unrealengine.com/21comp-solocashcup-in-game-tile-1920x1080-1920x1080-cde0fe105271.jpg",
+            "short_description": "Compete among the best in Fortnite for cash prizes!",
+            "long_description": "This event has cash prizes and is only available for Champion League players. This tournament occurs across two rounds, with the top 100 from Round 1 advancing to Round 2. Full details are available at www.epicgames.com/fortnite/competitive/news.",
+            "schedule": "",
+            "beginTime": "2022-06-27T08:00:00+00:00",
+            "endTime": "2022-09-15T11:00:00+00:00",
+            "cumulative": false,
+            "platforms": [
+                "XboxOneGDK",
+                "PS4",
+                "XCloud",
+                "XCloudMobile",
+                "XboxOne",
+                "XSX",
+                "Android",
+                "PS5",
+                "GFN",
+                "Switch",
+                "GFNMobile",
+                "Windows"
+            ],
+            "renderData": {
+                "background_text_color": "161616",
+                "poster_fade_color": "CE774B",
+                "secondary_color": "161616",
+                "title_color": "FFFFFF",
+                "background_right_color": "C12A9F",
+                "highlight_color": "F7FF00",
+                "primary_color": "FFFFFF",
+                "shadow_color": "161616",
+                "background_left_color": "D87D4F",
+                "base_color": "FFFFFF"
+            },
+            "windows": [
+                {
+                    "windowId": "S21_SoloCashCup_OCE_Event1_Round1",
+                    "beginTime": "2022-06-27T08:00:00+00:00",
+                    "endTime": "2022-06-27T11:00:00+00:00"
+                },
+                {
+                    "windowId": "S21_SoloCashCup_OCE_Event1_Round2",
+                    "beginTime": "2022-06-29T08:00:00+00:00",
+                    "endTime": "2022-06-29T11:00:00+00:00"
+                },
+                {
+                    "windowId": "S21_SoloCashCup_OCE_Event2_Round1",
+                    "beginTime": "2022-08-15T08:00:00+00:00",
+                    "endTime": "2022-08-15T11:00:00+00:00"
+                },
+                {
+                    "windowId": "S21_SoloCashCup_OCE_Event2_Round2",
+                    "beginTime": "2022-08-17T08:00:00+00:00",
+                    "endTime": "2022-08-17T11:00:00+00:00"
+                },
+                {
+                    "windowId": "S21_SoloCashCup_OCE_Event3_Round1",
+                    "beginTime": "2022-08-22T08:00:00+00:00",
+                    "endTime": "2022-08-22T11:00:00+00:00"
+                },
+                {
+                    "windowId": "S21_SoloCashCup_OCE_Event3_Round2",
+                    "beginTime": "2022-08-24T08:00:00+00:00",
+                    "endTime": "2022-08-24T11:00:00+00:00"
+                },
+                {
+                    "windowId": "S21_SoloCashCup_OCE_Event4_Round1",
+                    "beginTime": "2022-08-29T08:00:00+00:00",
+                    "endTime": "2022-08-29T11:00:00+00:00"
+                },
+                {
+                    "windowId": "S21_SoloCashCup_OCE_Event4_Round2",
+                    "beginTime": "2022-08-31T08:00:00+00:00",
+                    "endTime": "2022-08-31T11:00:00+00:00"
+                },
+                {
+                    "windowId": "S21_SoloCashCup_OCE_Event5_Round1",
+                    "beginTime": "2022-09-05T08:00:00+00:00",
+                    "endTime": "2022-09-05T11:00:00+00:00"
+                },
+                {
+                    "windowId": "S21_SoloCashCup_OCE_Event5_Round2",
+                    "beginTime": "2022-09-07T08:00:00+00:00",
+                    "endTime": "2022-09-07T11:00:00+00:00"
+                },
+                {
+                    "windowId": "S21_SoloCashCup_OCE_Event6_Round1",
+                    "beginTime": "2022-09-12T08:00:00+00:00",
+                    "endTime": "2022-09-12T11:00:00+00:00"
+                },
+                {
+                    "windowId": "S21_SoloCashCup_OCE_Event6_Round2",
+                    "beginTime": "2022-09-15T08:00:00+00:00",
+                    "endTime": "2022-09-15T11:00:00+00:00"
+                }
+            ]
+        },
+        {
+            "id": "epicgames_S21_SoloHypeCup_Contender_OCE",
+            "displayId": "s21_hypecup_solo_contender",
+            "region": "OCE",
+            "name_line1": "SOLO CONTENDER",
+            "name_line2": "HYPE CUP",
+            "poster": "https://cdn2.unrealengine.com/21comp-hypecup-in-game-poster-front-750x1080-00f3bc978164.jpg",
+            "posterBack": "https://cdn2.unrealengine.com/21comp-hypecup-in-game-poster-back-750x1080-fc5ed0f9b61b.jpg",
+            "loadingScreen": "https://cdn2.unrealengine.com/21comp-hypecup-in-game-tile-1920x1080-1920x1080-33512097dd68.jpg",
+            "tileImage": "https://cdn2.unrealengine.com/21comp-hypecup-in-game-tile-1920x1080-1920x1080-33512097dd68.jpg",
+            "short_description": "Compete among the Contender League in Fortnite for Hype prizes!",
+            "long_description": "\"This event has Hype prizes and is exclusively available for Contender League players. This tournament is only 1 round, so make it count! Full details are available at www.epicgames.com/fortnite/competitive/news.                                                                   \"\t\t \t\t \t\t \t\t",
+            "schedule": "",
+            "beginTime": "2022-06-27T08:00:00+00:00",
+            "endTime": "2022-09-14T11:00:00+00:00",
+            "cumulative": false,
+            "platforms": [
+                "XboxOneGDK",
+                "PS4",
+                "XCloud",
+                "XCloudMobile",
+                "XboxOne",
+                "XSX",
+                "Android",
+                "PS5",
+                "GFN",
+                "Switch",
+                "GFNMobile",
+                "Windows"
+            ],
+            "renderData": {
+                "title_color": "FFFFFF",
+                "background_text_color": "161616",
+                "background_right_color": "2E0578",
+                "highlight_color": "F7FF00",
+                "primary_color": "FFFFFF",
+                "shadow_color": "161616",
+                "background_left_color": "870FF9",
+                "poster_fade_color": "870FF9",
+                "secondary_color": "161616",
+                "base_color": "FFFFFF"
+            },
+            "windows": [
+                {
+                    "windowId": "S21_SoloHypeCup_Contender_OCE_Event1",
+                    "beginTime": "2022-06-27T08:00:00+00:00",
+                    "endTime": "2022-06-27T11:00:00+00:00"
+                },
+                {
+                    "windowId": "S21_SoloHypeCup_Contender_OCE_Event2",
+                    "beginTime": "2022-06-29T08:00:00+00:00",
+                    "endTime": "2022-06-29T11:00:00+00:00"
+                },
+                {
+                    "windowId": "S21_SoloHypeCup_Contender_OCE_Event3",
+                    "beginTime": "2022-07-09T08:00:00+00:00",
+                    "endTime": "2022-07-09T11:00:00+00:00"
+                },
+                {
+                    "windowId": "S21_SoloHypeCup_Contender_OCE_Event4",
+                    "beginTime": "2022-07-10T08:00:00+00:00",
+                    "endTime": "2022-07-10T11:00:00+00:00"
+                },
+                {
+                    "windowId": "S21_SoloHypeCup_Contender_OCE_Event5",
+                    "beginTime": "2022-08-15T08:00:00+00:00",
+                    "endTime": "2022-08-15T11:00:00+00:00"
+                },
+                {
+                    "windowId": "S21_SoloHypeCup_Contender_OCE_Event6",
+                    "beginTime": "2022-08-17T08:00:00+00:00",
+                    "endTime": "2022-08-17T11:00:00+00:00"
+                },
+                {
+                    "windowId": "S21_SoloHypeCup_Contender_OCE_Event7",
+                    "beginTime": "2022-08-22T08:00:00+00:00",
+                    "endTime": "2022-08-22T11:00:00+00:00"
+                },
+                {
+                    "windowId": "S21_SoloHypeCup_Contender_OCE_Event8",
+                    "beginTime": "2022-08-24T08:00:00+00:00",
+                    "endTime": "2022-08-24T11:00:00+00:00"
+                },
+                {
+                    "windowId": "S21_SoloHypeCup_Contender_OCE_Event9",
+                    "beginTime": "2022-08-29T08:00:00+00:00",
+                    "endTime": "2022-08-29T11:00:00+00:00"
+                },
+                {
+                    "windowId": "S21_SoloHypeCup_Contender_OCE_Event10",
+                    "beginTime": "2022-08-31T08:00:00+00:00",
+                    "endTime": "2022-08-31T11:00:00+00:00"
+                },
+                {
+                    "windowId": "S21_SoloHypeCup_Contender_OCE_Event11",
+                    "beginTime": "2022-09-05T08:00:00+00:00",
+                    "endTime": "2022-09-05T11:00:00+00:00"
+                },
+                {
+                    "windowId": "S21_SoloHypeCup_Contender_OCE_Event12",
+                    "beginTime": "2022-09-07T08:00:00+00:00",
+                    "endTime": "2022-09-07T11:00:00+00:00"
+                },
+                {
+                    "windowId": "S21_SoloHypeCup_Contender_OCE_Event13",
+                    "beginTime": "2022-09-12T08:00:00+00:00",
+                    "endTime": "2022-09-12T11:00:00+00:00"
+                },
+                {
+                    "windowId": "S21_SoloHypeCup_Contender_OCE_Event14",
+                    "beginTime": "2022-09-14T08:00:00+00:00",
+                    "endTime": "2022-09-14T11:00:00+00:00"
+                }
+            ]
+        },
+        {
+            "id": "epicgames_S21_SoloHypeCup_Open_OCE",
+            "displayId": "s21_hypecup_solo_open",
+            "region": "OCE",
+            "name_line1": "SOLO OPEN",
+            "name_line2": "HYPE CUP",
+            "poster": "https://cdn2.unrealengine.com/21comp-hypecup-in-game-poster-front-750x1080-3a194bbba764.jpg",
+            "posterBack": "https://cdn2.unrealengine.com/21comp-hypecup-in-game-poster-back-750x1080-3a73281ffe22.jpg",
+            "loadingScreen": "https://cdn2.unrealengine.com/21comp-hypecup-in-game-tile-1920x1080-1920x1080-b0386afe7d80.jpg",
+            "tileImage": "https://cdn2.unrealengine.com/21comp-hypecup-in-game-tile-1920x1080-1920x1080-b0386afe7d80.jpg",
+            "short_description": "Compete among the Open League in Fortnite for Hype prizes!",
+            "long_description": "This event has Hype prizes and is exclusively available for Open League players. This tournament is only 1 round, so make it count! Full details are available at www.epicgames.com/fortnite/competitive/news. ",
+            "schedule": "",
+            "beginTime": "2022-06-27T08:00:00+00:00",
+            "endTime": "2022-09-14T11:00:00+00:00",
+            "cumulative": false,
+            "platforms": [
+                "XboxOneGDK",
+                "PS4",
+                "XCloud",
+                "XCloudMobile",
+                "XboxOne",
+                "XSX",
+                "Android",
+                "PS5",
+                "GFN",
+                "Switch",
+                "GFNMobile",
+                "Windows"
+            ],
+            "renderData": {
+                "title_color": "FFFFFF",
+                "background_text_color": "161616",
+                "background_right_color": "2E0578",
+                "highlight_color": "F7FF00",
+                "primary_color": "FFFFFF",
+                "shadow_color": "161616",
+                "background_left_color": "870FF9",
+                "poster_fade_color": "870FF9",
+                "secondary_color": "161616",
+                "base_color": "FFFFFF"
+            },
+            "windows": [
+                {
+                    "windowId": "S21_SoloHypeCup_Open_OCE_Event1",
+                    "beginTime": "2022-06-27T08:00:00+00:00",
+                    "endTime": "2022-06-27T11:00:00+00:00"
+                },
+                {
+                    "windowId": "S21_SoloHypeCup_Open_OCE_Event2",
+                    "beginTime": "2022-06-29T08:00:00+00:00",
+                    "endTime": "2022-06-29T11:00:00+00:00"
+                },
+                {
+                    "windowId": "S21_SoloHypeCup_Open_OCE_Event3",
+                    "beginTime": "2022-07-09T08:00:00+00:00",
+                    "endTime": "2022-07-09T11:00:00+00:00"
+                },
+                {
+                    "windowId": "S21_SoloHypeCup_Open_OCE_Event4",
+                    "beginTime": "2022-07-10T08:00:00+00:00",
+                    "endTime": "2022-07-10T11:00:00+00:00"
+                },
+                {
+                    "windowId": "S21_SoloHypeCup_Open_OCE_Event5",
+                    "beginTime": "2022-08-15T08:00:00+00:00",
+                    "endTime": "2022-08-15T11:00:00+00:00"
+                },
+                {
+                    "windowId": "S21_SoloHypeCup_Open_OCE_Event6",
+                    "beginTime": "2022-08-17T08:00:00+00:00",
+                    "endTime": "2022-08-17T11:00:00+00:00"
+                },
+                {
+                    "windowId": "S21_SoloHypeCup_Open_OCE_Event7",
+                    "beginTime": "2022-08-22T08:00:00+00:00",
+                    "endTime": "2022-08-22T11:00:00+00:00"
+                },
+                {
+                    "windowId": "S21_SoloHypeCup_Open_OCE_Event8",
+                    "beginTime": "2022-08-24T08:00:00+00:00",
+                    "endTime": "2022-08-24T11:00:00+00:00"
+                },
+                {
+                    "windowId": "S21_SoloHypeCup_Open_OCE_Event9",
+                    "beginTime": "2022-08-29T08:00:00+00:00",
+                    "endTime": "2022-08-29T11:00:00+00:00"
+                },
+                {
+                    "windowId": "S21_SoloHypeCup_Open_OCE_Event10",
+                    "beginTime": "2022-08-31T08:00:00+00:00",
+                    "endTime": "2022-08-31T11:00:00+00:00"
+                },
+                {
+                    "windowId": "S21_SoloHypeCup_Open_OCE_Event11",
+                    "beginTime": "2022-09-05T08:00:00+00:00",
+                    "endTime": "2022-09-05T11:00:00+00:00"
+                },
+                {
+                    "windowId": "S21_SoloHypeCup_Open_OCE_Event12",
+                    "beginTime": "2022-09-07T08:00:00+00:00",
+                    "endTime": "2022-09-07T11:00:00+00:00"
+                },
+                {
+                    "windowId": "S21_SoloHypeCup_Open_OCE_Event13",
+                    "beginTime": "2022-09-12T08:00:00+00:00",
+                    "endTime": "2022-09-12T11:00:00+00:00"
+                },
+                {
+                    "windowId": "S21_SoloHypeCup_Open_OCE_Event14",
+                    "beginTime": "2022-09-14T08:00:00+00:00",
+                    "endTime": "2022-09-14T11:00:00+00:00"
+                }
+            ]
+        },
+        {
+            "id": "epicgames_S21_DuosHypeCup_Contender_OCE",
+            "displayId": "s21_hypecup_duos_contender",
+            "region": "OCE",
+            "name_line1": "DUOS CONTENDER",
+            "name_line2": "HYPE CUP",
+            "poster": "https://cdn2.unrealengine.com/21comp-hypecup-in-game-poster-front-750x1080-6c68e4ece518.jpg",
+            "posterBack": "https://cdn2.unrealengine.com/21comp-hypecup-in-game-poster-back-750x1080-9e32b6b9a3bb.jpg",
+            "loadingScreen": "https://cdn2.unrealengine.com/21comp-hypecup-in-game-tile-1920x1080-1920x1080-a8c73a4aa9b9.jpg",
+            "tileImage": "https://cdn2.unrealengine.com/21comp-hypecup-in-game-tile-1920x1080-1920x1080-a8c73a4aa9b9.jpg",
+            "short_description": "Compete among the Contender League in Fortnite for Hype prizes!",
+            "long_description": "This event has Hype prizes and is exclusively available for Contender League players. This tournament is only 1 round, so make it count! Full details are available at www.epicgames.com/fortnite/competitive/news.",
+            "schedule": "",
+            "beginTime": "2022-07-02T08:00:00+00:00",
+            "endTime": "2022-09-11T11:00:00+00:00",
+            "cumulative": false,
+            "platforms": [
+                "XboxOneGDK",
+                "PS4",
+                "XCloud",
+                "XCloudMobile",
+                "XboxOne",
+                "XSX",
+                "Android",
+                "PS5",
+                "GFN",
+                "Switch",
+                "GFNMobile",
+                "Windows"
+            ],
+            "renderData": {
+                "title_color": "FFFFFF",
+                "background_text_color": "161616",
+                "background_right_color": "2E0578",
+                "highlight_color": "F7FF00",
+                "primary_color": "FFFFFF",
+                "shadow_color": "161616",
+                "background_left_color": "870FF9",
+                "poster_fade_color": "870FF9",
+                "secondary_color": "161616",
+                "base_color": "FFFFFF"
+            },
+            "windows": [
+                {
+                    "windowId": "S21_DuosHypeCup_Contender_OCE_Event1",
+                    "beginTime": "2022-07-02T08:00:00+00:00",
+                    "endTime": "2022-07-02T11:00:00+00:00"
+                },
+                {
+                    "windowId": "S21_DuosHypeCup_Contender_OCE_Event2",
+                    "beginTime": "2022-07-03T08:00:00+00:00",
+                    "endTime": "2022-07-03T11:00:00+00:00"
+                },
+                {
+                    "windowId": "S21_DuosHypeCup_Contender_OCE_Event3",
+                    "beginTime": "2022-07-04T08:00:00+00:00",
+                    "endTime": "2022-07-04T11:00:00+00:00"
+                },
+                {
+                    "windowId": "S21_DuosHypeCup_Contender_OCE_Event4",
+                    "beginTime": "2022-07-06T08:00:00+00:00",
+                    "endTime": "2022-07-06T11:00:00+00:00"
+                },
+                {
+                    "windowId": "S21_DuosHypeCup_Contender_OCE_Event5",
+                    "beginTime": "2022-07-18T08:00:00+00:00",
+                    "endTime": "2022-07-18T11:00:00+00:00"
+                },
+                {
+                    "windowId": "S21_DuosHypeCup_Contender_OCE_Event6",
+                    "beginTime": "2022-07-20T08:00:00+00:00",
+                    "endTime": "2022-07-20T11:00:00+00:00"
+                },
+                {
+                    "windowId": "S21_DuosHypeCup_Contender_OCE_Event7",
+                    "beginTime": "2022-08-08T08:00:00+00:00",
+                    "endTime": "2022-08-08T11:00:00+00:00"
+                },
+                {
+                    "windowId": "S21_DuosHypeCup_Contender_OCE_Event8",
+                    "beginTime": "2022-08-10T08:00:00+00:00",
+                    "endTime": "2022-08-10T11:00:00+00:00"
+                },
+                {
+                    "windowId": "S21_DuosHypeCup_Contender_OCE_Event9",
+                    "beginTime": "2022-08-20T08:00:00+00:00",
+                    "endTime": "2022-08-20T11:00:00+00:00"
+                },
+                {
+                    "windowId": "S21_DuosHypeCup_Contender_OCE_Event10",
+                    "beginTime": "2022-08-21T08:00:00+00:00",
+                    "endTime": "2022-08-21T11:00:00+00:00"
+                },
+                {
+                    "windowId": "S21_DuosHypeCup_Contender_OCE_Event11",
+                    "beginTime": "2022-08-27T08:00:00+00:00",
+                    "endTime": "2022-08-27T11:00:00+00:00"
+                },
+                {
+                    "windowId": "S21_DuosHypeCup_Contender_OCE_Event12",
+                    "beginTime": "2022-08-28T08:00:00+00:00",
+                    "endTime": "2022-08-28T11:00:00+00:00"
+                },
+                {
+                    "windowId": "S21_DuosHypeCup_Contender_OCE_Event13",
+                    "beginTime": "2022-09-03T08:00:00+00:00",
+                    "endTime": "2022-09-03T11:00:00+00:00"
+                },
+                {
+                    "windowId": "S21_DuosHypeCup_Contender_OCE_Event14",
+                    "beginTime": "2022-09-04T08:00:00+00:00",
+                    "endTime": "2022-09-04T11:00:00+00:00"
+                },
+                {
+                    "windowId": "S21_DuosHypeCup_Contender_OCE_Event15",
+                    "beginTime": "2022-09-10T08:00:00+00:00",
+                    "endTime": "2022-09-10T11:00:00+00:00"
+                },
+                {
+                    "windowId": "S21_DuosHypeCup_Contender_OCE_Event16",
+                    "beginTime": "2022-09-11T08:00:00+00:00",
+                    "endTime": "2022-09-11T11:00:00+00:00"
+                }
+            ]
+        },
+        {
+            "id": "epicgames_S21_DuosHypeCup_Open_OCE",
+            "displayId": "s21_hypecup_duos_open",
+            "region": "OCE",
+            "name_line1": "DUOS OPEN",
+            "name_line2": "HYPE CUP",
+            "poster": "https://cdn2.unrealengine.com/21comp-hypecup-in-game-poster-front-750x1080-662f5c179f3a.jpg",
+            "posterBack": "https://cdn2.unrealengine.com/21comp-hypecup-in-game-poster-back-750x1080-1d2f2e370357.jpg",
+            "loadingScreen": "https://cdn2.unrealengine.com/21comp-hypecup-in-game-tile-1920x1080-1920x1080-caabd2172fc5.jpg",
+            "tileImage": "https://cdn2.unrealengine.com/21comp-hypecup-in-game-tile-1920x1080-1920x1080-caabd2172fc5.jpg",
+            "short_description": "Compete among the Open League in Fortnite for Hype prizes!",
+            "long_description": "This event has Hype prizes and is exclusively available for Open League players. This tournament is only 1 round, so make it count! Full details are available at www.epicgames.com/fortnite/competitive/news.\t\t \t\t \t\t \t\t",
+            "schedule": "",
+            "beginTime": "2022-07-02T08:00:00+00:00",
+            "endTime": "2022-09-11T11:00:00+00:00",
+            "cumulative": false,
+            "platforms": [
+                "XboxOneGDK",
+                "PS4",
+                "XCloud",
+                "XCloudMobile",
+                "XboxOne",
+                "XSX",
+                "Android",
+                "PS5",
+                "GFN",
+                "Switch",
+                "GFNMobile",
+                "Windows"
+            ],
+            "renderData": {
+                "title_color": "FFFFFF",
+                "background_text_color": "161616",
+                "background_right_color": "2E0578",
+                "highlight_color": "F7FF00",
+                "primary_color": "FFFFFF",
+                "shadow_color": "161616",
+                "background_left_color": "870FF9",
+                "poster_fade_color": "870FF9",
+                "secondary_color": "161616",
+                "base_color": "FFFFFF"
+            },
+            "windows": [
+                {
+                    "windowId": "S21_DuosHypeCup_Open_OCE_Event1",
+                    "beginTime": "2022-07-02T08:00:00+00:00",
+                    "endTime": "2022-07-02T11:00:00+00:00"
+                },
+                {
+                    "windowId": "S21_DuosHypeCup_Open_OCE_Event2",
+                    "beginTime": "2022-07-03T08:00:00+00:00",
+                    "endTime": "2022-07-03T11:00:00+00:00"
+                },
+                {
+                    "windowId": "S21_DuosHypeCup_Open_OCE_Event3",
+                    "beginTime": "2022-07-04T08:00:00+00:00",
+                    "endTime": "2022-07-04T11:00:00+00:00"
+                },
+                {
+                    "windowId": "S21_DuosHypeCup_Open_OCE_Event4",
+                    "beginTime": "2022-07-06T08:00:00+00:00",
+                    "endTime": "2022-07-06T11:00:00+00:00"
+                },
+                {
+                    "windowId": "S21_DuosHypeCup_Open_OCE_Event5",
+                    "beginTime": "2022-07-18T08:00:00+00:00",
+                    "endTime": "2022-07-18T11:00:00+00:00"
+                },
+                {
+                    "windowId": "S21_DuosHypeCup_Open_OCE_Event6",
+                    "beginTime": "2022-07-20T08:00:00+00:00",
+                    "endTime": "2022-07-20T11:00:00+00:00"
+                },
+                {
+                    "windowId": "S21_DuosHypeCup_Open_OCE_Event7",
+                    "beginTime": "2022-08-08T08:00:00+00:00",
+                    "endTime": "2022-08-08T11:00:00+00:00"
+                },
+                {
+                    "windowId": "S21_DuosHypeCup_Open_OCE_Event8",
+                    "beginTime": "2022-08-10T08:00:00+00:00",
+                    "endTime": "2022-08-10T11:00:00+00:00"
+                },
+                {
+                    "windowId": "S21_DuosHypeCup_Open_OCE_Event9",
+                    "beginTime": "2022-08-20T08:00:00+00:00",
+                    "endTime": "2022-08-20T11:00:00+00:00"
+                },
+                {
+                    "windowId": "S21_DuosHypeCup_Open_OCE_Event10",
+                    "beginTime": "2022-08-21T08:00:00+00:00",
+                    "endTime": "2022-08-21T11:00:00+00:00"
+                },
+                {
+                    "windowId": "S21_DuosHypeCup_Open_OCE_Event11",
+                    "beginTime": "2022-08-27T08:00:00+00:00",
+                    "endTime": "2022-08-27T11:00:00+00:00"
+                },
+                {
+                    "windowId": "S21_DuosHypeCup_Open_OCE_Event12",
+                    "beginTime": "2022-08-28T08:00:00+00:00",
+                    "endTime": "2022-08-28T11:00:00+00:00"
+                },
+                {
+                    "windowId": "S21_DuosHypeCup_Open_OCE_Event13",
+                    "beginTime": "2022-09-03T08:00:00+00:00",
+                    "endTime": "2022-09-03T11:00:00+00:00"
+                },
+                {
+                    "windowId": "S21_DuosHypeCup_Open_OCE_Event14",
+                    "beginTime": "2022-09-04T08:00:00+00:00",
+                    "endTime": "2022-09-04T11:00:00+00:00"
+                },
+                {
+                    "windowId": "S21_DuosHypeCup_Open_OCE_Event15",
+                    "beginTime": "2022-09-10T08:00:00+00:00",
+                    "endTime": "2022-09-10T11:00:00+00:00"
+                },
+                {
+                    "windowId": "S21_DuosHypeCup_Open_OCE_Event16",
+                    "beginTime": "2022-09-11T08:00:00+00:00",
+                    "endTime": "2022-09-11T11:00:00+00:00"
                 }
             ]
         }
