@@ -592,15 +592,23 @@
             {
                 "type": "bp",
                 "lang-url": {
-                    "EN": "https://www.youtube.com/watch?v=jexE8vm8q8E",
-                    "FR": "https://www.youtube.com/watch?v=CK8cv-5k1tk"
+                    "EN": "https://media.fortniteapi.io/videos/seasons/bp_s21_en.mp4",
+                    "FR": "https://media.fortniteapi.io/videos/seasons/bp_s21_fr.mp4",
+                    "JA": "https://media.fortniteapi.io/videos/seasons/bp_s21_ja.mp4",
+                    "ES": "https://media.fortniteapi.io/videos/seasons/bp_s21_es.mp4",
+                    "IT": "https://media.fortniteapi.io/videos/seasons/bp_s21_it.mp4",
+                    "RU": "https://media.fortniteapi.io/videos/seasons/bp_s21_ru.mp4"
                 }
             },
             {
                 "type": "trailer",
                 "lang-url": {
-                    "EN": "https://www.youtube.com/watch?v=H5EfrMzg9JA",
-                    "FR": "https://www.youtube.com/watch?v=x1h3UIf4Zqw"
+                    "EN": "https://media.fortniteapi.io/videos/seasons/trailer_s21_en.mp4",
+                    "FR": "https://media.fortniteapi.io/videos/seasons/trailer_s21_fr.mp4",
+                    "JA": "https://media.fortniteapi.io/videos/seasons/trailer_s21_ja.mp4",
+                    "ES": "https://media.fortniteapi.io/videos/seasons/trailer_s21_es.mp4",
+                    "IT": "https://media.fortniteapi.io/videos/seasons/trailer_s21_it.mp4",
+                    "RU": "https://media.fortniteapi.io/videos/seasons/trailer_s21_ru.mp4"
                 }
             }
         ]
