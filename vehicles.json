@@ -1313,10 +1313,7 @@
             "id": "VID_PushCannon",
             "name": "Pirate Cannon",
             "icon": "https://media.fortniteapi.io/images/T-Vehicles-Ship-Cannon-Veh.png",
-            "stats": {
-                "Default.Cannon.MinSpawnPercent": 1000,
-                "Default.Cannon.MaxSpawnPercent": 0
-            },
+            "stats": {},
             "gears": [
                 {
                     "TopSpeed": 1,
@@ -1645,9 +1642,9 @@
             },
             "gears": [],
             "spawnNames": [
-                "baller",
-                "hamster",
-                "octopus"
+                "ballerclassic",
+                "hamsterclassic",
+                "octopusclassic"
             ]
         },
         {
@@ -2616,6 +2613,130 @@
                 "winterquadcrasher",
                 "winterquad"
             ]
+        },
+        {
+            "id": "VID_Surfboard_Athena",
+            "name": "Surfboard",
+            "icon": "https://media.fortniteapi.io/images/T-Icon-Vehicle-Surfboardboard.png",
+            "stats": {
+                "Default.SafeZone.MeteorDropMinCount": 1000,
+                "Default.HoverBoard.MaxSpawnPercent": 0
+            },
+            "gears": [
+                {
+                    "TopSpeed": 10,
+                    "MinSpeed": 0,
+                    "PushForce": 800,
+                    "RampTime": 1,
+                    "SteeringAngleMultiplier": 2,
+                    "bAutoBrake": true,
+                    "bIgnoreGravity": true
+                },
+                {
+                    "TopSpeed": 16,
+                    "MinSpeed": 1,
+                    "PushForce": 800,
+                    "RampTime": 1,
+                    "SteeringAngleMultiplier": 1,
+                    "bAutoBrake": false,
+                    "bIgnoreGravity": false
+                },
+                {
+                    "TopSpeed": 28,
+                    "MinSpeed": 1.6,
+                    "PushForce": 1100,
+                    "RampTime": 1,
+                    "SteeringAngleMultiplier": 0.75,
+                    "bAutoBrake": false,
+                    "bIgnoreGravity": false
+                }
+            ],
+            "spawnNames": [
+                "Surfboard"
+            ]
+        },
+        {
+            "id": "VID_PartyBattleBus",
+            "name": "Armored Battle Bus",
+            "icon": "https://media.fortniteapi.io/images/T-T-Icon-BR-CelebrationBattleBusVehicle.png",
+            "stats": {
+                "Default.Valet.ArmoredBattleBus.MinSpawnPercent": 0,
+                "Default.Valet.ArmoredBattleBus.MaxSpawnPercent": 1,
+                "Default.Valet.ArmoredBattleBus.MaxNumberCanSpawn": 1,
+                "Default.Valet.ArmoredBattleBus.MinPercentWithGas": 1,
+                "Default.Valet.ArmoredBattleBus.MaxPercentWithGas": 1
+            },
+            "gears": [
+                {
+                    "TopSpeed": 20,
+                    "MinSpeed": 0,
+                    "PushForce": 1250,
+                    "RampTime": 3,
+                    "SteeringAngleMultiplier": 1,
+                    "bAutoBrake": true,
+                    "bIgnoreGravity": true
+                },
+                {
+                    "TopSpeed": 30,
+                    "MinSpeed": 20,
+                    "PushForce": 800,
+                    "RampTime": 4,
+                    "SteeringAngleMultiplier": 0.8,
+                    "bAutoBrake": false,
+                    "bIgnoreGravity": true
+                },
+                {
+                    "TopSpeed": 40,
+                    "MinSpeed": 30,
+                    "PushForce": 650,
+                    "RampTime": 5,
+                    "SteeringAngleMultiplier": 0.6,
+                    "bAutoBrake": false,
+                    "bIgnoreGravity": false
+                },
+                {
+                    "TopSpeed": 65,
+                    "MinSpeed": 40,
+                    "PushForce": 275,
+                    "RampTime": 3,
+                    "SteeringAngleMultiplier": 0.4,
+                    "bAutoBrake": false,
+                    "bIgnoreGravity": false
+                }
+            ],
+            "spawnNames": [
+                "partybattlebus",
+                "partybus"
+            ]
+        },
+        {
+            "id": "VID_OctopusVehicle_V2",
+            "name": "Baller",
+            "icon": "https://media.fortniteapi.io/images/T-Vehicles-HamsterBall.png",
+            "stats": {
+                "Octopus.Vehicle.MinSpawnPercent": 10,
+                "Octopus.Vehicle.MaxSpawnPercent": 50
+            },
+            "gears": [],
+            "spawnNames": [
+                "ballerV2",
+                "hamsterV2",
+                "octopusV2",
+                "baller",
+                "hamster",
+                "octopus"
+            ]
+        },
+        {
+            "id": "VID_OctopusVehicle_V2_Extra",
+            "name": "Baller",
+            "icon": "https://media.fortniteapi.io/images/T-Vehicles-HamsterBall.png",
+            "stats": {
+                "Octopus.Vehicle.MinSpawnPercent.Extra": 10,
+                "Octopus.Vehicle.MaxSpawnPercent.Extra": 50
+            },
+            "gears": [],
+            "spawnNames": []
         }
     ]
 }
