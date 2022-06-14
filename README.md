@@ -44,9 +44,11 @@
     
    ## Map
     
-   <a href="https://raw.githubusercontent.com/AYTROX-OFFICIEL/fortnite-files/main/Chapter3-season3/map/map-Poi.png" target="_blank">
-      <img src="https://github.com/AYTROX-OFFICIEL/fortnite-files/blob/main/Chapter3-season3/map/Apollo_Terrain_Minimap_21.png?raw=true">
-  </a>
+                
+   <img src="https://raw.githubusercontent.com/AYTROX-OFFICIEL/fortnite-files/main/Chapter3-season3/map/map-Poi.png">
+
+
+
 
   <!--  LICENSE  -->
   ## License
