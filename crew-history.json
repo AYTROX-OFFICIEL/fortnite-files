@@ -3,6 +3,208 @@
     "history": [
         {
             "type": "current",
+            "date": "2022-07-01",
+            "colors": {
+                "A": "0f25b7",
+                "B": "61cdfc",
+                "C": "61cdfc"
+            },
+            "video": null,
+            "skinImageTakeOver": false,
+            "descriptions": {
+                "title": "Crew Pack",
+                "battlepass": "Battle Pass",
+                "vbucksTitle": "1,000 V-Bucks"
+            },
+            "images": {
+                "battlepass": null,
+                "battlepassTile": null,
+                "itemShopTile": "https://cdn2.unrealengine.com/20br-subs-gloom-ingame-shoptile-2048x1124-533d68718fda.jpg",
+                "skin": "https://cdn2.unrealengine.com/20br-subs-gloom-ingame-crewtile-1024x1024-dc126ff32254.png",
+                "apiRender": "https://media.fortniteapi.io/images/crew/2022-07/presentation.en.png"
+            },
+            "rewards": [
+                {
+                    "quantity": 1,
+                    "item": {
+                        "id": "CID_A_438_Athena_Commando_F_Gloom",
+                        "type": {
+                            "id": "outfit",
+                            "name": "Outfit"
+                        },
+                        "name": "Phaedra",
+                        "description": "A dark sea witch with unknowable power.",
+                        "rarity": {
+                            "id": "Epic",
+                            "name": "Epic"
+                        },
+                        "series": null,
+                        "images": {
+                            "icon": "https://media.fortniteapi.io/images/42f90dc95a07f89198fda80ed490431a/transparent.png",
+                            "featured": null,
+                            "background": "https://media.fortniteapi.io/images/cosmetics/42f90dc95a07f89198fda80ed490431a/v2/background.png",
+                            "icon_background": "https://media.fortniteapi.io/images/cosmetics/42f90dc95a07f89198fda80ed490431a/v2/icon_background.png",
+                            "full_background": "https://media.fortniteapi.io/images/cosmetics/42f90dc95a07f89198fda80ed490431a/v2/info.en.png"
+                        },
+                        "video": null,
+                        "gameplayTags": [
+                            "SoundLibrary.ID.StepType.BootsCombat",
+                            "SoundLibrary.ID.ClothingType.GearTactical",
+                            "SoundLibrary.ID.HandType.Glove",
+                            "Cosmetics.UserFacingFlags.HasVariants",
+                            "Cosmetics.Filter.Season.21",
+                            "Cosmetics.Set.EerieBoats"
+                        ],
+                        "introduction": {
+                            "chapter": "Chapter 3",
+                            "season": "Season 3",
+                            "text": "Introduced in Chapter 3 - Season 3."
+                        }
+                    }
+                },
+                {
+                    "quantity": 1,
+                    "item": {
+                        "id": "BID_A_035_GloomFemale",
+                        "type": {
+                            "id": "backpack",
+                            "name": "BackBling"
+                        },
+                        "name": "Ceph",
+                        "description": "Phaedra's animal familiar from the darkest deep.",
+                        "rarity": {
+                            "id": "Epic",
+                            "name": "Epic"
+                        },
+                        "series": null,
+                        "images": {
+                            "icon": "https://media.fortniteapi.io/images/eb48e123146488d9b3f676856b88229d/transparent.png",
+                            "featured": null,
+                            "background": "https://media.fortniteapi.io/images/cosmetics/eb48e123146488d9b3f676856b88229d/v2/background.png",
+                            "icon_background": "https://media.fortniteapi.io/images/cosmetics/eb48e123146488d9b3f676856b88229d/v2/icon_background.png",
+                            "full_background": "https://media.fortniteapi.io/images/cosmetics/eb48e123146488d9b3f676856b88229d/v2/info.en.png"
+                        },
+                        "video": null,
+                        "gameplayTags": [
+                            "Cosmetics.Filter.Season.21",
+                            "Cosmetics.Set.EerieBoats"
+                        ],
+                        "introduction": {
+                            "chapter": "Chapter 3",
+                            "season": "Season 3",
+                            "text": "Introduced in Chapter 3 - Season 3."
+                        }
+                    }
+                },
+                {
+                    "quantity": 1,
+                    "item": {
+                        "id": "Pickaxe_ID_823_GloomFemale",
+                        "type": {
+                            "id": "pickaxe",
+                            "name": "Harvesting Tool"
+                        },
+                        "name": "Stygian Parasol",
+                        "description": "Lurk in the shadows, wherever you go.",
+                        "rarity": {
+                            "id": "Rare",
+                            "name": "RARE"
+                        },
+                        "series": null,
+                        "images": {
+                            "icon": "https://media.fortniteapi.io/images/4b6e37a8de2ac6d5a40e7f48dc810bdd/transparent.png",
+                            "featured": null,
+                            "background": "https://media.fortniteapi.io/images/cosmetics/4b6e37a8de2ac6d5a40e7f48dc810bdd/v2/background.png",
+                            "icon_background": "https://media.fortniteapi.io/images/cosmetics/4b6e37a8de2ac6d5a40e7f48dc810bdd/v2/icon_background.png",
+                            "full_background": "https://media.fortniteapi.io/images/cosmetics/4b6e37a8de2ac6d5a40e7f48dc810bdd/v2/info.en.png"
+                        },
+                        "video": null,
+                        "gameplayTags": [
+                            "Cosmetics.Pickaxe.OneHanded",
+                            "Cosmetics.Filter.Season.21",
+                            "Cosmetics.Set.EerieBoats",
+                            "Cosmetics.Source.CrewPack.July2022"
+                        ],
+                        "introduction": {
+                            "chapter": "Chapter 3",
+                            "season": "Season 3",
+                            "text": "Introduced in Chapter 3 - Season 3."
+                        }
+                    }
+                },
+                {
+                    "quantity": 1,
+                    "item": {
+                        "id": "Glider_ID_379_GloomFemale",
+                        "type": {
+                            "id": "glider",
+                            "name": "Glider"
+                        },
+                        "name": "Gothic Shadesoarer",
+                        "description": "Fly on a terrifying breeze from beyond.",
+                        "rarity": {
+                            "id": "Rare",
+                            "name": "RARE"
+                        },
+                        "series": null,
+                        "images": {
+                            "icon": "https://media.fortniteapi.io/images/cbfbe3521de752dbe2080f13d95fddcf/transparent.png",
+                            "featured": null,
+                            "background": "https://media.fortniteapi.io/images/cosmetics/cbfbe3521de752dbe2080f13d95fddcf/v2/background.png",
+                            "icon_background": "https://media.fortniteapi.io/images/cosmetics/cbfbe3521de752dbe2080f13d95fddcf/v2/icon_background.png",
+                            "full_background": "https://media.fortniteapi.io/images/cosmetics/cbfbe3521de752dbe2080f13d95fddcf/v2/info.en.png"
+                        },
+                        "video": null,
+                        "gameplayTags": [
+                            "Cosmetics.Filter.Season.21",
+                            "Cosmetics.Set.EerieBoats",
+                            "Cosmetics.Source.CrewPack.July2022"
+                        ],
+                        "introduction": {
+                            "chapter": "Chapter 3",
+                            "season": "Season 3",
+                            "text": "Introduced in Chapter 3 - Season 3."
+                        }
+                    }
+                },
+                {
+                    "quantity": 1,
+                    "item": {
+                        "id": "LSID_458_Gloom",
+                        "type": {
+                            "id": "loadingscreen",
+                            "name": "Loading Screen"
+                        },
+                        "name": "Inky Reflection",
+                        "description": "Light is so easily blotted out by darkness...",
+                        "rarity": {
+                            "id": "Uncommon",
+                            "name": "UNCOMMON"
+                        },
+                        "series": null,
+                        "images": {
+                            "icon": "https://media.fortniteapi.io/images/fa3082f303f5c221e69fd59211ba87be/transparent.png",
+                            "featured": "https://media.fortniteapi.io/images/fa3082f303f5c221e69fd59211ba87be/full_featured.png",
+                            "background": "https://media.fortniteapi.io/images/cosmetics/fa3082f303f5c221e69fd59211ba87be/v2/background.png",
+                            "icon_background": "https://media.fortniteapi.io/images/cosmetics/fa3082f303f5c221e69fd59211ba87be/v2/icon_background.png",
+                            "full_background": "https://media.fortniteapi.io/images/cosmetics/fa3082f303f5c221e69fd59211ba87be/v2/info.en.png"
+                        },
+                        "video": null,
+                        "gameplayTags": [
+                            "Cosmetics.Filter.Season.21",
+                            "Cosmetics.Set.EerieBoats"
+                        ],
+                        "introduction": {
+                            "chapter": "Chapter 3",
+                            "season": "Season 3",
+                            "text": "Introduced in Chapter 3 - Season 3."
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "type": "past",
             "date": "2022-06-01",
             "colors": {
                 "A": "0f25b7",
@@ -53,7 +255,8 @@
                             "SoundLibrary.ID.HandType.Glove",
                             "Cosmetics.Filter.Season.20",
                             "Cosmetics.Source.CrewPack.June2022",
-                            "Cosmetics.Set.CrashContact"
+                            "Cosmetics.Set.CrashContact",
+                            "Cosmetics.UserFacingFlags.BuiltInEmote"
                         ],
                         "introduction": {
                             "chapter": "Chapter 3",
@@ -101,6 +304,42 @@
                 {
                     "quantity": 1,
                     "item": {
+                        "id": "Pickaxe_ID_811_ArmadilloMale",
+                        "type": {
+                            "id": "pickaxe",
+                            "name": "Harvesting Tool"
+                        },
+                        "name": "Light Blade",
+                        "description": "Divert power to blade strike.",
+                        "rarity": {
+                            "id": "Epic",
+                            "name": "Epic"
+                        },
+                        "series": null,
+                        "images": {
+                            "icon": "https://media.fortniteapi.io/images/e493cb99b20fd8bbeb89872a952b69ca/transparent.png",
+                            "featured": null,
+                            "background": "https://media.fortniteapi.io/images/cosmetics/e493cb99b20fd8bbeb89872a952b69ca/v2/background.png",
+                            "icon_background": "https://media.fortniteapi.io/images/cosmetics/e493cb99b20fd8bbeb89872a952b69ca/v2/icon_background.png",
+                            "full_background": "https://media.fortniteapi.io/images/cosmetics/e493cb99b20fd8bbeb89872a952b69ca/v2/info.en.png"
+                        },
+                        "video": null,
+                        "gameplayTags": [
+                            "Cosmetics.Pickaxe.OneHanded",
+                            "Cosmetics.Filter.Season.21",
+                            "Cosmetics.Set.CrashContact",
+                            "Cosmetics.Source.CrewPack.June2022"
+                        ],
+                        "introduction": {
+                            "chapter": "Chapter 3",
+                            "season": "Season 3",
+                            "text": "Introduced in Chapter 3 - Season 3."
+                        }
+                    }
+                },
+                {
+                    "quantity": 1,
+                    "item": {
                         "id": "Wrap_479_Armadillo",
                         "type": {
                             "id": "wrap",
@@ -130,6 +369,40 @@
                             "chapter": "Chapter 3",
                             "season": "Season 2",
                             "text": "Introduced in Chapter 3 - Season 2."
+                        }
+                    }
+                },
+                {
+                    "quantity": 1,
+                    "item": {
+                        "id": "LSID_442_Armadillo_Heartache",
+                        "type": {
+                            "id": "loadingscreen",
+                            "name": "Loading Screen"
+                        },
+                        "name": "Fully Operational",
+                        "description": "Defending the Island, one Heartbreaker at a time.",
+                        "rarity": {
+                            "id": "Uncommon",
+                            "name": "UNCOMMON"
+                        },
+                        "series": null,
+                        "images": {
+                            "icon": "https://media.fortniteapi.io/images/d0a262b8976b635baf3620ecfddc0c85/transparent.png",
+                            "featured": "https://media.fortniteapi.io/images/d0a262b8976b635baf3620ecfddc0c85/full_featured.png",
+                            "background": "https://media.fortniteapi.io/images/cosmetics/d0a262b8976b635baf3620ecfddc0c85/v2/background.png",
+                            "icon_background": "https://media.fortniteapi.io/images/cosmetics/d0a262b8976b635baf3620ecfddc0c85/v2/icon_background.png",
+                            "full_background": "https://media.fortniteapi.io/images/cosmetics/d0a262b8976b635baf3620ecfddc0c85/v2/info.en.png"
+                        },
+                        "video": null,
+                        "gameplayTags": [
+                            "Cosmetics.Filter.Season.21",
+                            "Cosmetics.Set.CrashContact"
+                        ],
+                        "introduction": {
+                            "chapter": "Chapter 3",
+                            "season": "Season 3",
+                            "text": "Introduced in Chapter 3 - Season 3."
                         }
                     }
                 }
