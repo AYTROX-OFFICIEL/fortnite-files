@@ -4,7 +4,7 @@
     "vehicles": [
         {
             "id": "VID_Foray_Vehicle",
-            "name": "Ferrari 296 GTB",
+            "name": "ferrari 296 gtb",
             "icon": "https://media.fortniteapi.io/images/T-T-Icon-BR-ForayVehicle.png",
             "stats": {
                 "Default.Valet.MinSpawnPercent.SportsCar": 50,
@@ -1704,7 +1704,7 @@
         },
         {
             "id": "VID_WarEffortMech",
-            "name": "Salvaged B.R.U.T.E",
+            "name": "salvaged b.r.u.t.e",
             "icon": "https://media.fortniteapi.io/images/T-Icon-Device-MechSpawner-L.png",
             "stats": {},
             "gears": [],
